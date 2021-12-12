@@ -4,7 +4,7 @@ Step By Step create/extend disk and mounting to the file system.
 ## Overview
 ### Linux File System Architecture 
 <p align="center">
-  <img src="https://github.com/matanelg/Disk-Management/Bash/Images/blob/main/Images/Disk-Management.png" width="100%" height="100%" />
+  <img src="https://github.com/matanelg/Disk-Management/Bash/Disk-Management/Images/blob/main/Images/Disk-Management.png" width="100%" height="100%" />
 </p>
 ### General Setup (Create & Mount New Disk To The File System)
 00. Create volume on cloud && Attach volume to your instance
