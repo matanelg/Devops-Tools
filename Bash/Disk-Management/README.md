@@ -18,9 +18,9 @@ Step By Step create/extend disk and mounting to the file system.
 12. Edit **/etc/fstab** file for persistent filesysem mount (UUID mount-path xfs defaults 0 0)
 13. reboot
 * Note:
-  00. Choose step 04 or 05 and step 06 or 07.
-  01. For extending disk in step 02 choose n-->e and skip steps 04, 06, 08-12.
-  02. You can skip steps 03-07 for only mount simple volume to the filesystem.
+  01. In General choose step 04 or 05 and step 06 or 07.
+  02. For extending disk in step 02 choose n-->e and skip steps 04, 06, 08-12.
+  03. You can skip steps 03-07 for only mount simple volume to the filesystem.
 
 ### Linux File System Architecture
 <p align="center">
