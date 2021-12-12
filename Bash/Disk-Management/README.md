@@ -7,11 +7,11 @@ Step By Step create/extend disk and mounting to the file system.
 01. Check your machine recognize the new disk (**lsblk**)
 02. Format your disk (**fdisk __disk-path__**)
 03. Create a new Physical-Volume from partion (**pvcreate __partion-path__**)
-04. Create a new Volume Group (**vgcreate volume-group-name__**)
+04. Create a new Volume Group (**vgcreate __volume-group-name__**)
 05. Extend the Volume-Group & Attach the Physical-Volume to him (**vgextend __volume-group-name__ __partion-path__**) 
 06. Create Logical-Volume for attaching Volume-Group (**lvcreate __logical-volume-name__**)
 07. Extend the Logical-Volume & Attach the Physical-Volume to him (**lvextend -r -l 100%FREE __volume-group-name__**)
-08. Format volume to file system (**mkfs -t ext4 partion-path__**)
+08. Format volume to file system (**mkfs -t ext4 __partion-path__**)
 09. Create your file system (**mkdir __your-file-system__**)
 10. Mount storage to youre file system (**mount __logical-volume-path__ __file-system-path__**)
 11. Take your partion UUID from blkid command (**blkid**)
@@ -27,5 +27,24 @@ Step By Step create/extend disk and mounting to the file system.
 </p>
 
 ## Useful Commands
+```bash
+df -h     # - displays the amount of disk space available on the file system & more disks inforamtion.
+lsblk     # - list block devices (all disk and their type (disk/partion/logical-volume...), size and mounting point on filesystem)
+blkid     # - locate/print block device attributes (partion NAME LABEL UUID TYPE PARTUUID)
+fdisk <disk-path>               # - format disk.
+mkfs -t ext4 <partion-type>     # - set disk type. 
 
+vgs       # - list of all volume groups. (check if vFree available for attach partions )
+lvs       # - list of all logical volumes.
+
+pvcreate <partion-path>                # - create new physical volume from partion.
+vgcreate <volume-group-name>           # - create new volume group for attaching partions. 
+lvcreate <logical-volume-name>         # - create new logical volume for attaching volume groups.
+
+vgextend <vg_name> <partion_path>               # extend exist volume group with the new partion.
+lvextend -r -l 100%FREE <volume-group-name>     # extend exist logical volume with the new volume group.
+
+mount <logical-volume-path> <file-system-path>
+/etc/fstab                                      # - edit file for persistent filesysem mount (UUID mount-path xfs defaults 0) 
+```
 
