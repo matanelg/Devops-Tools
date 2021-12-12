@@ -2,10 +2,7 @@
 Step By Step create/extend disk and mounting to the file system.
 
 ## Overview
-### Linux File System Architecture 
-<p align="center">
-  <img src="https://github.com/matanelg/Devops-Tools/blob/main/Bash/Disk-Management/Images/Disk-Management.png" width="100%" height="100%" />
-</p>
+
 ### General Setup (Create & Mount New Disk To The File System)
 00. Create volume on cloud && Attach volume to your instance
 01. Check your machine recognize the new disk (lsblk)
@@ -25,7 +22,12 @@ Step By Step create/extend disk and mounting to the file system.
 * Note:
   01. For extending disk in step 02 choose n-->e and skip steps 04, 06, 08-12.
   02. You can skip steps 03-07 for only mount simple volume to the filesystem.
- 
+
+### Linux File System Architecture
+<p align="center">
+  <img src="https://github.com/matanelg/Devops-Tools/blob/main/Bash/Disk-Management/Images/Disk-Management.png" width="100%" height="100%" />
+</p>
+
 ## Useful Commands
 
 
