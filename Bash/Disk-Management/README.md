@@ -5,7 +5,7 @@ Step By Step create/extend disk and mounting to the file system.
 ### General Setup (Create & Mount New Disk To The File System)
 00. Create volume on cloud && Attach volume to your instance
 01. Check your machine recognize the new disk (**lsblk**)
-02. Format your disk (**fdisk <disk-path>**)
+02. Format your disk (**fdisk "disk-path"**)
 03. Create a new Physical-Volume from partion (pvcreate <partion-path>)
 04. Create a new Volume Group (vgcreate <volume-group-name>)
 05. Extend the Volume-Group & Attach the Physical-Volume to him (vgextend <volume-group-name> <partion-path>) 
