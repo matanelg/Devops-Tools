@@ -37,9 +37,9 @@ docker build -t <image name> -f </path/to/Dockerfile> </path/to/context/director
 ```
 
 ## Dockerfile Basic Elements
-* Syntaxes of shell commands are specified in the form: <instruction> <command>
-* Executable command form: <instruction> [“executable”, “parameter 1”, “parameter 2”, …]
-* Check Out [link](https://www.bmc.com/blogs/docker-cmd-vs-entrypoint/#)
+01. Syntaxes of shell commands are specified in the form: [instruction]-[command]
+02. Executable command form: [instruction]-[“executable”, “parameter 1”, “parameter 2”, …]
+03. Check Out [link](https://www.bmc.com/blogs/docker-cmd-vs-entrypoint/#)
 
 * **WORKDIR** - Create a folder and move there.
 ```diff
