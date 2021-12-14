@@ -4,6 +4,10 @@
 
 ```bash
 sudo snap install docker               # install docker with snap. (also install docker-compose)
+sudo groupadd docker
+sudo usermod -aG docker $USER
+reboot
+
 docker --version                       # check docker version.
 docker --help                          # you can also get help for attributes. (docker <attribute> --help)
 
