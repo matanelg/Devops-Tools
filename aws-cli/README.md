@@ -1,10 +1,11 @@
 # awc-cli
 
-## Basic
-### Synopsis:
+## 01-Basic
+```bash
+# Synopsis:
 aws [options] <command> <subcommand> [parameters]
 
-### Options:
+#Options:
 --debug (boolean) # Turn on debug logging.
 --endpoint-url (string) # Override command's default URL with the given URL.
 --no-verify-ssl (boolean) # This option overrides the default behavior of verifying SSL certificates.
@@ -19,15 +20,15 @@ aws [options] <command> <subcommand> [parameters]
 --ca-bundle (string) # The CA certificate bundle to use when verifying SSL certificates. Overrides config/env settings.
 --cli-read-timeout (int) # The maximum socket read time in seconds. If the value is set to 0, the socket read will be blocking and not timeout. The default value is 60 seconds.
 --cli-connect-timeout (int) # The maximum socket connect time in seconds. If the value is set to 0, the socket connect will be blocking and not timeout. The default value is 60 seconds.
+```
 
-
-## HELP:
+## 02-HELP:
 aws help				# get all available services.
-aws <resource> help			# get all commands for this service.
-aws <resource> <subcommand> help	# get all next subcommands for this resource command.
+aws [resource] help			# get all commands for this service.
+aws [resource] [subcommand] help	# get all next subcommands for this resource command.
 
 
-## All Available Services:
+## 03-All Available Services:
 - accessanalyzer
 - acm
 - acm-pca
