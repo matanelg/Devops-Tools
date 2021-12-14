@@ -11,7 +11,7 @@ aws [options] <command> <subcommand> [parameters]
 --no-verify-ssl (boolean) # This option overrides the default behavior of verifying SSL certificates.
 --no-paginate (boolean) # Disable automatic pagination.
 --output (string) # The formatting style for command output. (json, text, table)
---query (string) # A JMESPath query to use in filtering the response data. [link](https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-filter.html)
+--query (string) # A JMESPath query to use in filtering the response data. 
 --profile (string) # Use a specific profile from your credential file.
 --region (string) # The region to use. Overrides config/env settings.
 --version (string) # Display the version of this tool.
@@ -21,12 +21,14 @@ aws [options] <command> <subcommand> [parameters]
 --cli-read-timeout (int) # The maximum socket read time in seconds. If the value is set to 0, the socket read will be blocking and not timeout. The default value is 60 seconds.
 --cli-connect-timeout (int) # The maximum socket connect time in seconds. If the value is set to 0, the socket connect will be blocking and not timeout. The default value is 60 seconds.
 ```
+- [query-examples](https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-filter.html)
 
 ## 02-HELP:
+```bash
 aws help				# get all available services.
-aws [resource] help			# get all commands for this service.
-aws [resource] [subcommand] help	# get all next subcommands for this resource command.
-
+aws <resource> help			# get all commands for this service.
+aws <resource> <subcommand> help	# get all next subcommands for this resource command.
+```
 
 ## 03-All Available Services:
 - accessanalyzer
