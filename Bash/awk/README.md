@@ -22,7 +22,12 @@ awk '$1 ~ /store|room|book/' words.txt
 awk '$1 ~ /^book(worm|case)?$/' words.txt
 ```
 
+
 ## Resurces
 - [link-01](https://zetcode.com/lang/awk/)
+- [link-02](https://riptutorial.com/awk)
+- [link-03](https://likegeeks.com/awk-command/)
+- [link-04](https://www.golinuxcloud.com/awk-examples-with-command-tutorial-unix-linux/)
+- [link-05](https://linuxhint.com/awk_trim_whitespace/)
 
 
