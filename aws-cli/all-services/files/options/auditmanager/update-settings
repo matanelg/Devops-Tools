@@ -1,0 +1,7 @@
+--sns-topic
+--default-assessment-reports-destination
+--default-process-owners
+--kms-key
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

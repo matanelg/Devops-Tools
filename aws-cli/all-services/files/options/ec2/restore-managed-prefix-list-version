@@ -1,0 +1,8 @@
+--dry-run
+--no-dry-run
+--prefix-list-id
+--previous-version
+--current-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

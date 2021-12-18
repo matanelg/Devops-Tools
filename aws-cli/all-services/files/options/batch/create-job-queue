@@ -1,0 +1,8 @@
+--job-queue-name
+--state
+--priority
+--compute-environment-order
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

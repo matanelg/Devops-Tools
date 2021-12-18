@@ -1,0 +1,12 @@
+--model-name
+--primary-container
+--containers
+--inference-execution-config
+--execution-role-arn
+--tags
+--vpc-config
+--enable-network-isolation
+--no-enable-network-isolation
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

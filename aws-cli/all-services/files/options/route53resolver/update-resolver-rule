@@ -1,0 +1,5 @@
+--resolver-rule-id
+--config
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,7 @@
+--collection-id
+--face-id
+--max-faces
+--face-match-threshold
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

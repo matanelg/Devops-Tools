@@ -1,0 +1,5 @@
+--data-format
+--schema-definition
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

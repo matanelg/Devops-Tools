@@ -1,0 +1,9 @@
+--thing-name
+--status
+--namespace-id
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

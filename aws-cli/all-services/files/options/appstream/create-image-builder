@@ -1,0 +1,17 @@
+--name
+--image-name
+--image-arn
+--instance-type
+--description
+--display-name
+--vpc-config
+--iam-role-arn
+--enable-default-internet-access
+--no-enable-default-internet-access
+--domain-join-info
+--appstream-agent-version
+--tags
+--access-endpoints
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

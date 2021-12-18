@@ -1,0 +1,8 @@
+--job-name
+--output-data-config
+--datastore-id
+--data-access-role-arn
+--client-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

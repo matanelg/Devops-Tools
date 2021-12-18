@@ -1,0 +1,8 @@
+--global-replication-group-id
+--node-group-count
+--regional-configurations
+--apply-immediately
+--no-apply-immediately
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

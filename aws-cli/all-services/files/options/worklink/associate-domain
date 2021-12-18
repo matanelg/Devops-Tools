@@ -1,0 +1,7 @@
+--fleet-arn
+--domain-name
+--display-name
+--acm-certificate-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

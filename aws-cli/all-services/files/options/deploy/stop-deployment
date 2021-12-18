@@ -1,0 +1,6 @@
+--deployment-id
+--auto-rollback-enabled
+--no-auto-rollback-enabled
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

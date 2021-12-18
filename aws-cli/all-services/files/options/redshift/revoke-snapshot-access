@@ -1,0 +1,6 @@
+--snapshot-identifier
+--snapshot-cluster-identifier
+--account-with-restore-access
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

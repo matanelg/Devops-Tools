@@ -1,0 +1,8 @@
+--client-token
+--tags
+--file-system-id
+--posix-user
+--root-directory
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

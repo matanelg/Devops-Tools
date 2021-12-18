@@ -1,0 +1,5 @@
+--instance-arn
+--permission-set-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,11 @@
+--bucket
+--key
+--mfa
+--version-id
+--request-payer
+--bypass-governance-retention
+--no-bypass-governance-retention
+--expected-bucket-owner
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

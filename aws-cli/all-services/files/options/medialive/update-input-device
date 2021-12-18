@@ -1,0 +1,7 @@
+--hd-device-settings
+--input-device-id
+--name
+--uhd-device-settings
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,8 @@
+--subdirectory
+--server-hostname
+--on-prem-config
+--mount-options
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

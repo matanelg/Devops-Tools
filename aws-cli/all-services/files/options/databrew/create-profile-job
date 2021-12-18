@@ -1,0 +1,15 @@
+--dataset-name
+--encryption-key-arn
+--encryption-mode
+--name
+--log-subscription
+--max-capacity
+--max-retries
+--output-location
+--role-arn
+--tags
+--timeout
+--job-sample
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

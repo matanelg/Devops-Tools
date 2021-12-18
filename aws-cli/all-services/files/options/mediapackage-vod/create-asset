@@ -1,0 +1,9 @@
+--id
+--packaging-group-id
+--resource-id
+--source-arn
+--source-role-arn
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

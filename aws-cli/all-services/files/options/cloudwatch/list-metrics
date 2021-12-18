@@ -1,0 +1,9 @@
+--namespace
+--metric-name
+--dimensions
+--recently-active
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--max-items
+--generate-cli-skeleton

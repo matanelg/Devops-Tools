@@ -1,0 +1,6 @@
+--auto-scaling-group-name
+--strategy
+--preferences
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

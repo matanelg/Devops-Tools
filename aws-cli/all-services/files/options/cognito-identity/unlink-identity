@@ -1,0 +1,6 @@
+--identity-id
+--logins
+--logins-to-remove
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

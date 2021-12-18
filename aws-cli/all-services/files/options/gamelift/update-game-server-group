@@ -1,0 +1,8 @@
+--game-server-group-name
+--role-arn
+--instance-definitions
+--game-server-protection-policy
+--balancing-strategy
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

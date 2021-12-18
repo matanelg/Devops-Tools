@@ -1,0 +1,7 @@
+--client-vpn-endpoint-id
+--certificate-revocation-list
+--dry-run
+--no-dry-run
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,8 @@
+--certificate-pem
+--ca-certificate-pem
+--set-as-active
+--no-set-as-active
+--status
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

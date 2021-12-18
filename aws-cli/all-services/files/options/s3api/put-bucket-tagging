@@ -1,0 +1,7 @@
+--bucket
+--content-md5
+--tagging
+--expected-bucket-owner
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,9 @@
+--resource-group-name
+--start-time
+--end-time
+--event-status
+--max-results
+--next-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

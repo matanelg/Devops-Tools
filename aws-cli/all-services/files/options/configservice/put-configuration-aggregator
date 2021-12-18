@@ -1,0 +1,7 @@
+--configuration-aggregator-name
+--account-aggregation-sources
+--organization-aggregation-source
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

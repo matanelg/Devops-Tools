@@ -1,0 +1,9 @@
+--client-token
+--ec2-instance-type
+--launch-profile-id
+--streaming-image-id
+--studio-id
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

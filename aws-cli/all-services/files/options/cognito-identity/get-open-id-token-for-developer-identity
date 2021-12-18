@@ -1,0 +1,8 @@
+--identity-pool-id
+--identity-id
+--logins
+--principal-tags
+--token-duration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

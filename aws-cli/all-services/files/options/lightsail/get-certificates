@@ -1,0 +1,7 @@
+--certificate-statuses
+--include-certificate-details
+--no-include-certificate-details
+--certificate-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

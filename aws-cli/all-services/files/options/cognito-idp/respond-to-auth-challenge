@@ -1,0 +1,10 @@
+--client-id
+--challenge-name
+--session
+--challenge-responses
+--analytics-metadata
+--user-context-data
+--client-metadata
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

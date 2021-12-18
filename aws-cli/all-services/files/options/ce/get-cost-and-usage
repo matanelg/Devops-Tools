@@ -1,0 +1,9 @@
+--time-period
+--granularity
+--filter
+--metrics
+--group-by
+--next-page-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

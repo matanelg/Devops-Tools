@@ -1,0 +1,4 @@
+--rule-set-body
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

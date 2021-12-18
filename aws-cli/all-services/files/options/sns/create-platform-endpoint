@@ -1,0 +1,7 @@
+--platform-application-arn
+--token
+--custom-user-data
+--attributes
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

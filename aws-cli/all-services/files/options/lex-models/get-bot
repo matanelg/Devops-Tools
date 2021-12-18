@@ -1,0 +1,5 @@
+--name
+--version-or-alias
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

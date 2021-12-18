@@ -1,0 +1,5 @@
+--auto-warmup-enabled
+--no-auto-warmup-enabled
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

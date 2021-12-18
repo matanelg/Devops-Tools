@@ -1,0 +1,5 @@
+--cluster-name
+--fargate-profile-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

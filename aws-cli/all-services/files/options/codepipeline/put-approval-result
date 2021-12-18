@@ -1,0 +1,8 @@
+--pipeline-name
+--stage-name
+--action-name
+--result
+--token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

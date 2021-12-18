@@ -1,0 +1,7 @@
+--rest-api-id
+--model-name
+--flatten
+--no-flatten
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

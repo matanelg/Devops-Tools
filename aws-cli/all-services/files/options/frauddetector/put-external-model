@@ -1,0 +1,10 @@
+--model-endpoint
+--model-source
+--invoke-model-endpoint-role-arn
+--input-configuration
+--output-configuration
+--model-endpoint-status
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

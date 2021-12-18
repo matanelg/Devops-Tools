@@ -1,0 +1,7 @@
+--channel-name
+--channel-type
+--single-master-configuration
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

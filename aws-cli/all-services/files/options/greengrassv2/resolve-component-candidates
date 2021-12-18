@@ -1,0 +1,5 @@
+--platform
+--component-candidates
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

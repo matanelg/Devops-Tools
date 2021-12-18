@@ -1,0 +1,10 @@
+cancel-quantum-task
+create-quantum-task
+get-device
+get-quantum-task
+help
+list-tags-for-resource
+search-devices
+search-quantum-tasks
+tag-resource
+untag-resource

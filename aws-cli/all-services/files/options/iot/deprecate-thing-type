@@ -1,0 +1,6 @@
+--thing-type-name
+--undo-deprecate
+--no-undo-deprecate
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

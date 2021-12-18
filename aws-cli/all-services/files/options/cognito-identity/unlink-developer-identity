@@ -1,0 +1,7 @@
+--identity-id
+--identity-pool-id
+--developer-provider-name
+--developer-user-identifier
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,10 @@
+--directory-arn
+--ranges-on-indexed-values
+--index-reference
+--consistency-level
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

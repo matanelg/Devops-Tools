@@ -1,0 +1,5 @@
+--task-token
+--task-output
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

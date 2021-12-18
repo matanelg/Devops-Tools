@@ -1,0 +1,10 @@
+--application-id
+--environment-id
+--deployment-strategy-id
+--configuration-profile-id
+--configuration-version
+--description
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

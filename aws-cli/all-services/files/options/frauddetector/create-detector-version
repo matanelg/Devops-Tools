@@ -1,0 +1,10 @@
+--detector-id
+--description
+--external-model-endpoints
+--rules
+--model-versions
+--rule-execution-mode
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,13 @@
+--aws-account-id
+--data-set-id
+--name
+--physical-table-map
+--logical-table-map
+--import-mode
+--column-groups
+--field-folders
+--row-level-permission-data-set
+--column-level-permission-rules
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

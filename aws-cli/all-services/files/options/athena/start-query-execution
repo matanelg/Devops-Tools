@@ -1,0 +1,8 @@
+--query-string
+--client-request-token
+--query-execution-context
+--result-configuration
+--work-group
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,6 @@
+--subscription-arn
+--attribute-name
+--attribute-value
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

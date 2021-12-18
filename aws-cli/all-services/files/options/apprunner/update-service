@@ -1,0 +1,8 @@
+--service-arn
+--source-configuration
+--instance-configuration
+--auto-scaling-configuration-arn
+--health-check-configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,9 @@
+--name
+--description
+--database
+--query-string
+--client-request-token
+--work-group
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,11 @@
+--voice-connector-id
+--participant-phone-numbers
+--name
+--expiry-minutes
+--capabilities
+--number-selection-behavior
+--geo-match-level
+--geo-match-params
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,10 @@
+--domain
+--execution
+--reverse-order
+--no-reverse-order
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

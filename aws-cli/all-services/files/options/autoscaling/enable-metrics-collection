@@ -1,0 +1,6 @@
+--auto-scaling-group-name
+--metrics
+--granularity
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

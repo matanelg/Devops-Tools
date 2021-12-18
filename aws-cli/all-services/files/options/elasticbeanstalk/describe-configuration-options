@@ -1,0 +1,9 @@
+--application-name
+--template-name
+--environment-name
+--solution-stack-name
+--platform-arn
+--options
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

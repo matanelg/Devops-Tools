@@ -1,0 +1,9 @@
+--inference-scheduler-name
+--data-delay-offset-in-minutes
+--data-upload-frequency
+--data-input-configuration
+--data-output-configuration
+--role-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

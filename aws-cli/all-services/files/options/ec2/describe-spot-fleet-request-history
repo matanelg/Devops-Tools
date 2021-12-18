@@ -1,0 +1,10 @@
+--dry-run
+--no-dry-run
+--event-type
+--max-results
+--next-token
+--spot-fleet-request-id
+--start-time
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

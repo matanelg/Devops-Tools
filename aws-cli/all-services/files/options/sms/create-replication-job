@@ -1,0 +1,15 @@
+--server-id
+--seed-replication-time
+--frequency
+--run-once
+--no-run-once
+--license-type
+--role-name
+--description
+--number-of-recent-amis-to-keep
+--encrypted
+--no-encrypted
+--kms-key-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,13 @@
+--scheduled-time
+--document-name
+--document-version
+--parameters
+--change-request-name
+--client-token
+--runbooks
+--tags
+--scheduled-end-time
+--change-details
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

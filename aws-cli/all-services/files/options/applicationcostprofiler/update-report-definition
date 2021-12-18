@@ -1,0 +1,8 @@
+--report-id
+--report-description
+--report-frequency
+--format
+--destination-s3-location
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

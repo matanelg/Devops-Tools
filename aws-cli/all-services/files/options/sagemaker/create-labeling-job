@@ -1,0 +1,13 @@
+--labeling-job-name
+--label-attribute-name
+--input-config
+--output-config
+--role-arn
+--label-category-config-s3-uri
+--stopping-conditions
+--labeling-job-algorithms-config
+--human-task-config
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

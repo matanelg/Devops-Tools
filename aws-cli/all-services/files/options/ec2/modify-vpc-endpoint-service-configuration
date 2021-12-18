@@ -1,0 +1,15 @@
+--dry-run
+--no-dry-run
+--service-id
+--private-dns-name
+--remove-private-dns-name
+--no-remove-private-dns-name
+--acceptance-required
+--no-acceptance-required
+--add-network-load-balancer-arns
+--remove-network-load-balancer-arns
+--add-gateway-load-balancer-arns
+--remove-gateway-load-balancer-arns
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

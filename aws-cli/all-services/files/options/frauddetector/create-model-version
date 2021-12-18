@@ -1,0 +1,9 @@
+--model-id
+--model-type
+--training-data-source
+--training-data-schema
+--external-events-detail
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,8 @@
+--rest-api-id
+--embed
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

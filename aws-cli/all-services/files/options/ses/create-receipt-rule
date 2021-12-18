@@ -1,0 +1,6 @@
+--rule-set-name
+--after
+--rule
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

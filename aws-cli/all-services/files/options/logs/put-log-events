@@ -1,0 +1,7 @@
+--log-group-name
+--log-stream-name
+--log-events
+--sequence-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

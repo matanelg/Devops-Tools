@@ -1,0 +1,7 @@
+--cluster-arn
+--configuration-info
+--current-version
+--target-kafka-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

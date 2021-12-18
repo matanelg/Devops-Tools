@@ -1,0 +1,13 @@
+--domain
+--domain-owner
+--repository
+--format
+--namespace
+--package
+--package-version
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

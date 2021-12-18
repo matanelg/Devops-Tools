@@ -1,0 +1,15 @@
+--document-name
+--document-version
+--parameters
+--client-token
+--mode
+--target-parameter-name
+--targets
+--target-maps
+--max-concurrency
+--max-errors
+--target-locations
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

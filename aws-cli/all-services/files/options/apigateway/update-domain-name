@@ -1,0 +1,5 @@
+--domain-name
+--patch-operations
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,10 @@
+--name
+--definition
+--role-arn
+--type
+--logging-configuration
+--tags
+--tracing-configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,7 @@
+--long-term-pricing-type
+--is-long-term-pricing-auto-renew
+--no-is-long-term-pricing-auto-renew
+--snowball-type
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

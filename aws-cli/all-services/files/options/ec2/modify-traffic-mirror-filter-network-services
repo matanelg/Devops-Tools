@@ -1,0 +1,8 @@
+--traffic-mirror-filter-id
+--add-network-services
+--remove-network-services
+--dry-run
+--no-dry-run
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

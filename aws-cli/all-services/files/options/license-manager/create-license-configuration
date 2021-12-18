@@ -1,0 +1,14 @@
+--name
+--description
+--license-counting-type
+--license-count
+--license-count-hard-limit
+--no-license-count-hard-limit
+--license-rules
+--tags
+--disassociate-when-not-found
+--no-disassociate-when-not-found
+--product-information-list
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

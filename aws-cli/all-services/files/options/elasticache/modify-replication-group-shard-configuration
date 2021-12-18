@@ -1,0 +1,10 @@
+--replication-group-id
+--node-group-count
+--apply-immediately
+--no-apply-immediately
+--resharding-configuration
+--node-groups-to-remove
+--node-groups-to-retain
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

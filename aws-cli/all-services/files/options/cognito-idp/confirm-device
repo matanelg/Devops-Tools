@@ -1,0 +1,7 @@
+--access-token
+--device-key
+--device-secret-verifier-config
+--device-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

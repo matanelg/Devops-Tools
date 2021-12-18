@@ -1,0 +1,6 @@
+--channel-name
+--channel-storage
+--retention-period
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

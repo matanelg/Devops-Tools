@@ -1,0 +1,13 @@
+--instance-names
+--availability-zone
+--custom-image-name
+--blueprint-id
+--bundle-id
+--user-data
+--key-pair-name
+--tags
+--add-ons
+--ip-address-type
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

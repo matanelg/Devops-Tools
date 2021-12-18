@@ -1,0 +1,10 @@
+--subdirectory
+--fsx-filesystem-arn
+--security-group-arns
+--tags
+--user
+--domain
+--password
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

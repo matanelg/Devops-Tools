@@ -1,0 +1,9 @@
+--target-arn
+--deployment-name
+--components
+--iot-job-configuration
+--deployment-policies
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

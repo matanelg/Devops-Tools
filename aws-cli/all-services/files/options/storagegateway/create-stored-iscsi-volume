@@ -1,0 +1,14 @@
+--gateway-arn
+--disk-id
+--snapshot-id
+--preserve-existing-data
+--no-preserve-existing-data
+--target-name
+--network-interface-id
+--kms-encrypted
+--no-kms-encrypted
+--kms-key
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

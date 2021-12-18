@@ -1,0 +1,10 @@
+--configuration-set-name
+--tracking-options
+--delivery-options
+--reputation-options
+--sending-options
+--tags
+--suppression-options
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

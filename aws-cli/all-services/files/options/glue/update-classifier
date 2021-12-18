@@ -1,0 +1,7 @@
+--grok-classifier
+--xml-classifier
+--json-classifier
+--csv-classifier
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

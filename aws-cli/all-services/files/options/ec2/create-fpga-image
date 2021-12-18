@@ -1,0 +1,11 @@
+--dry-run
+--no-dry-run
+--input-storage-location
+--logs-storage-location
+--description
+--name
+--client-token
+--tag-specifications
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

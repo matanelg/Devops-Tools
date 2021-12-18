@@ -1,0 +1,8 @@
+--auto-placement
+--host-ids
+--host-recovery
+--instance-type
+--instance-family
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

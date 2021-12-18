@@ -1,0 +1,8 @@
+--recovery-point-arn
+--metadata
+--iam-role-arn
+--idempotency-token
+--resource-type
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

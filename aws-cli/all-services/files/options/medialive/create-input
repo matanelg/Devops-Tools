@@ -1,0 +1,14 @@
+--destinations
+--input-devices
+--input-security-groups
+--media-connect-flows
+--name
+--request-id
+--role-arn
+--sources
+--tags
+--type
+--vpc
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

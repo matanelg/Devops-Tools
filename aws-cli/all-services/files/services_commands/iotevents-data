@@ -1,0 +1,12 @@
+batch-acknowledge-alarm
+batch-disable-alarm
+batch-enable-alarm
+batch-put-message
+batch-reset-alarm
+batch-snooze-alarm
+batch-update-detector
+describe-alarm
+describe-detector
+help
+list-alarms
+list-detectors

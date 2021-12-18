@@ -1,0 +1,9 @@
+--data-source-id
+--data-source-name
+--rds-data
+--role-arn
+--compute-statistics
+--no-compute-statistics
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,16 @@
+--application-id
+--capabilities
+--change-set-name
+--client-token
+--description
+--notification-arns
+--parameter-overrides
+--resource-types
+--rollback-configuration
+--semantic-version
+--stack-name
+--tags
+--template-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

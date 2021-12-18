@@ -1,0 +1,5 @@
+--open-id-connect-provider-arn
+--thumbprint-list
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

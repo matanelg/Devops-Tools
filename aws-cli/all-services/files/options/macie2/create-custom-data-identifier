@@ -1,0 +1,11 @@
+--client-token
+--description
+--ignore-words
+--keywords
+--maximum-match-distance
+--name
+--regex
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

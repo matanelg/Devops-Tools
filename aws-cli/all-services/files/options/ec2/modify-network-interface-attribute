@@ -1,0 +1,11 @@
+--attachment
+--description
+--dry-run
+--no-dry-run
+--groups
+--network-interface-id
+--source-dest-check
+--no-source-dest-check
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

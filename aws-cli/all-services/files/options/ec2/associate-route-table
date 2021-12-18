@@ -1,0 +1,8 @@
+--dry-run
+--no-dry-run
+--route-table-id
+--subnet-id
+--gateway-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

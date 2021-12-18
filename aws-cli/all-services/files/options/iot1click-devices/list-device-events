@@ -1,0 +1,9 @@
+--device-id
+--from-time-stamp
+--to-time-stamp
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

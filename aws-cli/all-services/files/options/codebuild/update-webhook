@@ -1,0 +1,9 @@
+--project-name
+--branch-filter
+--rotate-secret
+--no-rotate-secret
+--filter-groups
+--build-type
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

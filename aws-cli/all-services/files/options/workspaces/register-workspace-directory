@@ -1,0 +1,11 @@
+--directory-id
+--subnet-ids
+--enable-work-docs
+--no-enable-work-docs
+--enable-self-service
+--no-enable-self-service
+--tenancy
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,8 @@
+--pool-name
+--storage-class
+--retention-lock-type
+--retention-lock-time-in-days
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

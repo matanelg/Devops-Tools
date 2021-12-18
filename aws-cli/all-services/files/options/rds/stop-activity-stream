@@ -1,0 +1,6 @@
+--resource-arn
+--apply-immediately
+--no-apply-immediately
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

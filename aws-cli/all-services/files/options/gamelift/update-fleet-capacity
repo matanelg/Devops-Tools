@@ -1,0 +1,8 @@
+--fleet-id
+--desired-instances
+--min-size
+--max-size
+--location
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

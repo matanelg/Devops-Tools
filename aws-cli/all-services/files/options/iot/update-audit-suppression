@@ -1,0 +1,9 @@
+--check-name
+--resource-identifier
+--expiration-date
+--suppress-indefinitely
+--no-suppress-indefinitely
+--description
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

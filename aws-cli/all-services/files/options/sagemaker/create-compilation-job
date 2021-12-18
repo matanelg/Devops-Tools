@@ -1,0 +1,10 @@
+--compilation-job-name
+--role-arn
+--input-config
+--output-config
+--vpc-config
+--stopping-condition
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

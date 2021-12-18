@@ -1,0 +1,15 @@
+--case-id-list
+--display-id
+--after-time
+--before-time
+--include-resolved-cases
+--no-include-resolved-cases
+--language
+--include-communications
+--no-include-communications
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

@@ -1,0 +1,11 @@
+--destinations
+--input-devices
+--input-id
+--input-security-groups
+--media-connect-flows
+--name
+--role-arn
+--sources
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

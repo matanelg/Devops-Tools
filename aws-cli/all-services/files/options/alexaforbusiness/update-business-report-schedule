@@ -1,0 +1,9 @@
+--schedule-arn
+--s3-bucket-name
+--s3-key-prefix
+--format
+--schedule-name
+--recurrence
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

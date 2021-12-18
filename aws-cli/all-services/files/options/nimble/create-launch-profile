@@ -1,0 +1,12 @@
+--client-token
+--description
+--ec2-subnet-ids
+--launch-profile-protocol-versions
+--name
+--stream-configuration
+--studio-component-ids
+--studio-id
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

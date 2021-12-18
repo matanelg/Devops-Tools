@@ -1,0 +1,8 @@
+--batch-prediction-id
+--batch-prediction-name
+--ml-model-id
+--batch-prediction-data-source-id
+--output-uri
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,9 @@
+--domain-id
+--user-profile-name
+--single-sign-on-user-identifier
+--single-sign-on-user-value
+--tags
+--user-settings
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

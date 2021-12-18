@@ -1,0 +1,14 @@
+create-notification-rule
+delete-notification-rule
+delete-target
+describe-notification-rule
+help
+list-event-types
+list-notification-rules
+list-tags-for-resource
+list-targets
+subscribe
+tag-resource
+unsubscribe
+untag-resource
+update-notification-rule

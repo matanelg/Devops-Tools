@@ -1,0 +1,9 @@
+--client-token
+--mesh-name
+--mesh-owner
+--route-name
+--spec
+--virtual-router-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

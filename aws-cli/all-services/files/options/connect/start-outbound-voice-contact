@@ -1,0 +1,10 @@
+--destination-phone-number
+--contact-flow-id
+--instance-id
+--client-token
+--source-phone-number
+--queue-id
+--attributes
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

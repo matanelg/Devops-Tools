@@ -1,0 +1,11 @@
+--template-name
+--description
+--template-body
+--enabled
+--no-enabled
+--provisioning-role-arn
+--pre-provisioning-hook
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

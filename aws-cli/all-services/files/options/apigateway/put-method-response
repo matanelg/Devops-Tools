@@ -1,0 +1,9 @@
+--rest-api-id
+--resource-id
+--http-method
+--status-code
+--response-parameters
+--response-models
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

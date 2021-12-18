@@ -1,0 +1,9 @@
+--name
+--scope
+--description
+--ip-address-version
+--addresses
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

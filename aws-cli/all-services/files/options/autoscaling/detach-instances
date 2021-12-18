@@ -1,0 +1,7 @@
+--instance-ids
+--auto-scaling-group-name
+--should-decrement-desired-capacity
+--no-should-decrement-desired-capacity
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,6 @@
+--firewall-domain-list-id
+--operation
+--domains
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

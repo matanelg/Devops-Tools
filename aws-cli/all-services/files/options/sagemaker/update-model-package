@@ -1,0 +1,6 @@
+--model-package-arn
+--model-approval-status
+--approval-description
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,7 @@
+--group-name
+--description
+--aws-account-id
+--namespace
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

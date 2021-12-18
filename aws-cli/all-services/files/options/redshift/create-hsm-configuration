@@ -1,0 +1,10 @@
+--hsm-configuration-identifier
+--description
+--hsm-ip-address
+--hsm-partition-name
+--hsm-partition-password
+--hsm-server-public-certificate
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

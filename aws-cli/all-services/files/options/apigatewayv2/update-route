@@ -1,0 +1,17 @@
+--api-id
+--api-key-required
+--no-api-key-required
+--authorization-scopes
+--authorization-type
+--authorizer-id
+--model-selection-expression
+--operation-name
+--request-models
+--request-parameters
+--route-id
+--route-key
+--route-response-selection-expression
+--target
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

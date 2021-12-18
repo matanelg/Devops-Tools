@@ -1,0 +1,6 @@
+--account-id
+--identity-pool-id
+--logins
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

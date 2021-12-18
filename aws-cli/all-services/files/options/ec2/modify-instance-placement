@@ -1,0 +1,10 @@
+--affinity
+--group-name
+--host-id
+--instance-id
+--tenancy
+--partition-number
+--host-resource-group-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

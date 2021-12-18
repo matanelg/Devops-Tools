@@ -1,0 +1,7 @@
+--resource-share-arn
+--resource-arns
+--principals
+--client-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

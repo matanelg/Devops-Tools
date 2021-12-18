@@ -1,0 +1,9 @@
+--ec2-image-id
+--ingestion-process
+--image-name
+--image-description
+--tags
+--applications
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,13 @@
+--username
+--password
+--identity-info
+--phone-config
+--directory-user-id
+--security-profile-ids
+--routing-profile-id
+--hierarchy-group-id
+--instance-id
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,14 @@
+--creation-time-after
+--creation-time-before
+--name-contains
+--model-approval-status
+--model-package-group-name
+--model-package-type
+--sort-by
+--sort-order
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

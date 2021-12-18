@@ -1,0 +1,10 @@
+--database
+--parameter-sets
+--resource-arn
+--schema
+--secret-arn
+--sql
+--transaction-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

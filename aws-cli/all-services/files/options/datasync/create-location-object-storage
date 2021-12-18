@@ -1,0 +1,12 @@
+--server-hostname
+--server-port
+--server-protocol
+--subdirectory
+--bucket-name
+--access-key
+--secret-key
+--agent-arns
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

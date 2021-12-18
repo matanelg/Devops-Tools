@@ -1,0 +1,8 @@
+--accelerator-arn
+--port-ranges
+--protocol
+--client-affinity
+--idempotency-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,11 @@
+--job-name
+--solution-version-arn
+--filter-arn
+--num-results
+--job-input
+--job-output
+--role-arn
+--batch-inference-job-config
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,5 @@
+--client-token
+--security-hub-configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

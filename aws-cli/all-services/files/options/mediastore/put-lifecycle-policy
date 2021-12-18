@@ -1,0 +1,5 @@
+--container-name
+--lifecycle-policy
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

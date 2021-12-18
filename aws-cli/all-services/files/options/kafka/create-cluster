@@ -1,0 +1,14 @@
+--broker-node-group-info
+--client-authentication
+--cluster-name
+--configuration-info
+--encryption-info
+--enhanced-monitoring
+--open-monitoring
+--kafka-version
+--logging-info
+--number-of-broker-nodes
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

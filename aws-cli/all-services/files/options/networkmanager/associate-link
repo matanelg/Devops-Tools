@@ -1,0 +1,6 @@
+--global-network-id
+--device-id
+--link-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,5 @@
+--config-rule-name
+--external-evaluation
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,6 @@
+--stream-arn
+--consumer-name
+--consumer-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

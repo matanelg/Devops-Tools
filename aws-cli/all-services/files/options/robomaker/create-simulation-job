@@ -1,0 +1,15 @@
+--client-request-token
+--output-location
+--logging-config
+--max-job-duration-in-seconds
+--iam-role
+--failure-behavior
+--robot-applications
+--simulation-applications
+--data-sources
+--tags
+--vpc-config
+--compute
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

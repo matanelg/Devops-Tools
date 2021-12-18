@@ -1,0 +1,10 @@
+--global-cluster-identifier
+--new-global-cluster-identifier
+--deletion-protection
+--no-deletion-protection
+--engine-version
+--allow-major-version-upgrade
+--no-allow-major-version-upgrade
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

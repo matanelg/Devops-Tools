@@ -1,0 +1,6 @@
+--instance-id
+--routing-profile-id
+--default-outbound-queue-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

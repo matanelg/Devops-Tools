@@ -1,0 +1,12 @@
+--namespace
+--metric-data
+--metric-name
+--timestamp
+--unit
+--value
+--dimensions
+--statistic-values
+--storage-resolution
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

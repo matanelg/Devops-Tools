@@ -1,0 +1,16 @@
+--transform-job-name
+--model-name
+--max-concurrent-transforms
+--model-client-config
+--max-payload-in-mb
+--batch-strategy
+--environment
+--transform-input
+--transform-output
+--transform-resources
+--data-processing
+--tags
+--experiment-config
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

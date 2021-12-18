@@ -1,0 +1,6 @@
+--resolver-rule-id
+--name
+--vpc-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

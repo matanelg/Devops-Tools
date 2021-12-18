@@ -1,0 +1,8 @@
+--lifecycle-hook-name
+--auto-scaling-group-name
+--lifecycle-action-token
+--lifecycle-action-result
+--instance-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

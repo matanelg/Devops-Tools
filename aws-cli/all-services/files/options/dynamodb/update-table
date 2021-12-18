@@ -1,0 +1,11 @@
+--attribute-definitions
+--table-name
+--billing-mode
+--provisioned-throughput
+--global-secondary-index-updates
+--stream-specification
+--sse-specification
+--replica-updates
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

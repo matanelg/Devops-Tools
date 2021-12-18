@@ -1,0 +1,7 @@
+--thing-group-name
+--thing-group-arn
+--thing-name
+--thing-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,10 @@
+--control-id
+--name
+--description
+--testing-information
+--action-plan-title
+--action-plan-instructions
+--control-mapping-sources
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

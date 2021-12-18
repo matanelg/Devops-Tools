@@ -1,0 +1,11 @@
+--resource-group-name
+--ops-center-enabled
+--no-ops-center-enabled
+--cwe-monitor-enabled
+--no-cwe-monitor-enabled
+--ops-item-sns-topic-arn
+--remove-sns-topic
+--no-remove-sns-topic
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

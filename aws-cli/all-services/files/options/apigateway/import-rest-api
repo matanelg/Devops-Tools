@@ -1,0 +1,7 @@
+--fail-on-warnings
+--no-fail-on-warnings
+--parameters
+--body
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

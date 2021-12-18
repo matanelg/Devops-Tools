@@ -1,0 +1,9 @@
+--hyper-parameter-tuning-job-name
+--hyper-parameter-tuning-job-config
+--training-job-definition
+--training-job-definitions
+--warm-start-config
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

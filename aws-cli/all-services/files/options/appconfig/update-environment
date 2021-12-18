@@ -1,0 +1,8 @@
+--application-id
+--environment-id
+--name
+--description
+--monitors
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

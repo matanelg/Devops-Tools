@@ -1,0 +1,8 @@
+--project-arn
+--name
+--description
+--rules
+--max-devices
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

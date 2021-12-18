@@ -1,0 +1,5 @@
+--dbi-resource-id
+--db-instance-automated-backups-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

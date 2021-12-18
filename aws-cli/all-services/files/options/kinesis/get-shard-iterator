@@ -1,0 +1,8 @@
+--stream-name
+--shard-id
+--shard-iterator-type
+--starting-sequence-number
+--timestamp
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

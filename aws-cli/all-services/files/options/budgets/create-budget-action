@@ -1,0 +1,12 @@
+--account-id
+--budget-name
+--notification-type
+--action-type
+--action-threshold
+--definition
+--execution-role-arn
+--approval-model
+--subscribers
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

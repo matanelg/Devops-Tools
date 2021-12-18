@@ -1,0 +1,8 @@
+--content-type
+--attachment-size-in-bytes
+--attachment-name
+--client-token
+--connection-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

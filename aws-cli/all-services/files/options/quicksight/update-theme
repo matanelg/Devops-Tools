@@ -1,0 +1,9 @@
+--aws-account-id
+--theme-id
+--name
+--base-theme-id
+--version-description
+--configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,8 @@
+--ignore-words
+--keywords
+--maximum-match-distance
+--regex
+--sample-text
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

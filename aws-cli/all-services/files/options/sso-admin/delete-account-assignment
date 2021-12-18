@@ -1,0 +1,9 @@
+--instance-arn
+--target-id
+--target-type
+--permission-set-arn
+--principal-type
+--principal-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

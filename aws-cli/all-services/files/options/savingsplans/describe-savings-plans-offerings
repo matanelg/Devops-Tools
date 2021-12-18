@@ -1,0 +1,16 @@
+--offering-ids
+--payment-options
+--product-type
+--plan-types
+--durations
+--currencies
+--descriptions
+--service-codes
+--usage-types
+--operations
+--filters
+--next-token
+--max-results
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

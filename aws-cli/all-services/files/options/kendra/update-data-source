@@ -1,0 +1,10 @@
+--id
+--name
+--index-id
+--configuration
+--description
+--schedule
+--role-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

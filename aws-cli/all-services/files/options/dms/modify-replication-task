@@ -1,0 +1,12 @@
+--replication-task-arn
+--replication-task-identifier
+--migration-type
+--table-mappings
+--replication-task-settings
+--cdc-start-time
+--cdc-start-position
+--cdc-stop-position
+--task-data
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,9 @@
+--certificate-authority-configuration
+--revocation-configuration
+--certificate-authority-type
+--idempotency-token
+--key-storage-security-standard
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

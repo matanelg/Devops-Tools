@@ -1,0 +1,5 @@
+--stream-arn
+--current-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

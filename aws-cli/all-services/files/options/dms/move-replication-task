@@ -1,0 +1,5 @@
+--replication-task-arn
+--target-replication-instance-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

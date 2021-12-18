@@ -1,0 +1,6 @@
+--instance-id
+--snapshot-id
+--baseline-override
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

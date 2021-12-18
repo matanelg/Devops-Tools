@@ -1,0 +1,7 @@
+--catalog-id
+--database-name
+--table-name
+--partitions-to-delete
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

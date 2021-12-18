@@ -1,0 +1,8 @@
+--file-system-id
+--client-request-token
+--storage-capacity
+--windows-configuration
+--lustre-configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

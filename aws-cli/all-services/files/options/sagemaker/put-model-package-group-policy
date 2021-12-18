@@ -1,0 +1,5 @@
+--model-package-group-name
+--resource-policy
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

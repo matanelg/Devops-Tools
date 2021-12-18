@@ -1,0 +1,16 @@
+--application-name
+--version-label
+--template-name
+--environment-id
+--environment-name
+--platform-arn
+--request-id
+--severity
+--start-time
+--end-time
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

@@ -1,0 +1,7 @@
+--domain-name
+--suggestion-count
+--only-available
+--no-only-available
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

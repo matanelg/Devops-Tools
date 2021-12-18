@@ -1,0 +1,8 @@
+--filters
+--dry-run
+--no-dry-run
+--group-names
+--group-ids
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,8 @@
+--dry-run
+--no-dry-run
+--fleet-ids
+--terminate-instances
+--no-terminate-instances
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

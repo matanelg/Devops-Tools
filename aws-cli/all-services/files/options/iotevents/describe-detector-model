@@ -1,0 +1,5 @@
+--detector-model-name
+--detector-model-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,6 @@
+--role-name
+--description
+--max-session-duration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

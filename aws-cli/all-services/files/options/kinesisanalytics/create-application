@@ -1,0 +1,10 @@
+--application-name
+--application-description
+--inputs
+--outputs
+--cloud-watch-logging-options
+--application-code
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

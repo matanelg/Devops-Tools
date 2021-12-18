@@ -1,0 +1,11 @@
+--name
+--value
+--principal-arn
+--effective-settings
+--no-effective-settings
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

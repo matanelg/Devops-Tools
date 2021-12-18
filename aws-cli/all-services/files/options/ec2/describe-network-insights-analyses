@@ -1,0 +1,13 @@
+--network-insights-analysis-ids
+--network-insights-path-id
+--analysis-start-time
+--analysis-end-time
+--filters
+--dry-run
+--no-dry-run
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

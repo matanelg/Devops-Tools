@@ -1,0 +1,11 @@
+--application-name
+--application-description
+--runtime-environment
+--service-execution-role
+--application-configuration
+--cloud-watch-logging-options
+--tags
+--application-mode
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

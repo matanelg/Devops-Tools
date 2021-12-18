@@ -1,0 +1,16 @@
+--job-name
+--job-queue
+--array-properties
+--depends-on
+--job-definition
+--parameters
+--container-overrides
+--node-overrides
+--retry-strategy
+--propagate-tags
+--no-propagate-tags
+--timeout
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,9 @@
+--detector-id
+--threat-intel-set-id
+--name
+--location
+--activate
+--no-activate
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

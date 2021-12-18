@@ -1,0 +1,6 @@
+--account-id
+--source-parent-id
+--destination-parent-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,10 @@
+--type
+--type-name
+--arn
+--max-results
+--next-token
+--deprecated-status
+--publisher-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

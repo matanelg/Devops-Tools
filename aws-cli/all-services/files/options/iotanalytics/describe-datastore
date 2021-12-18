@@ -1,0 +1,6 @@
+--datastore-name
+--include-statistics
+--no-include-statistics
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

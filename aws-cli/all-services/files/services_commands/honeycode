@@ -1,0 +1,13 @@
+batch-create-table-rows
+batch-delete-table-rows
+batch-update-table-rows
+batch-upsert-table-rows
+describe-table-data-import-job
+get-screen-data
+help
+invoke-screen-automation
+list-table-columns
+list-table-rows
+list-tables
+query-table-rows
+start-table-data-import-job

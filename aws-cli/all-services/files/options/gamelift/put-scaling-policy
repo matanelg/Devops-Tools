@@ -1,0 +1,13 @@
+--name
+--fleet-id
+--scaling-adjustment
+--scaling-adjustment-type
+--threshold
+--comparison-operator
+--evaluation-periods
+--metric-name
+--policy-type
+--target-configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

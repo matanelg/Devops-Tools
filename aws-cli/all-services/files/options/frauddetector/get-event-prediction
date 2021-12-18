@@ -1,0 +1,11 @@
+--detector-id
+--detector-version-id
+--event-id
+--event-type-name
+--entities
+--event-timestamp
+--event-variables
+--external-model-endpoint-data-blobs
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

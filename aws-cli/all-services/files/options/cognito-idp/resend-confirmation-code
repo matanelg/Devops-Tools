@@ -1,0 +1,9 @@
+--client-id
+--secret-hash
+--user-context-data
+--username
+--analytics-metadata
+--client-metadata
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

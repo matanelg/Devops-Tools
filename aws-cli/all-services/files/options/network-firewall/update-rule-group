@@ -1,0 +1,12 @@
+--update-token
+--rule-group-arn
+--rule-group-name
+--rule-group
+--rules
+--type
+--description
+--dry-run
+--no-dry-run
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

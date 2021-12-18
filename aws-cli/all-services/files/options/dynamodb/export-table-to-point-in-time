@@ -1,0 +1,12 @@
+--table-arn
+--export-time
+--client-token
+--s3-bucket
+--s3-bucket-owner
+--s3-prefix
+--s3-sse-algorithm
+--s3-sse-kms-key-id
+--export-format
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

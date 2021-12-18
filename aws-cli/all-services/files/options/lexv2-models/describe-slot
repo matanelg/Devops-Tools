@@ -1,0 +1,8 @@
+--slot-id
+--bot-id
+--bot-version
+--locale-id
+--intent-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

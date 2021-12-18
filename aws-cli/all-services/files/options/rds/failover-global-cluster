@@ -1,0 +1,5 @@
+--global-cluster-identifier
+--target-db-cluster-identifier
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

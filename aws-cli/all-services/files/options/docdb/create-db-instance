@@ -1,0 +1,13 @@
+--db-instance-identifier
+--db-instance-class
+--engine
+--availability-zone
+--preferred-maintenance-window
+--auto-minor-version-upgrade
+--no-auto-minor-version-upgrade
+--tags
+--db-cluster-identifier
+--promotion-tier
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

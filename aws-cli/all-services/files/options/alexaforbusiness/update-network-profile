@@ -1,0 +1,10 @@
+--network-profile-arn
+--network-profile-name
+--description
+--current-password
+--next-password
+--certificate-authority-arn
+--trust-anchors
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,12 @@
+--rest-api-id
+--resource-id
+--http-method
+--path-with-query-string
+--body
+--headers
+--multi-value-headers
+--client-certificate-id
+--stage-variables
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

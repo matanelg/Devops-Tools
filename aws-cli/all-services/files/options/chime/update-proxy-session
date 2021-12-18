@@ -1,0 +1,7 @@
+--voice-connector-id
+--proxy-session-id
+--capabilities
+--expiry-minutes
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

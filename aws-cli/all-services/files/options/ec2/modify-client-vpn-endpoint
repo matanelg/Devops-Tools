@@ -1,0 +1,17 @@
+--client-vpn-endpoint-id
+--server-certificate-arn
+--connection-log-options
+--dns-servers
+--vpn-port
+--description
+--split-tunnel
+--no-split-tunnel
+--dry-run
+--no-dry-run
+--security-group-ids
+--vpc-id
+--self-service-portal
+--client-connect-options
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

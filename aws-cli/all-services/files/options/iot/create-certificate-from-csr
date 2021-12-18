@@ -1,0 +1,7 @@
+--certificate-signing-request
+--set-as-active
+--no-set-as-active
+--certificate-pem-outfile
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

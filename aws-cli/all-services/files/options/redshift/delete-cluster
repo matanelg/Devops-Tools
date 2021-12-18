@@ -1,0 +1,8 @@
+--cluster-identifier
+--skip-final-cluster-snapshot
+--no-skip-final-cluster-snapshot
+--final-cluster-snapshot-identifier
+--final-cluster-snapshot-retention-period
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

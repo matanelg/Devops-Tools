@@ -1,0 +1,13 @@
+--gateway-arn
+--tape-size-in-bytes
+--tape-barcode
+--kms-encrypted
+--no-kms-encrypted
+--kms-key
+--pool-id
+--worm
+--no-worm
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

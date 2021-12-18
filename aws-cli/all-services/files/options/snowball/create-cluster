@@ -1,0 +1,16 @@
+--job-type
+--resources
+--on-device-service-configuration
+--description
+--address-id
+--kms-key-arn
+--role-arn
+--snowball-type
+--shipping-option
+--notification
+--forwarding-address-id
+--tax-documents
+--remote-management
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

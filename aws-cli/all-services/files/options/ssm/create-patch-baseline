@@ -1,0 +1,17 @@
+--operating-system
+--name
+--global-filters
+--approval-rules
+--approved-patches
+--approved-patches-compliance-level
+--approved-patches-enable-non-security
+--no-approved-patches-enable-non-security
+--rejected-patches
+--rejected-patches-action
+--description
+--sources
+--client-token
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

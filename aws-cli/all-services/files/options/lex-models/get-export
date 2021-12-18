@@ -1,0 +1,7 @@
+--name
+--resource-type
+--export-type
+--resource-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

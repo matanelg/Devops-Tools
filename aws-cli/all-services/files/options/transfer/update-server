@@ -1,0 +1,13 @@
+--certificate
+--protocol-details
+--endpoint-details
+--endpoint-type
+--host-key
+--identity-provider-details
+--logging-role
+--protocols
+--security-policy-name
+--server-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,10 @@
+--client-id
+--user-code
+--product-id
+--device-serial-number
+--amazon-id
+--room-arn
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

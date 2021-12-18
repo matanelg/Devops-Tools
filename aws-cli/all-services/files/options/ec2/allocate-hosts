@@ -1,0 +1,11 @@
+--auto-placement
+--availability-zone
+--client-token
+--instance-type
+--instance-family
+--quantity
+--tag-specifications
+--host-recovery
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

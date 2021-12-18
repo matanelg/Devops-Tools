@@ -1,0 +1,6 @@
+--server-id
+--ssh-public-key-id
+--user-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

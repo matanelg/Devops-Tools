@@ -1,0 +1,6 @@
+--table-name
+--limit
+--exclusive-start-stream-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

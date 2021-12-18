@@ -1,0 +1,12 @@
+--application-name
+--template-name
+--solution-stack-name
+--platform-arn
+--source-configuration
+--environment-id
+--description
+--option-settings
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

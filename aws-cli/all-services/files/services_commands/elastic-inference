@@ -1,0 +1,7 @@
+describe-accelerator-offerings
+describe-accelerator-types
+describe-accelerators
+help
+list-tags-for-resource
+tag-resource
+untag-resource

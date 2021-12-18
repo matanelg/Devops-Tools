@@ -1,0 +1,8 @@
+--custom-availability-zone-id
+--engine
+--engine-version
+--engine-installation-media-path
+--os-installation-media-path
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

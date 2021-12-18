@@ -1,0 +1,9 @@
+--user-id
+--first-name
+--last-name
+--email
+--client-request-token
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

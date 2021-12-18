@@ -1,0 +1,10 @@
+--description
+--instance-specification
+--outpost-arn
+--tag-specifications
+--dry-run
+--no-dry-run
+--copy-tags-from-source
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

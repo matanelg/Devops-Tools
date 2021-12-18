@@ -1,0 +1,8 @@
+--authorizer-name
+--authorizer-function-arn
+--token-key-name
+--token-signing-public-keys
+--status
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

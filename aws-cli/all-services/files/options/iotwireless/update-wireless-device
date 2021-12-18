@@ -1,0 +1,8 @@
+--id
+--destination-name
+--name
+--description
+--lorawan
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

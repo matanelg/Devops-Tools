@@ -1,0 +1,15 @@
+--identity-type
+--email
+--user-role
+--iam-arn
+--session-name
+--aws-account-id
+--namespace
+--user-name
+--custom-permissions-name
+--external-login-federation-provider-type
+--custom-federation-provider-url
+--external-login-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

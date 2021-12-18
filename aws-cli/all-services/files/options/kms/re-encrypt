@@ -1,0 +1,11 @@
+--ciphertext-blob
+--source-encryption-context
+--source-key-id
+--destination-key-id
+--destination-encryption-context
+--source-encryption-algorithm
+--destination-encryption-algorithm
+--grant-tokens
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

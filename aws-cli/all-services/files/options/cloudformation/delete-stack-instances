@@ -1,0 +1,12 @@
+--stack-set-name
+--accounts
+--deployment-targets
+--regions
+--operation-preferences
+--retain-stacks
+--no-retain-stacks
+--operation-id
+--call-as
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

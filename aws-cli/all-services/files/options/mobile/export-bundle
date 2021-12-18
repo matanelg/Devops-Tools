@@ -1,0 +1,6 @@
+--bundle-id
+--project-id
+--platform
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

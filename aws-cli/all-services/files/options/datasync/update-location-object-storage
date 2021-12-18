@@ -1,0 +1,10 @@
+--location-arn
+--server-port
+--server-protocol
+--subdirectory
+--access-key
+--secret-key
+--agent-arns
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

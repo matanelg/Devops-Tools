@@ -1,0 +1,6 @@
+--name
+--shared-account-id
+--image-permissions
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

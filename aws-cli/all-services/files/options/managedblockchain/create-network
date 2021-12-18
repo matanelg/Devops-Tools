@@ -1,0 +1,12 @@
+--client-request-token
+--name
+--description
+--framework
+--framework-version
+--framework-configuration
+--voting-policy
+--member-configuration
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,15 @@
+--name
+--semantic-version
+--description
+--change-description
+--type
+--format
+--platform
+--data
+--uri
+--kms-key-id
+--tags
+--client-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

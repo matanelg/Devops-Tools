@@ -1,0 +1,6 @@
+--accept-terms-and-conditions
+--no-accept-terms-and-conditions
+--connection-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

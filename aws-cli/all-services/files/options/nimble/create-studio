@@ -1,0 +1,10 @@
+--admin-role-arn
+--client-token
+--display-name
+--studio-encryption-configuration
+--studio-name
+--tags
+--user-role-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

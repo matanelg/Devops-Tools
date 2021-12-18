@@ -1,0 +1,9 @@
+--cluster-name
+--addon-name
+--addon-version
+--service-account-role-arn
+--resolve-conflicts
+--client-request-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

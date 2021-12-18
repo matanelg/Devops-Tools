@@ -1,0 +1,6 @@
+--connector-profile-name
+--connector-type
+--entities-path
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

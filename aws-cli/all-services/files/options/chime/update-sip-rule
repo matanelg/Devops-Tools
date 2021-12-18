@@ -1,0 +1,8 @@
+--sip-rule-id
+--name
+--disabled
+--no-disabled
+--target-applications
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

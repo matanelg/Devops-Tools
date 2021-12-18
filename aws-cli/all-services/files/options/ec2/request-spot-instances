@@ -1,0 +1,17 @@
+--availability-zone-group
+--block-duration-minutes
+--client-token
+--dry-run
+--no-dry-run
+--instance-count
+--launch-group
+--launch-specification
+--spot-price
+--type
+--valid-from
+--valid-until
+--tag-specifications
+--instance-interruption-behavior
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

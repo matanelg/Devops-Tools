@@ -1,0 +1,11 @@
+--metric-set-arn
+--metric-set-description
+--metric-list
+--offset
+--timestamp-column
+--dimension-list
+--metric-set-frequency
+--metric-source
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

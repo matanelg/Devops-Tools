@@ -1,0 +1,5 @@
+--app-id
+--server-group-replication-configurations
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

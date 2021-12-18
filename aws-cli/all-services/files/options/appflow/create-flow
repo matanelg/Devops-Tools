@@ -1,0 +1,11 @@
+--flow-name
+--description
+--kms-arn
+--trigger-config
+--source-flow-config
+--destination-flow-config-list
+--tasks
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

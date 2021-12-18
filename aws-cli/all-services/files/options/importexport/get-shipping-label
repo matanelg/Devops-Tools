@@ -1,0 +1,15 @@
+--job-ids
+--name
+--company
+--phone-number
+--country
+--state-or-province
+--city
+--postal-code
+--street1
+--street2
+--street3
+--api-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

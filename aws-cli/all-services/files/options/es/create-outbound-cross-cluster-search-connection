@@ -1,0 +1,6 @@
+--source-domain-info
+--destination-domain-info
+--connection-alias
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,11 @@
+--api-id
+--ttl
+--transit-encryption-enabled
+--no-transit-encryption-enabled
+--at-rest-encryption-enabled
+--no-at-rest-encryption-enabled
+--api-caching-behavior
+--type
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

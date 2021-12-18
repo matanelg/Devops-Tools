@@ -1,0 +1,7 @@
+--bucket
+--dry-run
+--no-dry-run
+--prefix
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

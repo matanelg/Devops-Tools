@@ -1,0 +1,13 @@
+--cluster
+--task
+--status
+--reason
+--containers
+--attachments
+--managed-agents
+--pull-started-at
+--pull-stopped-at
+--execution-stopped-at
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

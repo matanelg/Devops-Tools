@@ -1,0 +1,11 @@
+--accept-language
+--product-id
+--provisioning-artifact-id
+--name
+--description
+--active
+--no-active
+--guidance
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

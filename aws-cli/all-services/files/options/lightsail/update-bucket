@@ -1,0 +1,7 @@
+--bucket-name
+--access-rules
+--versioning
+--readonly-access-accounts
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

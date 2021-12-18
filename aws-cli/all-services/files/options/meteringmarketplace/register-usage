@@ -1,0 +1,6 @@
+--product-code
+--public-key-version
+--nonce
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

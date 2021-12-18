@@ -1,0 +1,5 @@
+--resource-id
+--firewall-fail-open
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

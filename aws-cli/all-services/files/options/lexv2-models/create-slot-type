@@ -1,0 +1,11 @@
+--slot-type-name
+--description
+--slot-type-values
+--value-selection-setting
+--parent-slot-type-signature
+--bot-id
+--bot-version
+--locale-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

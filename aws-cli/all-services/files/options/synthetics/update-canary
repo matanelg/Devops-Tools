@@ -1,0 +1,12 @@
+--name
+--code
+--execution-role-arn
+--runtime-version
+--schedule
+--run-config
+--success-retention-period-in-days
+--failure-retention-period-in-days
+--vpc-config
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

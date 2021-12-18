@@ -1,0 +1,5 @@
+--cluster
+--attachments
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

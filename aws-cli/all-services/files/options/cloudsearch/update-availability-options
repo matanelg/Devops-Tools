@@ -1,0 +1,6 @@
+--domain-name
+--multi-az
+--no-multi-az
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

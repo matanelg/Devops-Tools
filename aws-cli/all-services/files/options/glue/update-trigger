@@ -1,0 +1,5 @@
+--name
+--trigger-update
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

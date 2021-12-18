@@ -1,0 +1,17 @@
+--ad-decision-server-url
+--avail-suppression
+--bumper
+--cdn-configuration
+--configuration-aliases
+--dash-configuration
+--live-pre-roll-configuration
+--manifest-processing-rules
+--name
+--personalization-threshold-seconds
+--slate-ad-url
+--tags
+--transcode-profile-name
+--video-content-source-url
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

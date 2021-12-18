@@ -1,0 +1,8 @@
+--cognito-config
+--oidc-config
+--source-ip-config
+--workforce-name
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

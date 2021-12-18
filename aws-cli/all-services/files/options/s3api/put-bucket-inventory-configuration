@@ -1,0 +1,7 @@
+--bucket
+--id
+--inventory-configuration
+--expected-bucket-owner
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

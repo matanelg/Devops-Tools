@@ -1,0 +1,10 @@
+--transit-gateway-route-table-id
+--prefix-list-id
+--transit-gateway-attachment-id
+--blackhole
+--no-blackhole
+--dry-run
+--no-dry-run
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

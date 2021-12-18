@@ -1,0 +1,10 @@
+--channel-arn
+--content
+--type
+--persistence
+--metadata
+--client-request-token
+--chime-bearer
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

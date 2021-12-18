@@ -1,0 +1,17 @@
+--application-name
+--deployment-group-name
+--revision
+--deployment-config-name
+--description
+--ignore-application-stop-failures
+--no-ignore-application-stop-failures
+--target-instances
+--auto-rollback-configuration
+--update-outdated-instances-only
+--no-update-outdated-instances-only
+--file-exists-behavior
+--s3-location
+--github-location
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

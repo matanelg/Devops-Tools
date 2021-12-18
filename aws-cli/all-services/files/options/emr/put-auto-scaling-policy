@@ -1,0 +1,6 @@
+--cluster-id
+--instance-group-id
+--auto-scaling-policy
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

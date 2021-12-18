@@ -1,0 +1,6 @@
+--cloud-front-origin-access-identity-config
+--id
+--if-match
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

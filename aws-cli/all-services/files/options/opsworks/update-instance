@@ -1,0 +1,17 @@
+--instance-id
+--layer-ids
+--instance-type
+--auto-scaling-type
+--hostname
+--os
+--ami-id
+--ssh-key-name
+--architecture
+--install-updates-on-boot
+--no-install-updates-on-boot
+--ebs-optimized
+--no-ebs-optimized
+--agent-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

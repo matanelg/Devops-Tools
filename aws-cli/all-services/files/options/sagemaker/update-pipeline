@@ -1,0 +1,8 @@
+--pipeline-name
+--pipeline-display-name
+--pipeline-definition
+--pipeline-description
+--role-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

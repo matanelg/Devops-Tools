@@ -1,0 +1,14 @@
+--account-id
+--confirmation-required
+--no-confirmation-required
+--operation
+--report
+--client-request-token
+--manifest
+--description
+--priority
+--role-arn
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

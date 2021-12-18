@@ -1,0 +1,10 @@
+--replication-task-arn
+--replication-instance-arn
+--source-engine-name
+--target-engine-name
+--migration-type
+--max-records
+--marker
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

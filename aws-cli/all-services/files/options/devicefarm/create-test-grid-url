@@ -1,0 +1,5 @@
+--project-arn
+--expires-in-seconds
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

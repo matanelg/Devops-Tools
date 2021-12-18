@@ -1,0 +1,6 @@
+--firewall-arn
+--firewall-name
+--logging-configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

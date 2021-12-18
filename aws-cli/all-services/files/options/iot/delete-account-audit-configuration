@@ -1,0 +1,5 @@
+--delete-scheduled-audits
+--no-delete-scheduled-audits
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

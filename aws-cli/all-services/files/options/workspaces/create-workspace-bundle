@@ -1,0 +1,10 @@
+--bundle-name
+--bundle-description
+--image-id
+--compute-type
+--user-storage
+--root-storage
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

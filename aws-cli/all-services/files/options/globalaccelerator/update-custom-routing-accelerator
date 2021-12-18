@@ -1,0 +1,8 @@
+--accelerator-arn
+--name
+--ip-address-type
+--enabled
+--no-enabled
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

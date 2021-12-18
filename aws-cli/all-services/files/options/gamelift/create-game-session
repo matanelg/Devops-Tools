@@ -1,0 +1,13 @@
+--fleet-id
+--alias-id
+--maximum-player-session-count
+--name
+--game-properties
+--creator-id
+--game-session-id
+--idempotency-token
+--game-session-data
+--location
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

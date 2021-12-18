@@ -1,0 +1,8 @@
+--domain-configuration-name
+--authorizer-config
+--domain-configuration-status
+--remove-authorizer-config
+--no-remove-authorizer-config
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

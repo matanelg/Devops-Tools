@@ -1,0 +1,8 @@
+--project-id
+--user-arn
+--project-role
+--remote-access-allowed
+--no-remote-access-allowed
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

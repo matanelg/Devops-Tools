@@ -1,0 +1,7 @@
+--client-token
+--organization-id
+--delete-directory
+--no-delete-directory
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

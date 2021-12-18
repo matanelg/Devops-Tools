@@ -1,0 +1,8 @@
+--app-id
+--role-name
+--auto-launch
+--no-auto-launch
+--server-group-launch-configurations
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

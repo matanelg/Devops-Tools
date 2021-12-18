@@ -1,0 +1,10 @@
+--task-name
+--log-group-name
+--log-stream-name-prefix
+--from
+--to
+--destination
+--destination-prefix
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

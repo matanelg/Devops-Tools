@@ -1,0 +1,9 @@
+--name
+--description
+--connection-arn
+--invocation-endpoint
+--http-method
+--invocation-rate-limit-per-second
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

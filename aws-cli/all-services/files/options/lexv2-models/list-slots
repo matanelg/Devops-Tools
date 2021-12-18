@@ -1,0 +1,11 @@
+--bot-id
+--bot-version
+--locale-id
+--intent-id
+--sort-by
+--filters
+--max-results
+--next-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

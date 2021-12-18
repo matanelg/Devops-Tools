@@ -1,0 +1,13 @@
+--cluster-identifier
+--snapshot-identifier
+--source-database-name
+--source-schema-name
+--source-table-name
+--target-database-name
+--target-schema-name
+--new-table-name
+--enable-case-sensitive-identifier
+--no-enable-case-sensitive-identifier
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,10 @@
+--bucket
+--key
+--legal-hold
+--request-payer
+--version-id
+--content-md5
+--expected-bucket-owner
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

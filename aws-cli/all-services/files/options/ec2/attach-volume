@@ -1,0 +1,8 @@
+--device
+--instance-id
+--volume-id
+--dry-run
+--no-dry-run
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,8 @@
+--server-id
+--server-protocol
+--source-ip
+--user-name
+--user-password
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

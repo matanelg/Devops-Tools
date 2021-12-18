@@ -1,0 +1,16 @@
+--rest-api-id
+--stage-name
+--deployment-id
+--description
+--cache-cluster-enabled
+--no-cache-cluster-enabled
+--cache-cluster-size
+--variables
+--documentation-version
+--canary-settings
+--tracing-enabled
+--no-tracing-enabled
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

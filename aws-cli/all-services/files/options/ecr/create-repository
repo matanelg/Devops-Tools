@@ -1,0 +1,8 @@
+--repository-name
+--tags
+--image-tag-mutability
+--image-scanning-configuration
+--encryption-configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

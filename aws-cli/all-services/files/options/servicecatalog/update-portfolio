@@ -1,0 +1,10 @@
+--accept-language
+--id
+--display-name
+--description
+--provider-name
+--add-tags
+--remove-tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

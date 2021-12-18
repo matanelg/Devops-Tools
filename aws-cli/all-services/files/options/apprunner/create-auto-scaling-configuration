@@ -1,0 +1,8 @@
+--auto-scaling-configuration-name
+--max-concurrency
+--min-size
+--max-size
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

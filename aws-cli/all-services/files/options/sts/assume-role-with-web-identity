@@ -1,0 +1,10 @@
+--role-arn
+--role-session-name
+--web-identity-token
+--provider-id
+--policy-arns
+--policy
+--duration-seconds
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

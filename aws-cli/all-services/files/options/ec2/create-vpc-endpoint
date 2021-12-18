@@ -1,0 +1,16 @@
+--dry-run
+--no-dry-run
+--vpc-endpoint-type
+--vpc-id
+--service-name
+--policy-document
+--route-table-ids
+--subnet-ids
+--security-group-ids
+--client-token
+--private-dns-enabled
+--no-private-dns-enabled
+--tag-specifications
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

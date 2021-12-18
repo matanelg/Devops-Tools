@@ -1,0 +1,11 @@
+--project-arn
+--app-arn
+--device-pool-arn
+--device-selection-configuration
+--name
+--test
+--configuration
+--execution-configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

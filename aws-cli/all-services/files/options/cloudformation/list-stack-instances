@@ -1,0 +1,11 @@
+--stack-set-name
+--filters
+--stack-instance-account
+--stack-instance-region
+--call-as
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

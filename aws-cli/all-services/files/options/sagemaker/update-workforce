@@ -1,0 +1,6 @@
+--workforce-name
+--source-ip-config
+--oidc-config
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

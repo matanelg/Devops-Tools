@@ -1,0 +1,5 @@
+--domain-name
+--index-field-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

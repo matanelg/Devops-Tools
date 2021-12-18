@@ -1,0 +1,6 @@
+--stream-name
+--target-shard-count
+--scaling-type
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

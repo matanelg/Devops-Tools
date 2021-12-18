@@ -1,0 +1,7 @@
+--instance-id
+--health-status
+--should-respect-grace-period
+--no-should-respect-grace-period
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

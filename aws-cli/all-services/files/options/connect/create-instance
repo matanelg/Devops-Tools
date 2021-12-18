@@ -1,0 +1,11 @@
+--client-token
+--identity-management-type
+--instance-alias
+--directory-id
+--inbound-calls-enabled
+--no-inbound-calls-enabled
+--outbound-calls-enabled
+--no-outbound-calls-enabled
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

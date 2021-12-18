@@ -1,0 +1,11 @@
+--distribution-name
+--origin
+--default-cache-behavior
+--cache-behavior-settings
+--cache-behaviors
+--bundle-id
+--ip-address-type
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

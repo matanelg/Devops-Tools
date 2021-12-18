@@ -1,0 +1,15 @@
+create-application
+create-application-version
+create-cloud-formation-change-set
+create-cloud-formation-template
+delete-application
+get-application
+get-application-policy
+get-cloud-formation-template
+help
+list-application-dependencies
+list-application-versions
+list-applications
+put-application-policy
+unshare-application
+update-application

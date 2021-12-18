@@ -1,0 +1,10 @@
+--name
+--ip-address-type
+--ip-addresses
+--enabled
+--no-enabled
+--idempotency-token
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

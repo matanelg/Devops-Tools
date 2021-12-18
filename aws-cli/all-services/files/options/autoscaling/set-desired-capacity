@@ -1,0 +1,7 @@
+--auto-scaling-group-name
+--desired-capacity
+--honor-cooldown
+--no-honor-cooldown
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

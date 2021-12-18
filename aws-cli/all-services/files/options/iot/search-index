@@ -1,0 +1,8 @@
+--index-name
+--query-string
+--next-token
+--max-results
+--query-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

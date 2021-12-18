@@ -1,0 +1,5 @@
+--global-table-name
+--replication-group
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,7 @@
+--name
+--sources
+--robot-software-suite
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

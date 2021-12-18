@@ -1,0 +1,6 @@
+--ml-model-id
+--ml-model-name
+--score-threshold
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

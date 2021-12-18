@@ -1,0 +1,9 @@
+--cluster-identifier
+--cluster-type
+--node-type
+--number-of-nodes
+--classic
+--no-classic
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

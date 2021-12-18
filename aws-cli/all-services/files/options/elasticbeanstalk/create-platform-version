@@ -1,0 +1,9 @@
+--platform-name
+--platform-version
+--platform-definition-bundle
+--environment-name
+--option-settings
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

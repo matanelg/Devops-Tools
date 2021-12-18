@@ -1,0 +1,8 @@
+--source
+--destination
+--profile-name
+--client-request-token
+--profile-owner
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

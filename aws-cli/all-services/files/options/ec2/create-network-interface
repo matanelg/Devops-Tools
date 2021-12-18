@@ -1,0 +1,16 @@
+--description
+--dry-run
+--no-dry-run
+--groups
+--ipv6-address-count
+--ipv6-addresses
+--private-ip-address
+--private-ip-addresses
+--secondary-private-ip-address-count
+--interface-type
+--subnet-id
+--tag-specifications
+--client-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

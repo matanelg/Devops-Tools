@@ -1,0 +1,9 @@
+--log-group-name
+--filter-name
+--filter-pattern
+--destination-arn
+--role-arn
+--distribution
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

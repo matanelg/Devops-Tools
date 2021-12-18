@@ -1,0 +1,9 @@
+--job-id
+--thing-name
+--force
+--no-force
+--expected-version
+--status-details
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

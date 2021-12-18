@@ -1,0 +1,16 @@
+--aws-account-id
+--dashboard-id
+--identity-type
+--session-lifetime-in-minutes
+--undo-redo-disabled
+--no-undo-redo-disabled
+--reset-disabled
+--no-reset-disabled
+--state-persistence-enabled
+--no-state-persistence-enabled
+--user-arn
+--namespace
+--additional-dashboard-ids
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

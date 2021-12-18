@@ -1,0 +1,11 @@
+--source-identifier
+--source-type
+--start-time
+--end-time
+--duration
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

@@ -1,0 +1,5 @@
+--cluster-name
+--namespace
+--role-name
+--iam-endpoint
+--dry-run

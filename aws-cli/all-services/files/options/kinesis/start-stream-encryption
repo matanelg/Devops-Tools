@@ -1,0 +1,6 @@
+--stream-name
+--encryption-type
+--key-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

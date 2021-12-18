@@ -1,0 +1,15 @@
+--app-id
+--name
+--description
+--data-sources
+--type
+--app-source
+--domains
+--enable-ssl
+--no-enable-ssl
+--ssl-configuration
+--attributes
+--environment
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

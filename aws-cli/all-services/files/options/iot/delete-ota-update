@@ -1,0 +1,8 @@
+--ota-update-id
+--delete-stream
+--no-delete-stream
+--force-delete-aws-job
+--no-force-delete-aws-job
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,7 @@
+--image-id
+--allow-copy-image
+--no-allow-copy-image
+--shared-account-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

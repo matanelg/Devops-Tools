@@ -1,0 +1,12 @@
+--start-time
+--end-time
+--time-range-type
+--sampling
+--no-sampling
+--sampling-strategy
+--filter-expression
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--max-items
+--generate-cli-skeleton

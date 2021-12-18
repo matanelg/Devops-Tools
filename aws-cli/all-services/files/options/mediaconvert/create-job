@@ -1,0 +1,16 @@
+--acceleration-settings
+--billing-tags-source
+--client-request-token
+--hop-destinations
+--job-template
+--priority
+--queue
+--role
+--settings
+--simulate-reserved-queue
+--status-update-interval
+--tags
+--user-metadata
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

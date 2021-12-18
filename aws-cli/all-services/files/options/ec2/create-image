@@ -1,0 +1,12 @@
+--block-device-mappings
+--description
+--dry-run
+--no-dry-run
+--instance-id
+--name
+--no-reboot
+--reboot
+--tag-specifications
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

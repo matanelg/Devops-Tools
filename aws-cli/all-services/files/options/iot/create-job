@@ -1,0 +1,16 @@
+--job-id
+--targets
+--document-source
+--document
+--description
+--presigned-url-config
+--target-selection
+--job-executions-rollout-config
+--abort-config
+--timeout-config
+--tags
+--namespace-id
+--job-template-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

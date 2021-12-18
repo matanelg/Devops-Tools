@@ -1,0 +1,11 @@
+--display-name
+--first-name
+--last-name
+--phone-number
+--phone-numbers
+--sip-addresses
+--client-request-token
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

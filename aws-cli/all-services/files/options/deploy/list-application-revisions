@@ -1,0 +1,11 @@
+--application-name
+--sort-by
+--sort-order
+--s3-bucket
+--s3-key-prefix
+--deployed
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--max-items
+--generate-cli-skeleton

@@ -1,0 +1,11 @@
+--name
+--scope
+--capacity
+--description
+--rules
+--visibility-config
+--tags
+--custom-response-bodies
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

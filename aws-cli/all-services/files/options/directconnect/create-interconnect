@@ -1,0 +1,9 @@
+--interconnect-name
+--bandwidth
+--location
+--lag-id
+--tags
+--provider-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

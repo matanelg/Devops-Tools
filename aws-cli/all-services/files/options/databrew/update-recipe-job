@@ -1,0 +1,13 @@
+--encryption-key-arn
+--encryption-mode
+--name
+--log-subscription
+--max-capacity
+--max-retries
+--outputs
+--data-catalog-outputs
+--role-arn
+--timeout
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

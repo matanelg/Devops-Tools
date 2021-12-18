@@ -1,0 +1,5 @@
+--network-interface-id
+--private-ip-addresses
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

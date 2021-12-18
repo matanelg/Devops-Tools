@@ -1,0 +1,5 @@
+--lifecycle-hook-name
+--auto-scaling-group-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

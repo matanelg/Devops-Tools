@@ -1,0 +1,10 @@
+--client-token
+--grant-arn
+--grant-name
+--allowed-operations
+--status
+--status-reason
+--source-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,9 @@
+--thing-group-name
+--thing-group-properties
+--expected-version
+--index-name
+--query-string
+--query-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

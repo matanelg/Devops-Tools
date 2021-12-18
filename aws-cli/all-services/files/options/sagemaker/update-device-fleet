@@ -1,0 +1,9 @@
+--device-fleet-name
+--role-arn
+--description
+--output-config
+--enable-iot-role-alias
+--no-enable-iot-role-alias
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

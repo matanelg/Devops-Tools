@@ -1,0 +1,7 @@
+--custom-availability-zone-name
+--existing-vpn-id
+--new-vpn-tunnel-name
+--vpn-tunnel-originator-ip
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

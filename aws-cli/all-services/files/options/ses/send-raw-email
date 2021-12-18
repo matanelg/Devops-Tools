@@ -1,0 +1,11 @@
+--source
+--destinations
+--raw-message
+--from-arn
+--source-arn
+--return-path-arn
+--tags
+--configuration-set-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

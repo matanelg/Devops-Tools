@@ -1,0 +1,5 @@
+--accept-language
+--copy-product-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

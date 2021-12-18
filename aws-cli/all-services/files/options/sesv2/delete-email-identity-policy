@@ -1,0 +1,5 @@
+--email-identity
+--policy-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

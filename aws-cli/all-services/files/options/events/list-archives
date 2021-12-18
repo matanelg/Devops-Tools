@@ -1,0 +1,8 @@
+--name-prefix
+--event-source-arn
+--state
+--next-token
+--limit
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

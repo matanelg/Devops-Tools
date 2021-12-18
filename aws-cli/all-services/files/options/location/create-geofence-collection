@@ -1,0 +1,9 @@
+--collection-name
+--description
+--kms-key-id
+--pricing-plan
+--pricing-plan-data-source
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

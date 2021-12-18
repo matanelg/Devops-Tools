@@ -1,0 +1,14 @@
+--client-token
+--custom-data-identifier-ids
+--description
+--initial-run
+--no-initial-run
+--job-type
+--name
+--s3-job-definition
+--sampling-percentage
+--schedule-frequency
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

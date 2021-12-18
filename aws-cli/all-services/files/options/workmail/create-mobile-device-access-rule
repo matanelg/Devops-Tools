@@ -1,0 +1,16 @@
+--organization-id
+--client-token
+--name
+--description
+--effect
+--device-types
+--not-device-types
+--device-models
+--not-device-models
+--device-operating-systems
+--not-device-operating-systems
+--device-user-agents
+--not-device-user-agents
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

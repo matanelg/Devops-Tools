@@ -1,0 +1,8 @@
+--detector-model-name
+--detector-model-definition
+--detector-model-description
+--role-arn
+--evaluation-method
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

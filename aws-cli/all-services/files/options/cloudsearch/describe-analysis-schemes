@@ -1,0 +1,7 @@
+--domain-name
+--analysis-scheme-names
+--deployed
+--no-deployed
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

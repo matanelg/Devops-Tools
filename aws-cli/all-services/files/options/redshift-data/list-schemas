@@ -1,0 +1,12 @@
+--cluster-identifier
+--connected-database
+--database
+--db-user
+--schema-pattern
+--secret-arn
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

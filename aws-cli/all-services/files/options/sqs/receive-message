@@ -1,0 +1,10 @@
+--queue-url
+--attribute-names
+--message-attribute-names
+--max-number-of-messages
+--visibility-timeout
+--wait-time-seconds
+--receive-request-attempt-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

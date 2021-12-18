@@ -1,0 +1,10 @@
+--instance-id
+--name
+--description
+--default-outbound-queue-id
+--queue-configs
+--media-concurrencies
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

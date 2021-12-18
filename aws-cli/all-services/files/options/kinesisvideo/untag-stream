@@ -1,0 +1,6 @@
+--stream-arn
+--stream-name
+--tag-key-list
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

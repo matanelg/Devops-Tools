@@ -1,0 +1,11 @@
+--aws-account-id
+--theme-id
+--name
+--base-theme-id
+--version-description
+--configuration
+--permissions
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

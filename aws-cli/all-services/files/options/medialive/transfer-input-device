@@ -1,0 +1,7 @@
+--input-device-id
+--target-customer-id
+--target-region
+--transfer-message
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

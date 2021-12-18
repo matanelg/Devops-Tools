@@ -1,0 +1,8 @@
+--dry-run
+--no-dry-run
+--groups
+--instance-id
+--vpc-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

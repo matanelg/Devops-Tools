@@ -1,0 +1,8 @@
+--license-arn
+--role-arns
+--expiration-in-days
+--token-properties
+--client-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

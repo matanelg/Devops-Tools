@@ -1,0 +1,8 @@
+--connector-profile-name
+--kms-arn
+--connector-type
+--connection-mode
+--connector-profile-config
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

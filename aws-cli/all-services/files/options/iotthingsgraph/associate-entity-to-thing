@@ -1,0 +1,6 @@
+--thing-name
+--entity-id
+--namespace-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

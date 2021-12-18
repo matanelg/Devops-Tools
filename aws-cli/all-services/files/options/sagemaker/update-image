@@ -1,0 +1,8 @@
+--delete-properties
+--description
+--display-name
+--image-name
+--role-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,14 @@
+--client-token
+--description
+--encrypted
+--no-encrypted
+--kms-key-id
+--name
+--source-image-id
+--source-region
+--destination-outpost-arn
+--dry-run
+--no-dry-run
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

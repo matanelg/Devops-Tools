@@ -1,0 +1,7 @@
+--arn
+--client-token
+--deletion-protected
+--no-deletion-protected
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

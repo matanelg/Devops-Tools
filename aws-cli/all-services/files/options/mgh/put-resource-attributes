@@ -1,0 +1,8 @@
+--progress-update-stream
+--migration-task-name
+--resource-attribute-list
+--dry-run
+--no-dry-run
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

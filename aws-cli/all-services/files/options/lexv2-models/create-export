@@ -1,0 +1,6 @@
+--resource-specification
+--file-format
+--file-password
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

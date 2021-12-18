@@ -1,0 +1,13 @@
+create-delivery-stream
+delete-delivery-stream
+describe-delivery-stream
+help
+list-delivery-streams
+list-tags-for-delivery-stream
+put-record
+put-record-batch
+start-delivery-stream-encryption
+stop-delivery-stream-encryption
+tag-delivery-stream
+untag-delivery-stream
+update-destination

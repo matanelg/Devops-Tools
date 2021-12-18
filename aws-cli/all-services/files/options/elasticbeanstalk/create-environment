@@ -1,0 +1,17 @@
+--application-name
+--environment-name
+--group-name
+--description
+--cname-prefix
+--tier
+--tags
+--version-label
+--template-name
+--solution-stack-name
+--platform-arn
+--option-settings
+--options-to-remove
+--operations-role
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

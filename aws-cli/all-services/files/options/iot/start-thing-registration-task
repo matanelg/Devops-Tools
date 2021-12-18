@@ -1,0 +1,7 @@
+--template-body
+--input-file-bucket
+--input-file-key
+--role-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

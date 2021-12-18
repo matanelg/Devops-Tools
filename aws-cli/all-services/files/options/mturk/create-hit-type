@@ -1,0 +1,10 @@
+--auto-approval-delay-in-seconds
+--assignment-duration-in-seconds
+--reward
+--title
+--keywords
+--description
+--qualification-requirements
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,16 @@
+--traffic-mirror-filter-id
+--traffic-direction
+--rule-number
+--rule-action
+--destination-port-range
+--source-port-range
+--protocol
+--destination-cidr-block
+--source-cidr-block
+--description
+--dry-run
+--no-dry-run
+--client-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,6 @@
+--domain-name
+--deployed
+--no-deployed
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

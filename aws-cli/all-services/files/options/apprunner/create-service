@@ -1,0 +1,10 @@
+--service-name
+--source-configuration
+--instance-configuration
+--tags
+--encryption-configuration
+--health-check-configuration
+--auto-scaling-configuration-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

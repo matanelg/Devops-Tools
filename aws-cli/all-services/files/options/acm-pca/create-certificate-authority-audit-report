@@ -1,0 +1,6 @@
+--certificate-authority-arn
+--s3-bucket-name
+--audit-report-response-format
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

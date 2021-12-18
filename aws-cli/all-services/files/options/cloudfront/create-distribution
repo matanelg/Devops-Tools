@@ -1,0 +1,6 @@
+--distribution-config
+--origin-domain-name
+--default-root-object
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

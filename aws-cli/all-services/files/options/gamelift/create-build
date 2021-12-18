@@ -1,0 +1,8 @@
+--name
+--storage-location
+--operating-system
+--tags
+--build-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,6 @@
+--principal
+--cognito-identity-pool-id
+--thing-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

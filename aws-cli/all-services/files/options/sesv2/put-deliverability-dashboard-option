@@ -1,0 +1,6 @@
+--dashboard-enabled
+--no-dashboard-enabled
+--subscribed-domains
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

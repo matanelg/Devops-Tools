@@ -1,0 +1,10 @@
+--name
+--short-name
+--password
+--description
+--vpc-settings
+--edition
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

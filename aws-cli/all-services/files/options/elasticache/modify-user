@@ -1,0 +1,9 @@
+--user-id
+--access-string
+--append-access-string
+--passwords
+--no-password-required
+--no-no-password-required
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

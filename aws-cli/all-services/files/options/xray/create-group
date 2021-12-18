@@ -1,0 +1,7 @@
+--group-name
+--filter-expression
+--insights-configuration
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,15 @@
+--engine
+--language-code
+--lexicon-names
+--output-format
+--output-s3-bucket-name
+--output-s3-key-prefix
+--sample-rate
+--sns-topic-arn
+--speech-mark-types
+--text
+--text-type
+--voice-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

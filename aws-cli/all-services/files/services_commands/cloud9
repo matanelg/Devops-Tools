@@ -1,0 +1,14 @@
+create-environment-ec2
+create-environment-membership
+delete-environment
+delete-environment-membership
+describe-environment-memberships
+describe-environment-status
+describe-environments
+help
+list-environments
+list-tags-for-resource
+tag-resource
+untag-resource
+update-environment
+update-environment-membership

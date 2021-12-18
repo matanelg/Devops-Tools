@@ -1,0 +1,10 @@
+--dry-run
+--no-dry-run
+--service-id
+--vpc-endpoint-id
+--connection-notification-arn
+--connection-events
+--client-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

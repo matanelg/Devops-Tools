@@ -1,0 +1,7 @@
+--name
+--solution-version-arn
+--min-provisioned-tps
+--campaign-config
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,7 @@
+--db-cluster-endpoint-identifier
+--endpoint-type
+--static-members
+--excluded-members
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

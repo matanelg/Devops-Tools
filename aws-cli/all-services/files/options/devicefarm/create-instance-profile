@@ -1,0 +1,10 @@
+--name
+--description
+--package-cleanup
+--no-package-cleanup
+--exclude-app-packages-from-cleanup
+--reboot-after-use
+--no-reboot-after-use
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,15 @@
+--name
+--description
+--value
+--type
+--key-id
+--overwrite
+--no-overwrite
+--allowed-pattern
+--tags
+--tier
+--policies
+--data-type
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

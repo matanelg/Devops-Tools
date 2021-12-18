@@ -1,0 +1,11 @@
+--api-passthrough
+--certificate-authority-arn
+--csr
+--signing-algorithm
+--template-arn
+--validity
+--validity-not-before
+--idempotency-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

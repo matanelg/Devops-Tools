@@ -1,0 +1,6 @@
+--configuration-set-name
+--event-destination
+--event-destination-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

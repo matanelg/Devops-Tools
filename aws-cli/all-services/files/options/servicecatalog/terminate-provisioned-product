@@ -1,0 +1,11 @@
+--provisioned-product-name
+--provisioned-product-id
+--terminate-token
+--ignore-errors
+--no-ignore-errors
+--accept-language
+--retain-physical-resources
+--no-retain-physical-resources
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

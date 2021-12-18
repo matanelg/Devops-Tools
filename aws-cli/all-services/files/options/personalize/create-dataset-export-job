@@ -1,0 +1,8 @@
+--job-name
+--dataset-arn
+--ingestion-mode
+--role-arn
+--job-output
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

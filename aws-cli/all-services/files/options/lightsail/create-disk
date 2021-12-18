@@ -1,0 +1,8 @@
+--disk-name
+--availability-zone
+--size-in-gb
+--tags
+--add-ons
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

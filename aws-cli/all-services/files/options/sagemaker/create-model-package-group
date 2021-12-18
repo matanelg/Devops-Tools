@@ -1,0 +1,6 @@
+--model-package-group-name
+--model-package-group-description
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

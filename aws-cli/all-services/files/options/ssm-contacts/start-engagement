@@ -1,0 +1,11 @@
+--contact-id
+--sender
+--subject
+--content
+--public-subject
+--public-content
+--incident-id
+--idempotency-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

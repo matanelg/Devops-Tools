@@ -1,0 +1,7 @@
+--key-name
+--dry-run
+--no-dry-run
+--tag-specifications
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,10 @@
+--datastore-id
+--next-token
+--max-results
+--job-name
+--job-status
+--submitted-before
+--submitted-after
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

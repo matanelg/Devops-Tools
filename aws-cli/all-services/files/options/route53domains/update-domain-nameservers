@@ -1,0 +1,6 @@
+--domain-name
+--fi-auth-key
+--nameservers
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

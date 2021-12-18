@@ -1,0 +1,9 @@
+--service-name
+--metric-name
+--start-time
+--end-time
+--period
+--statistics
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

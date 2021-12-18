@@ -1,0 +1,6 @@
+--notebook-instance-lifecycle-config-name
+--on-create
+--on-start
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

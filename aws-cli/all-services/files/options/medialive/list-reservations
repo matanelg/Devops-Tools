@@ -1,0 +1,14 @@
+--channel-class
+--codec
+--maximum-bitrate
+--maximum-framerate
+--resolution
+--resource-type
+--special-feature
+--video-quality
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

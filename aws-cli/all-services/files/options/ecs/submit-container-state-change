@@ -1,0 +1,11 @@
+--cluster
+--task
+--container-name
+--runtime-id
+--status
+--exit-code
+--reason
+--network-bindings
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

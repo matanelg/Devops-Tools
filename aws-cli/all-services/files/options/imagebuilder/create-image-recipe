@@ -1,0 +1,13 @@
+--name
+--description
+--semantic-version
+--components
+--parent-image
+--block-device-mappings
+--tags
+--working-directory
+--additional-instance-configuration
+--client-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

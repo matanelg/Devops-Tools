@@ -1,0 +1,16 @@
+--api-id
+--authorizer-credentials-arn
+--authorizer-id
+--authorizer-payload-format-version
+--authorizer-result-ttl-in-seconds
+--authorizer-type
+--authorizer-uri
+--enable-simple-responses
+--no-enable-simple-responses
+--identity-source
+--identity-validation-expression
+--jwt-configuration
+--name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

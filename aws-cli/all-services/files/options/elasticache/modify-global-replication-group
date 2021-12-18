@@ -1,0 +1,12 @@
+--global-replication-group-id
+--apply-immediately
+--no-apply-immediately
+--cache-node-type
+--engine-version
+--cache-parameter-group-name
+--global-replication-group-description
+--automatic-failover-enabled
+--no-automatic-failover-enabled
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

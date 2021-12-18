@@ -1,0 +1,8 @@
+--dryrun
+--quiet
+--recursive
+--request-payer
+--include
+--exclude
+--only-show-errors
+--page-size

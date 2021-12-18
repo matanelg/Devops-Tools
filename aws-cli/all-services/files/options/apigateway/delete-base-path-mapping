@@ -1,0 +1,5 @@
+--domain-name
+--base-path
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,7 @@
+--repository-name
+--source-commit-specifier
+--destination-commit-specifier
+--target-branch
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

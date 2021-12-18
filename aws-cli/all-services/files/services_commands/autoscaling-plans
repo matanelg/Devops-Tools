@@ -1,0 +1,7 @@
+create-scaling-plan
+delete-scaling-plan
+describe-scaling-plan-resources
+describe-scaling-plans
+get-scaling-plan-resource-forecast-data
+help
+update-scaling-plan

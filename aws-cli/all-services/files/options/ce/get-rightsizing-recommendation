@@ -1,0 +1,8 @@
+--filter
+--configuration
+--service
+--page-size
+--next-page-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

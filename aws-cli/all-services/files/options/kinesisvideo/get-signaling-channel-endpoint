@@ -1,0 +1,5 @@
+--channel-arn
+--single-master-channel-endpoint-configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

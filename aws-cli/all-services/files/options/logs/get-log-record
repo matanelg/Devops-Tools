@@ -1,0 +1,4 @@
+--log-record-pointer
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

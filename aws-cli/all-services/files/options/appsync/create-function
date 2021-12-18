@@ -1,0 +1,11 @@
+--api-id
+--name
+--description
+--data-source-name
+--request-mapping-template
+--response-mapping-template
+--function-version
+--sync-config
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

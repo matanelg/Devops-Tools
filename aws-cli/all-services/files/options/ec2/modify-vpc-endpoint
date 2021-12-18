@@ -1,0 +1,17 @@
+--dry-run
+--no-dry-run
+--vpc-endpoint-id
+--reset-policy
+--no-reset-policy
+--policy-document
+--add-route-table-ids
+--remove-route-table-ids
+--add-subnet-ids
+--remove-subnet-ids
+--add-security-group-ids
+--remove-security-group-ids
+--private-dns-enabled
+--no-private-dns-enabled
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,8 @@
+--file-system-association-arn
+--user-name
+--password
+--audit-destination-arn
+--cache-attributes
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

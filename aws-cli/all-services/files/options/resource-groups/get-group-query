@@ -1,0 +1,5 @@
+--group-name
+--group
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

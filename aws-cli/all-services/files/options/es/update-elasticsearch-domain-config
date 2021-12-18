@@ -1,0 +1,17 @@
+--domain-name
+--elasticsearch-cluster-config
+--ebs-options
+--snapshot-options
+--vpc-options
+--cognito-options
+--advanced-options
+--access-policies
+--log-publishing-options
+--domain-endpoint-options
+--advanced-security-options
+--node-to-node-encryption-options
+--encryption-at-rest-options
+--auto-tune-options
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

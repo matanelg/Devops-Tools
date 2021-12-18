@@ -1,0 +1,11 @@
+--customer-gateway-id
+--type
+--vpn-gateway-id
+--transit-gateway-id
+--dry-run
+--no-dry-run
+--options
+--tag-specifications
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

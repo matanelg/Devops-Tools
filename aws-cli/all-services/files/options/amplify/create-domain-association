@@ -1,0 +1,10 @@
+--app-id
+--domain-name
+--enable-auto-sub-domain
+--no-enable-auto-sub-domain
+--sub-domain-settings
+--auto-sub-domain-creation-patterns
+--auto-sub-domain-iam-role
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

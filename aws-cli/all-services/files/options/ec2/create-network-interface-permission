@@ -1,0 +1,9 @@
+--network-interface-id
+--aws-account-id
+--aws-service
+--permission
+--dry-run
+--no-dry-run
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

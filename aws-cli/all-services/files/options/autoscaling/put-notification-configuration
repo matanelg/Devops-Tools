@@ -1,0 +1,6 @@
+--auto-scaling-group-name
+--topic-arn
+--notification-types
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

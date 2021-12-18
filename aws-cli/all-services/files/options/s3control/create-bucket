@@ -1,0 +1,14 @@
+--acl
+--bucket
+--create-bucket-configuration
+--grant-full-control
+--grant-read
+--grant-read-acp
+--grant-write
+--grant-write-acp
+--object-lock-enabled-for-bucket
+--no-object-lock-enabled-for-bucket
+--outpost-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,9 @@
+--template-name
+--from-email-address
+--template-subject
+--template-content
+--success-redirection-url
+--failure-redirection-url
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

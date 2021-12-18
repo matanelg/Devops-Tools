@@ -1,0 +1,7 @@
+--registry-id
+--repository-name
+--image-ids
+--accepted-media-types
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

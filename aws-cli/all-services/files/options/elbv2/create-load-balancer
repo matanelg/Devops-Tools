@@ -1,0 +1,12 @@
+--name
+--subnets
+--subnet-mappings
+--security-groups
+--scheme
+--tags
+--type
+--ip-address-type
+--customer-owned-ipv4-pool
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

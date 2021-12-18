@@ -1,0 +1,10 @@
+--asset-model-id
+--asset-model-name
+--asset-model-description
+--asset-model-properties
+--asset-model-hierarchies
+--asset-model-composite-models
+--client-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

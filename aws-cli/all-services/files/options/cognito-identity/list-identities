@@ -1,0 +1,8 @@
+--identity-pool-id
+--max-results
+--next-token
+--hide-disabled
+--no-hide-disabled
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

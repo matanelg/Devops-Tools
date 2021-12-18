@@ -1,0 +1,8 @@
+--replication-task-arn
+--start-replication-task-type
+--cdc-start-time
+--cdc-start-position
+--cdc-stop-position
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

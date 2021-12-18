@@ -1,0 +1,8 @@
+--allow-reassignment
+--no-allow-reassignment
+--network-interface-id
+--private-ip-addresses
+--secondary-private-ip-address-count
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

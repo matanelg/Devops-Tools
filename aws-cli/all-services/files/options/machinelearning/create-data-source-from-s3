@@ -1,0 +1,8 @@
+--data-source-id
+--data-source-name
+--data-spec
+--compute-statistics
+--no-compute-statistics
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

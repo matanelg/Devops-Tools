@@ -1,0 +1,7 @@
+--forecast-export-job-name
+--forecast-arn
+--destination
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

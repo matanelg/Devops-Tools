@@ -1,0 +1,6 @@
+--cluster-arn
+--current-version
+--target-number-of-broker-nodes
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

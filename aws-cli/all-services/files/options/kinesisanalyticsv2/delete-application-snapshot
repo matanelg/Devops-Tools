@@ -1,0 +1,6 @@
+--application-name
+--snapshot-name
+--snapshot-creation-timestamp
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

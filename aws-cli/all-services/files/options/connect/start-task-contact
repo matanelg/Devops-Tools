@@ -1,0 +1,11 @@
+--instance-id
+--previous-contact-id
+--contact-flow-id
+--attributes
+--name
+--references
+--description
+--client-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

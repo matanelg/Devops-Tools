@@ -1,0 +1,10 @@
+--cmaf-package
+--dash-package
+--hls-package
+--id
+--mss-package
+--packaging-group-id
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

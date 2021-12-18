@@ -1,0 +1,7 @@
+--aws-account-id
+--theme-id
+--grant-permissions
+--revoke-permissions
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

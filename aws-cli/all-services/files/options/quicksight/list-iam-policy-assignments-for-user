@@ -1,0 +1,8 @@
+--aws-account-id
+--user-name
+--next-token
+--max-results
+--namespace
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

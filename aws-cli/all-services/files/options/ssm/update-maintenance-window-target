@@ -1,0 +1,11 @@
+--window-id
+--window-target-id
+--targets
+--owner-information
+--name
+--description
+--replace
+--no-replace
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

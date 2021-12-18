@@ -1,0 +1,9 @@
+--auto-create-tasks
+--no-auto-create-tasks
+--name
+--update
+--client-request-token
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

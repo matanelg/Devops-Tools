@@ -1,0 +1,6 @@
+--resource-name
+--bucket-name
+--access
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

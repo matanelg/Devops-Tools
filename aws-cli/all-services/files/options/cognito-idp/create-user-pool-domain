@@ -1,0 +1,6 @@
+--domain
+--user-pool-id
+--custom-domain-config
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,6 @@
+--connection-name
+--provider-type
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

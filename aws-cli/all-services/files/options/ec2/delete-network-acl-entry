@@ -1,0 +1,9 @@
+--dry-run
+--no-dry-run
+--egress
+--ingress
+--network-acl-id
+--rule-number
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

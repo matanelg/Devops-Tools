@@ -1,0 +1,10 @@
+--dry-run
+--no-dry-run
+--source-fpga-image-id
+--description
+--name
+--source-region
+--client-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

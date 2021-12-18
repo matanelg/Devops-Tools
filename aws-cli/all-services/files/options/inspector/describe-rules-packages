@@ -1,0 +1,5 @@
+--rules-package-arns
+--locale
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

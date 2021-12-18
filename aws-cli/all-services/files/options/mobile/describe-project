@@ -1,0 +1,6 @@
+--project-id
+--sync-from-resources
+--no-sync-from-resources
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,12 @@
+--cluster-id
+--role-arn
+--description
+--resources
+--on-device-service-configuration
+--address-id
+--shipping-option
+--notification
+--forwarding-address-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

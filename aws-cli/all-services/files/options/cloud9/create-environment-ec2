@@ -1,0 +1,13 @@
+--name
+--description
+--client-request-token
+--instance-type
+--subnet-id
+--image-id
+--automatic-stop-time-minutes
+--owner-arn
+--tags
+--connection-type
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

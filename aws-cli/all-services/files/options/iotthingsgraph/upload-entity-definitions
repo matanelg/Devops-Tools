@@ -1,0 +1,8 @@
+--document
+--sync-with-public-namespace
+--no-sync-with-public-namespace
+--deprecate-existing-entities
+--no-deprecate-existing-entities
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

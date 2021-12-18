@@ -1,0 +1,11 @@
+--name
+--description
+--deployment-duration-in-minutes
+--final-bake-time-in-minutes
+--growth-factor
+--growth-type
+--replicate-to
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

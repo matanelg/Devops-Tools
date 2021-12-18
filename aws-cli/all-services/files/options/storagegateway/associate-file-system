@@ -1,0 +1,12 @@
+--user-name
+--password
+--client-token
+--gateway-arn
+--location-arn
+--tags
+--audit-destination-arn
+--cache-attributes
+--endpoint-network-configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

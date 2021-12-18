@@ -1,0 +1,10 @@
+--instance-ids
+--hibernate
+--no-hibernate
+--dry-run
+--no-dry-run
+--force
+--no-force
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

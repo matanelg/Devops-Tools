@@ -1,0 +1,4 @@
+create-endpoint
+delete-endpoint
+help
+list-endpoints

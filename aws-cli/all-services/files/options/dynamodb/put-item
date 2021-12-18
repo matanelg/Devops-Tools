@@ -1,0 +1,13 @@
+--table-name
+--item
+--expected
+--return-values
+--return-consumed-capacity
+--return-item-collection-metrics
+--conditional-operator
+--condition-expression
+--expression-attribute-names
+--expression-attribute-values
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

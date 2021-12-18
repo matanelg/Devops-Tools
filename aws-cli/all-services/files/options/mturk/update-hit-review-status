@@ -1,0 +1,6 @@
+--hit-id
+--revert
+--no-revert
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

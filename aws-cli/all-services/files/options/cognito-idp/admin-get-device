@@ -1,0 +1,6 @@
+--device-key
+--user-pool-id
+--username
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

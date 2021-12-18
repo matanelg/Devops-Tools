@@ -1,0 +1,9 @@
+--dry-run
+--no-dry-run
+--group-name
+--strategy
+--partition-count
+--tag-specifications
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

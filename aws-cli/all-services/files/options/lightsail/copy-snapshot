@@ -1,0 +1,10 @@
+--source-snapshot-name
+--source-resource-name
+--restore-date
+--use-latest-restorable-auto-snapshot
+--no-use-latest-restorable-auto-snapshot
+--target-snapshot-name
+--source-region
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

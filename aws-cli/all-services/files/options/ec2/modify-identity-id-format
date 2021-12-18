@@ -1,0 +1,7 @@
+--principal-arn
+--resource
+--use-long-ids
+--no-use-long-ids
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

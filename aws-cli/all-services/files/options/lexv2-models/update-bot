@@ -1,0 +1,9 @@
+--bot-id
+--bot-name
+--description
+--role-arn
+--data-privacy
+--idle-session-ttl-in-seconds
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

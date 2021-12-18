@@ -1,0 +1,6 @@
+--global-replication-group-id-suffix
+--global-replication-group-description
+--primary-replication-group-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

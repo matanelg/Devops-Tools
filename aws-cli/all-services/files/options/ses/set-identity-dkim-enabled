@@ -1,0 +1,6 @@
+--identity
+--dkim-enabled
+--no-dkim-enabled
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

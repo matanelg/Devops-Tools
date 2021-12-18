@@ -1,0 +1,10 @@
+--accept-language
+--source-product-arn
+--target-product-id
+--target-product-name
+--source-provisioning-artifact-identifiers
+--copy-options
+--idempotency-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

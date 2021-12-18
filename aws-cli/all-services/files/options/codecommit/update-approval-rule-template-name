@@ -1,0 +1,5 @@
+--old-approval-rule-template-name
+--new-approval-rule-template-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

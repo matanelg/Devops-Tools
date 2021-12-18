@@ -1,0 +1,6 @@
+--endpoint-name
+--endpoint-config-name
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

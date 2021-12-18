@@ -1,0 +1,6 @@
+--email-identity
+--email-forwarding-enabled
+--no-email-forwarding-enabled
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,12 @@
+--bucket
+--delimiter
+--encoding-type
+--prefix
+--request-payer
+--expected-bucket-owner
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

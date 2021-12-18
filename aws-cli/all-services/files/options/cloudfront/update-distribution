@@ -1,0 +1,7 @@
+--distribution-config
+--id
+--if-match
+--default-root-object
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

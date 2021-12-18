@@ -1,0 +1,5 @@
+--template-body
+--template-url
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

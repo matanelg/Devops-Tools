@@ -1,0 +1,8 @@
+--group-name
+--user-pool-id
+--description
+--role-arn
+--precedence
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

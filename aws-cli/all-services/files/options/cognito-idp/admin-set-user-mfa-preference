@@ -1,0 +1,7 @@
+--sms-mfa-settings
+--software-token-mfa-settings
+--username
+--user-pool-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

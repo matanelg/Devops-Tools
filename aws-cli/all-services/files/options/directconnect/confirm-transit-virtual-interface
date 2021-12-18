@@ -1,0 +1,5 @@
+--virtual-interface-id
+--direct-connect-gateway-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

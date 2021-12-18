@@ -1,0 +1,6 @@
+--trust-id
+--delete-associated-conditional-forwarder
+--no-delete-associated-conditional-forwarder
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

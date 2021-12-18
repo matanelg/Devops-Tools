@@ -1,0 +1,15 @@
+--rest-api-id
+--resource-id
+--http-method
+--authorization-type
+--authorizer-id
+--api-key-required
+--no-api-key-required
+--operation-name
+--request-parameters
+--request-models
+--request-validator-id
+--authorization-scopes
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

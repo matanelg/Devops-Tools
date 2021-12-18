@@ -1,0 +1,14 @@
+--delivery-stream-name
+--delivery-stream-type
+--kinesis-stream-source-configuration
+--delivery-stream-encryption-configuration-input
+--s3-destination-configuration
+--extended-s3-destination-configuration
+--redshift-destination-configuration
+--elasticsearch-destination-configuration
+--splunk-destination-configuration
+--http-endpoint-destination-configuration
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

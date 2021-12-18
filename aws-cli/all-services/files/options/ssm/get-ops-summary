@@ -1,0 +1,10 @@
+--sync-name
+--filters
+--aggregators
+--result-attributes
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

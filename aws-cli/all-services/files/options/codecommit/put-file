@@ -1,0 +1,12 @@
+--repository-name
+--branch-name
+--file-content
+--file-path
+--file-mode
+--parent-commit-id
+--commit-message
+--name
+--email
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

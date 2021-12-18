@@ -1,0 +1,8 @@
+--registry-id
+--repository-name
+--policy-text
+--force
+--no-force
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

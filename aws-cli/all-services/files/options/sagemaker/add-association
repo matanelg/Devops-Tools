@@ -1,0 +1,6 @@
+--source-arn
+--destination-arn
+--association-type
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

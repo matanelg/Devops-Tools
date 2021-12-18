@@ -1,0 +1,10 @@
+--api-id
+--content-handling-strategy
+--integration-id
+--integration-response-key
+--response-parameters
+--response-templates
+--template-selection-expression
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

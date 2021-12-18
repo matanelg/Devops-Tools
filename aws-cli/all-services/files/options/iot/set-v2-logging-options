@@ -1,0 +1,7 @@
+--role-arn
+--default-log-level
+--disable-all-logs
+--no-disable-all-logs
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

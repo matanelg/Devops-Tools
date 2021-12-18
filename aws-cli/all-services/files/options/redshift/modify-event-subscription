@@ -1,0 +1,11 @@
+--subscription-name
+--sns-topic-arn
+--source-type
+--source-ids
+--event-categories
+--severity
+--enabled
+--no-enabled
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

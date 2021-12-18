@@ -1,0 +1,11 @@
+--name
+--schedule-expression
+--event-pattern
+--state
+--description
+--role-arn
+--tags
+--event-bus-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

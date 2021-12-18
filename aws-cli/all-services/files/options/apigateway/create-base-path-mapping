@@ -1,0 +1,7 @@
+--domain-name
+--base-path
+--rest-api-id
+--stage
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

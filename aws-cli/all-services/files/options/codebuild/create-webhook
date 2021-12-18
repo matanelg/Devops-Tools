@@ -1,0 +1,7 @@
+--project-name
+--branch-filter
+--filter-groups
+--build-type
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

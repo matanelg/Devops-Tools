@@ -1,0 +1,7 @@
+--channel-ids
+--input-ids
+--input-security-group-ids
+--multiplex-ids
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

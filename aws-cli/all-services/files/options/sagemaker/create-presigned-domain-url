@@ -1,0 +1,7 @@
+--domain-id
+--user-profile-name
+--session-expiration-duration-in-seconds
+--expires-in-seconds
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

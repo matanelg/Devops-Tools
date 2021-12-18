@@ -1,0 +1,7 @@
+--name
+--instance-id
+--association-id
+--association-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

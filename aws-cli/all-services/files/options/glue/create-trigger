@@ -1,0 +1,14 @@
+--name
+--workflow-name
+--type
+--schedule
+--predicate
+--actions
+--description
+--start-on-creation
+--no-start-on-creation
+--tags
+--event-batching-condition
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

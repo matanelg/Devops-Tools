@@ -1,0 +1,8 @@
+--game-session-id
+--maximum-player-session-count
+--name
+--player-session-creation-policy
+--protection-policy
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

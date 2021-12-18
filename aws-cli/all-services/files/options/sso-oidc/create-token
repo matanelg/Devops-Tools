@@ -1,0 +1,11 @@
+--client-id
+--client-secret
+--grant-type
+--device-code
+--code
+--refresh-token
+--scope
+--redirect-uri
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

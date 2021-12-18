@@ -1,0 +1,8 @@
+--cluster-arn
+--current-version
+--enhanced-monitoring
+--open-monitoring
+--logging-info
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

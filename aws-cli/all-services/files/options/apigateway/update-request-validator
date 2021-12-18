@@ -1,0 +1,6 @@
+--rest-api-id
+--request-validator-id
+--patch-operations
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

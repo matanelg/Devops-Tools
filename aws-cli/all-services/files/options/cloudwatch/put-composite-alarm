@@ -1,0 +1,12 @@
+--actions-enabled
+--no-actions-enabled
+--alarm-actions
+--alarm-description
+--alarm-name
+--alarm-rule
+--insufficient-data-actions
+--ok-actions
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

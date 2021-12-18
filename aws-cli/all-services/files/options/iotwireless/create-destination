@@ -1,0 +1,10 @@
+--name
+--expression-type
+--expression
+--description
+--role-arn
+--tags
+--client-request-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,11 @@
+--edge-packaging-job-name
+--compilation-job-name
+--model-name
+--model-version
+--role-arn
+--output-config
+--resource-key
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

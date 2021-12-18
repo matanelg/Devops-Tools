@@ -1,0 +1,8 @@
+--dry-run
+--no-dry-run
+--force-delete
+--no-force-delete
+--instance-event-window-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

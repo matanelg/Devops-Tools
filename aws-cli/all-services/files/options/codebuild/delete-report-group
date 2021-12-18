@@ -1,0 +1,6 @@
+--arn
+--delete-reports
+--no-delete-reports
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,9 @@
+--instance-id
+--http-tokens
+--http-put-response-hop-limit
+--http-endpoint
+--dry-run
+--no-dry-run
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

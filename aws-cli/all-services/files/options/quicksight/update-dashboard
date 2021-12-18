@@ -1,0 +1,11 @@
+--aws-account-id
+--dashboard-id
+--name
+--source-entity
+--parameters
+--version-description
+--dashboard-publish-options
+--theme-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

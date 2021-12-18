@@ -1,0 +1,14 @@
+--tag-filters
+--tags-per-page
+--resource-type-filters
+--include-compliance-details
+--no-include-compliance-details
+--exclude-compliant-resources
+--no-exclude-compliant-resources
+--resource-arn-list
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

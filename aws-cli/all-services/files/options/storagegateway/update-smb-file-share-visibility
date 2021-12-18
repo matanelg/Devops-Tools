@@ -1,0 +1,6 @@
+--gateway-arn
+--file-shares-visible
+--no-file-shares-visible
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

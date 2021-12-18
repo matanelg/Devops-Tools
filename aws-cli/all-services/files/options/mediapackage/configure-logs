@@ -1,0 +1,6 @@
+--egress-access-logs
+--id
+--ingress-access-logs
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,8 @@
+--direct-connect-gateway-id
+--proposal-id
+--associated-gateway-id
+--max-results
+--next-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

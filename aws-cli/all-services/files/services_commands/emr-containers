@@ -1,0 +1,17 @@
+cancel-job-run
+create-managed-endpoint
+create-virtual-cluster
+delete-managed-endpoint
+delete-virtual-cluster
+describe-job-run
+describe-managed-endpoint
+describe-virtual-cluster
+help
+list-job-runs
+list-managed-endpoints
+list-tags-for-resource
+list-virtual-clusters
+start-job-run
+tag-resource
+untag-resource
+update-role-trust-policy

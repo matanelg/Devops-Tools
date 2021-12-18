@@ -1,0 +1,8 @@
+--repository-name
+--source-commit-specifier
+--destination-commit-specifier
+--conflict-detail-level
+--conflict-resolution-strategy
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

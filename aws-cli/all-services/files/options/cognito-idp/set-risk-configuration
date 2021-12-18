@@ -1,0 +1,8 @@
+--user-pool-id
+--client-id
+--compromised-credentials-risk-configuration
+--account-takeover-risk-configuration
+--risk-exception-configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,11 @@
+--domain
+--domain-owner
+--repository
+--format
+--namespace
+--package
+--versions
+--expected-status
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

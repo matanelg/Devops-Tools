@@ -1,0 +1,5 @@
+--virtual-interface-id
+--new-bgp-peer
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

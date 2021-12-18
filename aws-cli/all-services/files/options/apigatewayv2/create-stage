@@ -1,0 +1,15 @@
+--access-log-settings
+--api-id
+--auto-deploy
+--no-auto-deploy
+--client-certificate-id
+--default-route-settings
+--deployment-id
+--description
+--route-settings
+--stage-name
+--stage-variables
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

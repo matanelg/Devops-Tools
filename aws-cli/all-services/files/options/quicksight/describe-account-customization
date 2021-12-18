@@ -1,0 +1,7 @@
+--aws-account-id
+--namespace
+--resolved
+--no-resolved
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

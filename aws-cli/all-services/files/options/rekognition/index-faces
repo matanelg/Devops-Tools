@@ -1,0 +1,10 @@
+--collection-id
+--image
+--external-image-id
+--detection-attributes
+--max-faces
+--quality-filter
+--image-bytes
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

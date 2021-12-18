@@ -1,0 +1,10 @@
+--registry-id
+--repository-name
+--image-ids
+--filter
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

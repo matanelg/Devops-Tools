@@ -1,0 +1,6 @@
+--resource-arn
+--tags-to-add
+--tags-to-remove
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

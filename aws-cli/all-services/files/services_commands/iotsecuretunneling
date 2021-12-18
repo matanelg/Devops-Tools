@@ -1,0 +1,8 @@
+close-tunnel
+describe-tunnel
+help
+list-tags-for-resource
+list-tunnels
+open-tunnel
+tag-resource
+untag-resource

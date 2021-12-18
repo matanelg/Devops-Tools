@@ -1,0 +1,7 @@
+--http-package-configurations
+--source-location-name
+--tags
+--vod-source-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

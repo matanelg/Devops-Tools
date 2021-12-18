@@ -1,0 +1,6 @@
+--assessment-target-arn
+--assessment-target-name
+--resource-group-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

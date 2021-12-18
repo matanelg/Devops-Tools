@@ -1,0 +1,11 @@
+--user-id
+--user-name
+--engine
+--passwords
+--access-string
+--no-password-required
+--no-no-password-required
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

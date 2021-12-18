@@ -1,0 +1,8 @@
+--next-token
+--max-results
+--life-cycle-status-filter
+--availability-zone-filter
+--availability-zone-id-filter
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

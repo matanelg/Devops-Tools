@@ -1,0 +1,12 @@
+--amzn-client-token
+--connector-definition-version-arn
+--core-definition-version-arn
+--device-definition-version-arn
+--function-definition-version-arn
+--group-id
+--logger-definition-version-arn
+--resource-definition-version-arn
+--subscription-definition-version-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

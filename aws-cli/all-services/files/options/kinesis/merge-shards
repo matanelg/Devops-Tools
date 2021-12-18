@@ -1,0 +1,6 @@
+--stream-name
+--shard-to-merge
+--adjacent-shard-to-merge
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

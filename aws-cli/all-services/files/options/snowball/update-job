@@ -1,0 +1,13 @@
+--job-id
+--role-arn
+--notification
+--resources
+--on-device-service-configuration
+--address-id
+--shipping-option
+--description
+--snowball-capacity-preference
+--forwarding-address-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

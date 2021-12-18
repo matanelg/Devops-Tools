@@ -1,0 +1,5 @@
+--remote-access-session-arn
+--app-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

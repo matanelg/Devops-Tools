@@ -1,0 +1,5 @@
+--application-name
+--resource-lifecycle-config
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

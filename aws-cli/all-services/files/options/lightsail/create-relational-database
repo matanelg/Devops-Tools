@@ -1,0 +1,15 @@
+--relational-database-name
+--availability-zone
+--relational-database-blueprint-id
+--relational-database-bundle-id
+--master-database-name
+--master-username
+--master-user-password
+--preferred-backup-window
+--preferred-maintenance-window
+--publicly-accessible
+--no-publicly-accessible
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

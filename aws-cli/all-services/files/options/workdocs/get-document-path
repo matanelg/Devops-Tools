@@ -1,0 +1,8 @@
+--authentication-token
+--document-id
+--limit
+--fields
+--marker
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,14 @@
+--application-name
+--version-label
+--description
+--source-build-information
+--source-bundle
+--build-configuration
+--auto-create-application
+--no-auto-create-application
+--process
+--no-process
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

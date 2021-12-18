@@ -1,0 +1,12 @@
+--domain-name
+--auth-mode
+--default-user-settings
+--subnet-ids
+--vpc-id
+--tags
+--app-network-access-type
+--home-efs-file-system-kms-key-id
+--kms-key-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,7 @@
+--access-configuration
+--default-segment-delivery-configuration
+--http-configuration
+--source-location-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

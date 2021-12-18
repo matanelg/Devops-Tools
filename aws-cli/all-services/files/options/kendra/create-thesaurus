@@ -1,0 +1,10 @@
+--index-id
+--name
+--description
+--role-arn
+--tags
+--source-s3-path
+--client-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

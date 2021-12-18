@@ -1,0 +1,7 @@
+--registry-name
+--schema-name
+--schema-version
+--type
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

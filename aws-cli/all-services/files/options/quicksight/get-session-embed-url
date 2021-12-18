@@ -1,0 +1,7 @@
+--aws-account-id
+--entry-point
+--session-lifetime-in-minutes
+--user-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

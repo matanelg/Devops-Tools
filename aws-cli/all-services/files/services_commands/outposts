@@ -1,0 +1,11 @@
+create-outpost
+delete-outpost
+delete-site
+get-outpost
+get-outpost-instance-types
+help
+list-outposts
+list-sites
+list-tags-for-resource
+tag-resource
+untag-resource

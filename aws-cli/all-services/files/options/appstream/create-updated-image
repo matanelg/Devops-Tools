@@ -1,0 +1,10 @@
+--existing-image-name
+--new-image-name
+--new-image-description
+--new-image-display-name
+--new-image-tags
+--dry-run
+--no-dry-run
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

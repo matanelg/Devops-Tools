@@ -1,0 +1,11 @@
+--authorizer-name
+--authorizer-function-arn
+--token-key-name
+--token-signing-public-keys
+--status
+--tags
+--signing-disabled
+--no-signing-disabled
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

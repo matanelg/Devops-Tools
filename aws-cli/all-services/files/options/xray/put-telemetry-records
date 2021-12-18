@@ -1,0 +1,7 @@
+--telemetry-records
+--ec2-instance-id
+--hostname
+--resource-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

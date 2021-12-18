@@ -1,0 +1,16 @@
+--acl
+--access-control-policy
+--bucket
+--content-md5
+--grant-full-control
+--grant-read
+--grant-read-acp
+--grant-write
+--grant-write-acp
+--key
+--request-payer
+--version-id
+--expected-bucket-owner
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

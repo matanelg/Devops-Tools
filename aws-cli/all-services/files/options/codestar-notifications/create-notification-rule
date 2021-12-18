@@ -1,0 +1,11 @@
+--name
+--event-type-ids
+--resource
+--targets
+--detail-type
+--client-request-token
+--tags
+--status
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

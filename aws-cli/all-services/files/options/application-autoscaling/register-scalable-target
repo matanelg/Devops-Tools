@@ -1,0 +1,10 @@
+--service-namespace
+--resource-id
+--scalable-dimension
+--min-capacity
+--max-capacity
+--role-arn
+--suspended-state
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

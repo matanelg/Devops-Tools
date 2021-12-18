@@ -1,0 +1,6 @@
+--rule
+--event-bus-name
+--targets
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

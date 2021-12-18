@@ -1,0 +1,9 @@
+--compute-environment-name
+--type
+--state
+--compute-resources
+--service-role
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

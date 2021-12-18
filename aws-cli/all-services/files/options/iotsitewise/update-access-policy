@@ -1,0 +1,8 @@
+--access-policy-id
+--access-policy-identity
+--access-policy-resource
+--access-policy-permission
+--client-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

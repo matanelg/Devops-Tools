@@ -1,0 +1,13 @@
+--api-id
+--name
+--description
+--type
+--service-role-arn
+--dynamodb-config
+--lambda-config
+--elasticsearch-config
+--http-config
+--relational-database-config
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

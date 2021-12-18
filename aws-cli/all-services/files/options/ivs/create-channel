@@ -1,0 +1,10 @@
+--name
+--latency-mode
+--type
+--authorized
+--no-authorized
+--recording-configuration-arn
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

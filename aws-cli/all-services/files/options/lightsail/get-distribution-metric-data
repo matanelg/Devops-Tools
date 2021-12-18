@@ -1,0 +1,10 @@
+--distribution-name
+--metric-name
+--start-time
+--end-time
+--period
+--unit
+--statistics
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

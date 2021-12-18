@@ -1,0 +1,6 @@
+--certificate-authority-arn
+--principal
+--source-account
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

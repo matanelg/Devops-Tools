@@ -1,0 +1,10 @@
+--report-generator-name
+--type
+--report-context
+--report-frequency
+--client-token
+--description
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

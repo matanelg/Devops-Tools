@@ -1,0 +1,7 @@
+--window-id
+--window-target-id
+--safe
+--no-safe
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

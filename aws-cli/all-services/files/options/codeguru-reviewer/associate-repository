@@ -1,0 +1,7 @@
+--repository
+--client-request-token
+--tags
+--kms-key-details
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

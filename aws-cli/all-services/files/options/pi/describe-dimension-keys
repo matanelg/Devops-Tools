@@ -1,0 +1,14 @@
+--service-type
+--identifier
+--start-time
+--end-time
+--metric
+--period-in-seconds
+--group-by
+--partition-by
+--filter
+--max-results
+--next-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

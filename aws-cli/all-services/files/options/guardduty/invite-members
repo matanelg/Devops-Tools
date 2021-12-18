@@ -1,0 +1,8 @@
+--detector-id
+--account-ids
+--disable-email-notification
+--no-disable-email-notification
+--message
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

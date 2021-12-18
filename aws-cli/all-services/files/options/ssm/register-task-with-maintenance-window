@@ -1,0 +1,17 @@
+--window-id
+--targets
+--task-arn
+--service-role-arn
+--task-type
+--task-parameters
+--task-invocation-parameters
+--priority
+--max-concurrency
+--max-errors
+--logging-info
+--name
+--description
+--client-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

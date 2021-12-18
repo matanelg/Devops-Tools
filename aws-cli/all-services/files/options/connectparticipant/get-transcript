@@ -1,0 +1,10 @@
+--contact-id
+--max-results
+--next-token
+--scan-direction
+--sort-order
+--start-position
+--connection-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

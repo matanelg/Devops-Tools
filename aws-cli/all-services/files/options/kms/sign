@@ -1,0 +1,8 @@
+--key-id
+--message
+--message-type
+--grant-tokens
+--signing-algorithm
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

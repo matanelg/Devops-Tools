@@ -1,0 +1,16 @@
+--service
+--cluster
+--external-id
+--task-definition
+--network-configuration
+--load-balancers
+--service-registries
+--launch-type
+--capacity-provider-strategy
+--platform-version
+--scale
+--client-token
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

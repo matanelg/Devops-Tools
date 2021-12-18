@@ -1,0 +1,12 @@
+--function-name
+--statement-id
+--action
+--principal
+--source-arn
+--source-account
+--event-source-token
+--qualifier
+--revision-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

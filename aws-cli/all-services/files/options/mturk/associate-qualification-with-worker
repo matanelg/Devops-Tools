@@ -1,0 +1,8 @@
+--qualification-type-id
+--worker-id
+--integer-value
+--send-notification
+--no-send-notification
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

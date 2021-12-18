@@ -1,0 +1,14 @@
+--authentication-strategy
+--auto-minor-version-upgrade
+--no-auto-minor-version-upgrade
+--broker-id
+--configuration
+--engine-version
+--host-instance-type
+--ldap-server-metadata
+--logs
+--maintenance-window-start-time
+--security-groups
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

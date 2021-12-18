@@ -1,0 +1,9 @@
+--configuration-id
+--port-information-needed
+--no-port-information-needed
+--neighbor-configuration-ids
+--max-results
+--next-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,6 @@
+--pipeline-name
+--stage-name
+--transition-type
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

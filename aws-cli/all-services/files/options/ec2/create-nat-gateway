@@ -1,0 +1,10 @@
+--allocation-id
+--client-token
+--dry-run
+--no-dry-run
+--subnet-id
+--tag-specifications
+--connectivity-type
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

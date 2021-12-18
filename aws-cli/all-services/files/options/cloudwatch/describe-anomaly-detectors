@@ -1,0 +1,8 @@
+--next-token
+--max-results
+--namespace
+--metric-name
+--dimensions
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

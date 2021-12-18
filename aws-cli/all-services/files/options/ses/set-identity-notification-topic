@@ -1,0 +1,6 @@
+--identity
+--notification-type
+--sns-topic
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

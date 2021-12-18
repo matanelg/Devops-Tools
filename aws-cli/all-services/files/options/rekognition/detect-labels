@@ -1,0 +1,7 @@
+--image
+--max-labels
+--min-confidence
+--image-bytes
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

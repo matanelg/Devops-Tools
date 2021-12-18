@@ -1,0 +1,8 @@
+--deployment-config
+--client-request-token
+--fleet
+--deployment-application-configs
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,6 @@
+--game-server-group-name
+--game-server-id
+--game-server-data
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

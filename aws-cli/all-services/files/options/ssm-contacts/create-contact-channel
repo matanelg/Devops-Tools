@@ -1,0 +1,10 @@
+--contact-id
+--name
+--type
+--delivery-address
+--defer-activation
+--no-defer-activation
+--idempotency-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

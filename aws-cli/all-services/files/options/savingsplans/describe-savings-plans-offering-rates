@@ -1,0 +1,13 @@
+--savings-plan-offering-ids
+--savings-plan-payment-options
+--savings-plan-types
+--products
+--service-codes
+--usage-types
+--operations
+--filters
+--next-token
+--max-results
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

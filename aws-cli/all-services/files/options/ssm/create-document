@@ -1,0 +1,13 @@
+--content
+--requires
+--attachments
+--name
+--display-name
+--version-name
+--document-type
+--document-format
+--target-type
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

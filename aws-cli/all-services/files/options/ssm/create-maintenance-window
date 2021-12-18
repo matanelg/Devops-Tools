@@ -1,0 +1,16 @@
+--name
+--description
+--start-date
+--end-date
+--schedule
+--schedule-timezone
+--schedule-offset
+--duration
+--cutoff
+--allow-unassociated-targets
+--no-allow-unassociated-targets
+--client-token
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

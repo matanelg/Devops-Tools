@@ -1,0 +1,15 @@
+--firewall-name
+--firewall-policy-arn
+--vpc-id
+--subnet-mappings
+--delete-protection
+--no-delete-protection
+--subnet-change-protection
+--no-subnet-change-protection
+--firewall-policy-change-protection
+--no-firewall-policy-change-protection
+--description
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

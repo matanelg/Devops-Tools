@@ -1,0 +1,12 @@
+--name
+--scope
+--id
+--default-action
+--description
+--rules
+--visibility-config
+--lock-token
+--custom-response-bodies
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

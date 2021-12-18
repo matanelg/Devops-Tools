@@ -1,0 +1,14 @@
+--document-classifier-name
+--data-access-role-arn
+--tags
+--input-data-config
+--output-data-config
+--client-request-token
+--language-code
+--volume-kms-key-id
+--vpc-config
+--mode
+--model-kms-key-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

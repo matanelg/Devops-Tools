@@ -1,0 +1,8 @@
+--select-expression
+--consistent-read
+--no-consistent-read
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--max-items
+--generate-cli-skeleton

@@ -1,0 +1,9 @@
+--topic-arn
+--protocol
+--attributes
+--return-subscription-arn
+--no-return-subscription-arn
+--notification-endpoint
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

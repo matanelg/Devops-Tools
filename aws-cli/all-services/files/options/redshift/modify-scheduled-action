@@ -1,0 +1,12 @@
+--scheduled-action-name
+--target-action
+--schedule
+--iam-role
+--scheduled-action-description
+--start-time
+--end-time
+--enable
+--no-enable
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

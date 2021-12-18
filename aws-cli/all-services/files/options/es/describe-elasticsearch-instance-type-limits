@@ -1,0 +1,6 @@
+--domain-name
+--instance-type
+--elasticsearch-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,8 @@
+--organization-id
+--device-type
+--device-model
+--device-operating-system
+--device-user-agent
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

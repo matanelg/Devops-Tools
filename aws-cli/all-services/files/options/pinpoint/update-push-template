@@ -1,0 +1,8 @@
+--create-new-version
+--no-create-new-version
+--push-notification-template-request
+--template-name
+--template-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

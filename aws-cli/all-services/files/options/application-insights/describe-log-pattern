@@ -1,0 +1,6 @@
+--resource-group-name
+--pattern-set-name
+--pattern-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

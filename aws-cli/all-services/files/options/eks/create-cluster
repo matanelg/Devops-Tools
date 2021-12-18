@@ -1,0 +1,12 @@
+--name
+--role-arn
+--resources-vpc-config
+--kubernetes-network-config
+--logging
+--client-request-token
+--tags
+--encryption-config
+--kubernetes-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

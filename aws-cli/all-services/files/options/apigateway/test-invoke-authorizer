@@ -1,0 +1,11 @@
+--rest-api-id
+--authorizer-id
+--headers
+--multi-value-headers
+--path-with-query-string
+--body
+--stage-variables
+--additional-context
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

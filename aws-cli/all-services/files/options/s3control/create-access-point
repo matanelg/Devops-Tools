@@ -1,0 +1,8 @@
+--account-id
+--name
+--bucket
+--vpc-configuration
+--public-access-block-configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

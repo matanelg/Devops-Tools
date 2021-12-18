@@ -1,0 +1,17 @@
+--authorization
+--channel-id
+--cmaf-package
+--dash-package
+--description
+--hls-package
+--id
+--manifest-name
+--mss-package
+--origination
+--startover-window-seconds
+--tags
+--time-delay-seconds
+--whitelist
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

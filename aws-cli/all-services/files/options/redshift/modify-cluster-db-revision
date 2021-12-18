@@ -1,0 +1,5 @@
+--cluster-identifier
+--revision-target
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

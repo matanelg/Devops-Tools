@@ -1,0 +1,12 @@
+--organization-id
+--username
+--email-address
+--given-name
+--surname
+--password
+--time-zone-id
+--storage-rule
+--authentication-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

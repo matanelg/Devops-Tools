@@ -1,0 +1,9 @@
+--stack-set-name
+--operation-id
+--call-as
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

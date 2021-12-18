@@ -1,0 +1,6 @@
+--ops-metadata-arn
+--metadata-to-update
+--keys-to-delete
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

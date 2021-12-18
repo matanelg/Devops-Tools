@@ -1,0 +1,6 @@
+--identity-pool-id
+--push-sync
+--cognito-streams
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

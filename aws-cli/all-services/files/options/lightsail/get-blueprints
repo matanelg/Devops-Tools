@@ -1,0 +1,7 @@
+--include-inactive
+--no-include-inactive
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--max-items
+--generate-cli-skeleton

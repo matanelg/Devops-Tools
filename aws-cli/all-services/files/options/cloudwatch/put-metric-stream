@@ -1,0 +1,10 @@
+--name
+--include-filters
+--exclude-filters
+--firehose-arn
+--role-arn
+--output-format
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

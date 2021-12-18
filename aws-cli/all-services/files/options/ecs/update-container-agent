@@ -1,0 +1,5 @@
+--cluster
+--container-instance
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

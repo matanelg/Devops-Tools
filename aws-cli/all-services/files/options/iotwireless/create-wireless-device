@@ -1,0 +1,10 @@
+--type
+--name
+--description
+--destination-name
+--client-request-token
+--tags
+--lorawan
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

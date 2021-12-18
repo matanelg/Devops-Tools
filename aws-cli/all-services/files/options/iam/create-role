@@ -1,0 +1,10 @@
+--path
+--role-name
+--assume-role-policy-document
+--description
+--max-session-duration
+--permissions-boundary
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

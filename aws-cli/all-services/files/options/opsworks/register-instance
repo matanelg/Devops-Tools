@@ -1,0 +1,10 @@
+--stack-id
+--hostname
+--public-ip
+--private-ip
+--rsa-public-key
+--rsa-public-key-fingerprint
+--instance-identity
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

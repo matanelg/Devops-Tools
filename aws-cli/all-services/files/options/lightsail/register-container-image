@@ -1,0 +1,6 @@
+--service-name
+--label
+--digest
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

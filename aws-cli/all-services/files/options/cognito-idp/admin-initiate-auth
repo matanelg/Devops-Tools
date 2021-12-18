@@ -1,0 +1,10 @@
+--user-pool-id
+--client-id
+--auth-flow
+--auth-parameters
+--client-metadata
+--analytics-metadata
+--context-data
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

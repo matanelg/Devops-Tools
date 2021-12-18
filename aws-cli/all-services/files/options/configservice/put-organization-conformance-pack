@@ -1,0 +1,10 @@
+--organization-conformance-pack-name
+--template-s3-uri
+--template-body
+--delivery-s3-bucket
+--delivery-s3-key-prefix
+--conformance-pack-input-parameters
+--excluded-accounts
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

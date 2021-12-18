@@ -1,0 +1,8 @@
+--thing-name
+--thing-groups-to-add
+--thing-groups-to-remove
+--override-dynamic-groups
+--no-override-dynamic-groups
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,8 @@
+--caller-id
+--configuration-set-name
+--content
+--destination-phone-number
+--origination-phone-number
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,6 @@
+--aws-service-name
+--description
+--custom-suffix
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,10 @@
+--directory-id
+--alias
+--client-token
+--domains
+--kms-key-arn
+--enable-interoperability
+--no-enable-interoperability
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

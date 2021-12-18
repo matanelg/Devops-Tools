@@ -1,0 +1,7 @@
+--deployment-config-name
+--minimum-healthy-hosts
+--traffic-routing-config
+--compute-platform
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

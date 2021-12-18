@@ -1,0 +1,11 @@
+--client-token
+--description
+--launch-profile-id
+--launch-profile-protocol-versions
+--name
+--stream-configuration
+--studio-component-ids
+--studio-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,5 @@
+--log-group-name
+--log-stream-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,10 @@
+--cluster
+--target-type
+--attribute-name
+--attribute-value
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

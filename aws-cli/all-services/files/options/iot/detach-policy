@@ -1,0 +1,5 @@
+--policy-name
+--target
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

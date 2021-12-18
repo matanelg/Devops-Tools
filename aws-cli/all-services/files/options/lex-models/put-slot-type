@@ -1,0 +1,12 @@
+--name
+--description
+--enumeration-values
+--checksum
+--value-selection-strategy
+--create-version
+--no-create-version
+--parent-slot-type-signature
+--slot-type-configurations
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

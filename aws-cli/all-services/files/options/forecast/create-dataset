@@ -1,0 +1,10 @@
+--dataset-name
+--domain
+--dataset-type
+--data-frequency
+--schema
+--encryption-config
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

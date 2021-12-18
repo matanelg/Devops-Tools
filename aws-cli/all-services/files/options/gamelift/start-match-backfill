@@ -1,0 +1,7 @@
+--ticket-id
+--configuration-name
+--game-session-arn
+--players
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,8 @@
+--name
+--scope
+--description
+--regular-expression-list
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

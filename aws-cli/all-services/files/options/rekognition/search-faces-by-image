@@ -1,0 +1,9 @@
+--collection-id
+--image
+--max-faces
+--face-match-threshold
+--quality-filter
+--image-bytes
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

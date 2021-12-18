@@ -1,0 +1,11 @@
+--time-period
+--group-by
+--granularity
+--filter
+--metrics
+--next-page-token
+--sort-by
+--max-results
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,15 @@
+--body
+--bucket
+--content-length
+--content-md5
+--key
+--part-number
+--upload-id
+--sse-customer-algorithm
+--sse-customer-key
+--sse-customer-key-md5
+--request-payer
+--expected-bucket-owner
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

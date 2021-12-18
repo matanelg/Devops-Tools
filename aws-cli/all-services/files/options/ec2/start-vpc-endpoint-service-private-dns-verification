@@ -1,0 +1,6 @@
+--dry-run
+--no-dry-run
+--service-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

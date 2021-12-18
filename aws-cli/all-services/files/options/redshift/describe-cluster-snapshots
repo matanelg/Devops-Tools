@@ -1,0 +1,17 @@
+--cluster-identifier
+--snapshot-identifier
+--snapshot-type
+--start-time
+--end-time
+--owner-account
+--tag-keys
+--tag-values
+--cluster-exists
+--no-cluster-exists
+--sorting-entities
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

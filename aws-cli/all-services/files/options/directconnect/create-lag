@@ -1,0 +1,13 @@
+--number-of-connections
+--location
+--connections-bandwidth
+--lag-name
+--connection-id
+--tags
+--child-connection-tags
+--provider-name
+--request-mac-sec
+--no-request-mac-sec
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,5 @@
+--lens-alias
+--base-lens-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

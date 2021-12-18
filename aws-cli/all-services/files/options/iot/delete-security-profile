@@ -1,0 +1,5 @@
+--security-profile-name
+--expected-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

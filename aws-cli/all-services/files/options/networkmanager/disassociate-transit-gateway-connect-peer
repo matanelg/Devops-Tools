@@ -1,0 +1,5 @@
+--global-network-id
+--transit-gateway-connect-peer-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

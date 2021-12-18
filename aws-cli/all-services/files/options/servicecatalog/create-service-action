@@ -1,0 +1,9 @@
+--name
+--definition-type
+--definition
+--description
+--accept-language
+--idempotency-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

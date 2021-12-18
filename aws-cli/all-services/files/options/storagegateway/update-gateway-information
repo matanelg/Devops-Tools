@@ -1,0 +1,8 @@
+--gateway-arn
+--gateway-name
+--gateway-timezone
+--cloud-watch-log-group-arn
+--gateway-capacity
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

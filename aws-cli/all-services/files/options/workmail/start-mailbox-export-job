@@ -1,0 +1,11 @@
+--client-token
+--organization-id
+--entity-id
+--description
+--role-arn
+--kms-key-arn
+--s3-bucket-name
+--s3-prefix
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

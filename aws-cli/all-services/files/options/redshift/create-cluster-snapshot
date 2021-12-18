@@ -1,0 +1,7 @@
+--snapshot-identifier
+--cluster-identifier
+--manual-snapshot-retention-period
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

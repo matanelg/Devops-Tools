@@ -1,0 +1,6 @@
+--analyzer-arn
+--client-token
+--rule-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

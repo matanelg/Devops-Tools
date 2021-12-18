@@ -1,0 +1,10 @@
+--arn
+--name
+--description
+--rules
+--max-devices
+--clear-max-devices
+--no-clear-max-devices
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

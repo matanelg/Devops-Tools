@@ -1,0 +1,8 @@
+--pipeline-name
+--pipeline-execution-id
+--abandon
+--no-abandon
+--reason
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

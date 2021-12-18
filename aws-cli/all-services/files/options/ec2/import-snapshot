@@ -1,0 +1,14 @@
+--client-data
+--client-token
+--description
+--disk-container
+--dry-run
+--no-dry-run
+--encrypted
+--no-encrypted
+--kms-key-id
+--role-name
+--tag-specifications
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

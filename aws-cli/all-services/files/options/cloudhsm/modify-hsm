@@ -1,0 +1,9 @@
+--hsm-arn
+--subnet-id
+--eni-ip
+--iam-role-arn
+--external-id
+--syslog-ip
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

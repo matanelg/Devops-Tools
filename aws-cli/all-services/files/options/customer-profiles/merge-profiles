@@ -1,0 +1,7 @@
+--domain-name
+--main-profile-id
+--profile-ids-to-be-merged
+--field-source-profile-ids
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

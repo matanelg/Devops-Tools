@@ -1,0 +1,12 @@
+--input-data-config
+--output-data-config
+--data-access-role-arn
+--job-name
+--entity-recognizer-arn
+--language-code
+--client-request-token
+--volume-kms-key-id
+--vpc-config
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

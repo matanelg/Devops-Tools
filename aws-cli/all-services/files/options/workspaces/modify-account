@@ -1,0 +1,5 @@
+--dedicated-tenancy-support
+--dedicated-tenancy-management-cidr-range
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

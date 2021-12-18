@@ -1,0 +1,7 @@
+--source-environment-id
+--source-environment-name
+--destination-environment-id
+--destination-environment-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

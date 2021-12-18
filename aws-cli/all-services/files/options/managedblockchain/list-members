@@ -1,0 +1,10 @@
+--network-id
+--name
+--status
+--is-owned
+--no-is-owned
+--max-results
+--next-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

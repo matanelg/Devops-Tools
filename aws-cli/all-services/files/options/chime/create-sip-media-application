@@ -1,0 +1,6 @@
+--aws-region
+--name
+--endpoints
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

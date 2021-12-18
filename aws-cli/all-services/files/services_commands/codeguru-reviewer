@@ -1,0 +1,16 @@
+associate-repository
+create-code-review
+describe-code-review
+describe-recommendation-feedback
+describe-repository-association
+disassociate-repository
+help
+list-code-reviews
+list-recommendation-feedback
+list-recommendations
+list-repository-associations
+list-tags-for-resource
+put-recommendation-feedback
+tag-resource
+untag-resource
+wait

@@ -1,0 +1,17 @@
+--intent-name
+--description
+--parent-intent-signature
+--sample-utterances
+--dialog-code-hook
+--fulfillment-code-hook
+--intent-confirmation-setting
+--intent-closing-setting
+--input-contexts
+--output-contexts
+--kendra-configuration
+--bot-id
+--bot-version
+--locale-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

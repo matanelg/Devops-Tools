@@ -1,0 +1,8 @@
+--user-pool-id
+--provider-name
+--provider-details
+--attribute-mapping
+--idp-identifiers
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

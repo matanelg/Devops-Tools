@@ -1,0 +1,6 @@
+--data-source-id
+--verbose
+--no-verbose
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

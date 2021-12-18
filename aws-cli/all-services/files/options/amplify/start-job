@@ -1,0 +1,11 @@
+--app-id
+--branch-name
+--job-id
+--job-type
+--job-reason
+--commit-id
+--commit-message
+--commit-time
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

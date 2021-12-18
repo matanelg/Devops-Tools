@@ -1,0 +1,7 @@
+--amzn-client-token
+--execution-role-arn
+--input-file-uri
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

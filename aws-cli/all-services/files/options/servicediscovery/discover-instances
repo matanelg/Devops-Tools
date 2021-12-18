@@ -1,0 +1,9 @@
+--namespace-name
+--service-name
+--max-results
+--query-parameters
+--optional-parameters
+--health-status
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

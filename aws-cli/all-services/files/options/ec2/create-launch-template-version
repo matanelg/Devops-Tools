@@ -1,0 +1,11 @@
+--dry-run
+--no-dry-run
+--client-token
+--launch-template-id
+--launch-template-name
+--source-version
+--version-description
+--launch-template-data
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

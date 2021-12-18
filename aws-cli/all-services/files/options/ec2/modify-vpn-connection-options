@@ -1,0 +1,10 @@
+--vpn-connection-id
+--local-ipv4-network-cidr
+--remote-ipv4-network-cidr
+--local-ipv6-network-cidr
+--remote-ipv6-network-cidr
+--dry-run
+--no-dry-run
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

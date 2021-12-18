@@ -1,0 +1,7 @@
+delete-report-definition
+get-report-definition
+help
+import-application-usage
+list-report-definitions
+put-report-definition
+update-report-definition

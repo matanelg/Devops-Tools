@@ -1,0 +1,6 @@
+--db-proxy-endpoint-name
+--new-db-proxy-endpoint-name
+--vpc-security-group-ids
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

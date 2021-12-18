@@ -1,0 +1,9 @@
+--job-id
+--manifest
+--job-type
+--validate-only
+--no-validate-only
+--api-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,7 @@
+--thing-group-name
+--parent-group-name
+--thing-group-properties
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

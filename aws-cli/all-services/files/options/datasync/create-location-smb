@@ -1,0 +1,11 @@
+--subdirectory
+--server-hostname
+--user
+--domain
+--password
+--agent-arns
+--mount-options
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,12 @@
+--template-name
+--description
+--enabled
+--no-enabled
+--default-version-id
+--provisioning-role-arn
+--pre-provisioning-hook
+--remove-pre-provisioning-hook
+--no-remove-pre-provisioning-hook
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

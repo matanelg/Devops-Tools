@@ -1,0 +1,6 @@
+--feature-group-name
+--record-identifier-value-as-string
+--event-time
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

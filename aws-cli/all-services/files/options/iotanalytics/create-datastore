@@ -1,0 +1,9 @@
+--datastore-name
+--datastore-storage
+--retention-period
+--tags
+--file-format-configuration
+--datastore-partitions
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

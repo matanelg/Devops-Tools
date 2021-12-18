@@ -1,0 +1,8 @@
+--application-id
+--status
+--update-date-time
+--dry-run
+--no-dry-run
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

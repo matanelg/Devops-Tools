@@ -1,0 +1,6 @@
+--worker-id
+--qualification-type-id
+--reason
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

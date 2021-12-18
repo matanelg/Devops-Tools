@@ -1,0 +1,8 @@
+--iam-user-arn
+--ssh-username
+--ssh-public-key
+--allow-self-management
+--no-allow-self-management
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

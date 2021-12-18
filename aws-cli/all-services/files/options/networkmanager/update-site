@@ -1,0 +1,7 @@
+--global-network-id
+--site-id
+--description
+--location
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,11 @@
+--attribute-name
+--attribute-value
+--thing-type-name
+--use-prefix-attribute-value
+--no-use-prefix-attribute-value
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

@@ -1,0 +1,7 @@
+--client-token
+--instance-count
+--price-schedules
+--reserved-instances-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

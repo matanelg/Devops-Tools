@@ -1,0 +1,6 @@
+--reserved-elasticsearch-instance-offering-id
+--reservation-name
+--instance-count
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

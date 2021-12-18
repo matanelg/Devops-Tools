@@ -1,0 +1,10 @@
+--aws-account-id
+--template-id
+--name
+--permissions
+--source-entity
+--tags
+--version-description
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

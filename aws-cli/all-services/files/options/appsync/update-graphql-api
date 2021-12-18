@@ -1,0 +1,12 @@
+--api-id
+--name
+--log-config
+--authentication-type
+--user-pool-config
+--open-id-connect-config
+--additional-authentication-providers
+--xray-enabled
+--no-xray-enabled
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

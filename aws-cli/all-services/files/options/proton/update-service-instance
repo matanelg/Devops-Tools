@@ -1,0 +1,9 @@
+--deployment-type
+--name
+--service-name
+--spec
+--template-major-version
+--template-minor-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

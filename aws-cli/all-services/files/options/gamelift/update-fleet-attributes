@@ -1,0 +1,9 @@
+--fleet-id
+--name
+--description
+--new-game-session-protection-policy
+--resource-creation-limit-policy
+--metric-groups
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

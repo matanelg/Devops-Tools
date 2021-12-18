@@ -1,0 +1,5 @@
+--batch-prediction-id
+--batch-prediction-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

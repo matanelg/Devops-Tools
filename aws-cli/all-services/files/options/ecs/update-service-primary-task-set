@@ -1,0 +1,6 @@
+--cluster
+--service
+--primary-task-set
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

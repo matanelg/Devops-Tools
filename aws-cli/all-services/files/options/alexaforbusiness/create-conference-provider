@@ -1,0 +1,10 @@
+--conference-provider-name
+--conference-provider-type
+--ip-dial-in
+--pstn-dial-in
+--meeting-setting
+--client-request-token
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

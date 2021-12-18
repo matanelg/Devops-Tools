@@ -1,0 +1,6 @@
+--service
+--task-definition
+--codedeploy-appspec
+--cluster
+--codedeploy-application
+--codedeploy-deployment-group

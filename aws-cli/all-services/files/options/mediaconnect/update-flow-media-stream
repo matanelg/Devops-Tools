@@ -1,0 +1,10 @@
+--attributes
+--clock-rate
+--description
+--flow-arn
+--media-stream-name
+--media-stream-type
+--video-format
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

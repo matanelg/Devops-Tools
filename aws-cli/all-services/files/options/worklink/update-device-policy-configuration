@@ -1,0 +1,5 @@
+--fleet-arn
+--device-ca-certificate
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

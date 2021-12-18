@@ -1,0 +1,5 @@
+--rule-group-id
+--change-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

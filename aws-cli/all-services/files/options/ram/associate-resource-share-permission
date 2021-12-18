@@ -1,0 +1,9 @@
+--resource-share-arn
+--permission-arn
+--replace
+--no-replace
+--client-token
+--permission-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

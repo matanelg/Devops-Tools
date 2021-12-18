@@ -1,0 +1,7 @@
+--client-token
+--environment-name
+--management-account-id
+--role-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

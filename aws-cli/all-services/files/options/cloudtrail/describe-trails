@@ -1,0 +1,6 @@
+--trail-name-list
+--include-shadow-trails
+--no-include-shadow-trails
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

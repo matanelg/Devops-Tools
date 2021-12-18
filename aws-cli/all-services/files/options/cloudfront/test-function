@@ -1,0 +1,7 @@
+--name
+--if-match
+--stage
+--event-object
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,7 @@
+--vpn-connection-id
+--vpn-tunnel-outside-ip-address
+--dry-run
+--no-dry-run
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

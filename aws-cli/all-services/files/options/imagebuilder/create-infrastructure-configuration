@@ -1,0 +1,17 @@
+--name
+--description
+--instance-types
+--instance-profile-name
+--security-group-ids
+--subnet-id
+--logging
+--key-pair
+--terminate-instance-on-failure
+--no-terminate-instance-on-failure
+--sns-topic-arn
+--resource-tags
+--tags
+--client-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

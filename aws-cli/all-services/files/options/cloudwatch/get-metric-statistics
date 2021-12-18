@@ -1,0 +1,12 @@
+--namespace
+--metric-name
+--dimensions
+--start-time
+--end-time
+--period
+--statistics
+--extended-statistics
+--unit
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

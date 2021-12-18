@@ -1,0 +1,13 @@
+--replication-job-id
+--frequency
+--next-replication-run-start-time
+--license-type
+--role-name
+--description
+--number-of-recent-amis-to-keep
+--encrypted
+--no-encrypted
+--kms-key-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

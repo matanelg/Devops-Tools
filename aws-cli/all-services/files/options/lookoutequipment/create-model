@@ -1,0 +1,16 @@
+--model-name
+--dataset-name
+--dataset-schema
+--labels-input-configuration
+--client-token
+--training-data-start-time
+--training-data-end-time
+--evaluation-data-start-time
+--evaluation-data-end-time
+--role-arn
+--data-pre-processing-configuration
+--server-side-kms-key-id
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

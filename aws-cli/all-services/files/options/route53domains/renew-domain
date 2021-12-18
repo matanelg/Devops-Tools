@@ -1,0 +1,6 @@
+--domain-name
+--duration-in-years
+--current-expiry-year
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

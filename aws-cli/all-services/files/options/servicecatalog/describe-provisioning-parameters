@@ -1,0 +1,10 @@
+--accept-language
+--product-id
+--product-name
+--provisioning-artifact-id
+--provisioning-artifact-name
+--path-id
+--path-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

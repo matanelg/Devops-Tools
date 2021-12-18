@@ -1,0 +1,10 @@
+--transit-gateway-id
+--vpc-id
+--subnet-ids
+--options
+--tag-specifications
+--dry-run
+--no-dry-run
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,8 @@
+--state-machine-arn
+--definition
+--role-arn
+--logging-configuration
+--tracing-configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

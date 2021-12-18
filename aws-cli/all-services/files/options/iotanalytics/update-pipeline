@@ -1,0 +1,5 @@
+--pipeline-name
+--pipeline-activities
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,6 @@
+--cluster
+--settings
+--configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

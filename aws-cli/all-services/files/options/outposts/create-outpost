@@ -1,0 +1,9 @@
+--name
+--description
+--site-id
+--availability-zone
+--availability-zone-id
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,9 @@
+--application
+--sources
+--simulation-software-suite
+--robot-software-suite
+--rendering-engine
+--current-revision-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

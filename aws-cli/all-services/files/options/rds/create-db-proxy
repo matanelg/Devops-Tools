@@ -1,0 +1,15 @@
+--db-proxy-name
+--engine-family
+--auth
+--role-arn
+--vpc-subnet-ids
+--vpc-security-group-ids
+--require-tls
+--no-require-tls
+--idle-client-timeout
+--debug-logging
+--no-debug-logging
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

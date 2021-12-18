@@ -1,0 +1,11 @@
+--subnet-id
+--ssh-key
+--eni-ip
+--iam-role-arn
+--external-id
+--subscription-type
+--client-token
+--syslog-ip
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

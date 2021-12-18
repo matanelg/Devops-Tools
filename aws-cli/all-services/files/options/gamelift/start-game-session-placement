@@ -1,0 +1,11 @@
+--placement-id
+--game-session-queue-name
+--game-properties
+--maximum-player-session-count
+--game-session-name
+--player-latencies
+--desired-player-sessions
+--game-session-data
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

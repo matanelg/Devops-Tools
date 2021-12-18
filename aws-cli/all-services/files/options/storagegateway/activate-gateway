@@ -1,0 +1,11 @@
+--activation-key
+--gateway-name
+--gateway-timezone
+--gateway-region
+--gateway-type
+--tape-drive-type
+--medium-changer-type
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

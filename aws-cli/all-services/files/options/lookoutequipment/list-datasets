@@ -1,0 +1,6 @@
+--next-token
+--max-results
+--dataset-name-begins-with
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

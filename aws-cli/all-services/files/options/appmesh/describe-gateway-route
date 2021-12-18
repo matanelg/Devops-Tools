@@ -1,0 +1,7 @@
+--gateway-route-name
+--mesh-name
+--mesh-owner
+--virtual-gateway-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

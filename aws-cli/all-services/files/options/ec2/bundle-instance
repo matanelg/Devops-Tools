@@ -1,0 +1,12 @@
+--instance-id
+--storage
+--dry-run
+--no-dry-run
+--bucket
+--prefix
+--owner-akid
+--owner-sak
+--policy
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

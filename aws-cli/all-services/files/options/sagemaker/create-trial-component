@@ -1,0 +1,13 @@
+--trial-component-name
+--display-name
+--status
+--start-time
+--end-time
+--parameters
+--input-artifacts
+--output-artifacts
+--metadata-properties
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

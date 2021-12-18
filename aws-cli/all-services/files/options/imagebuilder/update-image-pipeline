@@ -1,0 +1,15 @@
+--image-pipeline-arn
+--description
+--image-recipe-arn
+--container-recipe-arn
+--infrastructure-configuration-arn
+--distribution-configuration-arn
+--image-tests-configuration
+--enhanced-image-metadata-enabled
+--no-enhanced-image-metadata-enabled
+--schedule
+--status
+--client-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

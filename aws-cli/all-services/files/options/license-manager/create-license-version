@@ -1,0 +1,15 @@
+--license-arn
+--license-name
+--product-name
+--issuer
+--home-region
+--validity
+--license-metadata
+--entitlements
+--consumption-configuration
+--status
+--client-token
+--source-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

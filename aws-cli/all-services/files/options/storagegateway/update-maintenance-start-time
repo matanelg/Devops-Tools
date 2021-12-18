@@ -1,0 +1,8 @@
+--gateway-arn
+--hour-of-day
+--minute-of-hour
+--day-of-week
+--day-of-month
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

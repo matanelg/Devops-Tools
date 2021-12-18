@@ -1,0 +1,7 @@
+--location-arn
+--subdirectory
+--on-prem-config
+--mount-options
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

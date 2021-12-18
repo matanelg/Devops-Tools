@@ -1,0 +1,10 @@
+--cluster-identifier
+--defer-maintenance
+--no-defer-maintenance
+--defer-maintenance-identifier
+--defer-maintenance-start-time
+--defer-maintenance-end-time
+--defer-maintenance-duration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,17 @@
+--instance-names
+--attached-disk-mapping
+--availability-zone
+--instance-snapshot-name
+--bundle-id
+--user-data
+--key-pair-name
+--tags
+--add-ons
+--ip-address-type
+--source-instance-name
+--restore-date
+--use-latest-restorable-auto-snapshot
+--no-use-latest-restorable-auto-snapshot
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

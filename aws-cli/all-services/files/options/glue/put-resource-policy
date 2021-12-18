@@ -1,0 +1,8 @@
+--policy-in-json
+--resource-arn
+--policy-hash-condition
+--policy-exists-condition
+--enable-hybrid
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

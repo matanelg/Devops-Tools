@@ -1,0 +1,7 @@
+--bucket
+--key
+--version-id
+--expected-bucket-owner
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

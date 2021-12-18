@@ -1,0 +1,7 @@
+--alarm-name
+--state-value
+--state-reason
+--state-reason-data
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

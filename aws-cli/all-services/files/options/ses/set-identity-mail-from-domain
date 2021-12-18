@@ -1,0 +1,6 @@
+--identity
+--mail-from-domain
+--behavior-on-mx-failure
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

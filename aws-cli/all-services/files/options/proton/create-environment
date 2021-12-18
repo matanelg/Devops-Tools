@@ -1,0 +1,12 @@
+--description
+--environment-account-connection-id
+--name
+--proton-service-role-arn
+--spec
+--tags
+--template-major-version
+--template-minor-version
+--template-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

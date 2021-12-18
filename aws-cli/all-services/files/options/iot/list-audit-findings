@@ -1,0 +1,13 @@
+--task-id
+--check-name
+--resource-identifier
+--start-time
+--end-time
+--list-suppressed-findings
+--no-list-suppressed-findings
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

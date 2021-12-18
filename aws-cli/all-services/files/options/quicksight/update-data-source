@@ -1,0 +1,10 @@
+--aws-account-id
+--data-source-id
+--name
+--data-source-parameters
+--credentials
+--vpc-connection-properties
+--ssl-properties
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

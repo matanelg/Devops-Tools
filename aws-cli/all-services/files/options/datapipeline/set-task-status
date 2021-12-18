@@ -1,0 +1,8 @@
+--task-id
+--task-status
+--error-id
+--error-message
+--error-stack-trace
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,5 @@
+--configuration-set-name
+--configuration-set-attribute-names
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

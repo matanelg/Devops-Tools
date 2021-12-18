@@ -1,0 +1,6 @@
+--resource-arn
+--add-license-specifications
+--remove-license-specifications
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

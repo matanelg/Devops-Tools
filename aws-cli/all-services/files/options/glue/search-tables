@@ -1,0 +1,10 @@
+--catalog-id
+--next-token
+--filters
+--search-text
+--sort-criteria
+--max-results
+--resource-share-type
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,6 @@
+--app-image-config-name
+--tags
+--kernel-gateway-image-config
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

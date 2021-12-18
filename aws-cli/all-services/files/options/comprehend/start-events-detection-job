@@ -1,0 +1,10 @@
+--input-data-config
+--output-data-config
+--data-access-role-arn
+--job-name
+--language-code
+--client-request-token
+--target-event-types
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

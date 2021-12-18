@@ -1,0 +1,13 @@
+--from-email-address
+--from-email-address-identity-arn
+--destination
+--reply-to-addresses
+--feedback-forwarding-email-address
+--feedback-forwarding-email-address-identity-arn
+--content
+--email-tags
+--configuration-set-name
+--list-management-options
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

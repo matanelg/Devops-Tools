@@ -1,0 +1,8 @@
+--pipeline-name
+--pipeline-execution-display-name
+--pipeline-parameters
+--pipeline-execution-description
+--client-request-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,6 @@
+batch-execute-statement
+begin-transaction
+commit-transaction
+execute-statement
+help
+rollback-transaction

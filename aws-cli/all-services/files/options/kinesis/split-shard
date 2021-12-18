@@ -1,0 +1,6 @@
+--stream-name
+--shard-to-split
+--new-starting-hash-key
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

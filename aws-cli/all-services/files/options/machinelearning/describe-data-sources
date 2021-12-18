@@ -1,0 +1,15 @@
+--filter-variable
+--eq
+--gt
+--lt
+--ge
+--le
+--ne
+--prefix
+--sort-order
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

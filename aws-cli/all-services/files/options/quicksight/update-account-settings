@@ -1,0 +1,6 @@
+--aws-account-id
+--default-namespace
+--notification-email
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

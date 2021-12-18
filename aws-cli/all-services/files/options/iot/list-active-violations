@@ -1,0 +1,11 @@
+--thing-name
+--security-profile-name
+--behavior-criteria-type
+--list-suppressed-alerts
+--no-list-suppressed-alerts
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

@@ -1,0 +1,10 @@
+--ml-model-id
+--ml-model-name
+--ml-model-type
+--parameters
+--training-data-source-id
+--recipe
+--recipe-uri
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

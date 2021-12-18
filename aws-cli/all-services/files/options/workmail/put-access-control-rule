@@ -1,0 +1,13 @@
+--name
+--effect
+--description
+--ip-ranges
+--not-ip-ranges
+--actions
+--not-actions
+--user-ids
+--not-user-ids
+--organization-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

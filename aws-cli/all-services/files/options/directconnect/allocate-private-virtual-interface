@@ -1,0 +1,6 @@
+--connection-id
+--owner-account
+--new-private-virtual-interface-allocation
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

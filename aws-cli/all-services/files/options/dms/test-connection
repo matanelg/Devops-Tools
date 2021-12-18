@@ -1,0 +1,5 @@
+--replication-instance-arn
+--endpoint-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

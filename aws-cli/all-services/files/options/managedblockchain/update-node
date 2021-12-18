@@ -1,0 +1,7 @@
+--network-id
+--member-id
+--node-id
+--log-publishing-configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

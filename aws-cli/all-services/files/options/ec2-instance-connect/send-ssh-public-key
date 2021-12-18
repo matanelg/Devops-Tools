@@ -1,0 +1,7 @@
+--instance-id
+--instance-os-user
+--ssh-public-key
+--availability-zone
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

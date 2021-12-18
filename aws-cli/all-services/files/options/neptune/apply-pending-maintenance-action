@@ -1,0 +1,6 @@
+--resource-identifier
+--apply-action
+--opt-in-type
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

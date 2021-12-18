@@ -1,0 +1,10 @@
+--parent-group
+--name-prefix-filter
+--recursive
+--no-recursive
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

@@ -1,0 +1,8 @@
+--max-items
+--creation-token
+--file-system-id
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--generate-cli-skeleton

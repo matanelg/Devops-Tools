@@ -1,0 +1,13 @@
+create-connection
+create-host
+delete-connection
+delete-host
+get-connection
+get-host
+help
+list-connections
+list-hosts
+list-tags-for-resource
+tag-resource
+untag-resource
+update-host

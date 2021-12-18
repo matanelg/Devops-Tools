@@ -1,0 +1,9 @@
+--aws-account-id
+--analysis-id
+--name
+--parameters
+--source-entity
+--theme-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

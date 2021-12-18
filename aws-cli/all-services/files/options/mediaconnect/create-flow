@@ -1,0 +1,12 @@
+--availability-zone
+--entitlements
+--media-streams
+--name
+--outputs
+--source
+--source-failover-config
+--sources
+--vpc-interfaces
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

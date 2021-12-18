@@ -1,0 +1,5 @@
+--config-rule-name
+--resource-type
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

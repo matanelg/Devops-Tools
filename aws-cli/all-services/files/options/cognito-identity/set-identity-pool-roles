@@ -1,0 +1,6 @@
+--identity-pool-id
+--roles
+--role-mappings
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

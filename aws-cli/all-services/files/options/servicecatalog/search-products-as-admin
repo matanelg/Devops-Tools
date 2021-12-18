@@ -1,0 +1,12 @@
+--accept-language
+--portfolio-id
+--filters
+--sort-by
+--sort-order
+--page-size
+--product-source
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--max-items
+--generate-cli-skeleton

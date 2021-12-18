@@ -1,0 +1,10 @@
+--fargate-profile-name
+--cluster-name
+--pod-execution-role-arn
+--subnets
+--selectors
+--client-request-token
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

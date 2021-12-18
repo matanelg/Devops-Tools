@@ -1,0 +1,14 @@
+--log-group-name
+--log-stream-names
+--log-stream-name-prefix
+--start-time
+--end-time
+--filter-pattern
+--interleaved
+--no-interleaved
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

@@ -1,0 +1,5 @@
+--member-account-id
+--s3-resources-update
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,9 @@
+--directory-arn
+--ordered-indexed-attribute-list
+--is-unique
+--no-is-unique
+--parent-reference
+--link-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

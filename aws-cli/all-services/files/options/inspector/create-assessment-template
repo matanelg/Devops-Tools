@@ -1,0 +1,8 @@
+--assessment-target-arn
+--assessment-template-name
+--duration-in-seconds
+--rules-package-arns
+--user-attributes-for-findings
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,10 @@
+--amzn-client-token
+--s3-url-signer-role
+--software-to-update
+--update-agent-log-level
+--update-targets
+--update-targets-architecture
+--update-targets-operating-system
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,11 @@
+--lifecycle-hook-name
+--auto-scaling-group-name
+--lifecycle-transition
+--role-arn
+--notification-target-arn
+--notification-metadata
+--heartbeat-timeout
+--default-result
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

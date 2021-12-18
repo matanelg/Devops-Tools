@@ -1,0 +1,11 @@
+--aws-account-id
+--analysis-id
+--name
+--parameters
+--permissions
+--source-entity
+--theme-arn
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

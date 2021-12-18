@@ -1,0 +1,11 @@
+--id
+--name
+--role-arn
+--description
+--document-metadata-configuration-updates
+--capacity-units
+--user-token-configurations
+--user-context-policy
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

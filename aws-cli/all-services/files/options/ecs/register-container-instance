@@ -1,0 +1,12 @@
+--cluster
+--instance-identity-document
+--instance-identity-document-signature
+--total-resources
+--version-info
+--container-instance-arn
+--attributes
+--platform-devices
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

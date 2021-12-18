@@ -1,0 +1,7 @@
+--catalog-id
+--resource
+--show-assigned-lf-tags
+--no-show-assigned-lf-tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

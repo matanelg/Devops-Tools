@@ -1,0 +1,12 @@
+create-cli-token
+create-environment
+create-web-login-token
+delete-environment
+get-environment
+help
+list-environments
+list-tags-for-resource
+publish-metrics
+tag-resource
+untag-resource
+update-environment

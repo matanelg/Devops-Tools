@@ -1,0 +1,7 @@
+complete-snapshot
+get-snapshot-block
+help
+list-changed-blocks
+list-snapshot-blocks
+put-snapshot-block
+start-snapshot

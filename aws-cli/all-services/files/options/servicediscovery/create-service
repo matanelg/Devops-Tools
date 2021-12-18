@@ -1,0 +1,12 @@
+--name
+--namespace-id
+--creator-request-id
+--description
+--dns-config
+--health-check-config
+--health-check-custom-config
+--tags
+--type
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

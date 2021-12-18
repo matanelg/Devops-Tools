@@ -1,0 +1,7 @@
+--project-name
+--placement-name
+--device-id
+--device-template-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,7 @@
+--template
+--name
+--template-body
+--template-location
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

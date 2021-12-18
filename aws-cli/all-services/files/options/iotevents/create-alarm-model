@@ -1,0 +1,13 @@
+--alarm-model-name
+--alarm-model-description
+--role-arn
+--tags
+--key
+--severity
+--alarm-rule
+--alarm-notification
+--alarm-event-actions
+--alarm-capabilities
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

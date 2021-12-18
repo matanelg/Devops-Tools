@@ -1,0 +1,11 @@
+--reserved-cache-nodes-offering-id
+--cache-node-type
+--duration
+--product-description
+--offering-type
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

@@ -1,0 +1,13 @@
+--catalog-id
+--database-name
+--table-name
+--expression
+--segment
+--exclude-column-schema
+--no-exclude-column-schema
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

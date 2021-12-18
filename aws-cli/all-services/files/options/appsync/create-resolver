@@ -1,0 +1,13 @@
+--api-id
+--type-name
+--field-name
+--data-source-name
+--request-mapping-template
+--response-mapping-template
+--kind
+--pipeline-config
+--sync-config
+--caching-config
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

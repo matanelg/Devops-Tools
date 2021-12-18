@@ -1,0 +1,7 @@
+--job-queue
+--state
+--priority
+--compute-environment-order
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

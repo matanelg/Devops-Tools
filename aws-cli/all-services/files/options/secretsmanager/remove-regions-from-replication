@@ -1,0 +1,5 @@
+--secret-id
+--remove-replica-regions
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

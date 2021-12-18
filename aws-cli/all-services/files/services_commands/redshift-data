@@ -1,0 +1,10 @@
+cancel-statement
+describe-statement
+describe-table
+execute-statement
+get-statement-result
+help
+list-databases
+list-schemas
+list-statements
+list-tables

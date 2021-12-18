@@ -1,0 +1,12 @@
+--name
+--timeout-in-seconds
+--player-latency-policies
+--destinations
+--filter-configuration
+--priority-configuration
+--custom-event-data
+--notification-target
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

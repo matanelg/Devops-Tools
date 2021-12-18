@@ -1,0 +1,12 @@
+--repository-name
+--destination-commit-specifier
+--source-commit-specifier
+--merge-option
+--max-merge-hunks
+--file-path
+--conflict-detail-level
+--conflict-resolution-strategy
+--next-token
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

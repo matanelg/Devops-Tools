@@ -1,0 +1,6 @@
+--disk-name
+--force-delete-add-ons
+--no-force-delete-add-ons
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,5 @@
+--role-arn
+--resource-arn
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

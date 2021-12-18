@@ -1,0 +1,14 @@
+--accept-language
+--plan-name
+--plan-type
+--notification-arns
+--path-id
+--product-id
+--provisioned-product-name
+--provisioning-artifact-id
+--provisioning-parameters
+--idempotency-token
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,10 @@
+--snapshot-id
+--block-index
+--block-data
+--data-length
+--progress
+--checksum
+--checksum-algorithm
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

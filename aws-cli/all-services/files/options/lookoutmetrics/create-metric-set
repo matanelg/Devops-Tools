@@ -1,0 +1,14 @@
+--anomaly-detector-arn
+--metric-set-name
+--metric-set-description
+--metric-list
+--offset
+--timestamp-column
+--dimension-list
+--metric-set-frequency
+--metric-source
+--timezone
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

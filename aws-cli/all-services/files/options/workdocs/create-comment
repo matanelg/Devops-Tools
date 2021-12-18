@@ -1,0 +1,12 @@
+--authentication-token
+--document-id
+--version-id
+--parent-id
+--thread-id
+--text
+--visibility
+--notify-collaborators
+--no-notify-collaborators
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

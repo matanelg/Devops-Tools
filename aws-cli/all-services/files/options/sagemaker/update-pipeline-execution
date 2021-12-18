@@ -1,0 +1,6 @@
+--pipeline-execution-arn
+--pipeline-execution-description
+--pipeline-execution-display-name
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

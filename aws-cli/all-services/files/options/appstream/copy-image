@@ -1,0 +1,7 @@
+--source-image-name
+--destination-image-name
+--destination-region
+--destination-image-description
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

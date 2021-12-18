@@ -1,0 +1,11 @@
+--capacity-reservation-id
+--instance-count
+--end-date
+--end-date-type
+--accept
+--no-accept
+--dry-run
+--no-dry-run
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

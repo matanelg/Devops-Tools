@@ -1,0 +1,6 @@
+--delivery-stream-name
+--allow-force-delete
+--no-allow-force-delete
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,15 @@
+--name
+--description
+--clone-from
+--binary-media-types
+--minimum-compression-size
+--api-key-source
+--endpoint-configuration
+--policy
+--tags
+--disable-execute-api-endpoint
+--no-disable-execute-api-endpoint
+--api-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

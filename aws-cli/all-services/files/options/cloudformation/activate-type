@@ -1,0 +1,14 @@
+--type
+--public-type-arn
+--publisher-id
+--type-name
+--type-name-alias
+--auto-update
+--no-auto-update
+--logging-config
+--execution-role-arn
+--version-bump
+--major-version
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

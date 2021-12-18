@@ -1,0 +1,13 @@
+--client-request-token
+--file-system-type
+--storage-capacity
+--storage-type
+--subnet-ids
+--security-group-ids
+--tags
+--kms-key-id
+--windows-configuration
+--lustre-configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

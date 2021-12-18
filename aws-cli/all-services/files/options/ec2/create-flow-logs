@@ -1,0 +1,16 @@
+--dry-run
+--no-dry-run
+--client-token
+--deliver-logs-permission-arn
+--log-group-name
+--resource-ids
+--resource-type
+--traffic-type
+--log-destination-type
+--log-destination
+--log-format
+--tag-specifications
+--max-aggregation-interval
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,11 @@
+--name
+--resource-arns
+--principals
+--tags
+--allow-external-principals
+--no-allow-external-principals
+--client-token
+--permission-arns
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

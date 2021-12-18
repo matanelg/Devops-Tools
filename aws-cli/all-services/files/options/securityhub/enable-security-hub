@@ -1,0 +1,6 @@
+--tags
+--enable-default-standards
+--no-enable-default-standards
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

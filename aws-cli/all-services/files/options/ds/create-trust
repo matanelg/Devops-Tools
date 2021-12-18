@@ -1,0 +1,10 @@
+--directory-id
+--remote-domain-name
+--trust-password
+--trust-direction
+--trust-type
+--conditional-forwarder-ip-addrs
+--selective-auth
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

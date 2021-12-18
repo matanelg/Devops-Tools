@@ -1,0 +1,8 @@
+--detector-id
+--enable
+--no-enable
+--finding-publishing-frequency
+--data-sources
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

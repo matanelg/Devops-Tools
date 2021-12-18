@@ -1,0 +1,12 @@
+--alarm-name
+--alarm-types
+--history-item-type
+--start-date
+--end-date
+--scan-by
+--cli-input-json
+--cli-input-yaml
+--starting-token
+--page-size
+--max-items
+--generate-cli-skeleton

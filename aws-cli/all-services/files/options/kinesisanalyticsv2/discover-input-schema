@@ -1,0 +1,8 @@
+--resource-arn
+--service-execution-role
+--input-starting-position-configuration
+--s3-configuration
+--input-processing-configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

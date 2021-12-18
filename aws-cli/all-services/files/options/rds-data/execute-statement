@@ -1,0 +1,15 @@
+--continue-after-timeout
+--no-continue-after-timeout
+--database
+--include-result-metadata
+--no-include-result-metadata
+--parameters
+--resource-arn
+--result-set-options
+--schema
+--secret-arn
+--sql
+--transaction-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

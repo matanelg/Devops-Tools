@@ -1,0 +1,16 @@
+--name
+--role
+--database-name
+--description
+--targets
+--schedule
+--classifiers
+--table-prefix
+--schema-change-policy
+--recrawl-policy
+--lineage-configuration
+--configuration
+--crawler-security-configuration
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

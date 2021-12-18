@@ -1,0 +1,4 @@
+--trace-segment-documents
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

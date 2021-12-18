@@ -1,0 +1,13 @@
+--job-template-id
+--job-arn
+--document-source
+--document
+--description
+--presigned-url-config
+--job-executions-rollout-config
+--abort-config
+--timeout-config
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

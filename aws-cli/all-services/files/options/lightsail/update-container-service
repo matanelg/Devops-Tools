@@ -1,0 +1,9 @@
+--service-name
+--power
+--scale
+--is-disabled
+--no-is-disabled
+--public-domain-names
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

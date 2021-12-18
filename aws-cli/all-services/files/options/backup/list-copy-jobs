@@ -1,0 +1,12 @@
+--next-token
+--max-results
+--by-resource-arn
+--by-state
+--by-created-before
+--by-created-after
+--by-resource-type
+--by-destination-vault-arn
+--by-account-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

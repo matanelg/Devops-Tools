@@ -1,0 +1,10 @@
+--creator-request-id
+--name
+--rule-type
+--domain-name
+--target-ips
+--resolver-endpoint-id
+--tags
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

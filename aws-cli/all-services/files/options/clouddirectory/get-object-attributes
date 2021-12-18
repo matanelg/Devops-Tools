@@ -1,0 +1,8 @@
+--directory-arn
+--object-reference
+--consistency-level
+--schema-facet
+--attribute-names
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

@@ -1,0 +1,10 @@
+--instance-name
+--metric-name
+--period
+--start-time
+--end-time
+--unit
+--statistics
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

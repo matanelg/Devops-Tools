@@ -1,0 +1,9 @@
+--job-id
+--thing-name
+--execution-number
+--force
+--no-force
+--namespace-id
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton

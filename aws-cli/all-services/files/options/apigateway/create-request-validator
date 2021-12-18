@@ -1,0 +1,9 @@
+--rest-api-id
+--name
+--validate-request-body
+--no-validate-request-body
+--validate-request-parameters
+--no-validate-request-parameters
+--cli-input-json
+--cli-input-yaml
+--generate-cli-skeleton
