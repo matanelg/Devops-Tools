@@ -33,9 +33,19 @@ aws <resource> <subcommand> help	# get all next subcommands for this resource co
 ## 03-All Available Services:
 
 <details>
+
 <summary>
 ## My test!
 </summary>
+
+<details>
+<summary>
+## My test!
+</summary>
+
+* Elem1
+* Elem 2
+</details>
 
 * Elem1
 * Elem 2
