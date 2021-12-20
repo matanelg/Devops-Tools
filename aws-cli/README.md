@@ -60,7 +60,7 @@ aws <resource> <subcommand> help	# get all next subcommands for this resource co
 
 ####
 <details>
-- accessanalyzer
+<summary> - accessanalyzer</summary><br><b>
   - apply-archive-rule
   - cancel-policy-generation
 </b></details>
