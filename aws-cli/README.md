@@ -55,8 +55,12 @@ apply-archive-rule
 <summary>
 accessanalyzer
 </summary>
-- <details><summary>apply-archive-rule</summary></details>
-- <details><summary>apply-archive-rule</summary></details>
+* <details>
+  <summary>
+  apply-archive-rule
+  </summary>
+  </details>
+* <details><summary>apply-archive-rule</summary></details>
 </details>
 
 
