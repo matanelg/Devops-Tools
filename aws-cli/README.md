@@ -44,6 +44,7 @@ apply-archive-rule
 </summary>
 
 * --analyzer-arn
+  * dfffdfd
 * --client-token
 </details>
 
