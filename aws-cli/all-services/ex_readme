@@ -1,0 +1,17 @@
+#!/bin/bash
+
+touch readme1
+
+for service in $(ls -1 ./options);
+do
+	echo -e "<details>\n\n<summary>\n$service\n</summary>\n" >> readme1
+
+	for command in $(ls -1 ./options/$service);
+	do
+		echo -e "- <details><summary>$command</summary>\n" >> readme1
+		sed "s/^/  * /g" ./options/$service/$command >> readme1
+		echo -e "\n" >> readme1
+	done
+	echo -e "</details>\n" >> readme1
+done
+
