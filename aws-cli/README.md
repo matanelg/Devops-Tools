@@ -32,6 +32,14 @@ aws <resource> <subcommand> help	# get all next subcommands for this resource co
 
 ## 03-All Available Services:
 
+```
+aws resource subcommand option
+
+- resource
+  - subcommand
+    - option
+```
+
 <details>
 
 <summary>
