@@ -35,20 +35,18 @@ aws <resource> <subcommand> help	# get all next subcommands for this resource co
 <details>
 
 <summary>
-## My test!
+accessanalyzer
 </summary>
 
 <details>
 <summary>
-## My test!
+apply-archive-rule
 </summary>
 
-* Elem1
-* Elem 2
+* --analyzer-arn
+* --client-token
 </details>
 
-* Elem1
-* Elem 2
 </details>
 
 - accessanalyzer
