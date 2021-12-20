@@ -31,39 +31,12 @@ aws <resource> <subcommand> help	# get all next subcommands for this resource co
 ```
 
 ## 03-All Available Services:
+
 <details>
 <summary>accessanalyzer</summary><br><b>
-<details>
-<summary>&nbsp; &nbsp; apply-archive-rule</summary><br><b>
-      --analyzer-arn
-      --client-token
-      --rule-name
-      --cli-input-json
-      --cli-input-yaml
-      --generate-cli-skeleton
-</b></details>
-<details>
-<summary> &nbsp; &nbsp; cancel-policy-generation</summary><br><b>
-      --job-id
-      --cli-input-json
-      --cli-input-yaml
-      --generate-cli-skeleton
-</b></details>
-</b></details>
-
-
-
-
-
-
-
-
-####
-
-<details>
-<summary>accessanalyzer</summary><br>
-- apply-archive-rule
-- cancel-policy-generation
+aa
+  - apply-archive-rule
+  - cancel-policy-generation
 </b></details>
 
 
