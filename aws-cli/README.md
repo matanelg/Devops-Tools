@@ -33,14 +33,15 @@ aws <resource> <subcommand> help	# get all next subcommands for this resource co
 ## 03-All Available Services:
 
 <details>
-<summary>accessanalyzer</summary><br><b>
-aa:
-  - apply-archive-rule
-  - cancel-policy-generation
-</b></details>
+<summary>
+## My test!
+</summary>
 
+* Elem1
+* Elem 2
+</details>
 
-
+- accessanalyzer
 - acm
 - acm-pca
 - alexaforbusiness
