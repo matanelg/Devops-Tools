@@ -51,7 +51,7 @@ apply-archive-rule
 
 
 
-- <details><summary>accessanalyzer</summary>
+<details><summary>accessanalyzer</summary>
   - <details><summary>apply-archive-rule</summary>
     dd
   </details>
