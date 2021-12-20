@@ -35,7 +35,7 @@ aws <resource> <subcommand> help	# get all next subcommands for this resource co
 <details>
 
 <summary>
-accessanalyzer
+**accessanalyzer**
 </summary>
 
 <details>
