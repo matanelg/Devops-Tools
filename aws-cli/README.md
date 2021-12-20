@@ -40,7 +40,7 @@ aws <resource> <subcommand> help	# get all next subcommands for this resource co
 
 <details>
 <summary>
-apply-archive-rule
+&nbsp; &nbsp; apply-archive-rule
 </summary>
 
 * --analyzer-arn
