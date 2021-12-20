@@ -40,7 +40,7 @@ aws <resource> <subcommand> help	# get all next subcommands for this resource co
 
 <details>
 <summary>
-&nbsp; &nbsp; apply-archive-rule
+apply-archive-rule
 </summary>
 
 * --analyzer-arn
@@ -48,6 +48,18 @@ aws <resource> <subcommand> help	# get all next subcommands for this resource co
 </details>
 
 </details>
+
+
+
+- <details><summary>accessanalyzer</summary>
+  - <details><summary>apply-archive-rule</summary>
+    dd
+  </details>
+  - <details><summary>apply-archive-rule</summary>
+  bb
+  </details>
+</details>
+
 
 - accessanalyzer
 - acm
