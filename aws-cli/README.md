@@ -32,39 +32,6 @@ aws <resource> <subcommand> help	# get all next subcommands for this resource co
 
 ## 03-All Available Services:
 
-<details>
-
-<summary>
-**accessanalyzer**
-</summary>
-
-<details>
-<summary>
-apply-archive-rule
-</summary>
-
-* --analyzer-arn
-  * dfffdfd
-* --client-token
-</details>
-
-</details>
-
-
-
-<details>
-<summary>
-accessanalyzer
-</summary>
-* <details>
-  <summary>
-  apply-archive-rule
-  </summary>
-  </details>
-* <details><summary>apply-archive-rule</summary></details>
-</details>
-
-
 - accessanalyzer
 - acm
 - acm-pca
