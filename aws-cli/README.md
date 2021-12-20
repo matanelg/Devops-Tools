@@ -59,7 +59,11 @@ aws <resource> <subcommand> help	# get all next subcommands for this resource co
 
 
 ####
+<details>
 - accessanalyzer
+  - apply-archive-rule
+  - cancel-policy-generation
+</b></details>
 - acm
 - acm-pca
 - alexaforbusiness
