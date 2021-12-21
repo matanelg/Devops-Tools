@@ -1,6 +1,6 @@
 <details><summary>iam</summary><blockquote>
 
-- <span style="color:orange;"><details><summary>add-client-id-to-open-id-connect-provider</summary><blockquote>p</span> 
+- <span style="color:orange;"><details><summary>add-client-id-to-open-id-connect-provider</summary><blockquote></span> 
   * --open-id-connect-provider-arn
   * --client-id
   * --cli-input-json
