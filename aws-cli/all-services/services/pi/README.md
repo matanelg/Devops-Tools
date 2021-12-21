@@ -1,10 +1,6 @@
-<details>
+<details><summary>pi</summary><blockquote>
 
-<summary>
-pi
-</summary>
-
-- <details><summary>describe-dimension-keys</summary>
+- **<details><summary>describe-dimension-keys</summary><blockquote>**
 
   * --service-type
   * --identifier
@@ -22,7 +18,7 @@ pi
   * --generate-cli-skeleton
 
 
-- <details><summary>get-dimension-key-details</summary>
+- **<details><summary>get-dimension-key-details</summary><blockquote>**
 
   * --service-type
   * --identifier
@@ -34,7 +30,7 @@ pi
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resource-metrics</summary>
+- **<details><summary>get-resource-metrics</summary><blockquote>**
 
   * --service-type
   * --identifier
@@ -49,10 +45,13 @@ pi
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

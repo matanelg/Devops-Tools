@@ -1,10 +1,6 @@
-<details>
+<details><summary>pinpoint-sms-voice</summary><blockquote>
 
-<summary>
-pinpoint-sms-voice
-</summary>
-
-- <details><summary>create-configuration-set</summary>
+- **<details><summary>create-configuration-set</summary><blockquote>**
 
   * --configuration-set-name
   * --cli-input-json
@@ -12,7 +8,7 @@ pinpoint-sms-voice
   * --generate-cli-skeleton
 
 
-- <details><summary>create-configuration-set-event-destination</summary>
+- **<details><summary>create-configuration-set-event-destination</summary><blockquote>**
 
   * --configuration-set-name
   * --event-destination
@@ -22,7 +18,7 @@ pinpoint-sms-voice
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-configuration-set</summary>
+- **<details><summary>delete-configuration-set</summary><blockquote>**
 
   * --configuration-set-name
   * --cli-input-json
@@ -30,7 +26,7 @@ pinpoint-sms-voice
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-configuration-set-event-destination</summary>
+- **<details><summary>delete-configuration-set-event-destination</summary><blockquote>**
 
   * --configuration-set-name
   * --event-destination-name
@@ -39,7 +35,7 @@ pinpoint-sms-voice
   * --generate-cli-skeleton
 
 
-- <details><summary>get-configuration-set-event-destinations</summary>
+- **<details><summary>get-configuration-set-event-destinations</summary><blockquote>**
 
   * --configuration-set-name
   * --cli-input-json
@@ -47,12 +43,12 @@ pinpoint-sms-voice
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>send-voice-message</summary>
+- **<details><summary>send-voice-message</summary><blockquote>**
 
   * --caller-id
   * --configuration-set-name
@@ -64,7 +60,7 @@ pinpoint-sms-voice
   * --generate-cli-skeleton
 
 
-- <details><summary>update-configuration-set-event-destination</summary>
+- **<details><summary>update-configuration-set-event-destination</summary><blockquote>**
 
   * --configuration-set-name
   * --event-destination
@@ -74,5 +70,12 @@ pinpoint-sms-voice
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

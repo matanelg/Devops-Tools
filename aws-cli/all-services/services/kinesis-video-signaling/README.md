@@ -1,10 +1,6 @@
-<details>
+<details><summary>kinesis-video-signaling</summary><blockquote>
 
-<summary>
-kinesis-video-signaling
-</summary>
-
-- <details><summary>get-ice-server-config</summary>
+- **<details><summary>get-ice-server-config</summary><blockquote>**
 
   * --channel-arn
   * --client-id
@@ -15,12 +11,12 @@ kinesis-video-signaling
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>send-alexa-offer-to-master</summary>
+- **<details><summary>send-alexa-offer-to-master</summary><blockquote>**
 
   * --channel-arn
   * --sender-client-id
@@ -30,5 +26,7 @@ kinesis-video-signaling
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

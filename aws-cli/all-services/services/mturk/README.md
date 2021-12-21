@@ -1,10 +1,6 @@
-<details>
+<details><summary>mturk</summary><blockquote>
 
-<summary>
-mturk
-</summary>
-
-- <details><summary>accept-qualification-request</summary>
+- **<details><summary>accept-qualification-request</summary><blockquote>**
 
   * --qualification-request-id
   * --integer-value
@@ -13,7 +9,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>approve-assignment</summary>
+- **<details><summary>approve-assignment</summary><blockquote>**
 
   * --assignment-id
   * --requester-feedback
@@ -24,7 +20,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-qualification-with-worker</summary>
+- **<details><summary>associate-qualification-with-worker</summary><blockquote>**
 
   * --qualification-type-id
   * --worker-id
@@ -36,7 +32,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>create-additional-assignments-for-hit</summary>
+- **<details><summary>create-additional-assignments-for-hit</summary><blockquote>**
 
   * --hit-id
   * --number-of-additional-assignments
@@ -46,7 +42,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>create-hit</summary>
+- **<details><summary>create-hit</summary><blockquote>**
 
   * --max-assignments
   * --auto-approval-delay-in-seconds
@@ -69,7 +65,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>create-hit-type</summary>
+- **<details><summary>create-hit-type</summary><blockquote>**
 
   * --auto-approval-delay-in-seconds
   * --assignment-duration-in-seconds
@@ -83,7 +79,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>create-hit-with-hit-type</summary>
+- **<details><summary>create-hit-with-hit-type</summary><blockquote>**
 
   * --hit-type-id
   * --max-assignments
@@ -100,7 +96,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>create-qualification-type</summary>
+- **<details><summary>create-qualification-type</summary><blockquote>**
 
   * --name
   * --keywords
@@ -118,7 +114,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>create-worker-block</summary>
+- **<details><summary>create-worker-block</summary><blockquote>**
 
   * --worker-id
   * --reason
@@ -127,7 +123,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-hit</summary>
+- **<details><summary>delete-hit</summary><blockquote>**
 
   * --hit-id
   * --cli-input-json
@@ -135,7 +131,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-qualification-type</summary>
+- **<details><summary>delete-qualification-type</summary><blockquote>**
 
   * --qualification-type-id
   * --cli-input-json
@@ -143,7 +139,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-worker-block</summary>
+- **<details><summary>delete-worker-block</summary><blockquote>**
 
   * --worker-id
   * --reason
@@ -152,7 +148,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-qualification-from-worker</summary>
+- **<details><summary>disassociate-qualification-from-worker</summary><blockquote>**
 
   * --worker-id
   * --qualification-type-id
@@ -162,14 +158,14 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>get-account-balance</summary>
+- **<details><summary>get-account-balance</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-assignment</summary>
+- **<details><summary>get-assignment</summary><blockquote>**
 
   * --assignment-id
   * --cli-input-json
@@ -177,7 +173,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>get-file-upload-url</summary>
+- **<details><summary>get-file-upload-url</summary><blockquote>**
 
   * --assignment-id
   * --question-identifier
@@ -186,7 +182,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>get-hit</summary>
+- **<details><summary>get-hit</summary><blockquote>**
 
   * --hit-id
   * --cli-input-json
@@ -194,7 +190,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>get-qualification-score</summary>
+- **<details><summary>get-qualification-score</summary><blockquote>**
 
   * --qualification-type-id
   * --worker-id
@@ -203,7 +199,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>get-qualification-type</summary>
+- **<details><summary>get-qualification-type</summary><blockquote>**
 
   * --qualification-type-id
   * --cli-input-json
@@ -211,12 +207,12 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-assignments-for-hit</summary>
+- **<details><summary>list-assignments-for-hit</summary><blockquote>**
 
   * --hit-id
   * --assignment-statuses
@@ -228,7 +224,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>list-bonus-payments</summary>
+- **<details><summary>list-bonus-payments</summary><blockquote>**
 
   * --hit-id
   * --assignment-id
@@ -240,7 +236,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>list-hits</summary>
+- **<details><summary>list-hits</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -250,7 +246,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>list-hits-for-qualification-type</summary>
+- **<details><summary>list-hits-for-qualification-type</summary><blockquote>**
 
   * --qualification-type-id
   * --cli-input-json
@@ -261,7 +257,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>list-qualification-requests</summary>
+- **<details><summary>list-qualification-requests</summary><blockquote>**
 
   * --qualification-type-id
   * --cli-input-json
@@ -272,7 +268,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>list-qualification-types</summary>
+- **<details><summary>list-qualification-types</summary><blockquote>**
 
   * --must-be-requestable
   * --no-must-be-requestable
@@ -287,7 +283,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>list-reviewable-hits</summary>
+- **<details><summary>list-reviewable-hits</summary><blockquote>**
 
   * --hit-type-id
   * --status
@@ -299,7 +295,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>list-review-policy-results-for-hit</summary>
+- **<details><summary>list-review-policy-results-for-hit</summary><blockquote>**
 
   * --hit-id
   * --policy-levels
@@ -314,7 +310,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>list-worker-blocks</summary>
+- **<details><summary>list-worker-blocks</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -324,7 +320,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>list-workers-with-qualification-type</summary>
+- **<details><summary>list-workers-with-qualification-type</summary><blockquote>**
 
   * --qualification-type-id
   * --status
@@ -336,7 +332,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>notify-workers</summary>
+- **<details><summary>notify-workers</summary><blockquote>**
 
   * --subject
   * --message-text
@@ -346,7 +342,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>reject-assignment</summary>
+- **<details><summary>reject-assignment</summary><blockquote>**
 
   * --assignment-id
   * --requester-feedback
@@ -355,7 +351,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>reject-qualification-request</summary>
+- **<details><summary>reject-qualification-request</summary><blockquote>**
 
   * --qualification-request-id
   * --reason
@@ -364,7 +360,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>send-bonus</summary>
+- **<details><summary>send-bonus</summary><blockquote>**
 
   * --worker-id
   * --bonus-amount
@@ -376,7 +372,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>send-test-event-notification</summary>
+- **<details><summary>send-test-event-notification</summary><blockquote>**
 
   * --notification
   * --test-event-type
@@ -385,7 +381,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>update-expiration-for-hit</summary>
+- **<details><summary>update-expiration-for-hit</summary><blockquote>**
 
   * --hit-id
   * --expire-at
@@ -394,7 +390,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>update-hit-review-status</summary>
+- **<details><summary>update-hit-review-status</summary><blockquote>**
 
   * --hit-id
   * --revert
@@ -404,7 +400,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>update-hit-type-of-hit</summary>
+- **<details><summary>update-hit-type-of-hit</summary><blockquote>**
 
   * --hit-id
   * --hit-type-id
@@ -413,7 +409,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>update-notification-settings</summary>
+- **<details><summary>update-notification-settings</summary><blockquote>**
 
   * --hit-type-id
   * --notification
@@ -424,7 +420,7 @@ mturk
   * --generate-cli-skeleton
 
 
-- <details><summary>update-qualification-type</summary>
+- **<details><summary>update-qualification-type</summary><blockquote>**
 
   * --qualification-type-id
   * --description
@@ -441,5 +437,44 @@ mturk
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

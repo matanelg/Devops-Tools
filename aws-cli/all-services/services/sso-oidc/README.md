@@ -1,10 +1,6 @@
-<details>
+<details><summary>sso-oidc</summary><blockquote>
 
-<summary>
-sso-oidc
-</summary>
-
-- <details><summary>create-token</summary>
+- **<details><summary>create-token</summary><blockquote>**
 
   * --client-id
   * --client-secret
@@ -19,12 +15,12 @@ sso-oidc
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>register-client</summary>
+- **<details><summary>register-client</summary><blockquote>**
 
   * --client-name
   * --client-type
@@ -34,7 +30,7 @@ sso-oidc
   * --generate-cli-skeleton
 
 
-- <details><summary>start-device-authorization</summary>
+- **<details><summary>start-device-authorization</summary><blockquote>**
 
   * --client-id
   * --client-secret
@@ -44,5 +40,8 @@ sso-oidc
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>fsx</summary><blockquote>
 
-<summary>
-fsx
-</summary>
-
-- <details><summary>associate-file-system-aliases</summary>
+- **<details><summary>associate-file-system-aliases</summary><blockquote>**
 
   * --client-request-token
   * --file-system-id
@@ -14,7 +10,7 @@ fsx
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-data-repository-task</summary>
+- **<details><summary>cancel-data-repository-task</summary><blockquote>**
 
   * --task-id
   * --cli-input-json
@@ -22,7 +18,7 @@ fsx
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-backup</summary>
+- **<details><summary>copy-backup</summary><blockquote>**
 
   * --client-request-token
   * --source-backup-id
@@ -36,7 +32,7 @@ fsx
   * --generate-cli-skeleton
 
 
-- <details><summary>create-backup</summary>
+- **<details><summary>create-backup</summary><blockquote>**
 
   * --file-system-id
   * --client-request-token
@@ -46,7 +42,7 @@ fsx
   * --generate-cli-skeleton
 
 
-- <details><summary>create-data-repository-task</summary>
+- **<details><summary>create-data-repository-task</summary><blockquote>**
 
   * --type
   * --paths
@@ -59,7 +55,7 @@ fsx
   * --generate-cli-skeleton
 
 
-- <details><summary>create-file-system</summary>
+- **<details><summary>create-file-system</summary><blockquote>**
 
   * --client-request-token
   * --file-system-type
@@ -76,7 +72,7 @@ fsx
   * --generate-cli-skeleton
 
 
-- <details><summary>create-file-system-from-backup</summary>
+- **<details><summary>create-file-system-from-backup</summary><blockquote>**
 
   * --backup-id
   * --client-request-token
@@ -92,7 +88,7 @@ fsx
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-backup</summary>
+- **<details><summary>delete-backup</summary><blockquote>**
 
   * --backup-id
   * --client-request-token
@@ -101,7 +97,7 @@ fsx
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-file-system</summary>
+- **<details><summary>delete-file-system</summary><blockquote>**
 
   * --file-system-id
   * --client-request-token
@@ -112,7 +108,7 @@ fsx
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-backups</summary>
+- **<details><summary>describe-backups</summary><blockquote>**
 
   * --backup-ids
   * --filters
@@ -124,7 +120,7 @@ fsx
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-data-repository-tasks</summary>
+- **<details><summary>describe-data-repository-tasks</summary><blockquote>**
 
   * --task-ids
   * --filters
@@ -135,7 +131,7 @@ fsx
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-file-system-aliases</summary>
+- **<details><summary>describe-file-system-aliases</summary><blockquote>**
 
   * --client-request-token
   * --file-system-id
@@ -146,7 +142,7 @@ fsx
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-file-systems</summary>
+- **<details><summary>describe-file-systems</summary><blockquote>**
 
   * --file-system-ids
   * --cli-input-json
@@ -157,7 +153,7 @@ fsx
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-file-system-aliases</summary>
+- **<details><summary>disassociate-file-system-aliases</summary><blockquote>**
 
   * --client-request-token
   * --file-system-id
@@ -167,12 +163,12 @@ fsx
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -183,7 +179,7 @@ fsx
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -192,7 +188,7 @@ fsx
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -201,7 +197,7 @@ fsx
   * --generate-cli-skeleton
 
 
-- <details><summary>update-file-system</summary>
+- **<details><summary>update-file-system</summary><blockquote>**
 
   * --file-system-id
   * --client-request-token
@@ -213,5 +209,23 @@ fsx
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

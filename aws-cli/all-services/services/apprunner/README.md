@@ -1,10 +1,6 @@
-<details>
+<details><summary>apprunner</summary><blockquote>
 
-<summary>
-apprunner
-</summary>
-
-- <details><summary>associate-custom-domain</summary>
+- **<details><summary>associate-custom-domain</summary><blockquote>**
 
   * --service-arn
   * --domain-name
@@ -15,7 +11,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>create-auto-scaling-configuration</summary>
+- **<details><summary>create-auto-scaling-configuration</summary><blockquote>**
 
   * --auto-scaling-configuration-name
   * --max-concurrency
@@ -27,7 +23,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>create-connection</summary>
+- **<details><summary>create-connection</summary><blockquote>**
 
   * --connection-name
   * --provider-type
@@ -37,7 +33,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>create-service</summary>
+- **<details><summary>create-service</summary><blockquote>**
 
   * --service-name
   * --source-configuration
@@ -51,7 +47,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-auto-scaling-configuration</summary>
+- **<details><summary>delete-auto-scaling-configuration</summary><blockquote>**
 
   * --auto-scaling-configuration-arn
   * --cli-input-json
@@ -59,7 +55,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-connection</summary>
+- **<details><summary>delete-connection</summary><blockquote>**
 
   * --connection-arn
   * --cli-input-json
@@ -67,7 +63,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-service</summary>
+- **<details><summary>delete-service</summary><blockquote>**
 
   * --service-arn
   * --cli-input-json
@@ -75,7 +71,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-auto-scaling-configuration</summary>
+- **<details><summary>describe-auto-scaling-configuration</summary><blockquote>**
 
   * --auto-scaling-configuration-arn
   * --cli-input-json
@@ -83,7 +79,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-custom-domains</summary>
+- **<details><summary>describe-custom-domains</summary><blockquote>**
 
   * --service-arn
   * --next-token
@@ -93,7 +89,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-service</summary>
+- **<details><summary>describe-service</summary><blockquote>**
 
   * --service-arn
   * --cli-input-json
@@ -101,7 +97,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-custom-domain</summary>
+- **<details><summary>disassociate-custom-domain</summary><blockquote>**
 
   * --service-arn
   * --domain-name
@@ -110,12 +106,12 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-auto-scaling-configurations</summary>
+- **<details><summary>list-auto-scaling-configurations</summary><blockquote>**
 
   * --auto-scaling-configuration-name
   * --latest-only
@@ -127,7 +123,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>list-connections</summary>
+- **<details><summary>list-connections</summary><blockquote>**
 
   * --connection-name
   * --max-results
@@ -137,7 +133,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>list-operations</summary>
+- **<details><summary>list-operations</summary><blockquote>**
 
   * --service-arn
   * --next-token
@@ -147,7 +143,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>list-services</summary>
+- **<details><summary>list-services</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -156,7 +152,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -164,7 +160,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>pause-service</summary>
+- **<details><summary>pause-service</summary><blockquote>**
 
   * --service-arn
   * --cli-input-json
@@ -172,7 +168,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>resume-service</summary>
+- **<details><summary>resume-service</summary><blockquote>**
 
   * --service-arn
   * --cli-input-json
@@ -180,7 +176,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>start-deployment</summary>
+- **<details><summary>start-deployment</summary><blockquote>**
 
   * --service-arn
   * --cli-input-json
@@ -188,7 +184,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -197,7 +193,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -206,7 +202,7 @@ apprunner
   * --generate-cli-skeleton
 
 
-- <details><summary>update-service</summary>
+- **<details><summary>update-service</summary><blockquote>**
 
   * --service-arn
   * --source-configuration
@@ -218,5 +214,27 @@ apprunner
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

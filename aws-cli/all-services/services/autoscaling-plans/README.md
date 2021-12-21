@@ -1,10 +1,6 @@
-<details>
+<details><summary>autoscaling-plans</summary><blockquote>
 
-<summary>
-autoscaling-plans
-</summary>
-
-- <details><summary>create-scaling-plan</summary>
+- **<details><summary>create-scaling-plan</summary><blockquote>**
 
   * --scaling-plan-name
   * --application-source
@@ -14,7 +10,7 @@ autoscaling-plans
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-scaling-plan</summary>
+- **<details><summary>delete-scaling-plan</summary><blockquote>**
 
   * --scaling-plan-name
   * --scaling-plan-version
@@ -23,7 +19,7 @@ autoscaling-plans
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-scaling-plan-resources</summary>
+- **<details><summary>describe-scaling-plan-resources</summary><blockquote>**
 
   * --scaling-plan-name
   * --scaling-plan-version
@@ -35,7 +31,7 @@ autoscaling-plans
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-scaling-plans</summary>
+- **<details><summary>describe-scaling-plans</summary><blockquote>**
 
   * --scaling-plan-names
   * --scaling-plan-version
@@ -48,7 +44,7 @@ autoscaling-plans
   * --generate-cli-skeleton
 
 
-- <details><summary>get-scaling-plan-resource-forecast-data</summary>
+- **<details><summary>get-scaling-plan-resource-forecast-data</summary><blockquote>**
 
   * --scaling-plan-name
   * --scaling-plan-version
@@ -63,12 +59,12 @@ autoscaling-plans
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>update-scaling-plan</summary>
+- **<details><summary>update-scaling-plan</summary><blockquote>**
 
   * --scaling-plan-name
   * --scaling-plan-version
@@ -79,5 +75,11 @@ autoscaling-plans
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

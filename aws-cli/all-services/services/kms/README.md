@@ -1,10 +1,6 @@
-<details>
+<details><summary>kms</summary><blockquote>
 
-<summary>
-kms
-</summary>
-
-- <details><summary>cancel-key-deletion</summary>
+- **<details><summary>cancel-key-deletion</summary><blockquote>**
 
   * --key-id
   * --cli-input-json
@@ -12,7 +8,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>connect-custom-key-store</summary>
+- **<details><summary>connect-custom-key-store</summary><blockquote>**
 
   * --custom-key-store-id
   * --cli-input-json
@@ -20,7 +16,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>create-alias</summary>
+- **<details><summary>create-alias</summary><blockquote>**
 
   * --alias-name
   * --target-key-id
@@ -29,7 +25,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>create-custom-key-store</summary>
+- **<details><summary>create-custom-key-store</summary><blockquote>**
 
   * --custom-key-store-name
   * --cloud-hsm-cluster-id
@@ -40,7 +36,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>create-grant</summary>
+- **<details><summary>create-grant</summary><blockquote>**
 
   * --key-id
   * --grantee-principal
@@ -54,7 +50,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>create-key</summary>
+- **<details><summary>create-key</summary><blockquote>**
 
   * --policy
   * --description
@@ -72,7 +68,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>decrypt</summary>
+- **<details><summary>decrypt</summary><blockquote>**
 
   * --ciphertext-blob
   * --encryption-context
@@ -84,7 +80,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-alias</summary>
+- **<details><summary>delete-alias</summary><blockquote>**
 
   * --alias-name
   * --cli-input-json
@@ -92,7 +88,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-custom-key-store</summary>
+- **<details><summary>delete-custom-key-store</summary><blockquote>**
 
   * --custom-key-store-id
   * --cli-input-json
@@ -100,7 +96,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-imported-key-material</summary>
+- **<details><summary>delete-imported-key-material</summary><blockquote>**
 
   * --key-id
   * --cli-input-json
@@ -108,7 +104,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-custom-key-stores</summary>
+- **<details><summary>describe-custom-key-stores</summary><blockquote>**
 
   * --custom-key-store-id
   * --custom-key-store-name
@@ -119,7 +115,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-key</summary>
+- **<details><summary>describe-key</summary><blockquote>**
 
   * --key-id
   * --grant-tokens
@@ -128,7 +124,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-key</summary>
+- **<details><summary>disable-key</summary><blockquote>**
 
   * --key-id
   * --cli-input-json
@@ -136,7 +132,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-key-rotation</summary>
+- **<details><summary>disable-key-rotation</summary><blockquote>**
 
   * --key-id
   * --cli-input-json
@@ -144,7 +140,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>disconnect-custom-key-store</summary>
+- **<details><summary>disconnect-custom-key-store</summary><blockquote>**
 
   * --custom-key-store-id
   * --cli-input-json
@@ -152,7 +148,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-key</summary>
+- **<details><summary>enable-key</summary><blockquote>**
 
   * --key-id
   * --cli-input-json
@@ -160,7 +156,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-key-rotation</summary>
+- **<details><summary>enable-key-rotation</summary><blockquote>**
 
   * --key-id
   * --cli-input-json
@@ -168,7 +164,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>encrypt</summary>
+- **<details><summary>encrypt</summary><blockquote>**
 
   * --key-id
   * --plaintext
@@ -180,7 +176,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>generate-data-key</summary>
+- **<details><summary>generate-data-key</summary><blockquote>**
 
   * --key-id
   * --encryption-context
@@ -192,7 +188,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>generate-data-key-pair</summary>
+- **<details><summary>generate-data-key-pair</summary><blockquote>**
 
   * --encryption-context
   * --key-id
@@ -203,7 +199,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>generate-data-key-pair-without-plaintext</summary>
+- **<details><summary>generate-data-key-pair-without-plaintext</summary><blockquote>**
 
   * --encryption-context
   * --key-id
@@ -214,7 +210,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>generate-data-key-without-plaintext</summary>
+- **<details><summary>generate-data-key-without-plaintext</summary><blockquote>**
 
   * --key-id
   * --encryption-context
@@ -226,7 +222,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>generate-random</summary>
+- **<details><summary>generate-random</summary><blockquote>**
 
   * --number-of-bytes
   * --custom-key-store-id
@@ -235,7 +231,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>get-key-policy</summary>
+- **<details><summary>get-key-policy</summary><blockquote>**
 
   * --key-id
   * --policy-name
@@ -244,7 +240,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>get-key-rotation-status</summary>
+- **<details><summary>get-key-rotation-status</summary><blockquote>**
 
   * --key-id
   * --cli-input-json
@@ -252,7 +248,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>get-parameters-for-import</summary>
+- **<details><summary>get-parameters-for-import</summary><blockquote>**
 
   * --key-id
   * --wrapping-algorithm
@@ -262,7 +258,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>get-public-key</summary>
+- **<details><summary>get-public-key</summary><blockquote>**
 
   * --key-id
   * --grant-tokens
@@ -271,12 +267,12 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>import-key-material</summary>
+- **<details><summary>import-key-material</summary><blockquote>**
 
   * --key-id
   * --import-token
@@ -288,7 +284,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>list-aliases</summary>
+- **<details><summary>list-aliases</summary><blockquote>**
 
   * --key-id
   * --cli-input-json
@@ -299,7 +295,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>list-grants</summary>
+- **<details><summary>list-grants</summary><blockquote>**
 
   * --key-id
   * --grant-id
@@ -312,7 +308,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>list-key-policies</summary>
+- **<details><summary>list-key-policies</summary><blockquote>**
 
   * --key-id
   * --cli-input-json
@@ -323,7 +319,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>list-keys</summary>
+- **<details><summary>list-keys</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -333,7 +329,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resource-tags</summary>
+- **<details><summary>list-resource-tags</summary><blockquote>**
 
   * --key-id
   * --limit
@@ -343,7 +339,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>list-retirable-grants</summary>
+- **<details><summary>list-retirable-grants</summary><blockquote>**
 
   * --limit
   * --marker
@@ -353,7 +349,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>put-key-policy</summary>
+- **<details><summary>put-key-policy</summary><blockquote>**
 
   * --key-id
   * --policy-name
@@ -365,7 +361,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>re-encrypt</summary>
+- **<details><summary>re-encrypt</summary><blockquote>**
 
   * --ciphertext-blob
   * --source-encryption-context
@@ -380,7 +376,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>replicate-key</summary>
+- **<details><summary>replicate-key</summary><blockquote>**
 
   * --key-id
   * --replica-region
@@ -394,7 +390,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>retire-grant</summary>
+- **<details><summary>retire-grant</summary><blockquote>**
 
   * --grant-token
   * --key-id
@@ -404,7 +400,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>revoke-grant</summary>
+- **<details><summary>revoke-grant</summary><blockquote>**
 
   * --key-id
   * --grant-id
@@ -413,7 +409,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>schedule-key-deletion</summary>
+- **<details><summary>schedule-key-deletion</summary><blockquote>**
 
   * --key-id
   * --pending-window-in-days
@@ -422,7 +418,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>sign</summary>
+- **<details><summary>sign</summary><blockquote>**
 
   * --key-id
   * --message
@@ -434,7 +430,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --key-id
   * --tags
@@ -443,7 +439,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --key-id
   * --tag-keys
@@ -452,7 +448,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>update-alias</summary>
+- **<details><summary>update-alias</summary><blockquote>**
 
   * --alias-name
   * --target-key-id
@@ -461,7 +457,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>update-custom-key-store</summary>
+- **<details><summary>update-custom-key-store</summary><blockquote>**
 
   * --custom-key-store-id
   * --new-custom-key-store-name
@@ -472,7 +468,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>update-key-description</summary>
+- **<details><summary>update-key-description</summary><blockquote>**
 
   * --key-id
   * --description
@@ -481,7 +477,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>update-primary-region</summary>
+- **<details><summary>update-primary-region</summary><blockquote>**
 
   * --key-id
   * --primary-region
@@ -490,7 +486,7 @@ kms
   * --generate-cli-skeleton
 
 
-- <details><summary>verify</summary>
+- **<details><summary>verify</summary><blockquote>**
 
   * --key-id
   * --message
@@ -503,5 +499,53 @@ kms
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

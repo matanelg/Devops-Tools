@@ -1,20 +1,17 @@
-<details>
+<details><summary>kinesis-video-media</summary><blockquote>
 
-<summary>
-kinesis-video-media
-</summary>
-
-- <details><summary>get-media</summary>
+- **<details><summary>get-media</summary><blockquote>**
 
   * --stream-name
   * --stream-arn
   * --start-selector
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

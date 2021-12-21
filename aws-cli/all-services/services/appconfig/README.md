@@ -1,10 +1,6 @@
-<details>
+<details><summary>appconfig</summary><blockquote>
 
-<summary>
-appconfig
-</summary>
-
-- <details><summary>create-application</summary>
+- **<details><summary>create-application</summary><blockquote>**
 
   * --name
   * --description
@@ -14,7 +10,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>create-configuration-profile</summary>
+- **<details><summary>create-configuration-profile</summary><blockquote>**
 
   * --application-id
   * --name
@@ -28,7 +24,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>create-deployment-strategy</summary>
+- **<details><summary>create-deployment-strategy</summary><blockquote>**
 
   * --name
   * --description
@@ -43,7 +39,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>create-environment</summary>
+- **<details><summary>create-environment</summary><blockquote>**
 
   * --application-id
   * --name
@@ -55,7 +51,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>create-hosted-configuration-version</summary>
+- **<details><summary>create-hosted-configuration-version</summary><blockquote>**
 
   * --application-id
   * --configuration-profile-id
@@ -65,7 +61,7 @@ appconfig
   * --latest-version-number
 
 
-- <details><summary>delete-application</summary>
+- **<details><summary>delete-application</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -73,7 +69,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-configuration-profile</summary>
+- **<details><summary>delete-configuration-profile</summary><blockquote>**
 
   * --application-id
   * --configuration-profile-id
@@ -82,7 +78,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-deployment-strategy</summary>
+- **<details><summary>delete-deployment-strategy</summary><blockquote>**
 
   * --deployment-strategy-id
   * --cli-input-json
@@ -90,7 +86,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-environment</summary>
+- **<details><summary>delete-environment</summary><blockquote>**
 
   * --application-id
   * --environment-id
@@ -99,7 +95,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-hosted-configuration-version</summary>
+- **<details><summary>delete-hosted-configuration-version</summary><blockquote>**
 
   * --application-id
   * --configuration-profile-id
@@ -109,7 +105,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>get-application</summary>
+- **<details><summary>get-application</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -117,7 +113,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>get-configuration</summary>
+- **<details><summary>get-configuration</summary><blockquote>**
 
   * --application
   * --environment
@@ -126,7 +122,7 @@ appconfig
   * --client-configuration-version
 
 
-- <details><summary>get-configuration-profile</summary>
+- **<details><summary>get-configuration-profile</summary><blockquote>**
 
   * --application-id
   * --configuration-profile-id
@@ -135,7 +131,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>get-deployment</summary>
+- **<details><summary>get-deployment</summary><blockquote>**
 
   * --application-id
   * --environment-id
@@ -145,7 +141,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>get-deployment-strategy</summary>
+- **<details><summary>get-deployment-strategy</summary><blockquote>**
 
   * --deployment-strategy-id
   * --cli-input-json
@@ -153,7 +149,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>get-environment</summary>
+- **<details><summary>get-environment</summary><blockquote>**
 
   * --application-id
   * --environment-id
@@ -162,19 +158,19 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>get-hosted-configuration-version</summary>
+- **<details><summary>get-hosted-configuration-version</summary><blockquote>**
 
   * --application-id
   * --configuration-profile-id
   * --version-number
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-applications</summary>
+- **<details><summary>list-applications</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -183,7 +179,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>list-configuration-profiles</summary>
+- **<details><summary>list-configuration-profiles</summary><blockquote>**
 
   * --application-id
   * --max-results
@@ -193,7 +189,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>list-deployments</summary>
+- **<details><summary>list-deployments</summary><blockquote>**
 
   * --application-id
   * --environment-id
@@ -204,7 +200,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>list-deployment-strategies</summary>
+- **<details><summary>list-deployment-strategies</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -213,7 +209,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>list-environments</summary>
+- **<details><summary>list-environments</summary><blockquote>**
 
   * --application-id
   * --max-results
@@ -223,7 +219,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>list-hosted-configuration-versions</summary>
+- **<details><summary>list-hosted-configuration-versions</summary><blockquote>**
 
   * --application-id
   * --configuration-profile-id
@@ -234,7 +230,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -242,7 +238,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>start-deployment</summary>
+- **<details><summary>start-deployment</summary><blockquote>**
 
   * --application-id
   * --environment-id
@@ -256,7 +252,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-deployment</summary>
+- **<details><summary>stop-deployment</summary><blockquote>**
 
   * --application-id
   * --environment-id
@@ -266,7 +262,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -275,7 +271,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -284,7 +280,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>update-application</summary>
+- **<details><summary>update-application</summary><blockquote>**
 
   * --application-id
   * --name
@@ -294,7 +290,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>update-configuration-profile</summary>
+- **<details><summary>update-configuration-profile</summary><blockquote>**
 
   * --application-id
   * --configuration-profile-id
@@ -307,7 +303,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>update-deployment-strategy</summary>
+- **<details><summary>update-deployment-strategy</summary><blockquote>**
 
   * --deployment-strategy-id
   * --description
@@ -320,7 +316,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>update-environment</summary>
+- **<details><summary>update-environment</summary><blockquote>**
 
   * --application-id
   * --environment-id
@@ -332,7 +328,7 @@ appconfig
   * --generate-cli-skeleton
 
 
-- <details><summary>validate-configuration</summary>
+- **<details><summary>validate-configuration</summary><blockquote>**
 
   * --application-id
   * --configuration-profile-id
@@ -342,5 +338,38 @@ appconfig
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

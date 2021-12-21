@@ -1,10 +1,6 @@
-<details>
+<details><summary>signer</summary><blockquote>
 
-<summary>
-signer
-</summary>
-
-- <details><summary>add-profile-permission</summary>
+- **<details><summary>add-profile-permission</summary><blockquote>**
 
   * --profile-name
   * --profile-version
@@ -17,7 +13,7 @@ signer
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-signing-profile</summary>
+- **<details><summary>cancel-signing-profile</summary><blockquote>**
 
   * --profile-name
   * --cli-input-json
@@ -25,7 +21,7 @@ signer
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-signing-job</summary>
+- **<details><summary>describe-signing-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -33,7 +29,7 @@ signer
   * --generate-cli-skeleton
 
 
-- <details><summary>get-signing-platform</summary>
+- **<details><summary>get-signing-platform</summary><blockquote>**
 
   * --platform-id
   * --cli-input-json
@@ -41,7 +37,7 @@ signer
   * --generate-cli-skeleton
 
 
-- <details><summary>get-signing-profile</summary>
+- **<details><summary>get-signing-profile</summary><blockquote>**
 
   * --profile-name
   * --profile-owner
@@ -50,12 +46,12 @@ signer
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-profile-permissions</summary>
+- **<details><summary>list-profile-permissions</summary><blockquote>**
 
   * --profile-name
   * --next-token
@@ -64,7 +60,7 @@ signer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-signing-jobs</summary>
+- **<details><summary>list-signing-jobs</summary><blockquote>**
 
   * --status
   * --platform-id
@@ -82,7 +78,7 @@ signer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-signing-platforms</summary>
+- **<details><summary>list-signing-platforms</summary><blockquote>**
 
   * --category
   * --partner
@@ -95,7 +91,7 @@ signer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-signing-profiles</summary>
+- **<details><summary>list-signing-profiles</summary><blockquote>**
 
   * --include-canceled
   * --no-include-canceled
@@ -109,7 +105,7 @@ signer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -117,7 +113,7 @@ signer
   * --generate-cli-skeleton
 
 
-- <details><summary>put-signing-profile</summary>
+- **<details><summary>put-signing-profile</summary><blockquote>**
 
   * --profile-name
   * --signing-material
@@ -131,7 +127,7 @@ signer
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-profile-permission</summary>
+- **<details><summary>remove-profile-permission</summary><blockquote>**
 
   * --profile-name
   * --revision-id
@@ -141,7 +137,7 @@ signer
   * --generate-cli-skeleton
 
 
-- <details><summary>revoke-signature</summary>
+- **<details><summary>revoke-signature</summary><blockquote>**
 
   * --job-id
   * --job-owner
@@ -151,7 +147,7 @@ signer
   * --generate-cli-skeleton
 
 
-- <details><summary>revoke-signing-profile</summary>
+- **<details><summary>revoke-signing-profile</summary><blockquote>**
 
   * --profile-name
   * --profile-version
@@ -162,7 +158,7 @@ signer
   * --generate-cli-skeleton
 
 
-- <details><summary>start-signing-job</summary>
+- **<details><summary>start-signing-job</summary><blockquote>**
 
   * --source
   * --destination
@@ -174,7 +170,7 @@ signer
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -183,7 +179,7 @@ signer
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -192,10 +188,28 @@ signer
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

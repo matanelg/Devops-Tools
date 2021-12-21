@@ -1,10 +1,6 @@
-<details>
+<details><summary>cloudhsmv2</summary><blockquote>
 
-<summary>
-cloudhsmv2
-</summary>
-
-- <details><summary>copy-backup-to-region</summary>
+- **<details><summary>copy-backup-to-region</summary><blockquote>**
 
   * --destination-region
   * --backup-id
@@ -14,7 +10,7 @@ cloudhsmv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cluster</summary>
+- **<details><summary>create-cluster</summary><blockquote>**
 
   * --backup-retention-policy
   * --hsm-type
@@ -26,7 +22,7 @@ cloudhsmv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-hsm</summary>
+- **<details><summary>create-hsm</summary><blockquote>**
 
   * --cluster-id
   * --availability-zone
@@ -36,7 +32,7 @@ cloudhsmv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-backup</summary>
+- **<details><summary>delete-backup</summary><blockquote>**
 
   * --backup-id
   * --cli-input-json
@@ -44,7 +40,7 @@ cloudhsmv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-cluster</summary>
+- **<details><summary>delete-cluster</summary><blockquote>**
 
   * --cluster-id
   * --cli-input-json
@@ -52,7 +48,7 @@ cloudhsmv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-hsm</summary>
+- **<details><summary>delete-hsm</summary><blockquote>**
 
   * --cluster-id
   * --hsm-id
@@ -63,7 +59,7 @@ cloudhsmv2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-backups</summary>
+- **<details><summary>describe-backups</summary><blockquote>**
 
   * --filters
   * --sort-ascending
@@ -76,7 +72,7 @@ cloudhsmv2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-clusters</summary>
+- **<details><summary>describe-clusters</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -87,12 +83,12 @@ cloudhsmv2
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>initialize-cluster</summary>
+- **<details><summary>initialize-cluster</summary><blockquote>**
 
   * --cluster-id
   * --signed-cert
@@ -102,7 +98,7 @@ cloudhsmv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags</summary>
+- **<details><summary>list-tags</summary><blockquote>**
 
   * --resource-id
   * --cli-input-json
@@ -113,7 +109,7 @@ cloudhsmv2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-backup-attributes</summary>
+- **<details><summary>modify-backup-attributes</summary><blockquote>**
 
   * --backup-id
   * --never-expires
@@ -123,7 +119,7 @@ cloudhsmv2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-cluster</summary>
+- **<details><summary>modify-cluster</summary><blockquote>**
 
   * --backup-retention-policy
   * --cluster-id
@@ -132,7 +128,7 @@ cloudhsmv2
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-backup</summary>
+- **<details><summary>restore-backup</summary><blockquote>**
 
   * --backup-id
   * --cli-input-json
@@ -140,7 +136,7 @@ cloudhsmv2
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-id
   * --tag-list
@@ -149,7 +145,7 @@ cloudhsmv2
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-id
   * --tag-key-list
@@ -158,5 +154,20 @@ cloudhsmv2
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

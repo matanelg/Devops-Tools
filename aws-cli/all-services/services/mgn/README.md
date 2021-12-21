@@ -1,10 +1,6 @@
-<details>
+<details><summary>mgn</summary><blockquote>
 
-<summary>
-mgn
-</summary>
-
-- <details><summary>change-server-life-cycle-state</summary>
+- **<details><summary>change-server-life-cycle-state</summary><blockquote>**
 
   * --life-cycle
   * --source-server-id
@@ -13,7 +9,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>create-replication-configuration-template</summary>
+- **<details><summary>create-replication-configuration-template</summary><blockquote>**
 
   * --associate-default-security-group
   * --no-associate-default-security-group
@@ -36,7 +32,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-job</summary>
+- **<details><summary>delete-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -44,7 +40,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-replication-configuration-template</summary>
+- **<details><summary>delete-replication-configuration-template</summary><blockquote>**
 
   * --replication-configuration-template-id
   * --cli-input-json
@@ -52,7 +48,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-source-server</summary>
+- **<details><summary>delete-source-server</summary><blockquote>**
 
   * --source-server-id
   * --cli-input-json
@@ -60,7 +56,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-job-log-items</summary>
+- **<details><summary>describe-job-log-items</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -71,7 +67,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-jobs</summary>
+- **<details><summary>describe-jobs</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -82,7 +78,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-replication-configuration-templates</summary>
+- **<details><summary>describe-replication-configuration-templates</summary><blockquote>**
 
   * --replication-configuration-template-ids
   * --cli-input-json
@@ -93,7 +89,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-source-servers</summary>
+- **<details><summary>describe-source-servers</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -104,7 +100,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>disconnect-from-service</summary>
+- **<details><summary>disconnect-from-service</summary><blockquote>**
 
   * --source-server-id
   * --cli-input-json
@@ -112,7 +108,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>finalize-cutover</summary>
+- **<details><summary>finalize-cutover</summary><blockquote>**
 
   * --source-server-id
   * --cli-input-json
@@ -120,7 +116,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>get-launch-configuration</summary>
+- **<details><summary>get-launch-configuration</summary><blockquote>**
 
   * --source-server-id
   * --cli-input-json
@@ -128,7 +124,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>get-replication-configuration</summary>
+- **<details><summary>get-replication-configuration</summary><blockquote>**
 
   * --source-server-id
   * --cli-input-json
@@ -136,19 +132,19 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>initialize-service</summary>
+- **<details><summary>initialize-service</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -156,7 +152,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>mark-as-archived</summary>
+- **<details><summary>mark-as-archived</summary><blockquote>**
 
   * --source-server-id
   * --cli-input-json
@@ -164,7 +160,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>retry-data-replication</summary>
+- **<details><summary>retry-data-replication</summary><blockquote>**
 
   * --source-server-id
   * --cli-input-json
@@ -172,7 +168,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>start-cutover</summary>
+- **<details><summary>start-cutover</summary><blockquote>**
 
   * --source-server-ids
   * --tags
@@ -181,7 +177,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>start-test</summary>
+- **<details><summary>start-test</summary><blockquote>**
 
   * --source-server-ids
   * --tags
@@ -190,7 +186,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -199,7 +195,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>terminate-target-instances</summary>
+- **<details><summary>terminate-target-instances</summary><blockquote>**
 
   * --source-server-ids
   * --tags
@@ -208,7 +204,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -217,7 +213,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>update-launch-configuration</summary>
+- **<details><summary>update-launch-configuration</summary><blockquote>**
 
   * --copy-private-ip
   * --no-copy-private-ip
@@ -233,7 +229,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>update-replication-configuration</summary>
+- **<details><summary>update-replication-configuration</summary><blockquote>**
 
   * --associate-default-security-group
   * --no-associate-default-security-group
@@ -258,7 +254,7 @@ mgn
   * --generate-cli-skeleton
 
 
-- <details><summary>update-replication-configuration-template</summary>
+- **<details><summary>update-replication-configuration-template</summary><blockquote>**
 
   * --arn
   * --associate-default-security-group
@@ -282,5 +278,30 @@ mgn
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

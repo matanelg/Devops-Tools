@@ -1,10 +1,6 @@
-<details>
+<details><summary>apigatewaymanagementapi</summary><blockquote>
 
-<summary>
-apigatewaymanagementapi
-</summary>
-
-- <details><summary>delete-connection</summary>
+- **<details><summary>delete-connection</summary><blockquote>**
 
   * --connection-id
   * --cli-input-json
@@ -12,7 +8,7 @@ apigatewaymanagementapi
   * --generate-cli-skeleton
 
 
-- <details><summary>get-connection</summary>
+- **<details><summary>get-connection</summary><blockquote>**
 
   * --connection-id
   * --cli-input-json
@@ -20,12 +16,12 @@ apigatewaymanagementapi
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>post-to-connection</summary>
+- **<details><summary>post-to-connection</summary><blockquote>**
 
   * --data
   * --connection-id
@@ -34,5 +30,8 @@ apigatewaymanagementapi
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

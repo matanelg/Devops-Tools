@@ -1,10 +1,6 @@
-<details>
+<details><summary>emr-containers</summary><blockquote>
 
-<summary>
-emr-containers
-</summary>
-
-- <details><summary>cancel-job-run</summary>
+- **<details><summary>cancel-job-run</summary><blockquote>**
 
   * --id
   * --virtual-cluster-id
@@ -13,7 +9,7 @@ emr-containers
   * --generate-cli-skeleton
 
 
-- <details><summary>create-managed-endpoint</summary>
+- **<details><summary>create-managed-endpoint</summary><blockquote>**
 
   * --name
   * --virtual-cluster-id
@@ -29,7 +25,7 @@ emr-containers
   * --generate-cli-skeleton
 
 
-- <details><summary>create-virtual-cluster</summary>
+- **<details><summary>create-virtual-cluster</summary><blockquote>**
 
   * --name
   * --container-provider
@@ -40,7 +36,7 @@ emr-containers
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-managed-endpoint</summary>
+- **<details><summary>delete-managed-endpoint</summary><blockquote>**
 
   * --id
   * --virtual-cluster-id
@@ -49,7 +45,7 @@ emr-containers
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-virtual-cluster</summary>
+- **<details><summary>delete-virtual-cluster</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -57,16 +53,7 @@ emr-containers
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-job-run</summary>
-
-  * --id
-  * --virtual-cluster-id
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>describe-managed-endpoint</summary>
+- **<details><summary>describe-job-run</summary><blockquote>**
 
   * --id
   * --virtual-cluster-id
@@ -75,7 +62,16 @@ emr-containers
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-virtual-cluster</summary>
+- **<details><summary>describe-managed-endpoint</summary><blockquote>**
+
+  * --id
+  * --virtual-cluster-id
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>describe-virtual-cluster</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -83,12 +79,12 @@ emr-containers
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-job-runs</summary>
+- **<details><summary>list-job-runs</summary><blockquote>**
 
   * --virtual-cluster-id
   * --created-before
@@ -103,7 +99,7 @@ emr-containers
   * --generate-cli-skeleton
 
 
-- <details><summary>list-managed-endpoints</summary>
+- **<details><summary>list-managed-endpoints</summary><blockquote>**
 
   * --virtual-cluster-id
   * --created-before
@@ -118,7 +114,7 @@ emr-containers
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -126,7 +122,7 @@ emr-containers
   * --generate-cli-skeleton
 
 
-- <details><summary>list-virtual-clusters</summary>
+- **<details><summary>list-virtual-clusters</summary><blockquote>**
 
   * --container-provider-id
   * --container-provider-type
@@ -141,7 +137,7 @@ emr-containers
   * --generate-cli-skeleton
 
 
-- <details><summary>start-job-run</summary>
+- **<details><summary>start-job-run</summary><blockquote>**
 
   * --name
   * --virtual-cluster-id
@@ -156,7 +152,7 @@ emr-containers
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -165,7 +161,7 @@ emr-containers
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -174,7 +170,7 @@ emr-containers
   * --generate-cli-skeleton
 
 
-- <details><summary>update-role-trust-policy</summary>
+- **<details><summary>update-role-trust-policy</summary><blockquote>**
 
   * --cluster-name
   * --namespace
@@ -183,5 +179,21 @@ emr-containers
   * --dry-run
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

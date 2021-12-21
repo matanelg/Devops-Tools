@@ -1,10 +1,6 @@
-<details>
+<details><summary>cloudsearch</summary><blockquote>
 
-<summary>
-cloudsearch
-</summary>
-
-- <details><summary>build-suggesters</summary>
+- **<details><summary>build-suggesters</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -12,7 +8,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>create-domain</summary>
+- **<details><summary>create-domain</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -20,7 +16,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>define-analysis-scheme</summary>
+- **<details><summary>define-analysis-scheme</summary><blockquote>**
 
   * --domain-name
   * --analysis-scheme
@@ -29,7 +25,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>define-expression</summary>
+- **<details><summary>define-expression</summary><blockquote>**
 
   * --domain-name
   * --expression
@@ -39,7 +35,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>define-index-field</summary>
+- **<details><summary>define-index-field</summary><blockquote>**
 
   * --domain-name
   * --name
@@ -56,7 +52,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>define-suggester</summary>
+- **<details><summary>define-suggester</summary><blockquote>**
 
   * --domain-name
   * --suggester
@@ -65,7 +61,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-analysis-scheme</summary>
+- **<details><summary>delete-analysis-scheme</summary><blockquote>**
 
   * --domain-name
   * --analysis-scheme-name
@@ -74,7 +70,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-domain</summary>
+- **<details><summary>delete-domain</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -82,7 +78,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-expression</summary>
+- **<details><summary>delete-expression</summary><blockquote>**
 
   * --domain-name
   * --expression-name
@@ -91,7 +87,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-index-field</summary>
+- **<details><summary>delete-index-field</summary><blockquote>**
 
   * --domain-name
   * --index-field-name
@@ -100,7 +96,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-suggester</summary>
+- **<details><summary>delete-suggester</summary><blockquote>**
 
   * --domain-name
   * --suggester-name
@@ -109,7 +105,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-analysis-schemes</summary>
+- **<details><summary>describe-analysis-schemes</summary><blockquote>**
 
   * --domain-name
   * --analysis-scheme-names
@@ -120,7 +116,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-availability-options</summary>
+- **<details><summary>describe-availability-options</summary><blockquote>**
 
   * --domain-name
   * --deployed
@@ -130,7 +126,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-domain-endpoint-options</summary>
+- **<details><summary>describe-domain-endpoint-options</summary><blockquote>**
 
   * --domain-name
   * --deployed
@@ -140,7 +136,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-domains</summary>
+- **<details><summary>describe-domains</summary><blockquote>**
 
   * --domain-names
   * --cli-input-json
@@ -148,7 +144,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-expressions</summary>
+- **<details><summary>describe-expressions</summary><blockquote>**
 
   * --domain-name
   * --expression-names
@@ -159,7 +155,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-index-fields</summary>
+- **<details><summary>describe-index-fields</summary><blockquote>**
 
   * --domain-name
   * --field-names
@@ -170,7 +166,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-scaling-parameters</summary>
+- **<details><summary>describe-scaling-parameters</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -178,7 +174,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-service-access-policies</summary>
+- **<details><summary>describe-service-access-policies</summary><blockquote>**
 
   * --domain-name
   * --deployed
@@ -188,7 +184,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-suggesters</summary>
+- **<details><summary>describe-suggesters</summary><blockquote>**
 
   * --domain-name
   * --suggester-names
@@ -199,12 +195,12 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>index-documents</summary>
+- **<details><summary>index-documents</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -212,14 +208,14 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>list-domain-names</summary>
+- **<details><summary>list-domain-names</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>update-availability-options</summary>
+- **<details><summary>update-availability-options</summary><blockquote>**
 
   * --domain-name
   * --multi-az
@@ -229,7 +225,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>update-domain-endpoint-options</summary>
+- **<details><summary>update-domain-endpoint-options</summary><blockquote>**
 
   * --domain-name
   * --domain-endpoint-options
@@ -238,7 +234,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>update-scaling-parameters</summary>
+- **<details><summary>update-scaling-parameters</summary><blockquote>**
 
   * --domain-name
   * --scaling-parameters
@@ -247,7 +243,7 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-- <details><summary>update-service-access-policies</summary>
+- **<details><summary>update-service-access-policies</summary><blockquote>**
 
   * --domain-name
   * --access-policies
@@ -256,5 +252,31 @@ cloudsearch
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

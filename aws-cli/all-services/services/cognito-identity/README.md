@@ -1,10 +1,6 @@
-<details>
+<details><summary>cognito-identity</summary><blockquote>
 
-<summary>
-cognito-identity
-</summary>
-
-- <details><summary>create-identity-pool</summary>
+- **<details><summary>create-identity-pool</summary><blockquote>**
 
   * --identity-pool-name
   * --allow-unauthenticated-identities
@@ -22,7 +18,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-identities</summary>
+- **<details><summary>delete-identities</summary><blockquote>**
 
   * --identity-ids-to-delete
   * --cli-input-json
@@ -30,7 +26,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-identity-pool</summary>
+- **<details><summary>delete-identity-pool</summary><blockquote>**
 
   * --identity-pool-id
   * --cli-input-json
@@ -38,7 +34,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-identity</summary>
+- **<details><summary>describe-identity</summary><blockquote>**
 
   * --identity-id
   * --cli-input-json
@@ -46,7 +42,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-identity-pool</summary>
+- **<details><summary>describe-identity-pool</summary><blockquote>**
 
   * --identity-pool-id
   * --cli-input-json
@@ -54,7 +50,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>get-credentials-for-identity</summary>
+- **<details><summary>get-credentials-for-identity</summary><blockquote>**
 
   * --identity-id
   * --logins
@@ -64,7 +60,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>get-id</summary>
+- **<details><summary>get-id</summary><blockquote>**
 
   * --account-id
   * --identity-pool-id
@@ -74,7 +70,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>get-identity-pool-roles</summary>
+- **<details><summary>get-identity-pool-roles</summary><blockquote>**
 
   * --identity-pool-id
   * --cli-input-json
@@ -82,7 +78,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>get-open-id-token</summary>
+- **<details><summary>get-open-id-token</summary><blockquote>**
 
   * --identity-id
   * --logins
@@ -91,7 +87,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>get-open-id-token-for-developer-identity</summary>
+- **<details><summary>get-open-id-token-for-developer-identity</summary><blockquote>**
 
   * --identity-pool-id
   * --identity-id
@@ -103,7 +99,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>get-principal-tag-attribute-map</summary>
+- **<details><summary>get-principal-tag-attribute-map</summary><blockquote>**
 
   * --identity-pool-id
   * --identity-provider-name
@@ -112,12 +108,12 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-identities</summary>
+- **<details><summary>list-identities</summary><blockquote>**
 
   * --identity-pool-id
   * --max-results
@@ -129,7 +125,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>list-identity-pools</summary>
+- **<details><summary>list-identity-pools</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -139,7 +135,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -147,7 +143,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>lookup-developer-identity</summary>
+- **<details><summary>lookup-developer-identity</summary><blockquote>**
 
   * --identity-pool-id
   * --identity-id
@@ -159,7 +155,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>merge-developer-identities</summary>
+- **<details><summary>merge-developer-identities</summary><blockquote>**
 
   * --source-user-identifier
   * --destination-user-identifier
@@ -170,7 +166,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>set-identity-pool-roles</summary>
+- **<details><summary>set-identity-pool-roles</summary><blockquote>**
 
   * --identity-pool-id
   * --roles
@@ -180,7 +176,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>set-principal-tag-attribute-map</summary>
+- **<details><summary>set-principal-tag-attribute-map</summary><blockquote>**
 
   * --identity-pool-id
   * --identity-provider-name
@@ -192,7 +188,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -201,7 +197,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>unlink-developer-identity</summary>
+- **<details><summary>unlink-developer-identity</summary><blockquote>**
 
   * --identity-id
   * --identity-pool-id
@@ -212,7 +208,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>unlink-identity</summary>
+- **<details><summary>unlink-identity</summary><blockquote>**
 
   * --identity-id
   * --logins
@@ -222,7 +218,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -231,7 +227,7 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-- <details><summary>update-identity-pool</summary>
+- **<details><summary>update-identity-pool</summary><blockquote>**
 
   * --identity-pool-id
   * --identity-pool-name
@@ -250,5 +246,28 @@ cognito-identity
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

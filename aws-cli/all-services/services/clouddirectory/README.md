@@ -1,10 +1,6 @@
-<details>
+<details><summary>clouddirectory</summary><blockquote>
 
-<summary>
-clouddirectory
-</summary>
-
-- <details><summary>add-facet-to-object</summary>
+- **<details><summary>add-facet-to-object</summary><blockquote>**
 
   * --directory-arn
   * --schema-facet
@@ -15,7 +11,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>apply-schema</summary>
+- **<details><summary>apply-schema</summary><blockquote>**
 
   * --published-schema-arn
   * --directory-arn
@@ -24,7 +20,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-object</summary>
+- **<details><summary>attach-object</summary><blockquote>**
 
   * --directory-arn
   * --parent-reference
@@ -35,7 +31,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-policy</summary>
+- **<details><summary>attach-policy</summary><blockquote>**
 
   * --directory-arn
   * --policy-reference
@@ -45,7 +41,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-to-index</summary>
+- **<details><summary>attach-to-index</summary><blockquote>**
 
   * --directory-arn
   * --index-reference
@@ -55,7 +51,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-typed-link</summary>
+- **<details><summary>attach-typed-link</summary><blockquote>**
 
   * --directory-arn
   * --source-object-reference
@@ -67,7 +63,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-read</summary>
+- **<details><summary>batch-read</summary><blockquote>**
 
   * --directory-arn
   * --operations
@@ -77,7 +73,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-write</summary>
+- **<details><summary>batch-write</summary><blockquote>**
 
   * --directory-arn
   * --operations
@@ -86,7 +82,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>create-directory</summary>
+- **<details><summary>create-directory</summary><blockquote>**
 
   * --name
   * --schema-arn
@@ -95,7 +91,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>create-facet</summary>
+- **<details><summary>create-facet</summary><blockquote>**
 
   * --schema-arn
   * --name
@@ -107,7 +103,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>create-index</summary>
+- **<details><summary>create-index</summary><blockquote>**
 
   * --directory-arn
   * --ordered-indexed-attribute-list
@@ -120,7 +116,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>create-object</summary>
+- **<details><summary>create-object</summary><blockquote>**
 
   * --directory-arn
   * --schema-facets
@@ -132,7 +128,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>create-schema</summary>
+- **<details><summary>create-schema</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -140,7 +136,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>create-typed-link-facet</summary>
+- **<details><summary>create-typed-link-facet</summary><blockquote>**
 
   * --schema-arn
   * --facet
@@ -149,7 +145,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-directory</summary>
+- **<details><summary>delete-directory</summary><blockquote>**
 
   * --directory-arn
   * --cli-input-json
@@ -157,7 +153,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-facet</summary>
+- **<details><summary>delete-facet</summary><blockquote>**
 
   * --schema-arn
   * --name
@@ -166,7 +162,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-object</summary>
+- **<details><summary>delete-object</summary><blockquote>**
 
   * --directory-arn
   * --object-reference
@@ -175,7 +171,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-schema</summary>
+- **<details><summary>delete-schema</summary><blockquote>**
 
   * --schema-arn
   * --cli-input-json
@@ -183,7 +179,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-typed-link-facet</summary>
+- **<details><summary>delete-typed-link-facet</summary><blockquote>**
 
   * --schema-arn
   * --name
@@ -192,7 +188,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-from-index</summary>
+- **<details><summary>detach-from-index</summary><blockquote>**
 
   * --directory-arn
   * --index-reference
@@ -202,7 +198,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-object</summary>
+- **<details><summary>detach-object</summary><blockquote>**
 
   * --directory-arn
   * --parent-reference
@@ -212,7 +208,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-policy</summary>
+- **<details><summary>detach-policy</summary><blockquote>**
 
   * --directory-arn
   * --policy-reference
@@ -222,7 +218,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-typed-link</summary>
+- **<details><summary>detach-typed-link</summary><blockquote>**
 
   * --directory-arn
   * --typed-link-specifier
@@ -231,7 +227,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-directory</summary>
+- **<details><summary>disable-directory</summary><blockquote>**
 
   * --directory-arn
   * --cli-input-json
@@ -239,7 +235,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-directory</summary>
+- **<details><summary>enable-directory</summary><blockquote>**
 
   * --directory-arn
   * --cli-input-json
@@ -247,7 +243,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>get-applied-schema-version</summary>
+- **<details><summary>get-applied-schema-version</summary><blockquote>**
 
   * --schema-arn
   * --cli-input-json
@@ -255,7 +251,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>get-directory</summary>
+- **<details><summary>get-directory</summary><blockquote>**
 
   * --directory-arn
   * --cli-input-json
@@ -263,7 +259,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>get-facet</summary>
+- **<details><summary>get-facet</summary><blockquote>**
 
   * --schema-arn
   * --name
@@ -272,7 +268,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>get-link-attributes</summary>
+- **<details><summary>get-link-attributes</summary><blockquote>**
 
   * --directory-arn
   * --typed-link-specifier
@@ -283,7 +279,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>get-object-attributes</summary>
+- **<details><summary>get-object-attributes</summary><blockquote>**
 
   * --directory-arn
   * --object-reference
@@ -295,7 +291,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>get-object-information</summary>
+- **<details><summary>get-object-information</summary><blockquote>**
 
   * --directory-arn
   * --object-reference
@@ -305,7 +301,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>get-schema-as-json</summary>
+- **<details><summary>get-schema-as-json</summary><blockquote>**
 
   * --schema-arn
   * --cli-input-json
@@ -313,7 +309,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>get-typed-link-facet-information</summary>
+- **<details><summary>get-typed-link-facet-information</summary><blockquote>**
 
   * --schema-arn
   * --name
@@ -322,12 +318,12 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-applied-schema-arns</summary>
+- **<details><summary>list-applied-schema-arns</summary><blockquote>**
 
   * --directory-arn
   * --schema-arn
@@ -339,7 +335,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-attached-indices</summary>
+- **<details><summary>list-attached-indices</summary><blockquote>**
 
   * --directory-arn
   * --target-reference
@@ -352,7 +348,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-development-schema-arns</summary>
+- **<details><summary>list-development-schema-arns</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -362,7 +358,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-directories</summary>
+- **<details><summary>list-directories</summary><blockquote>**
 
   * --state
   * --cli-input-json
@@ -373,7 +369,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-facet-attributes</summary>
+- **<details><summary>list-facet-attributes</summary><blockquote>**
 
   * --schema-arn
   * --name
@@ -385,7 +381,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-facet-names</summary>
+- **<details><summary>list-facet-names</summary><blockquote>**
 
   * --schema-arn
   * --cli-input-json
@@ -396,7 +392,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-incoming-typed-links</summary>
+- **<details><summary>list-incoming-typed-links</summary><blockquote>**
 
   * --directory-arn
   * --object-reference
@@ -411,7 +407,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-index</summary>
+- **<details><summary>list-index</summary><blockquote>**
 
   * --directory-arn
   * --ranges-on-indexed-values
@@ -425,7 +421,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-managed-schema-arns</summary>
+- **<details><summary>list-managed-schema-arns</summary><blockquote>**
 
   * --schema-arn
   * --cli-input-json
@@ -436,7 +432,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-object-attributes</summary>
+- **<details><summary>list-object-attributes</summary><blockquote>**
 
   * --directory-arn
   * --object-reference
@@ -450,7 +446,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-object-children</summary>
+- **<details><summary>list-object-children</summary><blockquote>**
 
   * --directory-arn
   * --object-reference
@@ -462,7 +458,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-object-parent-paths</summary>
+- **<details><summary>list-object-parent-paths</summary><blockquote>**
 
   * --directory-arn
   * --object-reference
@@ -474,7 +470,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-object-parents</summary>
+- **<details><summary>list-object-parents</summary><blockquote>**
 
   * --directory-arn
   * --object-reference
@@ -488,7 +484,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-object-policies</summary>
+- **<details><summary>list-object-policies</summary><blockquote>**
 
   * --directory-arn
   * --object-reference
@@ -501,7 +497,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-outgoing-typed-links</summary>
+- **<details><summary>list-outgoing-typed-links</summary><blockquote>**
 
   * --directory-arn
   * --object-reference
@@ -516,7 +512,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-policy-attachments</summary>
+- **<details><summary>list-policy-attachments</summary><blockquote>**
 
   * --directory-arn
   * --policy-reference
@@ -529,7 +525,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-published-schema-arns</summary>
+- **<details><summary>list-published-schema-arns</summary><blockquote>**
 
   * --schema-arn
   * --cli-input-json
@@ -540,7 +536,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -551,7 +547,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-typed-link-facet-attributes</summary>
+- **<details><summary>list-typed-link-facet-attributes</summary><blockquote>**
 
   * --schema-arn
   * --name
@@ -563,7 +559,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>list-typed-link-facet-names</summary>
+- **<details><summary>list-typed-link-facet-names</summary><blockquote>**
 
   * --schema-arn
   * --cli-input-json
@@ -574,7 +570,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>lookup-policy</summary>
+- **<details><summary>lookup-policy</summary><blockquote>**
 
   * --directory-arn
   * --object-reference
@@ -586,7 +582,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>publish-schema</summary>
+- **<details><summary>publish-schema</summary><blockquote>**
 
   * --development-schema-arn
   * --minor-version
@@ -597,7 +593,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>put-schema-from-json</summary>
+- **<details><summary>put-schema-from-json</summary><blockquote>**
 
   * --schema-arn
   * --document
@@ -606,7 +602,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-facet-from-object</summary>
+- **<details><summary>remove-facet-from-object</summary><blockquote>**
 
   * --directory-arn
   * --schema-facet
@@ -616,7 +612,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -625,7 +621,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -634,7 +630,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>update-facet</summary>
+- **<details><summary>update-facet</summary><blockquote>**
 
   * --schema-arn
   * --name
@@ -645,7 +641,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>update-link-attributes</summary>
+- **<details><summary>update-link-attributes</summary><blockquote>**
 
   * --directory-arn
   * --typed-link-specifier
@@ -655,7 +651,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>update-object-attributes</summary>
+- **<details><summary>update-object-attributes</summary><blockquote>**
 
   * --directory-arn
   * --object-reference
@@ -665,7 +661,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>update-schema</summary>
+- **<details><summary>update-schema</summary><blockquote>**
 
   * --schema-arn
   * --name
@@ -674,7 +670,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>update-typed-link-facet</summary>
+- **<details><summary>update-typed-link-facet</summary><blockquote>**
 
   * --schema-arn
   * --name
@@ -685,7 +681,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>upgrade-applied-schema</summary>
+- **<details><summary>upgrade-applied-schema</summary><blockquote>**
 
   * --published-schema-arn
   * --directory-arn
@@ -696,7 +692,7 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-- <details><summary>upgrade-published-schema</summary>
+- **<details><summary>upgrade-published-schema</summary><blockquote>**
 
   * --development-schema-arn
   * --published-schema-arn
@@ -708,5 +704,71 @@ clouddirectory
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

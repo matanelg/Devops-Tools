@@ -1,10 +1,6 @@
-<details>
+<details><summary>mediapackage-vod</summary><blockquote>
 
-<summary>
-mediapackage-vod
-</summary>
-
-- <details><summary>configure-logs</summary>
+- **<details><summary>configure-logs</summary><blockquote>**
 
   * --egress-access-logs
   * --id
@@ -13,7 +9,7 @@ mediapackage-vod
   * --generate-cli-skeleton
 
 
-- <details><summary>create-asset</summary>
+- **<details><summary>create-asset</summary><blockquote>**
 
   * --id
   * --packaging-group-id
@@ -26,7 +22,7 @@ mediapackage-vod
   * --generate-cli-skeleton
 
 
-- <details><summary>create-packaging-configuration</summary>
+- **<details><summary>create-packaging-configuration</summary><blockquote>**
 
   * --cmaf-package
   * --dash-package
@@ -40,7 +36,7 @@ mediapackage-vod
   * --generate-cli-skeleton
 
 
-- <details><summary>create-packaging-group</summary>
+- **<details><summary>create-packaging-group</summary><blockquote>**
 
   * --authorization
   * --egress-access-logs
@@ -51,7 +47,7 @@ mediapackage-vod
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-asset</summary>
+- **<details><summary>delete-asset</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -59,7 +55,7 @@ mediapackage-vod
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-packaging-configuration</summary>
+- **<details><summary>delete-packaging-configuration</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -67,7 +63,7 @@ mediapackage-vod
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-packaging-group</summary>
+- **<details><summary>delete-packaging-group</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -75,7 +71,7 @@ mediapackage-vod
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-asset</summary>
+- **<details><summary>describe-asset</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -83,7 +79,7 @@ mediapackage-vod
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-packaging-configuration</summary>
+- **<details><summary>describe-packaging-configuration</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -91,7 +87,7 @@ mediapackage-vod
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-packaging-group</summary>
+- **<details><summary>describe-packaging-group</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -99,12 +95,12 @@ mediapackage-vod
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-assets</summary>
+- **<details><summary>list-assets</summary><blockquote>**
 
   * --packaging-group-id
   * --cli-input-json
@@ -115,7 +111,7 @@ mediapackage-vod
   * --generate-cli-skeleton
 
 
-- <details><summary>list-packaging-configurations</summary>
+- **<details><summary>list-packaging-configurations</summary><blockquote>**
 
   * --packaging-group-id
   * --cli-input-json
@@ -126,7 +122,7 @@ mediapackage-vod
   * --generate-cli-skeleton
 
 
-- <details><summary>list-packaging-groups</summary>
+- **<details><summary>list-packaging-groups</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -136,7 +132,7 @@ mediapackage-vod
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -144,7 +140,7 @@ mediapackage-vod
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -153,7 +149,7 @@ mediapackage-vod
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -162,7 +158,7 @@ mediapackage-vod
   * --generate-cli-skeleton
 
 
-- <details><summary>update-packaging-group</summary>
+- **<details><summary>update-packaging-group</summary><blockquote>**
 
   * --authorization
   * --id
@@ -171,5 +167,22 @@ mediapackage-vod
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

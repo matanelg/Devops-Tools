@@ -1,10 +1,6 @@
-<details>
+<details><summary>glacier</summary><blockquote>
 
-<summary>
-glacier
-</summary>
-
-- <details><summary>abort-multipart-upload</summary>
+- **<details><summary>abort-multipart-upload</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -14,7 +10,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>abort-vault-lock</summary>
+- **<details><summary>abort-vault-lock</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -23,7 +19,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>add-tags-to-vault</summary>
+- **<details><summary>add-tags-to-vault</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -33,7 +29,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>complete-multipart-upload</summary>
+- **<details><summary>complete-multipart-upload</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -45,7 +41,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>complete-vault-lock</summary>
+- **<details><summary>complete-vault-lock</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -55,7 +51,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>create-vault</summary>
+- **<details><summary>create-vault</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -64,7 +60,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-archive</summary>
+- **<details><summary>delete-archive</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -74,7 +70,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-vault</summary>
+- **<details><summary>delete-vault</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -83,7 +79,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-vault-access-policy</summary>
+- **<details><summary>delete-vault-access-policy</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -92,7 +88,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-vault-notifications</summary>
+- **<details><summary>delete-vault-notifications</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -101,7 +97,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-job</summary>
+- **<details><summary>describe-job</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -111,7 +107,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-vault</summary>
+- **<details><summary>describe-vault</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -120,7 +116,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>get-data-retrieval-policy</summary>
+- **<details><summary>get-data-retrieval-policy</summary><blockquote>**
 
   * --account-id
   * --cli-input-json
@@ -128,7 +124,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>get-job-output</summary>
+- **<details><summary>get-job-output</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -136,7 +132,7 @@ glacier
   * --range
 
 
-- <details><summary>get-vault-access-policy</summary>
+- **<details><summary>get-vault-access-policy</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -145,7 +141,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>get-vault-lock</summary>
+- **<details><summary>get-vault-lock</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -154,7 +150,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>get-vault-notifications</summary>
+- **<details><summary>get-vault-notifications</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -163,12 +159,12 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>initiate-job</summary>
+- **<details><summary>initiate-job</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -178,7 +174,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>initiate-multipart-upload</summary>
+- **<details><summary>initiate-multipart-upload</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -189,7 +185,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>initiate-vault-lock</summary>
+- **<details><summary>initiate-vault-lock</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -199,7 +195,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>list-jobs</summary>
+- **<details><summary>list-jobs</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -213,7 +209,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>list-multipart-uploads</summary>
+- **<details><summary>list-multipart-uploads</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -225,7 +221,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>list-parts</summary>
+- **<details><summary>list-parts</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -238,7 +234,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>list-provisioned-capacity</summary>
+- **<details><summary>list-provisioned-capacity</summary><blockquote>**
 
   * --account-id
   * --cli-input-json
@@ -246,7 +242,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-vault</summary>
+- **<details><summary>list-tags-for-vault</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -255,7 +251,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>list-vaults</summary>
+- **<details><summary>list-vaults</summary><blockquote>**
 
   * --account-id
   * --cli-input-json
@@ -266,7 +262,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>purchase-provisioned-capacity</summary>
+- **<details><summary>purchase-provisioned-capacity</summary><blockquote>**
 
   * --account-id
   * --cli-input-json
@@ -274,7 +270,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-tags-from-vault</summary>
+- **<details><summary>remove-tags-from-vault</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -284,7 +280,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>set-data-retrieval-policy</summary>
+- **<details><summary>set-data-retrieval-policy</summary><blockquote>**
 
   * --account-id
   * --policy
@@ -293,7 +289,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>set-vault-access-policy</summary>
+- **<details><summary>set-vault-access-policy</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -303,7 +299,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>set-vault-notifications</summary>
+- **<details><summary>set-vault-notifications</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -313,7 +309,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>upload-archive</summary>
+- **<details><summary>upload-archive</summary><blockquote>**
 
   * --vault-name
   * --account-id
@@ -325,7 +321,7 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>upload-multipart-part</summary>
+- **<details><summary>upload-multipart-part</summary><blockquote>**
 
   * --account-id
   * --vault-name
@@ -338,10 +334,44 @@ glacier
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

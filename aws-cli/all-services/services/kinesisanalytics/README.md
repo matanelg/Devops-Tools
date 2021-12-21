@@ -1,10 +1,6 @@
-<details>
+<details><summary>kinesisanalytics</summary><blockquote>
 
-<summary>
-kinesisanalytics
-</summary>
-
-- <details><summary>add-application-cloud-watch-logging-option</summary>
+- **<details><summary>add-application-cloud-watch-logging-option</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -14,7 +10,7 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>add-application-input</summary>
+- **<details><summary>add-application-input</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -24,7 +20,7 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>add-application-input-processing-configuration</summary>
+- **<details><summary>add-application-input-processing-configuration</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -35,7 +31,7 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>add-application-output</summary>
+- **<details><summary>add-application-output</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -45,7 +41,7 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>add-application-reference-data-source</summary>
+- **<details><summary>add-application-reference-data-source</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -55,7 +51,7 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>create-application</summary>
+- **<details><summary>create-application</summary><blockquote>**
 
   * --application-name
   * --application-description
@@ -69,7 +65,7 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application</summary>
+- **<details><summary>delete-application</summary><blockquote>**
 
   * --application-name
   * --create-timestamp
@@ -78,7 +74,7 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application-cloud-watch-logging-option</summary>
+- **<details><summary>delete-application-cloud-watch-logging-option</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -88,7 +84,7 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application-input-processing-configuration</summary>
+- **<details><summary>delete-application-input-processing-configuration</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -98,7 +94,7 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application-output</summary>
+- **<details><summary>delete-application-output</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -108,7 +104,7 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application-reference-data-source</summary>
+- **<details><summary>delete-application-reference-data-source</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -118,7 +114,7 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-application</summary>
+- **<details><summary>describe-application</summary><blockquote>**
 
   * --application-name
   * --cli-input-json
@@ -126,7 +122,7 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>discover-input-schema</summary>
+- **<details><summary>discover-input-schema</summary><blockquote>**
 
   * --resource-arn
   * --role-arn
@@ -138,12 +134,12 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-applications</summary>
+- **<details><summary>list-applications</summary><blockquote>**
 
   * --limit
   * --exclusive-start-application-name
@@ -152,7 +148,7 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -160,7 +156,7 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>start-application</summary>
+- **<details><summary>start-application</summary><blockquote>**
 
   * --application-name
   * --input-configurations
@@ -169,7 +165,7 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-application</summary>
+- **<details><summary>stop-application</summary><blockquote>**
 
   * --application-name
   * --cli-input-json
@@ -177,7 +173,7 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -186,7 +182,7 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -195,7 +191,7 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>update-application</summary>
+- **<details><summary>update-application</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -205,5 +201,25 @@ kinesisanalytics
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

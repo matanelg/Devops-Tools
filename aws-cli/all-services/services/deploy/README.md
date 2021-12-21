@@ -1,10 +1,6 @@
-<details>
+<details><summary>deploy</summary><blockquote>
 
-<summary>
-deploy
-</summary>
-
-- <details><summary>add-tags-to-on-premises-instances</summary>
+- **<details><summary>add-tags-to-on-premises-instances</summary><blockquote>**
 
   * --tags
   * --instance-names
@@ -13,7 +9,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-application-revisions</summary>
+- **<details><summary>batch-get-application-revisions</summary><blockquote>**
 
   * --application-name
   * --revisions
@@ -22,7 +18,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-applications</summary>
+- **<details><summary>batch-get-applications</summary><blockquote>**
 
   * --application-names
   * --cli-input-json
@@ -30,7 +26,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-deployment-groups</summary>
+- **<details><summary>batch-get-deployment-groups</summary><blockquote>**
 
   * --application-name
   * --deployment-group-names
@@ -39,7 +35,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-deployments</summary>
+- **<details><summary>batch-get-deployments</summary><blockquote>**
 
   * --deployment-ids
   * --cli-input-json
@@ -47,7 +43,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-deployment-targets</summary>
+- **<details><summary>batch-get-deployment-targets</summary><blockquote>**
 
   * --deployment-id
   * --target-ids
@@ -56,7 +52,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-on-premises-instances</summary>
+- **<details><summary>batch-get-on-premises-instances</summary><blockquote>**
 
   * --instance-names
   * --cli-input-json
@@ -64,7 +60,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>continue-deployment</summary>
+- **<details><summary>continue-deployment</summary><blockquote>**
 
   * --deployment-id
   * --deployment-wait-type
@@ -73,7 +69,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>create-application</summary>
+- **<details><summary>create-application</summary><blockquote>**
 
   * --application-name
   * --compute-platform
@@ -83,7 +79,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>create-deployment</summary>
+- **<details><summary>create-deployment</summary><blockquote>**
 
   * --application-name
   * --deployment-group-name
@@ -104,7 +100,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>create-deployment-config</summary>
+- **<details><summary>create-deployment-config</summary><blockquote>**
 
   * --deployment-config-name
   * --minimum-healthy-hosts
@@ -115,7 +111,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>create-deployment-group</summary>
+- **<details><summary>create-deployment-group</summary><blockquote>**
 
   * --application-name
   * --deployment-group-name
@@ -140,7 +136,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application</summary>
+- **<details><summary>delete-application</summary><blockquote>**
 
   * --application-name
   * --cli-input-json
@@ -148,7 +144,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-deployment-config</summary>
+- **<details><summary>delete-deployment-config</summary><blockquote>**
 
   * --deployment-config-name
   * --cli-input-json
@@ -156,7 +152,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-deployment-group</summary>
+- **<details><summary>delete-deployment-group</summary><blockquote>**
 
   * --application-name
   * --deployment-group-name
@@ -165,7 +161,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-git-hub-account-token</summary>
+- **<details><summary>delete-git-hub-account-token</summary><blockquote>**
 
   * --token-name
   * --cli-input-json
@@ -173,7 +169,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-resources-by-external-id</summary>
+- **<details><summary>delete-resources-by-external-id</summary><blockquote>**
 
   * --external-id
   * --cli-input-json
@@ -181,13 +177,13 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister</summary>
+- **<details><summary>deregister</summary><blockquote>**
 
   * --instance-name
   * --no-delete-iam-user
 
 
-- <details><summary>deregister-on-premises-instance</summary>
+- **<details><summary>deregister-on-premises-instance</summary><blockquote>**
 
   * --instance-name
   * --cli-input-json
@@ -195,7 +191,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>get-application</summary>
+- **<details><summary>get-application</summary><blockquote>**
 
   * --application-name
   * --cli-input-json
@@ -203,7 +199,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>get-application-revision</summary>
+- **<details><summary>get-application-revision</summary><blockquote>**
 
   * --application-name
   * --revision
@@ -214,7 +210,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>get-deployment</summary>
+- **<details><summary>get-deployment</summary><blockquote>**
 
   * --deployment-id
   * --cli-input-json
@@ -222,7 +218,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>get-deployment-config</summary>
+- **<details><summary>get-deployment-config</summary><blockquote>**
 
   * --deployment-config-name
   * --cli-input-json
@@ -230,7 +226,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>get-deployment-group</summary>
+- **<details><summary>get-deployment-group</summary><blockquote>**
 
   * --application-name
   * --deployment-group-name
@@ -239,7 +235,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>get-deployment-target</summary>
+- **<details><summary>get-deployment-target</summary><blockquote>**
 
   * --deployment-id
   * --target-id
@@ -248,7 +244,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>get-on-premises-instance</summary>
+- **<details><summary>get-on-premises-instance</summary><blockquote>**
 
   * --instance-name
   * --cli-input-json
@@ -256,19 +252,19 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>install</summary>
+- **<details><summary>install</summary><blockquote>**
 
   * --config-file
   * --override-config
   * --agent-installer
 
 
-- <details><summary>list-application-revisions</summary>
+- **<details><summary>list-application-revisions</summary><blockquote>**
 
   * --application-name
   * --sort-by
@@ -283,7 +279,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>list-applications</summary>
+- **<details><summary>list-applications</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -292,7 +288,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>list-deployment-configs</summary>
+- **<details><summary>list-deployment-configs</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -301,7 +297,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>list-deployment-groups</summary>
+- **<details><summary>list-deployment-groups</summary><blockquote>**
 
   * --application-name
   * --cli-input-json
@@ -311,7 +307,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>list-deployments</summary>
+- **<details><summary>list-deployments</summary><blockquote>**
 
   * --application-name
   * --deployment-group-name
@@ -325,7 +321,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>list-deployment-targets</summary>
+- **<details><summary>list-deployment-targets</summary><blockquote>**
 
   * --deployment-id
   * --target-filters
@@ -336,7 +332,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>list-git-hub-account-token-names</summary>
+- **<details><summary>list-git-hub-account-token-names</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -345,7 +341,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>list-on-premises-instances</summary>
+- **<details><summary>list-on-premises-instances</summary><blockquote>**
 
   * --registration-status
   * --tag-filters
@@ -356,7 +352,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --next-token
@@ -365,7 +361,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>push</summary>
+- **<details><summary>push</summary><blockquote>**
 
   * --application-name
   * --s3-location
@@ -375,7 +371,7 @@ deploy
   * --description
 
 
-- <details><summary>put-lifecycle-event-hook-execution-status</summary>
+- **<details><summary>put-lifecycle-event-hook-execution-status</summary><blockquote>**
 
   * --deployment-id
   * --lifecycle-event-hook-execution-id
@@ -385,14 +381,14 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>register</summary>
+- **<details><summary>register</summary><blockquote>**
 
   * --instance-name
   * --tags
   * --iam-user-arn
 
 
-- <details><summary>register-application-revision</summary>
+- **<details><summary>register-application-revision</summary><blockquote>**
 
   * --application-name
   * --description
@@ -404,7 +400,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>register-on-premises-instance</summary>
+- **<details><summary>register-on-premises-instance</summary><blockquote>**
 
   * --instance-name
   * --iam-session-arn
@@ -414,7 +410,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-tags-from-on-premises-instances</summary>
+- **<details><summary>remove-tags-from-on-premises-instances</summary><blockquote>**
 
   * --tags
   * --instance-names
@@ -423,7 +419,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-deployment</summary>
+- **<details><summary>stop-deployment</summary><blockquote>**
 
   * --deployment-id
   * --auto-rollback-enabled
@@ -433,7 +429,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -442,12 +438,12 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>uninstall</summary>
+- **<details><summary>uninstall</summary><blockquote>**
 
   * 
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -456,7 +452,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>update-application</summary>
+- **<details><summary>update-application</summary><blockquote>**
 
   * --application-name
   * --new-application-name
@@ -465,7 +461,7 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>update-deployment-group</summary>
+- **<details><summary>update-deployment-group</summary><blockquote>**
 
   * --application-name
   * --current-deployment-group-name
@@ -490,10 +486,59 @@ deploy
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

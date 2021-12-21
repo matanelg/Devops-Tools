@@ -1,10 +1,6 @@
-<details>
+<details><summary>iotwireless</summary><blockquote>
 
-<summary>
-iotwireless
-</summary>
-
-- <details><summary>associate-aws-account-with-partner-account</summary>
+- **<details><summary>associate-aws-account-with-partner-account</summary><blockquote>**
 
   * --sidewalk
   * --client-request-token
@@ -14,7 +10,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-wireless-device-with-thing</summary>
+- **<details><summary>associate-wireless-device-with-thing</summary><blockquote>**
 
   * --id
   * --thing-arn
@@ -23,7 +19,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-wireless-gateway-with-certificate</summary>
+- **<details><summary>associate-wireless-gateway-with-certificate</summary><blockquote>**
 
   * --id
   * --iot-certificate-id
@@ -32,7 +28,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-wireless-gateway-with-thing</summary>
+- **<details><summary>associate-wireless-gateway-with-thing</summary><blockquote>**
 
   * --id
   * --thing-arn
@@ -41,7 +37,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>create-destination</summary>
+- **<details><summary>create-destination</summary><blockquote>**
 
   * --name
   * --expression-type
@@ -55,7 +51,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>create-device-profile</summary>
+- **<details><summary>create-device-profile</summary><blockquote>**
 
   * --name
   * --tags
@@ -66,7 +62,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>create-service-profile</summary>
+- **<details><summary>create-service-profile</summary><blockquote>**
 
   * --name
   * --tags
@@ -77,7 +73,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>create-wireless-device</summary>
+- **<details><summary>create-wireless-device</summary><blockquote>**
 
   * --type
   * --name
@@ -91,7 +87,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>create-wireless-gateway</summary>
+- **<details><summary>create-wireless-gateway</summary><blockquote>**
 
   * --name
   * --description
@@ -103,7 +99,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>create-wireless-gateway-task</summary>
+- **<details><summary>create-wireless-gateway-task</summary><blockquote>**
 
   * --id
   * --wireless-gateway-task-definition-id
@@ -112,7 +108,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>create-wireless-gateway-task-definition</summary>
+- **<details><summary>create-wireless-gateway-task-definition</summary><blockquote>**
 
   * --auto-create-tasks
   * --no-auto-create-tasks
@@ -125,7 +121,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-destination</summary>
+- **<details><summary>delete-destination</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -133,7 +129,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-device-profile</summary>
+- **<details><summary>delete-device-profile</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -141,7 +137,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-service-profile</summary>
+- **<details><summary>delete-service-profile</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -149,7 +145,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-wireless-device</summary>
+- **<details><summary>delete-wireless-device</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -157,7 +153,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-wireless-gateway</summary>
+- **<details><summary>delete-wireless-gateway</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -165,7 +161,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-wireless-gateway-task</summary>
+- **<details><summary>delete-wireless-gateway-task</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -173,7 +169,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-wireless-gateway-task-definition</summary>
+- **<details><summary>delete-wireless-gateway-task-definition</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -181,7 +177,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-aws-account-from-partner-account</summary>
+- **<details><summary>disassociate-aws-account-from-partner-account</summary><blockquote>**
 
   * --partner-account-id
   * --partner-type
@@ -190,7 +186,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-wireless-device-from-thing</summary>
+- **<details><summary>disassociate-wireless-device-from-thing</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -198,7 +194,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-wireless-gateway-from-certificate</summary>
+- **<details><summary>disassociate-wireless-gateway-from-certificate</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -206,7 +202,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-wireless-gateway-from-thing</summary>
+- **<details><summary>disassociate-wireless-gateway-from-thing</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -214,7 +210,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>get-destination</summary>
+- **<details><summary>get-destination</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -222,7 +218,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>get-device-profile</summary>
+- **<details><summary>get-device-profile</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -230,14 +226,14 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>get-log-levels-by-resource-types</summary>
+- **<details><summary>get-log-levels-by-resource-types</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-partner-account</summary>
+- **<details><summary>get-partner-account</summary><blockquote>**
 
   * --partner-account-id
   * --partner-type
@@ -246,7 +242,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resource-log-level</summary>
+- **<details><summary>get-resource-log-level</summary><blockquote>**
 
   * --resource-identifier
   * --resource-type
@@ -255,7 +251,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>get-service-endpoint</summary>
+- **<details><summary>get-service-endpoint</summary><blockquote>**
 
   * --service-type
   * --cli-input-json
@@ -263,7 +259,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>get-service-profile</summary>
+- **<details><summary>get-service-profile</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -271,7 +267,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>get-wireless-device</summary>
+- **<details><summary>get-wireless-device</summary><blockquote>**
 
   * --identifier
   * --identifier-type
@@ -280,7 +276,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>get-wireless-device-statistics</summary>
+- **<details><summary>get-wireless-device-statistics</summary><blockquote>**
 
   * --wireless-device-id
   * --cli-input-json
@@ -288,7 +284,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>get-wireless-gateway</summary>
+- **<details><summary>get-wireless-gateway</summary><blockquote>**
 
   * --identifier
   * --identifier-type
@@ -297,7 +293,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>get-wireless-gateway-certificate</summary>
+- **<details><summary>get-wireless-gateway-certificate</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -305,7 +301,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>get-wireless-gateway-firmware-information</summary>
+- **<details><summary>get-wireless-gateway-firmware-information</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -313,7 +309,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>get-wireless-gateway-statistics</summary>
+- **<details><summary>get-wireless-gateway-statistics</summary><blockquote>**
 
   * --wireless-gateway-id
   * --cli-input-json
@@ -321,7 +317,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>get-wireless-gateway-task</summary>
+- **<details><summary>get-wireless-gateway-task</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -329,7 +325,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>get-wireless-gateway-task-definition</summary>
+- **<details><summary>get-wireless-gateway-task-definition</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -337,12 +333,12 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-destinations</summary>
+- **<details><summary>list-destinations</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -351,7 +347,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>list-device-profiles</summary>
+- **<details><summary>list-device-profiles</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -360,7 +356,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>list-partner-accounts</summary>
+- **<details><summary>list-partner-accounts</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -369,7 +365,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>list-service-profiles</summary>
+- **<details><summary>list-service-profiles</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -378,7 +374,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -386,7 +382,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>list-wireless-devices</summary>
+- **<details><summary>list-wireless-devices</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -399,7 +395,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>list-wireless-gateways</summary>
+- **<details><summary>list-wireless-gateways</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -408,7 +404,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>list-wireless-gateway-task-definitions</summary>
+- **<details><summary>list-wireless-gateway-task-definitions</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -418,7 +414,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>put-resource-log-level</summary>
+- **<details><summary>put-resource-log-level</summary><blockquote>**
 
   * --resource-identifier
   * --resource-type
@@ -428,14 +424,14 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-all-resource-log-levels</summary>
+- **<details><summary>reset-all-resource-log-levels</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-resource-log-level</summary>
+- **<details><summary>reset-resource-log-level</summary><blockquote>**
 
   * --resource-identifier
   * --resource-type
@@ -444,7 +440,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>send-data-to-wireless-device</summary>
+- **<details><summary>send-data-to-wireless-device</summary><blockquote>**
 
   * --id
   * --transmit-mode
@@ -455,7 +451,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -464,7 +460,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>test-wireless-device</summary>
+- **<details><summary>test-wireless-device</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -472,7 +468,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -481,7 +477,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>update-destination</summary>
+- **<details><summary>update-destination</summary><blockquote>**
 
   * --name
   * --expression-type
@@ -493,7 +489,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>update-log-levels-by-resource-types</summary>
+- **<details><summary>update-log-levels-by-resource-types</summary><blockquote>**
 
   * --default-log-level
   * --wireless-device-log-options
@@ -503,7 +499,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>update-partner-account</summary>
+- **<details><summary>update-partner-account</summary><blockquote>**
 
   * --sidewalk
   * --partner-account-id
@@ -513,7 +509,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>update-wireless-device</summary>
+- **<details><summary>update-wireless-device</summary><blockquote>**
 
   * --id
   * --destination-name
@@ -525,7 +521,7 @@ iotwireless
   * --generate-cli-skeleton
 
 
-- <details><summary>update-wireless-gateway</summary>
+- **<details><summary>update-wireless-gateway</summary><blockquote>**
 
   * --id
   * --name
@@ -537,5 +533,62 @@ iotwireless
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

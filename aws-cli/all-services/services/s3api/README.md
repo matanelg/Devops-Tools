@@ -1,10 +1,6 @@
-<details>
+<details><summary>s3api</summary><blockquote>
 
-<summary>
-s3api
-</summary>
-
-- <details><summary>abort-multipart-upload</summary>
+- **<details><summary>abort-multipart-upload</summary><blockquote>**
 
   * --bucket
   * --key
@@ -16,7 +12,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>complete-multipart-upload</summary>
+- **<details><summary>complete-multipart-upload</summary><blockquote>**
 
   * --bucket
   * --key
@@ -29,7 +25,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-object</summary>
+- **<details><summary>copy-object</summary><blockquote>**
 
   * --acl
   * --bucket
@@ -77,7 +73,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>create-bucket</summary>
+- **<details><summary>create-bucket</summary><blockquote>**
 
   * --acl
   * --bucket
@@ -94,7 +90,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>create-multipart-upload</summary>
+- **<details><summary>create-multipart-upload</summary><blockquote>**
 
   * --acl
   * --bucket
@@ -131,7 +127,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bucket</summary>
+- **<details><summary>delete-bucket</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -140,7 +136,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bucket-analytics-configuration</summary>
+- **<details><summary>delete-bucket-analytics-configuration</summary><blockquote>**
 
   * --bucket
   * --id
@@ -150,7 +146,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bucket-cors</summary>
+- **<details><summary>delete-bucket-cors</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -159,7 +155,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bucket-encryption</summary>
+- **<details><summary>delete-bucket-encryption</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -168,7 +164,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bucket-intelligent-tiering-configuration</summary>
+- **<details><summary>delete-bucket-intelligent-tiering-configuration</summary><blockquote>**
 
   * --bucket
   * --id
@@ -177,26 +173,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bucket-inventory-configuration</summary>
-
-  * --bucket
-  * --id
-  * --expected-bucket-owner
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>delete-bucket-lifecycle</summary>
-
-  * --bucket
-  * --expected-bucket-owner
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>delete-bucket-metrics-configuration</summary>
+- **<details><summary>delete-bucket-inventory-configuration</summary><blockquote>**
 
   * --bucket
   * --id
@@ -206,7 +183,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bucket-ownership-controls</summary>
+- **<details><summary>delete-bucket-lifecycle</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -215,7 +192,17 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bucket-policy</summary>
+- **<details><summary>delete-bucket-metrics-configuration</summary><blockquote>**
+
+  * --bucket
+  * --id
+  * --expected-bucket-owner
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>delete-bucket-ownership-controls</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -224,7 +211,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bucket-replication</summary>
+- **<details><summary>delete-bucket-policy</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -233,7 +220,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bucket-tagging</summary>
+- **<details><summary>delete-bucket-replication</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -242,7 +229,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bucket-website</summary>
+- **<details><summary>delete-bucket-tagging</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -251,7 +238,16 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-object</summary>
+- **<details><summary>delete-bucket-website</summary><blockquote>**
+
+  * --bucket
+  * --expected-bucket-owner
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>delete-object</summary><blockquote>**
 
   * --bucket
   * --key
@@ -266,7 +262,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-objects</summary>
+- **<details><summary>delete-objects</summary><blockquote>**
 
   * --bucket
   * --delete
@@ -280,7 +276,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-object-tagging</summary>
+- **<details><summary>delete-object-tagging</summary><blockquote>**
 
   * --bucket
   * --key
@@ -291,7 +287,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-public-access-block</summary>
+- **<details><summary>delete-public-access-block</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -300,7 +296,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-accelerate-configuration</summary>
+- **<details><summary>get-bucket-accelerate-configuration</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -309,7 +305,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-acl</summary>
+- **<details><summary>get-bucket-acl</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -318,7 +314,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-analytics-configuration</summary>
+- **<details><summary>get-bucket-analytics-configuration</summary><blockquote>**
 
   * --bucket
   * --id
@@ -328,7 +324,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-cors</summary>
+- **<details><summary>get-bucket-cors</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -337,7 +333,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-encryption</summary>
+- **<details><summary>get-bucket-encryption</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -346,7 +342,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-intelligent-tiering-configuration</summary>
+- **<details><summary>get-bucket-intelligent-tiering-configuration</summary><blockquote>**
 
   * --bucket
   * --id
@@ -355,44 +351,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-inventory-configuration</summary>
-
-  * --bucket
-  * --id
-  * --expected-bucket-owner
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>get-bucket-lifecycle-configuration</summary>
-
-  * --bucket
-  * --expected-bucket-owner
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>get-bucket-location</summary>
-
-  * --bucket
-  * --expected-bucket-owner
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>get-bucket-logging</summary>
-
-  * --bucket
-  * --expected-bucket-owner
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>get-bucket-metrics-configuration</summary>
+- **<details><summary>get-bucket-inventory-configuration</summary><blockquote>**
 
   * --bucket
   * --id
@@ -402,7 +361,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-notification-configuration</summary>
+- **<details><summary>get-bucket-lifecycle-configuration</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -411,7 +370,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-ownership-controls</summary>
+- **<details><summary>get-bucket-location</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -420,7 +379,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-policy</summary>
+- **<details><summary>get-bucket-logging</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -429,7 +388,17 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-policy-status</summary>
+- **<details><summary>get-bucket-metrics-configuration</summary><blockquote>**
+
+  * --bucket
+  * --id
+  * --expected-bucket-owner
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>get-bucket-notification-configuration</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -438,7 +407,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-replication</summary>
+- **<details><summary>get-bucket-ownership-controls</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -447,7 +416,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-request-payment</summary>
+- **<details><summary>get-bucket-policy</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -456,7 +425,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-tagging</summary>
+- **<details><summary>get-bucket-policy-status</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -465,7 +434,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-versioning</summary>
+- **<details><summary>get-bucket-replication</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -474,7 +443,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-website</summary>
+- **<details><summary>get-bucket-request-payment</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -483,7 +452,34 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-object</summary>
+- **<details><summary>get-bucket-tagging</summary><blockquote>**
+
+  * --bucket
+  * --expected-bucket-owner
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>get-bucket-versioning</summary><blockquote>**
+
+  * --bucket
+  * --expected-bucket-owner
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>get-bucket-website</summary><blockquote>**
+
+  * --bucket
+  * --expected-bucket-owner
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>get-object</summary><blockquote>**
 
   * --bucket
   * --if-match
@@ -507,7 +503,7 @@ s3api
   * --expected-bucket-owner
 
 
-- <details><summary>get-object-acl</summary>
+- **<details><summary>get-object-acl</summary><blockquote>**
 
   * --bucket
   * --key
@@ -519,7 +515,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-object-legal-hold</summary>
+- **<details><summary>get-object-legal-hold</summary><blockquote>**
 
   * --bucket
   * --key
@@ -531,7 +527,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-object-lock-configuration</summary>
+- **<details><summary>get-object-lock-configuration</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -540,7 +536,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-object-retention</summary>
+- **<details><summary>get-object-retention</summary><blockquote>**
 
   * --bucket
   * --key
@@ -552,7 +548,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-object-tagging</summary>
+- **<details><summary>get-object-tagging</summary><blockquote>**
 
   * --bucket
   * --key
@@ -564,7 +560,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>get-object-torrent</summary>
+- **<details><summary>get-object-torrent</summary><blockquote>**
 
   * --bucket
   * --key
@@ -572,7 +568,7 @@ s3api
   * --expected-bucket-owner
 
 
-- <details><summary>get-public-access-block</summary>
+- **<details><summary>get-public-access-block</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -581,7 +577,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>head-bucket</summary>
+- **<details><summary>head-bucket</summary><blockquote>**
 
   * --bucket
   * --expected-bucket-owner
@@ -590,7 +586,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>head-object</summary>
+- **<details><summary>head-object</summary><blockquote>**
 
   * --bucket
   * --if-match
@@ -611,12 +607,12 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-bucket-analytics-configurations</summary>
+- **<details><summary>list-bucket-analytics-configurations</summary><blockquote>**
 
   * --bucket
   * --continuation-token
@@ -626,7 +622,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>list-bucket-intelligent-tiering-configurations</summary>
+- **<details><summary>list-bucket-intelligent-tiering-configurations</summary><blockquote>**
 
   * --bucket
   * --continuation-token
@@ -635,17 +631,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>list-bucket-inventory-configurations</summary>
-
-  * --bucket
-  * --continuation-token
-  * --expected-bucket-owner
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>list-bucket-metrics-configurations</summary>
+- **<details><summary>list-bucket-inventory-configurations</summary><blockquote>**
 
   * --bucket
   * --continuation-token
@@ -655,14 +641,24 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>list-buckets</summary>
+- **<details><summary>list-bucket-metrics-configurations</summary><blockquote>**
+
+  * --bucket
+  * --continuation-token
+  * --expected-bucket-owner
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>list-buckets</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>list-multipart-uploads</summary>
+- **<details><summary>list-multipart-uploads</summary><blockquote>**
 
   * --bucket
   * --delimiter
@@ -677,7 +673,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>list-objects</summary>
+- **<details><summary>list-objects</summary><blockquote>**
 
   * --bucket
   * --delimiter
@@ -693,7 +689,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>list-objects-v2</summary>
+- **<details><summary>list-objects-v2</summary><blockquote>**
 
   * --bucket
   * --delimiter
@@ -712,7 +708,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>list-object-versions</summary>
+- **<details><summary>list-object-versions</summary><blockquote>**
 
   * --bucket
   * --delimiter
@@ -727,7 +723,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>list-parts</summary>
+- **<details><summary>list-parts</summary><blockquote>**
 
   * --bucket
   * --key
@@ -742,7 +738,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-accelerate-configuration</summary>
+- **<details><summary>put-bucket-accelerate-configuration</summary><blockquote>**
 
   * --bucket
   * --accelerate-configuration
@@ -752,7 +748,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-acl</summary>
+- **<details><summary>put-bucket-acl</summary><blockquote>**
 
   * --acl
   * --access-control-policy
@@ -769,7 +765,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-analytics-configuration</summary>
+- **<details><summary>put-bucket-analytics-configuration</summary><blockquote>**
 
   * --bucket
   * --id
@@ -780,7 +776,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-cors</summary>
+- **<details><summary>put-bucket-cors</summary><blockquote>**
 
   * --bucket
   * --cors-configuration
@@ -791,7 +787,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-encryption</summary>
+- **<details><summary>put-bucket-encryption</summary><blockquote>**
 
   * --bucket
   * --content-md5
@@ -802,7 +798,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-intelligent-tiering-configuration</summary>
+- **<details><summary>put-bucket-intelligent-tiering-configuration</summary><blockquote>**
 
   * --bucket
   * --id
@@ -812,7 +808,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-inventory-configuration</summary>
+- **<details><summary>put-bucket-inventory-configuration</summary><blockquote>**
 
   * --bucket
   * --id
@@ -823,7 +819,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-lifecycle-configuration</summary>
+- **<details><summary>put-bucket-lifecycle-configuration</summary><blockquote>**
 
   * --bucket
   * --lifecycle-configuration
@@ -833,7 +829,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-logging</summary>
+- **<details><summary>put-bucket-logging</summary><blockquote>**
 
   * --bucket
   * --bucket-logging-status
@@ -844,7 +840,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-metrics-configuration</summary>
+- **<details><summary>put-bucket-metrics-configuration</summary><blockquote>**
 
   * --bucket
   * --id
@@ -855,7 +851,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-notification-configuration</summary>
+- **<details><summary>put-bucket-notification-configuration</summary><blockquote>**
 
   * --bucket
   * --notification-configuration
@@ -865,7 +861,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-ownership-controls</summary>
+- **<details><summary>put-bucket-ownership-controls</summary><blockquote>**
 
   * --bucket
   * --content-md5
@@ -876,7 +872,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-policy</summary>
+- **<details><summary>put-bucket-policy</summary><blockquote>**
 
   * --bucket
   * --content-md5
@@ -889,7 +885,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-replication</summary>
+- **<details><summary>put-bucket-replication</summary><blockquote>**
 
   * --bucket
   * --content-md5
@@ -901,7 +897,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-request-payment</summary>
+- **<details><summary>put-bucket-request-payment</summary><blockquote>**
 
   * --bucket
   * --content-md5
@@ -912,7 +908,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-tagging</summary>
+- **<details><summary>put-bucket-tagging</summary><blockquote>**
 
   * --bucket
   * --content-md5
@@ -923,7 +919,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-versioning</summary>
+- **<details><summary>put-bucket-versioning</summary><blockquote>**
 
   * --bucket
   * --content-md5
@@ -935,7 +931,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-website</summary>
+- **<details><summary>put-bucket-website</summary><blockquote>**
 
   * --bucket
   * --content-md5
@@ -946,7 +942,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-object</summary>
+- **<details><summary>put-object</summary><blockquote>**
 
   * --acl
   * --body
@@ -986,7 +982,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-object-acl</summary>
+- **<details><summary>put-object-acl</summary><blockquote>**
 
   * --acl
   * --access-control-policy
@@ -1006,7 +1002,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-object-legal-hold</summary>
+- **<details><summary>put-object-legal-hold</summary><blockquote>**
 
   * --bucket
   * --key
@@ -1020,7 +1016,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-object-lock-configuration</summary>
+- **<details><summary>put-object-lock-configuration</summary><blockquote>**
 
   * --bucket
   * --object-lock-configuration
@@ -1033,7 +1029,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-object-retention</summary>
+- **<details><summary>put-object-retention</summary><blockquote>**
 
   * --bucket
   * --key
@@ -1049,7 +1045,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-object-tagging</summary>
+- **<details><summary>put-object-tagging</summary><blockquote>**
 
   * --bucket
   * --key
@@ -1063,7 +1059,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>put-public-access-block</summary>
+- **<details><summary>put-public-access-block</summary><blockquote>**
 
   * --bucket
   * --content-md5
@@ -1074,7 +1070,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-object</summary>
+- **<details><summary>restore-object</summary><blockquote>**
 
   * --bucket
   * --key
@@ -1087,7 +1083,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>select-object-content</summary>
+- **<details><summary>select-object-content</summary><blockquote>**
 
   * --bucket
   * --key
@@ -1103,7 +1099,7 @@ s3api
   * --expected-bucket-owner
 
 
-- <details><summary>upload-part</summary>
+- **<details><summary>upload-part</summary><blockquote>**
 
   * --body
   * --bucket
@@ -1122,7 +1118,7 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>upload-part-copy</summary>
+- **<details><summary>upload-part-copy</summary><blockquote>**
 
   * --bucket
   * --copy-source
@@ -1148,12 +1144,12 @@ s3api
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-- <details><summary>write-get-object-response</summary>
+- **<details><summary>write-get-object-response</summary><blockquote>**
 
   * --request-route
   * --request-token
@@ -1198,5 +1194,98 @@ s3api
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

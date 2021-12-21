@@ -1,15 +1,11 @@
-<details>
+<details><summary>sagemaker-runtime</summary><blockquote>
 
-<summary>
-sagemaker-runtime
-</summary>
-
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>invoke-endpoint</summary>
+- **<details><summary>invoke-endpoint</summary><blockquote>**
 
   * --endpoint-name
   * --body
@@ -22,5 +18,6 @@ sagemaker-runtime
   * --inference-id
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>stepfunctions</summary><blockquote>
 
-<summary>
-stepfunctions
-</summary>
-
-- <details><summary>create-activity</summary>
+- **<details><summary>create-activity</summary><blockquote>**
 
   * --name
   * --tags
@@ -13,7 +9,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>create-state-machine</summary>
+- **<details><summary>create-state-machine</summary><blockquote>**
 
   * --name
   * --definition
@@ -27,7 +23,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-activity</summary>
+- **<details><summary>delete-activity</summary><blockquote>**
 
   * --activity-arn
   * --cli-input-json
@@ -35,7 +31,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-state-machine</summary>
+- **<details><summary>delete-state-machine</summary><blockquote>**
 
   * --state-machine-arn
   * --cli-input-json
@@ -43,7 +39,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-activity</summary>
+- **<details><summary>describe-activity</summary><blockquote>**
 
   * --activity-arn
   * --cli-input-json
@@ -51,7 +47,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-execution</summary>
+- **<details><summary>describe-execution</summary><blockquote>**
 
   * --execution-arn
   * --cli-input-json
@@ -59,7 +55,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-state-machine</summary>
+- **<details><summary>describe-state-machine</summary><blockquote>**
 
   * --state-machine-arn
   * --cli-input-json
@@ -67,7 +63,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-state-machine-for-execution</summary>
+- **<details><summary>describe-state-machine-for-execution</summary><blockquote>**
 
   * --execution-arn
   * --cli-input-json
@@ -75,7 +71,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>get-activity-task</summary>
+- **<details><summary>get-activity-task</summary><blockquote>**
 
   * --activity-arn
   * --worker-name
@@ -84,7 +80,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>get-execution-history</summary>
+- **<details><summary>get-execution-history</summary><blockquote>**
 
   * --execution-arn
   * --reverse-order
@@ -99,12 +95,12 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-activities</summary>
+- **<details><summary>list-activities</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -114,7 +110,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>list-executions</summary>
+- **<details><summary>list-executions</summary><blockquote>**
 
   * --state-machine-arn
   * --status-filter
@@ -126,7 +122,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>list-state-machines</summary>
+- **<details><summary>list-state-machines</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -136,7 +132,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -144,7 +140,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>send-task-failure</summary>
+- **<details><summary>send-task-failure</summary><blockquote>**
 
   * --task-token
   * --error
@@ -154,7 +150,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>send-task-heartbeat</summary>
+- **<details><summary>send-task-heartbeat</summary><blockquote>**
 
   * --task-token
   * --cli-input-json
@@ -162,7 +158,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>send-task-success</summary>
+- **<details><summary>send-task-success</summary><blockquote>**
 
   * --task-token
   * --task-output
@@ -171,7 +167,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>start-execution</summary>
+- **<details><summary>start-execution</summary><blockquote>**
 
   * --state-machine-arn
   * --name
@@ -182,7 +178,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>start-sync-execution</summary>
+- **<details><summary>start-sync-execution</summary><blockquote>**
 
   * --state-machine-arn
   * --name
@@ -193,7 +189,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-execution</summary>
+- **<details><summary>stop-execution</summary><blockquote>**
 
   * --execution-arn
   * --error
@@ -203,7 +199,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -212,7 +208,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -221,7 +217,7 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-- <details><summary>update-state-machine</summary>
+- **<details><summary>update-state-machine</summary><blockquote>**
 
   * --state-machine-arn
   * --definition
@@ -233,5 +229,28 @@ stepfunctions
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

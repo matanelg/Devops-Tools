@@ -1,10 +1,6 @@
-<details>
+<details><summary>translate</summary><blockquote>
 
-<summary>
-translate
-</summary>
-
-- <details><summary>create-parallel-data</summary>
+- **<details><summary>create-parallel-data</summary><blockquote>**
 
   * --name
   * --description
@@ -16,7 +12,7 @@ translate
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-parallel-data</summary>
+- **<details><summary>delete-parallel-data</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -24,7 +20,7 @@ translate
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-terminology</summary>
+- **<details><summary>delete-terminology</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -32,7 +28,7 @@ translate
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-text-translation-job</summary>
+- **<details><summary>describe-text-translation-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -40,7 +36,7 @@ translate
   * --generate-cli-skeleton
 
 
-- <details><summary>get-parallel-data</summary>
+- **<details><summary>get-parallel-data</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -48,7 +44,7 @@ translate
   * --generate-cli-skeleton
 
 
-- <details><summary>get-terminology</summary>
+- **<details><summary>get-terminology</summary><blockquote>**
 
   * --name
   * --terminology-data-format
@@ -57,12 +53,12 @@ translate
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>import-terminology</summary>
+- **<details><summary>import-terminology</summary><blockquote>**
 
   * --name
   * --merge-strategy
@@ -75,7 +71,7 @@ translate
   * --generate-cli-skeleton
 
 
-- <details><summary>list-parallel-data</summary>
+- **<details><summary>list-parallel-data</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -84,7 +80,7 @@ translate
   * --generate-cli-skeleton
 
 
-- <details><summary>list-terminologies</summary>
+- **<details><summary>list-terminologies</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -94,7 +90,7 @@ translate
   * --generate-cli-skeleton
 
 
-- <details><summary>list-text-translation-jobs</summary>
+- **<details><summary>list-text-translation-jobs</summary><blockquote>**
 
   * --filter
   * --next-token
@@ -104,7 +100,7 @@ translate
   * --generate-cli-skeleton
 
 
-- <details><summary>start-text-translation-job</summary>
+- **<details><summary>start-text-translation-job</summary><blockquote>**
 
   * --job-name
   * --input-data-config
@@ -120,7 +116,7 @@ translate
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-text-translation-job</summary>
+- **<details><summary>stop-text-translation-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -128,7 +124,7 @@ translate
   * --generate-cli-skeleton
 
 
-- <details><summary>translate-text</summary>
+- **<details><summary>translate-text</summary><blockquote>**
 
   * --text
   * --terminology-names
@@ -139,7 +135,7 @@ translate
   * --generate-cli-skeleton
 
 
-- <details><summary>update-parallel-data</summary>
+- **<details><summary>update-parallel-data</summary><blockquote>**
 
   * --name
   * --description
@@ -150,5 +146,19 @@ translate
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

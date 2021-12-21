@@ -1,10 +1,6 @@
-<details>
+<details><summary>redshift-data</summary><blockquote>
 
-<summary>
-redshift-data
-</summary>
-
-- <details><summary>cancel-statement</summary>
+- **<details><summary>cancel-statement</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -12,7 +8,7 @@ redshift-data
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-statement</summary>
+- **<details><summary>describe-statement</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -20,7 +16,7 @@ redshift-data
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-table</summary>
+- **<details><summary>describe-table</summary><blockquote>**
 
   * --cluster-identifier
   * --connected-database
@@ -37,7 +33,7 @@ redshift-data
   * --generate-cli-skeleton
 
 
-- <details><summary>execute-statement</summary>
+- **<details><summary>execute-statement</summary><blockquote>**
 
   * --cluster-identifier
   * --database
@@ -53,7 +49,7 @@ redshift-data
   * --generate-cli-skeleton
 
 
-- <details><summary>get-statement-result</summary>
+- **<details><summary>get-statement-result</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -63,12 +59,12 @@ redshift-data
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-databases</summary>
+- **<details><summary>list-databases</summary><blockquote>**
 
   * --cluster-identifier
   * --database
@@ -82,7 +78,7 @@ redshift-data
   * --generate-cli-skeleton
 
 
-- <details><summary>list-schemas</summary>
+- **<details><summary>list-schemas</summary><blockquote>**
 
   * --cluster-identifier
   * --connected-database
@@ -98,7 +94,7 @@ redshift-data
   * --generate-cli-skeleton
 
 
-- <details><summary>list-statements</summary>
+- **<details><summary>list-statements</summary><blockquote>**
 
   * --role-level
   * --no-role-level
@@ -112,7 +108,7 @@ redshift-data
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tables</summary>
+- **<details><summary>list-tables</summary><blockquote>**
 
   * --cluster-identifier
   * --connected-database
@@ -129,5 +125,14 @@ redshift-data
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

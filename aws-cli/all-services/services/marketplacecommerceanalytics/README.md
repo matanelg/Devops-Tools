@@ -1,10 +1,6 @@
-<details>
+<details><summary>marketplacecommerceanalytics</summary><blockquote>
 
-<summary>
-marketplacecommerceanalytics
-</summary>
-
-- <details><summary>generate-data-set</summary>
+- **<details><summary>generate-data-set</summary><blockquote>**
 
   * --data-set-type
   * --data-set-publication-date
@@ -18,12 +14,12 @@ marketplacecommerceanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>start-support-data-export</summary>
+- **<details><summary>start-support-data-export</summary><blockquote>**
 
   * --data-set-type
   * --from-date
@@ -37,5 +33,7 @@ marketplacecommerceanalytics
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

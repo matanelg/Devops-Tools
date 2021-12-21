@@ -1,10 +1,6 @@
-<details>
+<details><summary>dms</summary><blockquote>
 
-<summary>
-dms
-</summary>
-
-- <details><summary>add-tags-to-resource</summary>
+- **<details><summary>add-tags-to-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -13,7 +9,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>apply-pending-maintenance-action</summary>
+- **<details><summary>apply-pending-maintenance-action</summary><blockquote>**
 
   * --replication-instance-arn
   * --apply-action
@@ -23,7 +19,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-replication-task-assessment-run</summary>
+- **<details><summary>cancel-replication-task-assessment-run</summary><blockquote>**
 
   * --replication-task-assessment-run-arn
   * --cli-input-json
@@ -31,7 +27,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>create-endpoint</summary>
+- **<details><summary>create-endpoint</summary><blockquote>**
 
   * --endpoint-identifier
   * --endpoint-type
@@ -70,7 +66,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>create-event-subscription</summary>
+- **<details><summary>create-event-subscription</summary><blockquote>**
 
   * --subscription-name
   * --sns-topic-arn
@@ -85,7 +81,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>create-replication-instance</summary>
+- **<details><summary>create-replication-instance</summary><blockquote>**
 
   * --replication-instance-identifier
   * --allocated-storage
@@ -110,7 +106,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>create-replication-subnet-group</summary>
+- **<details><summary>create-replication-subnet-group</summary><blockquote>**
 
   * --replication-subnet-group-identifier
   * --replication-subnet-group-description
@@ -121,7 +117,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>create-replication-task</summary>
+- **<details><summary>create-replication-task</summary><blockquote>**
 
   * --replication-task-identifier
   * --source-endpoint-arn
@@ -141,7 +137,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-certificate</summary>
+- **<details><summary>delete-certificate</summary><blockquote>**
 
   * --certificate-arn
   * --cli-input-json
@@ -149,7 +145,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-connection</summary>
+- **<details><summary>delete-connection</summary><blockquote>**
 
   * --endpoint-arn
   * --replication-instance-arn
@@ -158,7 +154,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-endpoint</summary>
+- **<details><summary>delete-endpoint</summary><blockquote>**
 
   * --endpoint-arn
   * --cli-input-json
@@ -166,7 +162,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-event-subscription</summary>
+- **<details><summary>delete-event-subscription</summary><blockquote>**
 
   * --subscription-name
   * --cli-input-json
@@ -174,7 +170,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-replication-instance</summary>
+- **<details><summary>delete-replication-instance</summary><blockquote>**
 
   * --replication-instance-arn
   * --cli-input-json
@@ -182,7 +178,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-replication-subnet-group</summary>
+- **<details><summary>delete-replication-subnet-group</summary><blockquote>**
 
   * --replication-subnet-group-identifier
   * --cli-input-json
@@ -190,7 +186,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-replication-task</summary>
+- **<details><summary>delete-replication-task</summary><blockquote>**
 
   * --replication-task-arn
   * --cli-input-json
@@ -198,7 +194,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-replication-task-assessment-run</summary>
+- **<details><summary>delete-replication-task-assessment-run</summary><blockquote>**
 
   * --replication-task-assessment-run-arn
   * --cli-input-json
@@ -206,14 +202,14 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-account-attributes</summary>
+- **<details><summary>describe-account-attributes</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-applicable-individual-assessments</summary>
+- **<details><summary>describe-applicable-individual-assessments</summary><blockquote>**
 
   * --replication-task-arn
   * --replication-instance-arn
@@ -227,7 +223,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-certificates</summary>
+- **<details><summary>describe-certificates</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -238,7 +234,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-connections</summary>
+- **<details><summary>describe-connections</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -249,7 +245,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-endpoints</summary>
+- **<details><summary>describe-endpoints</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -260,7 +256,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-endpoint-settings</summary>
+- **<details><summary>describe-endpoint-settings</summary><blockquote>**
 
   * --engine-name
   * --max-records
@@ -270,7 +266,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-endpoint-types</summary>
+- **<details><summary>describe-endpoint-types</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -281,7 +277,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-event-categories</summary>
+- **<details><summary>describe-event-categories</summary><blockquote>**
 
   * --source-type
   * --filters
@@ -290,7 +286,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-events</summary>
+- **<details><summary>describe-events</summary><blockquote>**
 
   * --source-identifier
   * --source-type
@@ -307,7 +303,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-event-subscriptions</summary>
+- **<details><summary>describe-event-subscriptions</summary><blockquote>**
 
   * --subscription-name
   * --filters
@@ -319,7 +315,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-orderable-replication-instances</summary>
+- **<details><summary>describe-orderable-replication-instances</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -329,7 +325,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-pending-maintenance-actions</summary>
+- **<details><summary>describe-pending-maintenance-actions</summary><blockquote>**
 
   * --replication-instance-arn
   * --filters
@@ -340,7 +336,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-refresh-schemas-status</summary>
+- **<details><summary>describe-refresh-schemas-status</summary><blockquote>**
 
   * --endpoint-arn
   * --cli-input-json
@@ -348,7 +344,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-replication-instances</summary>
+- **<details><summary>describe-replication-instances</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -359,7 +355,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-replication-instance-task-logs</summary>
+- **<details><summary>describe-replication-instance-task-logs</summary><blockquote>**
 
   * --replication-instance-arn
   * --max-records
@@ -369,7 +365,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-replication-subnet-groups</summary>
+- **<details><summary>describe-replication-subnet-groups</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -380,7 +376,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-replication-task-assessment-results</summary>
+- **<details><summary>describe-replication-task-assessment-results</summary><blockquote>**
 
   * --replication-task-arn
   * --cli-input-json
@@ -391,7 +387,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-replication-task-assessment-runs</summary>
+- **<details><summary>describe-replication-task-assessment-runs</summary><blockquote>**
 
   * --filters
   * --max-records
@@ -401,7 +397,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-replication-task-individual-assessments</summary>
+- **<details><summary>describe-replication-task-individual-assessments</summary><blockquote>**
 
   * --filters
   * --max-records
@@ -411,7 +407,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-replication-tasks</summary>
+- **<details><summary>describe-replication-tasks</summary><blockquote>**
 
   * --filters
   * --without-settings
@@ -424,7 +420,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-schemas</summary>
+- **<details><summary>describe-schemas</summary><blockquote>**
 
   * --endpoint-arn
   * --cli-input-json
@@ -435,7 +431,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-table-statistics</summary>
+- **<details><summary>describe-table-statistics</summary><blockquote>**
 
   * --replication-task-arn
   * --filters
@@ -447,12 +443,12 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>import-certificate</summary>
+- **<details><summary>import-certificate</summary><blockquote>**
 
   * --certificate-identifier
   * --certificate-pem
@@ -463,7 +459,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -471,7 +467,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-endpoint</summary>
+- **<details><summary>modify-endpoint</summary><blockquote>**
 
   * --endpoint-arn
   * --endpoint-identifier
@@ -510,7 +506,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-event-subscription</summary>
+- **<details><summary>modify-event-subscription</summary><blockquote>**
 
   * --subscription-name
   * --sns-topic-arn
@@ -523,7 +519,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-replication-instance</summary>
+- **<details><summary>modify-replication-instance</summary><blockquote>**
 
   * --replication-instance-arn
   * --allocated-storage
@@ -545,7 +541,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-replication-subnet-group</summary>
+- **<details><summary>modify-replication-subnet-group</summary><blockquote>**
 
   * --replication-subnet-group-identifier
   * --replication-subnet-group-description
@@ -555,7 +551,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-replication-task</summary>
+- **<details><summary>modify-replication-task</summary><blockquote>**
 
   * --replication-task-arn
   * --replication-task-identifier
@@ -571,7 +567,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>move-replication-task</summary>
+- **<details><summary>move-replication-task</summary><blockquote>**
 
   * --replication-task-arn
   * --target-replication-instance-arn
@@ -580,7 +576,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>reboot-replication-instance</summary>
+- **<details><summary>reboot-replication-instance</summary><blockquote>**
 
   * --replication-instance-arn
   * --force-failover
@@ -590,7 +586,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>refresh-schemas</summary>
+- **<details><summary>refresh-schemas</summary><blockquote>**
 
   * --endpoint-arn
   * --replication-instance-arn
@@ -599,7 +595,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>reload-tables</summary>
+- **<details><summary>reload-tables</summary><blockquote>**
 
   * --replication-task-arn
   * --tables-to-reload
@@ -609,7 +605,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-tags-from-resource</summary>
+- **<details><summary>remove-tags-from-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -618,7 +614,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>start-replication-task</summary>
+- **<details><summary>start-replication-task</summary><blockquote>**
 
   * --replication-task-arn
   * --start-replication-task-type
@@ -630,7 +626,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>start-replication-task-assessment</summary>
+- **<details><summary>start-replication-task-assessment</summary><blockquote>**
 
   * --replication-task-arn
   * --cli-input-json
@@ -638,7 +634,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>start-replication-task-assessment-run</summary>
+- **<details><summary>start-replication-task-assessment-run</summary><blockquote>**
 
   * --replication-task-arn
   * --service-access-role-arn
@@ -654,7 +650,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-replication-task</summary>
+- **<details><summary>stop-replication-task</summary><blockquote>**
 
   * --replication-task-arn
   * --cli-input-json
@@ -662,7 +658,7 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>test-connection</summary>
+- **<details><summary>test-connection</summary><blockquote>**
 
   * --replication-instance-arn
   * --endpoint-arn
@@ -671,10 +667,66 @@ dms
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>events</summary><blockquote>
 
-<summary>
-events
-</summary>
-
-- <details><summary>activate-event-source</summary>
+- **<details><summary>activate-event-source</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -12,7 +8,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-replay</summary>
+- **<details><summary>cancel-replay</summary><blockquote>**
 
   * --replay-name
   * --cli-input-json
@@ -20,7 +16,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>create-api-destination</summary>
+- **<details><summary>create-api-destination</summary><blockquote>**
 
   * --name
   * --description
@@ -33,7 +29,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>create-archive</summary>
+- **<details><summary>create-archive</summary><blockquote>**
 
   * --archive-name
   * --event-source-arn
@@ -45,7 +41,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>create-connection</summary>
+- **<details><summary>create-connection</summary><blockquote>**
 
   * --name
   * --description
@@ -56,7 +52,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>create-event-bus</summary>
+- **<details><summary>create-event-bus</summary><blockquote>**
 
   * --name
   * --event-source-name
@@ -66,7 +62,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>create-partner-event-source</summary>
+- **<details><summary>create-partner-event-source</summary><blockquote>**
 
   * --name
   * --account
@@ -75,7 +71,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>deactivate-event-source</summary>
+- **<details><summary>deactivate-event-source</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -83,7 +79,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>deauthorize-connection</summary>
+- **<details><summary>deauthorize-connection</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -91,7 +87,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-api-destination</summary>
+- **<details><summary>delete-api-destination</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -99,7 +95,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-archive</summary>
+- **<details><summary>delete-archive</summary><blockquote>**
 
   * --archive-name
   * --cli-input-json
@@ -107,7 +103,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-connection</summary>
+- **<details><summary>delete-connection</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -115,7 +111,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-event-bus</summary>
+- **<details><summary>delete-event-bus</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -123,7 +119,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-partner-event-source</summary>
+- **<details><summary>delete-partner-event-source</summary><blockquote>**
 
   * --name
   * --account
@@ -132,7 +128,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-rule</summary>
+- **<details><summary>delete-rule</summary><blockquote>**
 
   * --name
   * --event-bus-name
@@ -143,7 +139,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-api-destination</summary>
+- **<details><summary>describe-api-destination</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -151,7 +147,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-archive</summary>
+- **<details><summary>describe-archive</summary><blockquote>**
 
   * --archive-name
   * --cli-input-json
@@ -159,7 +155,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-connection</summary>
+- **<details><summary>describe-connection</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -167,7 +163,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-event-bus</summary>
+- **<details><summary>describe-event-bus</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -175,7 +171,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-event-source</summary>
+- **<details><summary>describe-event-source</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -183,7 +179,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-partner-event-source</summary>
+- **<details><summary>describe-partner-event-source</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -191,7 +187,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-replay</summary>
+- **<details><summary>describe-replay</summary><blockquote>**
 
   * --replay-name
   * --cli-input-json
@@ -199,7 +195,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-rule</summary>
+- **<details><summary>describe-rule</summary><blockquote>**
 
   * --name
   * --event-bus-name
@@ -208,7 +204,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-rule</summary>
+- **<details><summary>disable-rule</summary><blockquote>**
 
   * --name
   * --event-bus-name
@@ -217,7 +213,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-rule</summary>
+- **<details><summary>enable-rule</summary><blockquote>**
 
   * --name
   * --event-bus-name
@@ -226,12 +222,12 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-api-destinations</summary>
+- **<details><summary>list-api-destinations</summary><blockquote>**
 
   * --name-prefix
   * --connection-arn
@@ -242,7 +238,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>list-archives</summary>
+- **<details><summary>list-archives</summary><blockquote>**
 
   * --name-prefix
   * --event-source-arn
@@ -254,7 +250,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>list-connections</summary>
+- **<details><summary>list-connections</summary><blockquote>**
 
   * --name-prefix
   * --connection-state
@@ -265,7 +261,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>list-event-buses</summary>
+- **<details><summary>list-event-buses</summary><blockquote>**
 
   * --name-prefix
   * --next-token
@@ -275,7 +271,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>list-event-sources</summary>
+- **<details><summary>list-event-sources</summary><blockquote>**
 
   * --name-prefix
   * --next-token
@@ -285,7 +281,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>list-partner-event-source-accounts</summary>
+- **<details><summary>list-partner-event-source-accounts</summary><blockquote>**
 
   * --event-source-name
   * --next-token
@@ -295,7 +291,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>list-partner-event-sources</summary>
+- **<details><summary>list-partner-event-sources</summary><blockquote>**
 
   * --name-prefix
   * --next-token
@@ -305,7 +301,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>list-replays</summary>
+- **<details><summary>list-replays</summary><blockquote>**
 
   * --name-prefix
   * --state
@@ -317,7 +313,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>list-rule-names-by-target</summary>
+- **<details><summary>list-rule-names-by-target</summary><blockquote>**
 
   * --target-arn
   * --event-bus-name
@@ -329,7 +325,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>list-rules</summary>
+- **<details><summary>list-rules</summary><blockquote>**
 
   * --name-prefix
   * --event-bus-name
@@ -341,7 +337,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -349,7 +345,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>list-targets-by-rule</summary>
+- **<details><summary>list-targets-by-rule</summary><blockquote>**
 
   * --rule
   * --event-bus-name
@@ -361,7 +357,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>put-events</summary>
+- **<details><summary>put-events</summary><blockquote>**
 
   * --entries
   * --cli-input-json
@@ -369,7 +365,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>put-partner-events</summary>
+- **<details><summary>put-partner-events</summary><blockquote>**
 
   * --entries
   * --cli-input-json
@@ -377,7 +373,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>put-permission</summary>
+- **<details><summary>put-permission</summary><blockquote>**
 
   * --event-bus-name
   * --action
@@ -390,7 +386,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>put-rule</summary>
+- **<details><summary>put-rule</summary><blockquote>**
 
   * --name
   * --schedule-expression
@@ -405,7 +401,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>put-targets</summary>
+- **<details><summary>put-targets</summary><blockquote>**
 
   * --rule
   * --event-bus-name
@@ -415,7 +411,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-permission</summary>
+- **<details><summary>remove-permission</summary><blockquote>**
 
   * --statement-id
   * --remove-all-permissions
@@ -426,7 +422,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-targets</summary>
+- **<details><summary>remove-targets</summary><blockquote>**
 
   * --rule
   * --event-bus-name
@@ -438,7 +434,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>start-replay</summary>
+- **<details><summary>start-replay</summary><blockquote>**
 
   * --replay-name
   * --description
@@ -451,7 +447,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -460,7 +456,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>test-event-pattern</summary>
+- **<details><summary>test-event-pattern</summary><blockquote>**
 
   * --event-pattern
   * --event
@@ -469,7 +465,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -478,7 +474,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>update-api-destination</summary>
+- **<details><summary>update-api-destination</summary><blockquote>**
 
   * --name
   * --description
@@ -491,7 +487,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>update-archive</summary>
+- **<details><summary>update-archive</summary><blockquote>**
 
   * --archive-name
   * --description
@@ -502,7 +498,7 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>update-connection</summary>
+- **<details><summary>update-connection</summary><blockquote>**
 
   * --name
   * --description
@@ -513,10 +509,62 @@ events
   * --generate-cli-skeleton
 
 
-- <details><summary>wizard</summary>
+- **<details><summary>wizard</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

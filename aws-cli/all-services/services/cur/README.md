@@ -1,10 +1,6 @@
-<details>
+<details><summary>cur</summary><blockquote>
 
-<summary>
-cur
-</summary>
-
-- <details><summary>delete-report-definition</summary>
+- **<details><summary>delete-report-definition</summary><blockquote>**
 
   * --report-name
   * --cli-input-json
@@ -12,7 +8,7 @@ cur
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-report-definitions</summary>
+- **<details><summary>describe-report-definitions</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -22,12 +18,12 @@ cur
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>modify-report-definition</summary>
+- **<details><summary>modify-report-definition</summary><blockquote>**
 
   * --report-name
   * --report-definition
@@ -36,7 +32,7 @@ cur
   * --generate-cli-skeleton
 
 
-- <details><summary>put-report-definition</summary>
+- **<details><summary>put-report-definition</summary><blockquote>**
 
   * --report-definition
   * --cli-input-json
@@ -44,5 +40,9 @@ cur
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

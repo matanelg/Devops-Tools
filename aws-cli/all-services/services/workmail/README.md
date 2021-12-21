@@ -1,10 +1,6 @@
-<details>
+<details><summary>workmail</summary><blockquote>
 
-<summary>
-workmail
-</summary>
-
-- <details><summary>associate-delegate-to-resource</summary>
+- **<details><summary>associate-delegate-to-resource</summary><blockquote>**
 
   * --organization-id
   * --resource-id
@@ -14,7 +10,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-member-to-group</summary>
+- **<details><summary>associate-member-to-group</summary><blockquote>**
 
   * --organization-id
   * --group-id
@@ -24,7 +20,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-mailbox-export-job</summary>
+- **<details><summary>cancel-mailbox-export-job</summary><blockquote>**
 
   * --client-token
   * --job-id
@@ -34,7 +30,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-alias</summary>
+- **<details><summary>create-alias</summary><blockquote>**
 
   * --organization-id
   * --entity-id
@@ -44,7 +40,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-group</summary>
+- **<details><summary>create-group</summary><blockquote>**
 
   * --organization-id
   * --name
@@ -53,7 +49,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-mobile-device-access-rule</summary>
+- **<details><summary>create-mobile-device-access-rule</summary><blockquote>**
 
   * --organization-id
   * --client-token
@@ -73,7 +69,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-organization</summary>
+- **<details><summary>create-organization</summary><blockquote>**
 
   * --directory-id
   * --alias
@@ -87,7 +83,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-resource</summary>
+- **<details><summary>create-resource</summary><blockquote>**
 
   * --organization-id
   * --name
@@ -97,7 +93,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-user</summary>
+- **<details><summary>create-user</summary><blockquote>**
 
   * --organization-id
   * --name
@@ -108,7 +104,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-access-control-rule</summary>
+- **<details><summary>delete-access-control-rule</summary><blockquote>**
 
   * --organization-id
   * --name
@@ -117,7 +113,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-alias</summary>
+- **<details><summary>delete-alias</summary><blockquote>**
 
   * --organization-id
   * --entity-id
@@ -127,7 +123,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-group</summary>
+- **<details><summary>delete-group</summary><blockquote>**
 
   * --organization-id
   * --group-id
@@ -136,7 +132,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-mailbox-permissions</summary>
+- **<details><summary>delete-mailbox-permissions</summary><blockquote>**
 
   * --organization-id
   * --entity-id
@@ -146,7 +142,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-mobile-device-access-rule</summary>
+- **<details><summary>delete-mobile-device-access-rule</summary><blockquote>**
 
   * --organization-id
   * --mobile-device-access-rule-id
@@ -155,7 +151,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-organization</summary>
+- **<details><summary>delete-organization</summary><blockquote>**
 
   * --client-token
   * --organization-id
@@ -166,7 +162,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-resource</summary>
+- **<details><summary>delete-resource</summary><blockquote>**
 
   * --organization-id
   * --resource-id
@@ -175,7 +171,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-retention-policy</summary>
+- **<details><summary>delete-retention-policy</summary><blockquote>**
 
   * --organization-id
   * --id
@@ -184,7 +180,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user</summary>
+- **<details><summary>delete-user</summary><blockquote>**
 
   * --organization-id
   * --user-id
@@ -193,7 +189,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-from-work-mail</summary>
+- **<details><summary>deregister-from-work-mail</summary><blockquote>**
 
   * --organization-id
   * --entity-id
@@ -202,7 +198,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-group</summary>
+- **<details><summary>describe-group</summary><blockquote>**
 
   * --organization-id
   * --group-id
@@ -211,7 +207,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-mailbox-export-job</summary>
+- **<details><summary>describe-mailbox-export-job</summary><blockquote>**
 
   * --job-id
   * --organization-id
@@ -220,7 +216,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-organization</summary>
+- **<details><summary>describe-organization</summary><blockquote>**
 
   * --organization-id
   * --cli-input-json
@@ -228,7 +224,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-resource</summary>
+- **<details><summary>describe-resource</summary><blockquote>**
 
   * --organization-id
   * --resource-id
@@ -237,7 +233,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-user</summary>
+- **<details><summary>describe-user</summary><blockquote>**
 
   * --organization-id
   * --user-id
@@ -246,7 +242,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-delegate-from-resource</summary>
+- **<details><summary>disassociate-delegate-from-resource</summary><blockquote>**
 
   * --organization-id
   * --resource-id
@@ -256,7 +252,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-member-from-group</summary>
+- **<details><summary>disassociate-member-from-group</summary><blockquote>**
 
   * --organization-id
   * --group-id
@@ -266,7 +262,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-access-control-effect</summary>
+- **<details><summary>get-access-control-effect</summary><blockquote>**
 
   * --organization-id
   * --ip-address
@@ -277,7 +273,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-default-retention-policy</summary>
+- **<details><summary>get-default-retention-policy</summary><blockquote>**
 
   * --organization-id
   * --cli-input-json
@@ -285,7 +281,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-mailbox-details</summary>
+- **<details><summary>get-mailbox-details</summary><blockquote>**
 
   * --organization-id
   * --user-id
@@ -294,7 +290,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-mobile-device-access-effect</summary>
+- **<details><summary>get-mobile-device-access-effect</summary><blockquote>**
 
   * --organization-id
   * --device-type
@@ -306,12 +302,12 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-access-control-rules</summary>
+- **<details><summary>list-access-control-rules</summary><blockquote>**
 
   * --organization-id
   * --cli-input-json
@@ -319,7 +315,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>list-aliases</summary>
+- **<details><summary>list-aliases</summary><blockquote>**
 
   * --organization-id
   * --entity-id
@@ -331,7 +327,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>list-group-members</summary>
+- **<details><summary>list-group-members</summary><blockquote>**
 
   * --organization-id
   * --group-id
@@ -343,7 +339,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>list-groups</summary>
+- **<details><summary>list-groups</summary><blockquote>**
 
   * --organization-id
   * --cli-input-json
@@ -354,7 +350,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>list-mailbox-export-jobs</summary>
+- **<details><summary>list-mailbox-export-jobs</summary><blockquote>**
 
   * --organization-id
   * --next-token
@@ -364,7 +360,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>list-mailbox-permissions</summary>
+- **<details><summary>list-mailbox-permissions</summary><blockquote>**
 
   * --organization-id
   * --entity-id
@@ -376,7 +372,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>list-mobile-device-access-rules</summary>
+- **<details><summary>list-mobile-device-access-rules</summary><blockquote>**
 
   * --organization-id
   * --cli-input-json
@@ -384,7 +380,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>list-organizations</summary>
+- **<details><summary>list-organizations</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -394,7 +390,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resource-delegates</summary>
+- **<details><summary>list-resource-delegates</summary><blockquote>**
 
   * --organization-id
   * --resource-id
@@ -406,7 +402,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resources</summary>
+- **<details><summary>list-resources</summary><blockquote>**
 
   * --organization-id
   * --cli-input-json
@@ -417,7 +413,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -425,7 +421,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>list-users</summary>
+- **<details><summary>list-users</summary><blockquote>**
 
   * --organization-id
   * --cli-input-json
@@ -436,7 +432,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>put-access-control-rule</summary>
+- **<details><summary>put-access-control-rule</summary><blockquote>**
 
   * --name
   * --effect
@@ -453,7 +449,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>put-mailbox-permissions</summary>
+- **<details><summary>put-mailbox-permissions</summary><blockquote>**
 
   * --organization-id
   * --entity-id
@@ -464,7 +460,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>put-retention-policy</summary>
+- **<details><summary>put-retention-policy</summary><blockquote>**
 
   * --organization-id
   * --id
@@ -476,7 +472,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>register-to-work-mail</summary>
+- **<details><summary>register-to-work-mail</summary><blockquote>**
 
   * --organization-id
   * --entity-id
@@ -486,7 +482,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-password</summary>
+- **<details><summary>reset-password</summary><blockquote>**
 
   * --organization-id
   * --user-id
@@ -496,7 +492,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>start-mailbox-export-job</summary>
+- **<details><summary>start-mailbox-export-job</summary><blockquote>**
 
   * --client-token
   * --organization-id
@@ -511,7 +507,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -520,7 +516,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -529,7 +525,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>update-mailbox-quota</summary>
+- **<details><summary>update-mailbox-quota</summary><blockquote>**
 
   * --organization-id
   * --user-id
@@ -539,7 +535,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>update-mobile-device-access-rule</summary>
+- **<details><summary>update-mobile-device-access-rule</summary><blockquote>**
 
   * --organization-id
   * --mobile-device-access-rule-id
@@ -559,7 +555,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>update-primary-email-address</summary>
+- **<details><summary>update-primary-email-address</summary><blockquote>**
 
   * --organization-id
   * --entity-id
@@ -569,7 +565,7 @@ workmail
   * --generate-cli-skeleton
 
 
-- <details><summary>update-resource</summary>
+- **<details><summary>update-resource</summary><blockquote>**
 
   * --organization-id
   * --resource-id
@@ -580,5 +576,59 @@ workmail
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

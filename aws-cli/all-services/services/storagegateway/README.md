@@ -1,10 +1,6 @@
-<details>
+<details><summary>storagegateway</summary><blockquote>
 
-<summary>
-storagegateway
-</summary>
-
-- <details><summary>activate-gateway</summary>
+- **<details><summary>activate-gateway</summary><blockquote>**
 
   * --activation-key
   * --gateway-name
@@ -19,7 +15,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>add-cache</summary>
+- **<details><summary>add-cache</summary><blockquote>**
 
   * --gateway-arn
   * --disk-ids
@@ -28,7 +24,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>add-tags-to-resource</summary>
+- **<details><summary>add-tags-to-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -37,7 +33,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>add-upload-buffer</summary>
+- **<details><summary>add-upload-buffer</summary><blockquote>**
 
   * --gateway-arn
   * --disk-ids
@@ -46,7 +42,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>add-working-storage</summary>
+- **<details><summary>add-working-storage</summary><blockquote>**
 
   * --gateway-arn
   * --disk-ids
@@ -55,7 +51,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>assign-tape-pool</summary>
+- **<details><summary>assign-tape-pool</summary><blockquote>**
 
   * --tape-arn
   * --pool-id
@@ -66,7 +62,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-file-system</summary>
+- **<details><summary>associate-file-system</summary><blockquote>**
 
   * --user-name
   * --password
@@ -82,7 +78,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-volume</summary>
+- **<details><summary>attach-volume</summary><blockquote>**
 
   * --gateway-arn
   * --target-name
@@ -94,7 +90,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-archival</summary>
+- **<details><summary>cancel-archival</summary><blockquote>**
 
   * --gateway-arn
   * --tape-arn
@@ -103,7 +99,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-retrieval</summary>
+- **<details><summary>cancel-retrieval</summary><blockquote>**
 
   * --gateway-arn
   * --tape-arn
@@ -112,7 +108,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cached-iscsi-volume</summary>
+- **<details><summary>create-cached-iscsi-volume</summary><blockquote>**
 
   * --gateway-arn
   * --volume-size-in-bytes
@@ -130,7 +126,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>create-nfs-file-share</summary>
+- **<details><summary>create-nfs-file-share</summary><blockquote>**
 
   * --client-token
   * --nfs-file-share-defaults
@@ -161,7 +157,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>create-smb-file-share</summary>
+- **<details><summary>create-smb-file-share</summary><blockquote>**
 
   * --client-token
   * --gateway-arn
@@ -201,7 +197,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>create-snapshot</summary>
+- **<details><summary>create-snapshot</summary><blockquote>**
 
   * --volume-arn
   * --snapshot-description
@@ -211,7 +207,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>create-snapshot-from-volume-recovery-point</summary>
+- **<details><summary>create-snapshot-from-volume-recovery-point</summary><blockquote>**
 
   * --volume-arn
   * --snapshot-description
@@ -221,7 +217,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>create-stored-iscsi-volume</summary>
+- **<details><summary>create-stored-iscsi-volume</summary><blockquote>**
 
   * --gateway-arn
   * --disk-id
@@ -239,7 +235,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>create-tape-pool</summary>
+- **<details><summary>create-tape-pool</summary><blockquote>**
 
   * --pool-name
   * --storage-class
@@ -251,7 +247,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>create-tapes</summary>
+- **<details><summary>create-tapes</summary><blockquote>**
 
   * --gateway-arn
   * --tape-size-in-bytes
@@ -270,7 +266,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>create-tape-with-barcode</summary>
+- **<details><summary>create-tape-with-barcode</summary><blockquote>**
 
   * --gateway-arn
   * --tape-size-in-bytes
@@ -287,7 +283,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-automatic-tape-creation-policy</summary>
+- **<details><summary>delete-automatic-tape-creation-policy</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -295,7 +291,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bandwidth-rate-limit</summary>
+- **<details><summary>delete-bandwidth-rate-limit</summary><blockquote>**
 
   * --gateway-arn
   * --bandwidth-type
@@ -304,7 +300,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-chap-credentials</summary>
+- **<details><summary>delete-chap-credentials</summary><blockquote>**
 
   * --target-arn
   * --initiator-name
@@ -313,7 +309,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-file-share</summary>
+- **<details><summary>delete-file-share</summary><blockquote>**
 
   * --file-share-arn
   * --force-delete
@@ -323,7 +319,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-gateway</summary>
+- **<details><summary>delete-gateway</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -331,7 +327,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-snapshot-schedule</summary>
+- **<details><summary>delete-snapshot-schedule</summary><blockquote>**
 
   * --volume-arn
   * --cli-input-json
@@ -339,7 +335,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-tape</summary>
+- **<details><summary>delete-tape</summary><blockquote>**
 
   * --gateway-arn
   * --tape-arn
@@ -350,7 +346,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-tape-archive</summary>
+- **<details><summary>delete-tape-archive</summary><blockquote>**
 
   * --tape-arn
   * --bypass-governance-retention
@@ -360,7 +356,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-tape-pool</summary>
+- **<details><summary>delete-tape-pool</summary><blockquote>**
 
   * --pool-arn
   * --cli-input-json
@@ -368,7 +364,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-volume</summary>
+- **<details><summary>delete-volume</summary><blockquote>**
 
   * --volume-arn
   * --cli-input-json
@@ -376,7 +372,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-availability-monitor-test</summary>
+- **<details><summary>describe-availability-monitor-test</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -384,7 +380,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-bandwidth-rate-limit</summary>
+- **<details><summary>describe-bandwidth-rate-limit</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -392,7 +388,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-bandwidth-rate-limit-schedule</summary>
+- **<details><summary>describe-bandwidth-rate-limit-schedule</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -400,7 +396,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cache</summary>
+- **<details><summary>describe-cache</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -408,7 +404,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cached-iscsi-volumes</summary>
+- **<details><summary>describe-cached-iscsi-volumes</summary><blockquote>**
 
   * --volume-arns
   * --cli-input-json
@@ -416,7 +412,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-chap-credentials</summary>
+- **<details><summary>describe-chap-credentials</summary><blockquote>**
 
   * --target-arn
   * --cli-input-json
@@ -424,7 +420,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-file-system-associations</summary>
+- **<details><summary>describe-file-system-associations</summary><blockquote>**
 
   * --file-system-association-arn-list
   * --cli-input-json
@@ -432,7 +428,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-gateway-information</summary>
+- **<details><summary>describe-gateway-information</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -440,7 +436,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-maintenance-start-time</summary>
+- **<details><summary>describe-maintenance-start-time</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -448,7 +444,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-nfs-file-shares</summary>
+- **<details><summary>describe-nfs-file-shares</summary><blockquote>**
 
   * --file-share-arn-list
   * --cli-input-json
@@ -456,7 +452,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-smb-file-shares</summary>
+- **<details><summary>describe-smb-file-shares</summary><blockquote>**
 
   * --file-share-arn-list
   * --cli-input-json
@@ -464,7 +460,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-smb-settings</summary>
+- **<details><summary>describe-smb-settings</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -472,7 +468,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-snapshot-schedule</summary>
+- **<details><summary>describe-snapshot-schedule</summary><blockquote>**
 
   * --volume-arn
   * --cli-input-json
@@ -480,7 +476,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stored-iscsi-volumes</summary>
+- **<details><summary>describe-stored-iscsi-volumes</summary><blockquote>**
 
   * --volume-arns
   * --cli-input-json
@@ -488,7 +484,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-tape-archives</summary>
+- **<details><summary>describe-tape-archives</summary><blockquote>**
 
   * --tape-arns
   * --cli-input-json
@@ -499,7 +495,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-tape-recovery-points</summary>
+- **<details><summary>describe-tape-recovery-points</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -510,7 +506,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-tapes</summary>
+- **<details><summary>describe-tapes</summary><blockquote>**
 
   * --gateway-arn
   * --tape-arns
@@ -522,7 +518,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-upload-buffer</summary>
+- **<details><summary>describe-upload-buffer</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -530,7 +526,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-vtl-devices</summary>
+- **<details><summary>describe-vtl-devices</summary><blockquote>**
 
   * --gateway-arn
   * --vtl-device-arns
@@ -542,7 +538,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-working-storage</summary>
+- **<details><summary>describe-working-storage</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -550,7 +546,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-volume</summary>
+- **<details><summary>detach-volume</summary><blockquote>**
 
   * --volume-arn
   * --force-detach
@@ -560,7 +556,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-gateway</summary>
+- **<details><summary>disable-gateway</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -568,7 +564,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-file-system</summary>
+- **<details><summary>disassociate-file-system</summary><blockquote>**
 
   * --file-system-association-arn
   * --force-delete
@@ -578,12 +574,12 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>join-domain</summary>
+- **<details><summary>join-domain</summary><blockquote>**
 
   * --gateway-arn
   * --domain-name
@@ -597,7 +593,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>list-automatic-tape-creation-policies</summary>
+- **<details><summary>list-automatic-tape-creation-policies</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -605,18 +601,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>list-file-shares</summary>
-
-  * --gateway-arn
-  * --cli-input-json
-  * --cli-input-yaml
-  * --starting-token
-  * --page-size
-  * --max-items
-  * --generate-cli-skeleton
-
-
-- <details><summary>list-file-system-associations</summary>
+- **<details><summary>list-file-shares</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -627,7 +612,18 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>list-gateways</summary>
+- **<details><summary>list-file-system-associations</summary><blockquote>**
+
+  * --gateway-arn
+  * --cli-input-json
+  * --cli-input-yaml
+  * --starting-token
+  * --page-size
+  * --max-items
+  * --generate-cli-skeleton
+
+
+- **<details><summary>list-gateways</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -637,7 +633,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>list-local-disks</summary>
+- **<details><summary>list-local-disks</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -645,7 +641,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -656,7 +652,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tape-pools</summary>
+- **<details><summary>list-tape-pools</summary><blockquote>**
 
   * --pool-arns
   * --cli-input-json
@@ -667,7 +663,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tapes</summary>
+- **<details><summary>list-tapes</summary><blockquote>**
 
   * --tape-arns
   * --cli-input-json
@@ -678,7 +674,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>list-volume-initiators</summary>
+- **<details><summary>list-volume-initiators</summary><blockquote>**
 
   * --volume-arn
   * --cli-input-json
@@ -686,7 +682,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>list-volume-recovery-points</summary>
+- **<details><summary>list-volume-recovery-points</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -694,7 +690,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>list-volumes</summary>
+- **<details><summary>list-volumes</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -705,7 +701,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>notify-when-uploaded</summary>
+- **<details><summary>notify-when-uploaded</summary><blockquote>**
 
   * --file-share-arn
   * --cli-input-json
@@ -713,7 +709,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>refresh-cache</summary>
+- **<details><summary>refresh-cache</summary><blockquote>**
 
   * --file-share-arn
   * --folder-list
@@ -724,7 +720,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-tags-from-resource</summary>
+- **<details><summary>remove-tags-from-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -733,7 +729,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-cache</summary>
+- **<details><summary>reset-cache</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -741,7 +737,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>retrieve-tape-archive</summary>
+- **<details><summary>retrieve-tape-archive</summary><blockquote>**
 
   * --tape-arn
   * --gateway-arn
@@ -750,7 +746,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>retrieve-tape-recovery-point</summary>
+- **<details><summary>retrieve-tape-recovery-point</summary><blockquote>**
 
   * --tape-arn
   * --gateway-arn
@@ -759,7 +755,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>set-local-console-password</summary>
+- **<details><summary>set-local-console-password</summary><blockquote>**
 
   * --gateway-arn
   * --local-console-password
@@ -768,7 +764,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>set-smb-guest-password</summary>
+- **<details><summary>set-smb-guest-password</summary><blockquote>**
 
   * --gateway-arn
   * --password
@@ -777,7 +773,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>shutdown-gateway</summary>
+- **<details><summary>shutdown-gateway</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -785,7 +781,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>start-availability-monitor-test</summary>
+- **<details><summary>start-availability-monitor-test</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -793,7 +789,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>start-gateway</summary>
+- **<details><summary>start-gateway</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -801,7 +797,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>update-automatic-tape-creation-policy</summary>
+- **<details><summary>update-automatic-tape-creation-policy</summary><blockquote>**
 
   * --automatic-tape-creation-rules
   * --gateway-arn
@@ -810,7 +806,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>update-bandwidth-rate-limit</summary>
+- **<details><summary>update-bandwidth-rate-limit</summary><blockquote>**
 
   * --gateway-arn
   * --average-upload-rate-limit-in-bits-per-sec
@@ -820,7 +816,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>update-bandwidth-rate-limit-schedule</summary>
+- **<details><summary>update-bandwidth-rate-limit-schedule</summary><blockquote>**
 
   * --gateway-arn
   * --bandwidth-rate-limit-intervals
@@ -829,7 +825,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>update-chap-credentials</summary>
+- **<details><summary>update-chap-credentials</summary><blockquote>**
 
   * --target-arn
   * --secret-to-authenticate-initiator
@@ -840,7 +836,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>update-file-system-association</summary>
+- **<details><summary>update-file-system-association</summary><blockquote>**
 
   * --file-system-association-arn
   * --user-name
@@ -852,7 +848,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>update-gateway-information</summary>
+- **<details><summary>update-gateway-information</summary><blockquote>**
 
   * --gateway-arn
   * --gateway-name
@@ -864,7 +860,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>update-gateway-software-now</summary>
+- **<details><summary>update-gateway-software-now</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -872,7 +868,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>update-maintenance-start-time</summary>
+- **<details><summary>update-maintenance-start-time</summary><blockquote>**
 
   * --gateway-arn
   * --hour-of-day
@@ -884,7 +880,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>update-nfs-file-share</summary>
+- **<details><summary>update-nfs-file-share</summary><blockquote>**
 
   * --file-share-arn
   * --kms-encrypted
@@ -909,7 +905,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>update-smb-file-share</summary>
+- **<details><summary>update-smb-file-share</summary><blockquote>**
 
   * --file-share-arn
   * --kms-encrypted
@@ -942,7 +938,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>update-smb-file-share-visibility</summary>
+- **<details><summary>update-smb-file-share-visibility</summary><blockquote>**
 
   * --gateway-arn
   * --file-shares-visible
@@ -952,7 +948,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>update-smb-security-strategy</summary>
+- **<details><summary>update-smb-security-strategy</summary><blockquote>**
 
   * --gateway-arn
   * --smb-security-strategy
@@ -961,7 +957,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>update-snapshot-schedule</summary>
+- **<details><summary>update-snapshot-schedule</summary><blockquote>**
 
   * --volume-arn
   * --start-at
@@ -973,7 +969,7 @@ storagegateway
   * --generate-cli-skeleton
 
 
-- <details><summary>update-vtl-device-type</summary>
+- **<details><summary>update-vtl-device-type</summary><blockquote>**
 
   * --vtl-device-arn
   * --device-type
@@ -982,5 +978,94 @@ storagegateway
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

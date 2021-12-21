@@ -1,10 +1,6 @@
-<details>
+<details><summary>cloudformation</summary><blockquote>
 
-<summary>
-cloudformation
-</summary>
-
-- <details><summary>activate-type</summary>
+- **<details><summary>activate-type</summary><blockquote>**
 
   * --type
   * --public-type-arn
@@ -22,7 +18,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-describe-type-configurations</summary>
+- **<details><summary>batch-describe-type-configurations</summary><blockquote>**
 
   * --type-configuration-identifiers
   * --cli-input-json
@@ -30,7 +26,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-update-stack</summary>
+- **<details><summary>cancel-update-stack</summary><blockquote>**
 
   * --stack-name
   * --client-request-token
@@ -39,7 +35,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>continue-update-rollback</summary>
+- **<details><summary>continue-update-rollback</summary><blockquote>**
 
   * --stack-name
   * --role-arn
@@ -50,7 +46,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>create-change-set</summary>
+- **<details><summary>create-change-set</summary><blockquote>**
 
   * --stack-name
   * --template-body
@@ -76,7 +72,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>create-stack</summary>
+- **<details><summary>create-stack</summary><blockquote>**
 
   * --stack-name
   * --template-body
@@ -102,7 +98,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>create-stack-instances</summary>
+- **<details><summary>create-stack-instances</summary><blockquote>**
 
   * --stack-set-name
   * --accounts
@@ -117,7 +113,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>create-stack-set</summary>
+- **<details><summary>create-stack-set</summary><blockquote>**
 
   * --stack-set-name
   * --description
@@ -137,7 +133,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>deactivate-type</summary>
+- **<details><summary>deactivate-type</summary><blockquote>**
 
   * --type-name
   * --type
@@ -147,7 +143,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-change-set</summary>
+- **<details><summary>delete-change-set</summary><blockquote>**
 
   * --change-set-name
   * --stack-name
@@ -156,7 +152,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-stack</summary>
+- **<details><summary>delete-stack</summary><blockquote>**
 
   * --stack-name
   * --retain-resources
@@ -167,7 +163,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-stack-instances</summary>
+- **<details><summary>delete-stack-instances</summary><blockquote>**
 
   * --stack-set-name
   * --accounts
@@ -183,7 +179,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-stack-set</summary>
+- **<details><summary>delete-stack-set</summary><blockquote>**
 
   * --stack-set-name
   * --call-as
@@ -192,7 +188,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>deploy</summary>
+- **<details><summary>deploy</summary><blockquote>**
 
   * --template-file
   * --stack-name
@@ -210,7 +206,7 @@ cloudformation
   * --tags
 
 
-- <details><summary>deregister-type</summary>
+- **<details><summary>deregister-type</summary><blockquote>**
 
   * --arn
   * --type
@@ -221,7 +217,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-account-limits</summary>
+- **<details><summary>describe-account-limits</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -230,7 +226,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-change-set</summary>
+- **<details><summary>describe-change-set</summary><blockquote>**
 
   * --change-set-name
   * --stack-name
@@ -241,7 +237,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-publisher</summary>
+- **<details><summary>describe-publisher</summary><blockquote>**
 
   * --publisher-id
   * --cli-input-json
@@ -249,7 +245,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stack-drift-detection-status</summary>
+- **<details><summary>describe-stack-drift-detection-status</summary><blockquote>**
 
   * --stack-drift-detection-id
   * --cli-input-json
@@ -257,7 +253,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stack-events</summary>
+- **<details><summary>describe-stack-events</summary><blockquote>**
 
   * --stack-name
   * --cli-input-json
@@ -267,7 +263,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stack-instance</summary>
+- **<details><summary>describe-stack-instance</summary><blockquote>**
 
   * --stack-set-name
   * --stack-instance-account
@@ -278,7 +274,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stack-resource</summary>
+- **<details><summary>describe-stack-resource</summary><blockquote>**
 
   * --stack-name
   * --logical-resource-id
@@ -287,7 +283,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stack-resource-drifts</summary>
+- **<details><summary>describe-stack-resource-drifts</summary><blockquote>**
 
   * --stack-name
   * --stack-resource-drift-status-filters
@@ -298,7 +294,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stack-resources</summary>
+- **<details><summary>describe-stack-resources</summary><blockquote>**
 
   * --stack-name
   * --logical-resource-id
@@ -308,7 +304,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stacks</summary>
+- **<details><summary>describe-stacks</summary><blockquote>**
 
   * --stack-name
   * --cli-input-json
@@ -318,7 +314,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stack-set</summary>
+- **<details><summary>describe-stack-set</summary><blockquote>**
 
   * --stack-set-name
   * --call-as
@@ -327,7 +323,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stack-set-operation</summary>
+- **<details><summary>describe-stack-set-operation</summary><blockquote>**
 
   * --stack-set-name
   * --operation-id
@@ -337,7 +333,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-type</summary>
+- **<details><summary>describe-type</summary><blockquote>**
 
   * --type
   * --type-name
@@ -350,7 +346,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-type-registration</summary>
+- **<details><summary>describe-type-registration</summary><blockquote>**
 
   * --registration-token
   * --cli-input-json
@@ -358,7 +354,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-stack-drift</summary>
+- **<details><summary>detect-stack-drift</summary><blockquote>**
 
   * --stack-name
   * --logical-resource-ids
@@ -367,7 +363,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-stack-resource-drift</summary>
+- **<details><summary>detect-stack-resource-drift</summary><blockquote>**
 
   * --stack-name
   * --logical-resource-id
@@ -376,7 +372,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-stack-set-drift</summary>
+- **<details><summary>detect-stack-set-drift</summary><blockquote>**
 
   * --stack-set-name
   * --operation-preferences
@@ -387,7 +383,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>estimate-template-cost</summary>
+- **<details><summary>estimate-template-cost</summary><blockquote>**
 
   * --template-body
   * --template-url
@@ -397,7 +393,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>execute-change-set</summary>
+- **<details><summary>execute-change-set</summary><blockquote>**
 
   * --change-set-name
   * --stack-name
@@ -407,7 +403,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>get-stack-policy</summary>
+- **<details><summary>get-stack-policy</summary><blockquote>**
 
   * --stack-name
   * --cli-input-json
@@ -415,7 +411,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>get-template</summary>
+- **<details><summary>get-template</summary><blockquote>**
 
   * --stack-name
   * --change-set-name
@@ -425,7 +421,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>get-template-summary</summary>
+- **<details><summary>get-template-summary</summary><blockquote>**
 
   * --template-body
   * --template-url
@@ -437,12 +433,12 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-change-sets</summary>
+- **<details><summary>list-change-sets</summary><blockquote>**
 
   * --stack-name
   * --cli-input-json
@@ -452,7 +448,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-exports</summary>
+- **<details><summary>list-exports</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -461,7 +457,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-imports</summary>
+- **<details><summary>list-imports</summary><blockquote>**
 
   * --export-name
   * --cli-input-json
@@ -471,7 +467,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-stack-instances</summary>
+- **<details><summary>list-stack-instances</summary><blockquote>**
 
   * --stack-set-name
   * --filters
@@ -486,7 +482,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-stack-resources</summary>
+- **<details><summary>list-stack-resources</summary><blockquote>**
 
   * --stack-name
   * --cli-input-json
@@ -496,7 +492,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-stacks</summary>
+- **<details><summary>list-stacks</summary><blockquote>**
 
   * --stack-status-filter
   * --cli-input-json
@@ -506,7 +502,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-stack-set-operation-results</summary>
+- **<details><summary>list-stack-set-operation-results</summary><blockquote>**
 
   * --stack-set-name
   * --operation-id
@@ -519,7 +515,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-stack-set-operations</summary>
+- **<details><summary>list-stack-set-operations</summary><blockquote>**
 
   * --stack-set-name
   * --call-as
@@ -531,7 +527,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-stack-sets</summary>
+- **<details><summary>list-stack-sets</summary><blockquote>**
 
   * --status
   * --call-as
@@ -543,7 +539,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-type-registrations</summary>
+- **<details><summary>list-type-registrations</summary><blockquote>**
 
   * --type
   * --type-name
@@ -556,7 +552,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-types</summary>
+- **<details><summary>list-types</summary><blockquote>**
 
   * --visibility
   * --provisioning-type
@@ -571,7 +567,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-type-versions</summary>
+- **<details><summary>list-type-versions</summary><blockquote>**
 
   * --type
   * --type-name
@@ -585,7 +581,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>package</summary>
+- **<details><summary>package</summary><blockquote>**
 
   * --template-file
   * --s3-bucket
@@ -597,7 +593,7 @@ cloudformation
   * --metadata
 
 
-- <details><summary>publish-type</summary>
+- **<details><summary>publish-type</summary><blockquote>**
 
   * --type
   * --arn
@@ -608,7 +604,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>record-handler-progress</summary>
+- **<details><summary>record-handler-progress</summary><blockquote>**
 
   * --bearer-token
   * --operation-status
@@ -622,7 +618,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>register-publisher</summary>
+- **<details><summary>register-publisher</summary><blockquote>**
 
   * --accept-terms-and-conditions
   * --no-accept-terms-and-conditions
@@ -632,7 +628,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>register-type</summary>
+- **<details><summary>register-type</summary><blockquote>**
 
   * --type
   * --type-name
@@ -645,7 +641,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>set-stack-policy</summary>
+- **<details><summary>set-stack-policy</summary><blockquote>**
 
   * --stack-name
   * --stack-policy-body
@@ -655,7 +651,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>set-type-configuration</summary>
+- **<details><summary>set-type-configuration</summary><blockquote>**
 
   * --type-arn
   * --configuration
@@ -667,7 +663,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>set-type-default-version</summary>
+- **<details><summary>set-type-default-version</summary><blockquote>**
 
   * --arn
   * --type
@@ -678,7 +674,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>signal-resource</summary>
+- **<details><summary>signal-resource</summary><blockquote>**
 
   * --stack-name
   * --logical-resource-id
@@ -689,7 +685,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-stack-set-operation</summary>
+- **<details><summary>stop-stack-set-operation</summary><blockquote>**
 
   * --stack-set-name
   * --operation-id
@@ -699,7 +695,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>test-type</summary>
+- **<details><summary>test-type</summary><blockquote>**
 
   * --arn
   * --type
@@ -711,7 +707,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>update-stack</summary>
+- **<details><summary>update-stack</summary><blockquote>**
 
   * --stack-name
   * --template-body
@@ -735,7 +731,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>update-stack-instances</summary>
+- **<details><summary>update-stack-instances</summary><blockquote>**
 
   * --stack-set-name
   * --accounts
@@ -750,7 +746,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>update-stack-set</summary>
+- **<details><summary>update-stack-set</summary><blockquote>**
 
   * --stack-set-name
   * --description
@@ -776,7 +772,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>update-termination-protection</summary>
+- **<details><summary>update-termination-protection</summary><blockquote>**
 
   * --enable-termination-protection
   * --no-enable-termination-protection
@@ -786,7 +782,7 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>validate-template</summary>
+- **<details><summary>validate-template</summary><blockquote>**
 
   * --template-body
   * --template-url
@@ -795,10 +791,76 @@ cloudformation
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

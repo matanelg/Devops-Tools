@@ -1,10 +1,6 @@
-<details>
+<details><summary>marketplace-entitlement</summary><blockquote>
 
-<summary>
-marketplace-entitlement
-</summary>
-
-- <details><summary>get-entitlements</summary>
+- **<details><summary>get-entitlements</summary><blockquote>**
 
   * --product-code
   * --filter
@@ -16,10 +12,11 @@ marketplace-entitlement
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

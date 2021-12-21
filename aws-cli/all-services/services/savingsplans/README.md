@@ -1,10 +1,6 @@
-<details>
+<details><summary>savingsplans</summary><blockquote>
 
-<summary>
-savingsplans
-</summary>
-
-- <details><summary>create-savings-plan</summary>
+- **<details><summary>create-savings-plan</summary><blockquote>**
 
   * --savings-plan-offering-id
   * --commitment
@@ -17,7 +13,7 @@ savingsplans
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-queued-savings-plan</summary>
+- **<details><summary>delete-queued-savings-plan</summary><blockquote>**
 
   * --savings-plan-id
   * --cli-input-json
@@ -25,7 +21,7 @@ savingsplans
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-savings-plan-rates</summary>
+- **<details><summary>describe-savings-plan-rates</summary><blockquote>**
 
   * --savings-plan-id
   * --filters
@@ -36,7 +32,7 @@ savingsplans
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-savings-plans</summary>
+- **<details><summary>describe-savings-plans</summary><blockquote>**
 
   * --savings-plan-arns
   * --savings-plan-ids
@@ -49,7 +45,7 @@ savingsplans
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-savings-plans-offering-rates</summary>
+- **<details><summary>describe-savings-plans-offering-rates</summary><blockquote>**
 
   * --savings-plan-offering-ids
   * --savings-plan-payment-options
@@ -66,7 +62,7 @@ savingsplans
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-savings-plans-offerings</summary>
+- **<details><summary>describe-savings-plans-offerings</summary><blockquote>**
 
   * --offering-ids
   * --payment-options
@@ -86,12 +82,12 @@ savingsplans
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -99,7 +95,7 @@ savingsplans
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -108,7 +104,7 @@ savingsplans
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -117,5 +113,14 @@ savingsplans
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

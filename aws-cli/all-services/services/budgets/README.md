@@ -1,10 +1,6 @@
-<details>
+<details><summary>budgets</summary><blockquote>
 
-<summary>
-budgets
-</summary>
-
-- <details><summary>create-budget</summary>
+- **<details><summary>create-budget</summary><blockquote>**
 
   * --account-id
   * --budget
@@ -14,7 +10,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>create-budget-action</summary>
+- **<details><summary>create-budget-action</summary><blockquote>**
 
   * --account-id
   * --budget-name
@@ -30,7 +26,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>create-notification</summary>
+- **<details><summary>create-notification</summary><blockquote>**
 
   * --account-id
   * --budget-name
@@ -41,7 +37,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>create-subscriber</summary>
+- **<details><summary>create-subscriber</summary><blockquote>**
 
   * --account-id
   * --budget-name
@@ -52,7 +48,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-budget</summary>
+- **<details><summary>delete-budget</summary><blockquote>**
 
   * --account-id
   * --budget-name
@@ -61,7 +57,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-budget-action</summary>
+- **<details><summary>delete-budget-action</summary><blockquote>**
 
   * --account-id
   * --budget-name
@@ -71,7 +67,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-notification</summary>
+- **<details><summary>delete-notification</summary><blockquote>**
 
   * --account-id
   * --budget-name
@@ -81,7 +77,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-subscriber</summary>
+- **<details><summary>delete-subscriber</summary><blockquote>**
 
   * --account-id
   * --budget-name
@@ -92,7 +88,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-budget</summary>
+- **<details><summary>describe-budget</summary><blockquote>**
 
   * --account-id
   * --budget-name
@@ -101,7 +97,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-budget-action</summary>
+- **<details><summary>describe-budget-action</summary><blockquote>**
 
   * --account-id
   * --budget-name
@@ -111,7 +107,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-budget-action-histories</summary>
+- **<details><summary>describe-budget-action-histories</summary><blockquote>**
 
   * --account-id
   * --budget-name
@@ -125,7 +121,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-budget-actions-for-account</summary>
+- **<details><summary>describe-budget-actions-for-account</summary><blockquote>**
 
   * --account-id
   * --cli-input-json
@@ -136,7 +132,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-budget-actions-for-budget</summary>
+- **<details><summary>describe-budget-actions-for-budget</summary><blockquote>**
 
   * --account-id
   * --budget-name
@@ -148,7 +144,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-budget-performance-history</summary>
+- **<details><summary>describe-budget-performance-history</summary><blockquote>**
 
   * --account-id
   * --budget-name
@@ -161,7 +157,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-budgets</summary>
+- **<details><summary>describe-budgets</summary><blockquote>**
 
   * --account-id
   * --cli-input-json
@@ -172,7 +168,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-notifications-for-budget</summary>
+- **<details><summary>describe-notifications-for-budget</summary><blockquote>**
 
   * --account-id
   * --budget-name
@@ -184,7 +180,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-subscribers-for-notification</summary>
+- **<details><summary>describe-subscribers-for-notification</summary><blockquote>**
 
   * --account-id
   * --budget-name
@@ -197,7 +193,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>execute-budget-action</summary>
+- **<details><summary>execute-budget-action</summary><blockquote>**
 
   * --account-id
   * --budget-name
@@ -208,12 +204,12 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>update-budget</summary>
+- **<details><summary>update-budget</summary><blockquote>**
 
   * --account-id
   * --new-budget
@@ -222,7 +218,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>update-budget-action</summary>
+- **<details><summary>update-budget-action</summary><blockquote>**
 
   * --account-id
   * --budget-name
@@ -238,7 +234,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>update-notification</summary>
+- **<details><summary>update-notification</summary><blockquote>**
 
   * --account-id
   * --budget-name
@@ -249,7 +245,7 @@ budgets
   * --generate-cli-skeleton
 
 
-- <details><summary>update-subscriber</summary>
+- **<details><summary>update-subscriber</summary><blockquote>**
 
   * --account-id
   * --budget-name
@@ -261,5 +257,27 @@ budgets
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

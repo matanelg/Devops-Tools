@@ -1,10 +1,6 @@
-<details>
+<details><summary>mwaa</summary><blockquote>
 
-<summary>
-mwaa
-</summary>
-
-- <details><summary>create-cli-token</summary>
+- **<details><summary>create-cli-token</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -12,7 +8,7 @@ mwaa
   * --generate-cli-skeleton
 
 
-- <details><summary>create-environment</summary>
+- **<details><summary>create-environment</summary><blockquote>**
 
   * --airflow-configuration-options
   * --airflow-version
@@ -39,7 +35,7 @@ mwaa
   * --generate-cli-skeleton
 
 
-- <details><summary>create-web-login-token</summary>
+- **<details><summary>create-web-login-token</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -47,7 +43,7 @@ mwaa
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-environment</summary>
+- **<details><summary>delete-environment</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -55,7 +51,7 @@ mwaa
   * --generate-cli-skeleton
 
 
-- <details><summary>get-environment</summary>
+- **<details><summary>get-environment</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -63,12 +59,12 @@ mwaa
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-environments</summary>
+- **<details><summary>list-environments</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -78,7 +74,7 @@ mwaa
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -86,7 +82,7 @@ mwaa
   * --generate-cli-skeleton
 
 
-- <details><summary>publish-metrics</summary>
+- **<details><summary>publish-metrics</summary><blockquote>**
 
   * --environment-name
   * --metric-data
@@ -95,7 +91,7 @@ mwaa
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -104,7 +100,7 @@ mwaa
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -113,7 +109,7 @@ mwaa
   * --generate-cli-skeleton
 
 
-- <details><summary>update-environment</summary>
+- **<details><summary>update-environment</summary><blockquote>**
 
   * --airflow-configuration-options
   * --airflow-version
@@ -138,5 +134,16 @@ mwaa
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

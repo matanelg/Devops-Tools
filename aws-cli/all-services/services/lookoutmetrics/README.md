@@ -1,10 +1,6 @@
-<details>
+<details><summary>lookoutmetrics</summary><blockquote>
 
-<summary>
-lookoutmetrics
-</summary>
-
-- <details><summary>activate-anomaly-detector</summary>
+- **<details><summary>activate-anomaly-detector</summary><blockquote>**
 
   * --anomaly-detector-arn
   * --cli-input-json
@@ -12,7 +8,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>back-test-anomaly-detector</summary>
+- **<details><summary>back-test-anomaly-detector</summary><blockquote>**
 
   * --anomaly-detector-arn
   * --cli-input-json
@@ -20,7 +16,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>create-alert</summary>
+- **<details><summary>create-alert</summary><blockquote>**
 
   * --alert-name
   * --alert-sensitivity-threshold
@@ -33,7 +29,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>create-anomaly-detector</summary>
+- **<details><summary>create-anomaly-detector</summary><blockquote>**
 
   * --anomaly-detector-name
   * --anomaly-detector-description
@@ -45,7 +41,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>create-metric-set</summary>
+- **<details><summary>create-metric-set</summary><blockquote>**
 
   * --anomaly-detector-arn
   * --metric-set-name
@@ -63,7 +59,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-alert</summary>
+- **<details><summary>delete-alert</summary><blockquote>**
 
   * --alert-arn
   * --cli-input-json
@@ -71,7 +67,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-anomaly-detector</summary>
+- **<details><summary>delete-anomaly-detector</summary><blockquote>**
 
   * --anomaly-detector-arn
   * --cli-input-json
@@ -79,7 +75,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-alert</summary>
+- **<details><summary>describe-alert</summary><blockquote>**
 
   * --alert-arn
   * --cli-input-json
@@ -87,7 +83,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-anomaly-detection-executions</summary>
+- **<details><summary>describe-anomaly-detection-executions</summary><blockquote>**
 
   * --anomaly-detector-arn
   * --timestamp
@@ -98,7 +94,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-anomaly-detector</summary>
+- **<details><summary>describe-anomaly-detector</summary><blockquote>**
 
   * --anomaly-detector-arn
   * --cli-input-json
@@ -106,7 +102,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-metric-set</summary>
+- **<details><summary>describe-metric-set</summary><blockquote>**
 
   * --metric-set-arn
   * --cli-input-json
@@ -114,7 +110,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>get-anomaly-group</summary>
+- **<details><summary>get-anomaly-group</summary><blockquote>**
 
   * --anomaly-group-id
   * --anomaly-detector-arn
@@ -123,7 +119,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>get-feedback</summary>
+- **<details><summary>get-feedback</summary><blockquote>**
 
   * --anomaly-detector-arn
   * --anomaly-group-time-series-feedback
@@ -134,7 +130,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>get-sample-data</summary>
+- **<details><summary>get-sample-data</summary><blockquote>**
 
   * --s3-source-config
   * --cli-input-json
@@ -142,12 +138,12 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-alerts</summary>
+- **<details><summary>list-alerts</summary><blockquote>**
 
   * --anomaly-detector-arn
   * --next-token
@@ -157,7 +153,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>list-anomaly-detectors</summary>
+- **<details><summary>list-anomaly-detectors</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -166,7 +162,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>list-anomaly-group-summaries</summary>
+- **<details><summary>list-anomaly-group-summaries</summary><blockquote>**
 
   * --anomaly-detector-arn
   * --sensitivity-threshold
@@ -177,7 +173,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>list-anomaly-group-time-series</summary>
+- **<details><summary>list-anomaly-group-time-series</summary><blockquote>**
 
   * --anomaly-detector-arn
   * --anomaly-group-id
@@ -189,7 +185,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>list-metric-sets</summary>
+- **<details><summary>list-metric-sets</summary><blockquote>**
 
   * --anomaly-detector-arn
   * --max-results
@@ -199,7 +195,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -207,7 +203,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>put-feedback</summary>
+- **<details><summary>put-feedback</summary><blockquote>**
 
   * --anomaly-detector-arn
   * --anomaly-group-time-series-feedback
@@ -216,7 +212,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -225,7 +221,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -234,7 +230,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>update-anomaly-detector</summary>
+- **<details><summary>update-anomaly-detector</summary><blockquote>**
 
   * --anomaly-detector-arn
   * --kms-key-arn
@@ -245,7 +241,7 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-- <details><summary>update-metric-set</summary>
+- **<details><summary>update-metric-set</summary><blockquote>**
 
   * --metric-set-arn
   * --metric-set-description
@@ -260,5 +256,30 @@ lookoutmetrics
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

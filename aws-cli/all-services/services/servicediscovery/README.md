@@ -1,10 +1,6 @@
-<details>
+<details><summary>servicediscovery</summary><blockquote>
 
-<summary>
-servicediscovery
-</summary>
-
-- <details><summary>create-http-namespace</summary>
+- **<details><summary>create-http-namespace</summary><blockquote>**
 
   * --name
   * --creator-request-id
@@ -15,7 +11,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>create-private-dns-namespace</summary>
+- **<details><summary>create-private-dns-namespace</summary><blockquote>**
 
   * --name
   * --creator-request-id
@@ -28,7 +24,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>create-public-dns-namespace</summary>
+- **<details><summary>create-public-dns-namespace</summary><blockquote>**
 
   * --name
   * --creator-request-id
@@ -40,7 +36,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>create-service</summary>
+- **<details><summary>create-service</summary><blockquote>**
 
   * --name
   * --namespace-id
@@ -56,7 +52,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-namespace</summary>
+- **<details><summary>delete-namespace</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -64,7 +60,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-service</summary>
+- **<details><summary>delete-service</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -72,7 +68,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-instance</summary>
+- **<details><summary>deregister-instance</summary><blockquote>**
 
   * --service-id
   * --instance-id
@@ -81,7 +77,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>discover-instances</summary>
+- **<details><summary>discover-instances</summary><blockquote>**
 
   * --namespace-name
   * --service-name
@@ -94,7 +90,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>get-instance</summary>
+- **<details><summary>get-instance</summary><blockquote>**
 
   * --service-id
   * --instance-id
@@ -103,7 +99,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>get-instances-health-status</summary>
+- **<details><summary>get-instances-health-status</summary><blockquote>**
 
   * --service-id
   * --instances
@@ -114,7 +110,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>get-namespace</summary>
+- **<details><summary>get-namespace</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -122,7 +118,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>get-operation</summary>
+- **<details><summary>get-operation</summary><blockquote>**
 
   * --operation-id
   * --cli-input-json
@@ -130,7 +126,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>get-service</summary>
+- **<details><summary>get-service</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -138,12 +134,12 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-instances</summary>
+- **<details><summary>list-instances</summary><blockquote>**
 
   * --service-id
   * --cli-input-json
@@ -154,7 +150,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>list-namespaces</summary>
+- **<details><summary>list-namespaces</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -165,7 +161,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>list-operations</summary>
+- **<details><summary>list-operations</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -176,7 +172,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>list-services</summary>
+- **<details><summary>list-services</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -187,7 +183,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -195,7 +191,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>register-instance</summary>
+- **<details><summary>register-instance</summary><blockquote>**
 
   * --service-id
   * --instance-id
@@ -206,7 +202,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -215,7 +211,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -224,7 +220,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>update-http-namespace</summary>
+- **<details><summary>update-http-namespace</summary><blockquote>**
 
   * --id
   * --updater-request-id
@@ -234,7 +230,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>update-instance-custom-health-status</summary>
+- **<details><summary>update-instance-custom-health-status</summary><blockquote>**
 
   * --service-id
   * --instance-id
@@ -244,7 +240,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>update-private-dns-namespace</summary>
+- **<details><summary>update-private-dns-namespace</summary><blockquote>**
 
   * --id
   * --updater-request-id
@@ -254,7 +250,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>update-public-dns-namespace</summary>
+- **<details><summary>update-public-dns-namespace</summary><blockquote>**
 
   * --id
   * --updater-request-id
@@ -264,7 +260,7 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-- <details><summary>update-service</summary>
+- **<details><summary>update-service</summary><blockquote>**
 
   * --id
   * --service
@@ -273,5 +269,31 @@ servicediscovery
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

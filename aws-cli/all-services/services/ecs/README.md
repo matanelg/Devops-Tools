@@ -1,10 +1,6 @@
-<details>
+<details><summary>ecs</summary><blockquote>
 
-<summary>
-ecs
-</summary>
-
-- <details><summary>create-capacity-provider</summary>
+- **<details><summary>create-capacity-provider</summary><blockquote>**
 
   * --name
   * --auto-scaling-group-provider
@@ -14,7 +10,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cluster</summary>
+- **<details><summary>create-cluster</summary><blockquote>**
 
   * --cluster-name
   * --tags
@@ -27,7 +23,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>create-service</summary>
+- **<details><summary>create-service</summary><blockquote>**
 
   * --cluster
   * --service-name
@@ -58,7 +54,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>create-task-set</summary>
+- **<details><summary>create-task-set</summary><blockquote>**
 
   * --service
   * --cluster
@@ -78,7 +74,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-account-setting</summary>
+- **<details><summary>delete-account-setting</summary><blockquote>**
 
   * --name
   * --principal-arn
@@ -87,7 +83,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-attributes</summary>
+- **<details><summary>delete-attributes</summary><blockquote>**
 
   * --cluster
   * --attributes
@@ -96,7 +92,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-capacity-provider</summary>
+- **<details><summary>delete-capacity-provider</summary><blockquote>**
 
   * --capacity-provider
   * --cli-input-json
@@ -104,7 +100,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-cluster</summary>
+- **<details><summary>delete-cluster</summary><blockquote>**
 
   * --cluster
   * --cli-input-json
@@ -112,7 +108,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-service</summary>
+- **<details><summary>delete-service</summary><blockquote>**
 
   * --cluster
   * --service
@@ -123,7 +119,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-task-set</summary>
+- **<details><summary>delete-task-set</summary><blockquote>**
 
   * --cluster
   * --service
@@ -135,7 +131,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>deploy</summary>
+- **<details><summary>deploy</summary><blockquote>**
 
   * --service
   * --task-definition
@@ -145,7 +141,7 @@ ecs
   * --codedeploy-deployment-group
 
 
-- <details><summary>deregister-container-instance</summary>
+- **<details><summary>deregister-container-instance</summary><blockquote>**
 
   * --cluster
   * --container-instance
@@ -156,7 +152,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-task-definition</summary>
+- **<details><summary>deregister-task-definition</summary><blockquote>**
 
   * --task-definition
   * --cli-input-json
@@ -164,7 +160,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-capacity-providers</summary>
+- **<details><summary>describe-capacity-providers</summary><blockquote>**
 
   * --capacity-providers
   * --include
@@ -175,7 +171,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-clusters</summary>
+- **<details><summary>describe-clusters</summary><blockquote>**
 
   * --clusters
   * --include
@@ -184,7 +180,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-container-instances</summary>
+- **<details><summary>describe-container-instances</summary><blockquote>**
 
   * --cluster
   * --container-instances
@@ -194,7 +190,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-services</summary>
+- **<details><summary>describe-services</summary><blockquote>**
 
   * --cluster
   * --services
@@ -204,7 +200,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-task-definition</summary>
+- **<details><summary>describe-task-definition</summary><blockquote>**
 
   * --task-definition
   * --include
@@ -213,7 +209,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-tasks</summary>
+- **<details><summary>describe-tasks</summary><blockquote>**
 
   * --cluster
   * --tasks
@@ -223,7 +219,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-task-sets</summary>
+- **<details><summary>describe-task-sets</summary><blockquote>**
 
   * --cluster
   * --service
@@ -234,7 +230,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>discover-poll-endpoint</summary>
+- **<details><summary>discover-poll-endpoint</summary><blockquote>**
 
   * --container-instance
   * --cluster
@@ -243,7 +239,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>execute-command</summary>
+- **<details><summary>execute-command</summary><blockquote>**
 
   * --cluster
   * --container
@@ -256,12 +252,12 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-account-settings</summary>
+- **<details><summary>list-account-settings</summary><blockquote>**
 
   * --name
   * --value
@@ -276,7 +272,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>list-attributes</summary>
+- **<details><summary>list-attributes</summary><blockquote>**
 
   * --cluster
   * --target-type
@@ -290,7 +286,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>list-clusters</summary>
+- **<details><summary>list-clusters</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -300,7 +296,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>list-container-instances</summary>
+- **<details><summary>list-container-instances</summary><blockquote>**
 
   * --cluster
   * --filter
@@ -313,7 +309,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>list-services</summary>
+- **<details><summary>list-services</summary><blockquote>**
 
   * --cluster
   * --launch-type
@@ -326,7 +322,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -334,7 +330,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>list-task-definition-families</summary>
+- **<details><summary>list-task-definition-families</summary><blockquote>**
 
   * --family-prefix
   * --status
@@ -346,7 +342,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>list-task-definitions</summary>
+- **<details><summary>list-task-definitions</summary><blockquote>**
 
   * --family-prefix
   * --status
@@ -359,7 +355,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tasks</summary>
+- **<details><summary>list-tasks</summary><blockquote>**
 
   * --cluster
   * --container-instance
@@ -376,7 +372,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>put-account-setting</summary>
+- **<details><summary>put-account-setting</summary><blockquote>**
 
   * --name
   * --value
@@ -386,7 +382,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>put-account-setting-default</summary>
+- **<details><summary>put-account-setting-default</summary><blockquote>**
 
   * --name
   * --value
@@ -395,7 +391,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>put-attributes</summary>
+- **<details><summary>put-attributes</summary><blockquote>**
 
   * --cluster
   * --attributes
@@ -404,7 +400,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>put-cluster-capacity-providers</summary>
+- **<details><summary>put-cluster-capacity-providers</summary><blockquote>**
 
   * --cluster
   * --capacity-providers
@@ -414,7 +410,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>register-container-instance</summary>
+- **<details><summary>register-container-instance</summary><blockquote>**
 
   * --cluster
   * --instance-identity-document
@@ -430,7 +426,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>register-task-definition</summary>
+- **<details><summary>register-task-definition</summary><blockquote>**
 
   * --family
   * --task-role-arn
@@ -453,7 +449,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>run-task</summary>
+- **<details><summary>run-task</summary><blockquote>**
 
   * --capacity-provider-strategy
   * --cluster
@@ -479,7 +475,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>start-task</summary>
+- **<details><summary>start-task</summary><blockquote>**
 
   * --cluster
   * --container-instances
@@ -500,7 +496,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-task</summary>
+- **<details><summary>stop-task</summary><blockquote>**
 
   * --cluster
   * --task
@@ -510,7 +506,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>submit-attachment-state-changes</summary>
+- **<details><summary>submit-attachment-state-changes</summary><blockquote>**
 
   * --cluster
   * --attachments
@@ -519,7 +515,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>submit-container-state-change</summary>
+- **<details><summary>submit-container-state-change</summary><blockquote>**
 
   * --cluster
   * --task
@@ -534,7 +530,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>submit-task-state-change</summary>
+- **<details><summary>submit-task-state-change</summary><blockquote>**
 
   * --cluster
   * --task
@@ -551,7 +547,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -560,7 +556,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -569,7 +565,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>update-capacity-provider</summary>
+- **<details><summary>update-capacity-provider</summary><blockquote>**
 
   * --name
   * --auto-scaling-group-provider
@@ -578,7 +574,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>update-cluster</summary>
+- **<details><summary>update-cluster</summary><blockquote>**
 
   * --cluster
   * --settings
@@ -588,7 +584,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>update-cluster-settings</summary>
+- **<details><summary>update-cluster-settings</summary><blockquote>**
 
   * --cluster
   * --settings
@@ -597,7 +593,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>update-container-agent</summary>
+- **<details><summary>update-container-agent</summary><blockquote>**
 
   * --cluster
   * --container-instance
@@ -606,7 +602,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>update-container-instances-state</summary>
+- **<details><summary>update-container-instances-state</summary><blockquote>**
 
   * --cluster
   * --container-instances
@@ -616,7 +612,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>update-service</summary>
+- **<details><summary>update-service</summary><blockquote>**
 
   * --cluster
   * --service
@@ -638,7 +634,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>update-service-primary-task-set</summary>
+- **<details><summary>update-service-primary-task-set</summary><blockquote>**
 
   * --cluster
   * --service
@@ -648,7 +644,7 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>update-task-set</summary>
+- **<details><summary>update-task-set</summary><blockquote>**
 
   * --cluster
   * --service
@@ -659,10 +655,64 @@ ecs
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

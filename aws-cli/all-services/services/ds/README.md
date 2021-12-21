@@ -1,10 +1,6 @@
-<details>
+<details><summary>ds</summary><blockquote>
 
-<summary>
-ds
-</summary>
-
-- <details><summary>accept-shared-directory</summary>
+- **<details><summary>accept-shared-directory</summary><blockquote>**
 
   * --shared-directory-id
   * --cli-input-json
@@ -12,7 +8,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>add-ip-routes</summary>
+- **<details><summary>add-ip-routes</summary><blockquote>**
 
   * --directory-id
   * --ip-routes
@@ -23,7 +19,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>add-region</summary>
+- **<details><summary>add-region</summary><blockquote>**
 
   * --directory-id
   * --region-name
@@ -33,7 +29,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>add-tags-to-resource</summary>
+- **<details><summary>add-tags-to-resource</summary><blockquote>**
 
   * --resource-id
   * --tags
@@ -42,7 +38,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-schema-extension</summary>
+- **<details><summary>cancel-schema-extension</summary><blockquote>**
 
   * --directory-id
   * --schema-extension-id
@@ -51,7 +47,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>connect-directory</summary>
+- **<details><summary>connect-directory</summary><blockquote>**
 
   * --name
   * --short-name
@@ -65,7 +61,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-alias</summary>
+- **<details><summary>create-alias</summary><blockquote>**
 
   * --directory-id
   * --alias
@@ -74,7 +70,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-computer</summary>
+- **<details><summary>create-computer</summary><blockquote>**
 
   * --directory-id
   * --computer-name
@@ -86,7 +82,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-conditional-forwarder</summary>
+- **<details><summary>create-conditional-forwarder</summary><blockquote>**
 
   * --directory-id
   * --remote-domain-name
@@ -96,7 +92,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-directory</summary>
+- **<details><summary>create-directory</summary><blockquote>**
 
   * --name
   * --short-name
@@ -110,7 +106,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-log-subscription</summary>
+- **<details><summary>create-log-subscription</summary><blockquote>**
 
   * --directory-id
   * --log-group-name
@@ -119,7 +115,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-microsoft-ad</summary>
+- **<details><summary>create-microsoft-ad</summary><blockquote>**
 
   * --name
   * --short-name
@@ -133,7 +129,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-snapshot</summary>
+- **<details><summary>create-snapshot</summary><blockquote>**
 
   * --directory-id
   * --name
@@ -142,7 +138,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-trust</summary>
+- **<details><summary>create-trust</summary><blockquote>**
 
   * --directory-id
   * --remote-domain-name
@@ -156,7 +152,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-conditional-forwarder</summary>
+- **<details><summary>delete-conditional-forwarder</summary><blockquote>**
 
   * --directory-id
   * --remote-domain-name
@@ -165,7 +161,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-directory</summary>
+- **<details><summary>delete-directory</summary><blockquote>**
 
   * --directory-id
   * --cli-input-json
@@ -173,7 +169,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-log-subscription</summary>
+- **<details><summary>delete-log-subscription</summary><blockquote>**
 
   * --directory-id
   * --cli-input-json
@@ -181,7 +177,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-snapshot</summary>
+- **<details><summary>delete-snapshot</summary><blockquote>**
 
   * --snapshot-id
   * --cli-input-json
@@ -189,7 +185,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-trust</summary>
+- **<details><summary>delete-trust</summary><blockquote>**
 
   * --trust-id
   * --delete-associated-conditional-forwarder
@@ -199,7 +195,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-certificate</summary>
+- **<details><summary>deregister-certificate</summary><blockquote>**
 
   * --directory-id
   * --certificate-id
@@ -208,7 +204,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-event-topic</summary>
+- **<details><summary>deregister-event-topic</summary><blockquote>**
 
   * --directory-id
   * --topic-name
@@ -217,7 +213,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-certificate</summary>
+- **<details><summary>describe-certificate</summary><blockquote>**
 
   * --directory-id
   * --certificate-id
@@ -226,7 +222,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-conditional-forwarders</summary>
+- **<details><summary>describe-conditional-forwarders</summary><blockquote>**
 
   * --directory-id
   * --remote-domain-names
@@ -235,7 +231,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-directories</summary>
+- **<details><summary>describe-directories</summary><blockquote>**
 
   * --directory-ids
   * --cli-input-json
@@ -246,7 +242,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-domain-controllers</summary>
+- **<details><summary>describe-domain-controllers</summary><blockquote>**
 
   * --directory-id
   * --domain-controller-ids
@@ -258,7 +254,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-event-topics</summary>
+- **<details><summary>describe-event-topics</summary><blockquote>**
 
   * --directory-id
   * --topic-names
@@ -267,7 +263,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-ldaps-settings</summary>
+- **<details><summary>describe-ldaps-settings</summary><blockquote>**
 
   * --directory-id
   * --type
@@ -278,7 +274,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-regions</summary>
+- **<details><summary>describe-regions</summary><blockquote>**
 
   * --directory-id
   * --region-name
@@ -288,7 +284,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-shared-directories</summary>
+- **<details><summary>describe-shared-directories</summary><blockquote>**
 
   * --owner-directory-id
   * --shared-directory-ids
@@ -300,7 +296,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-snapshots</summary>
+- **<details><summary>describe-snapshots</summary><blockquote>**
 
   * --directory-id
   * --snapshot-ids
@@ -312,7 +308,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-trusts</summary>
+- **<details><summary>describe-trusts</summary><blockquote>**
 
   * --directory-id
   * --trust-ids
@@ -324,7 +320,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-client-authentication</summary>
+- **<details><summary>disable-client-authentication</summary><blockquote>**
 
   * --directory-id
   * --type
@@ -333,7 +329,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-ldaps</summary>
+- **<details><summary>disable-ldaps</summary><blockquote>**
 
   * --directory-id
   * --type
@@ -342,7 +338,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-radius</summary>
+- **<details><summary>disable-radius</summary><blockquote>**
 
   * --directory-id
   * --cli-input-json
@@ -350,7 +346,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-sso</summary>
+- **<details><summary>disable-sso</summary><blockquote>**
 
   * --directory-id
   * --user-name
@@ -360,7 +356,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-client-authentication</summary>
+- **<details><summary>enable-client-authentication</summary><blockquote>**
 
   * --directory-id
   * --type
@@ -369,7 +365,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-ldaps</summary>
+- **<details><summary>enable-ldaps</summary><blockquote>**
 
   * --directory-id
   * --type
@@ -378,7 +374,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-radius</summary>
+- **<details><summary>enable-radius</summary><blockquote>**
 
   * --directory-id
   * --radius-settings
@@ -387,7 +383,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-sso</summary>
+- **<details><summary>enable-sso</summary><blockquote>**
 
   * --directory-id
   * --user-name
@@ -397,14 +393,14 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>get-directory-limits</summary>
+- **<details><summary>get-directory-limits</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-snapshot-limits</summary>
+- **<details><summary>get-snapshot-limits</summary><blockquote>**
 
   * --directory-id
   * --cli-input-json
@@ -412,12 +408,12 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-certificates</summary>
+- **<details><summary>list-certificates</summary><blockquote>**
 
   * --directory-id
   * --next-token
@@ -427,7 +423,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>list-ip-routes</summary>
+- **<details><summary>list-ip-routes</summary><blockquote>**
 
   * --directory-id
   * --cli-input-json
@@ -438,7 +434,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>list-log-subscriptions</summary>
+- **<details><summary>list-log-subscriptions</summary><blockquote>**
 
   * --directory-id
   * --cli-input-json
@@ -449,7 +445,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>list-schema-extensions</summary>
+- **<details><summary>list-schema-extensions</summary><blockquote>**
 
   * --directory-id
   * --cli-input-json
@@ -460,7 +456,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-id
   * --cli-input-json
@@ -471,7 +467,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>register-certificate</summary>
+- **<details><summary>register-certificate</summary><blockquote>**
 
   * --directory-id
   * --certificate-data
@@ -482,7 +478,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>register-event-topic</summary>
+- **<details><summary>register-event-topic</summary><blockquote>**
 
   * --directory-id
   * --topic-name
@@ -491,7 +487,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>reject-shared-directory</summary>
+- **<details><summary>reject-shared-directory</summary><blockquote>**
 
   * --shared-directory-id
   * --cli-input-json
@@ -499,7 +495,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-ip-routes</summary>
+- **<details><summary>remove-ip-routes</summary><blockquote>**
 
   * --directory-id
   * --cidr-ips
@@ -508,7 +504,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-region</summary>
+- **<details><summary>remove-region</summary><blockquote>**
 
   * --directory-id
   * --cli-input-json
@@ -516,7 +512,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-tags-from-resource</summary>
+- **<details><summary>remove-tags-from-resource</summary><blockquote>**
 
   * --resource-id
   * --tag-keys
@@ -525,7 +521,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-user-password</summary>
+- **<details><summary>reset-user-password</summary><blockquote>**
 
   * --directory-id
   * --user-name
@@ -535,7 +531,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-from-snapshot</summary>
+- **<details><summary>restore-from-snapshot</summary><blockquote>**
 
   * --snapshot-id
   * --cli-input-json
@@ -543,7 +539,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>share-directory</summary>
+- **<details><summary>share-directory</summary><blockquote>**
 
   * --directory-id
   * --share-notes
@@ -554,7 +550,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>start-schema-extension</summary>
+- **<details><summary>start-schema-extension</summary><blockquote>**
 
   * --directory-id
   * --create-snapshot-before-schema-extension
@@ -566,7 +562,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>unshare-directory</summary>
+- **<details><summary>unshare-directory</summary><blockquote>**
 
   * --directory-id
   * --unshare-target
@@ -575,7 +571,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>update-conditional-forwarder</summary>
+- **<details><summary>update-conditional-forwarder</summary><blockquote>**
 
   * --directory-id
   * --remote-domain-name
@@ -585,7 +581,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>update-number-of-domain-controllers</summary>
+- **<details><summary>update-number-of-domain-controllers</summary><blockquote>**
 
   * --directory-id
   * --desired-number
@@ -594,7 +590,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>update-radius</summary>
+- **<details><summary>update-radius</summary><blockquote>**
 
   * --directory-id
   * --radius-settings
@@ -603,7 +599,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>update-trust</summary>
+- **<details><summary>update-trust</summary><blockquote>**
 
   * --trust-id
   * --selective-auth
@@ -612,7 +608,7 @@ ds
   * --generate-cli-skeleton
 
 
-- <details><summary>verify-trust</summary>
+- **<details><summary>verify-trust</summary><blockquote>**
 
   * --trust-id
   * --cli-input-json
@@ -620,5 +616,67 @@ ds
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>sso</summary><blockquote>
 
-<summary>
-sso
-</summary>
-
-- <details><summary>get-role-credentials</summary>
+- **<details><summary>get-role-credentials</summary><blockquote>**
 
   * --role-name
   * --account-id
@@ -14,12 +10,12 @@ sso
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-account-roles</summary>
+- **<details><summary>list-account-roles</summary><blockquote>**
 
   * --access-token
   * --account-id
@@ -31,7 +27,7 @@ sso
   * --generate-cli-skeleton
 
 
-- <details><summary>list-accounts</summary>
+- **<details><summary>list-accounts</summary><blockquote>**
 
   * --access-token
   * --cli-input-json
@@ -42,15 +38,20 @@ sso
   * --generate-cli-skeleton
 
 
-- <details><summary>login</summary>
+- **<details><summary>login</summary><blockquote>**
 
   * 
 
 
-- <details><summary>logout</summary>
+- **<details><summary>logout</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

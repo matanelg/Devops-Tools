@@ -1,10 +1,6 @@
-<details>
+<details><summary>robomaker</summary><blockquote>
 
-<summary>
-robomaker
-</summary>
-
-- <details><summary>batch-delete-worlds</summary>
+- **<details><summary>batch-delete-worlds</summary><blockquote>**
 
   * --worlds
   * --cli-input-json
@@ -12,7 +8,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-describe-simulation-job</summary>
+- **<details><summary>batch-describe-simulation-job</summary><blockquote>**
 
   * --jobs
   * --cli-input-json
@@ -20,7 +16,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-deployment-job</summary>
+- **<details><summary>cancel-deployment-job</summary><blockquote>**
 
   * --job
   * --cli-input-json
@@ -28,7 +24,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-simulation-job</summary>
+- **<details><summary>cancel-simulation-job</summary><blockquote>**
 
   * --job
   * --cli-input-json
@@ -36,7 +32,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-simulation-job-batch</summary>
+- **<details><summary>cancel-simulation-job-batch</summary><blockquote>**
 
   * --batch
   * --cli-input-json
@@ -44,7 +40,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-world-export-job</summary>
+- **<details><summary>cancel-world-export-job</summary><blockquote>**
 
   * --job
   * --cli-input-json
@@ -52,7 +48,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-world-generation-job</summary>
+- **<details><summary>cancel-world-generation-job</summary><blockquote>**
 
   * --job
   * --cli-input-json
@@ -60,7 +56,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>create-deployment-job</summary>
+- **<details><summary>create-deployment-job</summary><blockquote>**
 
   * --deployment-config
   * --client-request-token
@@ -72,7 +68,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>create-fleet</summary>
+- **<details><summary>create-fleet</summary><blockquote>**
 
   * --name
   * --tags
@@ -81,7 +77,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>create-robot</summary>
+- **<details><summary>create-robot</summary><blockquote>**
 
   * --name
   * --architecture
@@ -92,7 +88,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>create-robot-application</summary>
+- **<details><summary>create-robot-application</summary><blockquote>**
 
   * --name
   * --sources
@@ -103,7 +99,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>create-robot-application-version</summary>
+- **<details><summary>create-robot-application-version</summary><blockquote>**
 
   * --application
   * --current-revision-id
@@ -112,7 +108,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>create-simulation-application</summary>
+- **<details><summary>create-simulation-application</summary><blockquote>**
 
   * --name
   * --sources
@@ -125,7 +121,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>create-simulation-application-version</summary>
+- **<details><summary>create-simulation-application-version</summary><blockquote>**
 
   * --application
   * --current-revision-id
@@ -134,7 +130,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>create-simulation-job</summary>
+- **<details><summary>create-simulation-job</summary><blockquote>**
 
   * --client-request-token
   * --output-location
@@ -153,7 +149,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>create-world-export-job</summary>
+- **<details><summary>create-world-export-job</summary><blockquote>**
 
   * --client-request-token
   * --worlds
@@ -165,7 +161,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>create-world-generation-job</summary>
+- **<details><summary>create-world-generation-job</summary><blockquote>**
 
   * --client-request-token
   * --template
@@ -177,7 +173,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>create-world-template</summary>
+- **<details><summary>create-world-template</summary><blockquote>**
 
   * --client-request-token
   * --name
@@ -189,7 +185,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-fleet</summary>
+- **<details><summary>delete-fleet</summary><blockquote>**
 
   * --fleet
   * --cli-input-json
@@ -197,7 +193,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-robot</summary>
+- **<details><summary>delete-robot</summary><blockquote>**
 
   * --robot
   * --cli-input-json
@@ -205,7 +201,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-robot-application</summary>
+- **<details><summary>delete-robot-application</summary><blockquote>**
 
   * --application
   * --application-version
@@ -214,7 +210,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-simulation-application</summary>
+- **<details><summary>delete-simulation-application</summary><blockquote>**
 
   * --application
   * --application-version
@@ -223,7 +219,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-world-template</summary>
+- **<details><summary>delete-world-template</summary><blockquote>**
 
   * --template
   * --cli-input-json
@@ -231,7 +227,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-robot</summary>
+- **<details><summary>deregister-robot</summary><blockquote>**
 
   * --fleet
   * --robot
@@ -240,7 +236,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-deployment-job</summary>
+- **<details><summary>describe-deployment-job</summary><blockquote>**
 
   * --job
   * --cli-input-json
@@ -248,7 +244,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fleet</summary>
+- **<details><summary>describe-fleet</summary><blockquote>**
 
   * --fleet
   * --cli-input-json
@@ -256,7 +252,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-robot</summary>
+- **<details><summary>describe-robot</summary><blockquote>**
 
   * --robot
   * --cli-input-json
@@ -264,7 +260,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-robot-application</summary>
+- **<details><summary>describe-robot-application</summary><blockquote>**
 
   * --application
   * --application-version
@@ -273,7 +269,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-simulation-application</summary>
+- **<details><summary>describe-simulation-application</summary><blockquote>**
 
   * --application
   * --application-version
@@ -282,7 +278,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-simulation-job</summary>
+- **<details><summary>describe-simulation-job</summary><blockquote>**
 
   * --job
   * --cli-input-json
@@ -290,7 +286,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-simulation-job-batch</summary>
+- **<details><summary>describe-simulation-job-batch</summary><blockquote>**
 
   * --batch
   * --cli-input-json
@@ -298,7 +294,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-world</summary>
+- **<details><summary>describe-world</summary><blockquote>**
 
   * --world
   * --cli-input-json
@@ -306,7 +302,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-world-export-job</summary>
+- **<details><summary>describe-world-export-job</summary><blockquote>**
 
   * --job
   * --cli-input-json
@@ -314,7 +310,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-world-generation-job</summary>
+- **<details><summary>describe-world-generation-job</summary><blockquote>**
 
   * --job
   * --cli-input-json
@@ -322,7 +318,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-world-template</summary>
+- **<details><summary>describe-world-template</summary><blockquote>**
 
   * --template
   * --cli-input-json
@@ -330,7 +326,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>get-world-template-body</summary>
+- **<details><summary>get-world-template-body</summary><blockquote>**
 
   * --template
   * --generation-job
@@ -339,12 +335,12 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-deployment-jobs</summary>
+- **<details><summary>list-deployment-jobs</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -355,7 +351,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>list-fleets</summary>
+- **<details><summary>list-fleets</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -366,7 +362,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>list-robot-applications</summary>
+- **<details><summary>list-robot-applications</summary><blockquote>**
 
   * --version-qualifier
   * --filters
@@ -378,7 +374,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>list-robots</summary>
+- **<details><summary>list-robots</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -389,7 +385,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>list-simulation-applications</summary>
+- **<details><summary>list-simulation-applications</summary><blockquote>**
 
   * --version-qualifier
   * --filters
@@ -401,7 +397,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>list-simulation-job-batches</summary>
+- **<details><summary>list-simulation-job-batches</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -412,7 +408,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>list-simulation-jobs</summary>
+- **<details><summary>list-simulation-jobs</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -423,7 +419,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -431,7 +427,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>list-world-export-jobs</summary>
+- **<details><summary>list-world-export-jobs</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -442,7 +438,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>list-world-generation-jobs</summary>
+- **<details><summary>list-world-generation-jobs</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -453,7 +449,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>list-worlds</summary>
+- **<details><summary>list-worlds</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -464,7 +460,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>list-world-templates</summary>
+- **<details><summary>list-world-templates</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -474,7 +470,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>register-robot</summary>
+- **<details><summary>register-robot</summary><blockquote>**
 
   * --fleet
   * --robot
@@ -483,7 +479,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>restart-simulation-job</summary>
+- **<details><summary>restart-simulation-job</summary><blockquote>**
 
   * --job
   * --cli-input-json
@@ -491,7 +487,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>start-simulation-job-batch</summary>
+- **<details><summary>start-simulation-job-batch</summary><blockquote>**
 
   * --client-request-token
   * --batch-policy
@@ -502,7 +498,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>sync-deployment-job</summary>
+- **<details><summary>sync-deployment-job</summary><blockquote>**
 
   * --client-request-token
   * --fleet
@@ -511,7 +507,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -520,7 +516,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -529,7 +525,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>update-robot-application</summary>
+- **<details><summary>update-robot-application</summary><blockquote>**
 
   * --application
   * --sources
@@ -540,7 +536,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>update-simulation-application</summary>
+- **<details><summary>update-simulation-application</summary><blockquote>**
 
   * --application
   * --sources
@@ -553,7 +549,7 @@ robomaker
   * --generate-cli-skeleton
 
 
-- <details><summary>update-world-template</summary>
+- **<details><summary>update-world-template</summary><blockquote>**
 
   * --template
   * --name
@@ -564,5 +560,62 @@ robomaker
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>autoscaling</summary><blockquote>
 
-<summary>
-autoscaling
-</summary>
-
-- <details><summary>attach-instances</summary>
+- **<details><summary>attach-instances</summary><blockquote>**
 
   * --instance-ids
   * --auto-scaling-group-name
@@ -13,7 +9,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-load-balancers</summary>
+- **<details><summary>attach-load-balancers</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --load-balancer-names
@@ -22,7 +18,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-load-balancer-target-groups</summary>
+- **<details><summary>attach-load-balancer-target-groups</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --target-group-arns
@@ -31,7 +27,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-delete-scheduled-action</summary>
+- **<details><summary>batch-delete-scheduled-action</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --scheduled-action-names
@@ -40,7 +36,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-put-scheduled-update-group-action</summary>
+- **<details><summary>batch-put-scheduled-update-group-action</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --scheduled-update-group-actions
@@ -49,7 +45,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-instance-refresh</summary>
+- **<details><summary>cancel-instance-refresh</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --cli-input-json
@@ -57,7 +53,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>complete-lifecycle-action</summary>
+- **<details><summary>complete-lifecycle-action</summary><blockquote>**
 
   * --lifecycle-hook-name
   * --auto-scaling-group-name
@@ -69,7 +65,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>create-auto-scaling-group</summary>
+- **<details><summary>create-auto-scaling-group</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --launch-configuration-name
@@ -102,7 +98,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>create-launch-configuration</summary>
+- **<details><summary>create-launch-configuration</summary><blockquote>**
 
   * --launch-configuration-name
   * --image-id
@@ -130,7 +126,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>create-or-update-tags</summary>
+- **<details><summary>create-or-update-tags</summary><blockquote>**
 
   * --tags
   * --cli-input-json
@@ -138,7 +134,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-auto-scaling-group</summary>
+- **<details><summary>delete-auto-scaling-group</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --force-delete
@@ -148,7 +144,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-launch-configuration</summary>
+- **<details><summary>delete-launch-configuration</summary><blockquote>**
 
   * --launch-configuration-name
   * --cli-input-json
@@ -156,7 +152,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-lifecycle-hook</summary>
+- **<details><summary>delete-lifecycle-hook</summary><blockquote>**
 
   * --lifecycle-hook-name
   * --auto-scaling-group-name
@@ -165,7 +161,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-notification-configuration</summary>
+- **<details><summary>delete-notification-configuration</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --topic-arn
@@ -174,7 +170,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-policy</summary>
+- **<details><summary>delete-policy</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --policy-name
@@ -183,7 +179,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-scheduled-action</summary>
+- **<details><summary>delete-scheduled-action</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --scheduled-action-name
@@ -192,7 +188,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-tags</summary>
+- **<details><summary>delete-tags</summary><blockquote>**
 
   * --tags
   * --cli-input-json
@@ -200,7 +196,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-warm-pool</summary>
+- **<details><summary>delete-warm-pool</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --force-delete
@@ -210,21 +206,21 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-account-limits</summary>
+- **<details><summary>describe-account-limits</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-adjustment-types</summary>
+- **<details><summary>describe-adjustment-types</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-auto-scaling-groups</summary>
+- **<details><summary>describe-auto-scaling-groups</summary><blockquote>**
 
   * --auto-scaling-group-names
   * --cli-input-json
@@ -235,7 +231,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-auto-scaling-instances</summary>
+- **<details><summary>describe-auto-scaling-instances</summary><blockquote>**
 
   * --instance-ids
   * --cli-input-json
@@ -246,14 +242,14 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-auto-scaling-notification-types</summary>
+- **<details><summary>describe-auto-scaling-notification-types</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instance-refreshes</summary>
+- **<details><summary>describe-instance-refreshes</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --instance-refresh-ids
@@ -264,7 +260,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-launch-configurations</summary>
+- **<details><summary>describe-launch-configurations</summary><blockquote>**
 
   * --launch-configuration-names
   * --cli-input-json
@@ -275,7 +271,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-lifecycle-hooks</summary>
+- **<details><summary>describe-lifecycle-hooks</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --lifecycle-hook-names
@@ -284,14 +280,14 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-lifecycle-hook-types</summary>
+- **<details><summary>describe-lifecycle-hook-types</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-load-balancers</summary>
+- **<details><summary>describe-load-balancers</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --cli-input-json
@@ -302,7 +298,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-load-balancer-target-groups</summary>
+- **<details><summary>describe-load-balancer-target-groups</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --cli-input-json
@@ -313,14 +309,14 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-metric-collection-types</summary>
+- **<details><summary>describe-metric-collection-types</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-notification-configurations</summary>
+- **<details><summary>describe-notification-configurations</summary><blockquote>**
 
   * --auto-scaling-group-names
   * --cli-input-json
@@ -331,7 +327,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-policies</summary>
+- **<details><summary>describe-policies</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --policy-names
@@ -344,7 +340,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-scaling-activities</summary>
+- **<details><summary>describe-scaling-activities</summary><blockquote>**
 
   * --activity-ids
   * --auto-scaling-group-name
@@ -358,14 +354,14 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-scaling-process-types</summary>
+- **<details><summary>describe-scaling-process-types</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-scheduled-actions</summary>
+- **<details><summary>describe-scheduled-actions</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --scheduled-action-names
@@ -379,7 +375,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-tags</summary>
+- **<details><summary>describe-tags</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -390,14 +386,14 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-termination-policy-types</summary>
+- **<details><summary>describe-termination-policy-types</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-warm-pool</summary>
+- **<details><summary>describe-warm-pool</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --max-records
@@ -407,7 +403,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-instances</summary>
+- **<details><summary>detach-instances</summary><blockquote>**
 
   * --instance-ids
   * --auto-scaling-group-name
@@ -418,7 +414,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-load-balancers</summary>
+- **<details><summary>detach-load-balancers</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --load-balancer-names
@@ -427,7 +423,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-load-balancer-target-groups</summary>
+- **<details><summary>detach-load-balancer-target-groups</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --target-group-arns
@@ -436,7 +432,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-metrics-collection</summary>
+- **<details><summary>disable-metrics-collection</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --metrics
@@ -445,7 +441,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-metrics-collection</summary>
+- **<details><summary>enable-metrics-collection</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --metrics
@@ -455,7 +451,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>enter-standby</summary>
+- **<details><summary>enter-standby</summary><blockquote>**
 
   * --instance-ids
   * --auto-scaling-group-name
@@ -466,7 +462,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>execute-policy</summary>
+- **<details><summary>execute-policy</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --policy-name
@@ -479,7 +475,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>exit-standby</summary>
+- **<details><summary>exit-standby</summary><blockquote>**
 
   * --instance-ids
   * --auto-scaling-group-name
@@ -488,7 +484,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>get-predictive-scaling-forecast</summary>
+- **<details><summary>get-predictive-scaling-forecast</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --policy-name
@@ -499,12 +495,12 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>put-lifecycle-hook</summary>
+- **<details><summary>put-lifecycle-hook</summary><blockquote>**
 
   * --lifecycle-hook-name
   * --auto-scaling-group-name
@@ -519,7 +515,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>put-notification-configuration</summary>
+- **<details><summary>put-notification-configuration</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --topic-arn
@@ -529,7 +525,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>put-scaling-policy</summary>
+- **<details><summary>put-scaling-policy</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --policy-name
@@ -551,7 +547,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>put-scheduled-update-group-action</summary>
+- **<details><summary>put-scheduled-update-group-action</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --scheduled-action-name
@@ -568,7 +564,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>put-warm-pool</summary>
+- **<details><summary>put-warm-pool</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --max-group-prepared-capacity
@@ -579,7 +575,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>record-lifecycle-action-heartbeat</summary>
+- **<details><summary>record-lifecycle-action-heartbeat</summary><blockquote>**
 
   * --lifecycle-hook-name
   * --auto-scaling-group-name
@@ -590,7 +586,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>resume-processes</summary>
+- **<details><summary>resume-processes</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --scaling-processes
@@ -599,7 +595,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>set-desired-capacity</summary>
+- **<details><summary>set-desired-capacity</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --desired-capacity
@@ -610,7 +606,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>set-instance-health</summary>
+- **<details><summary>set-instance-health</summary><blockquote>**
 
   * --instance-id
   * --health-status
@@ -621,7 +617,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>set-instance-protection</summary>
+- **<details><summary>set-instance-protection</summary><blockquote>**
 
   * --instance-ids
   * --auto-scaling-group-name
@@ -632,7 +628,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>start-instance-refresh</summary>
+- **<details><summary>start-instance-refresh</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --strategy
@@ -642,7 +638,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>suspend-processes</summary>
+- **<details><summary>suspend-processes</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --scaling-processes
@@ -651,7 +647,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>terminate-instance-in-auto-scaling-group</summary>
+- **<details><summary>terminate-instance-in-auto-scaling-group</summary><blockquote>**
 
   * --instance-id
   * --should-decrement-desired-capacity
@@ -661,7 +657,7 @@ autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>update-auto-scaling-group</summary>
+- **<details><summary>update-auto-scaling-group</summary><blockquote>**
 
   * --auto-scaling-group-name
   * --launch-configuration-name
@@ -689,5 +685,66 @@ autoscaling
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

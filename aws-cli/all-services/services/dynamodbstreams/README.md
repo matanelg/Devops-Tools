@@ -1,10 +1,6 @@
-<details>
+<details><summary>dynamodbstreams</summary><blockquote>
 
-<summary>
-dynamodbstreams
-</summary>
-
-- <details><summary>describe-stream</summary>
+- **<details><summary>describe-stream</summary><blockquote>**
 
   * --stream-arn
   * --limit
@@ -14,7 +10,7 @@ dynamodbstreams
   * --generate-cli-skeleton
 
 
-- <details><summary>get-records</summary>
+- **<details><summary>get-records</summary><blockquote>**
 
   * --shard-iterator
   * --limit
@@ -23,7 +19,7 @@ dynamodbstreams
   * --generate-cli-skeleton
 
 
-- <details><summary>get-shard-iterator</summary>
+- **<details><summary>get-shard-iterator</summary><blockquote>**
 
   * --stream-arn
   * --shard-id
@@ -34,12 +30,12 @@ dynamodbstreams
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-streams</summary>
+- **<details><summary>list-streams</summary><blockquote>**
 
   * --table-name
   * --limit
@@ -49,5 +45,9 @@ dynamodbstreams
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

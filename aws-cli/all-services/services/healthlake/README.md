@@ -1,10 +1,6 @@
-<details>
+<details><summary>healthlake</summary><blockquote>
 
-<summary>
-healthlake
-</summary>
-
-- <details><summary>create-fhir-datastore</summary>
+- **<details><summary>create-fhir-datastore</summary><blockquote>**
 
   * --datastore-name
   * --datastore-type-version
@@ -17,7 +13,7 @@ healthlake
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-fhir-datastore</summary>
+- **<details><summary>delete-fhir-datastore</summary><blockquote>**
 
   * --datastore-id
   * --cli-input-json
@@ -25,7 +21,7 @@ healthlake
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fhir-datastore</summary>
+- **<details><summary>describe-fhir-datastore</summary><blockquote>**
 
   * --datastore-id
   * --cli-input-json
@@ -33,16 +29,7 @@ healthlake
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fhir-export-job</summary>
-
-  * --datastore-id
-  * --job-id
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>describe-fhir-import-job</summary>
+- **<details><summary>describe-fhir-export-job</summary><blockquote>**
 
   * --datastore-id
   * --job-id
@@ -51,12 +38,21 @@ healthlake
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>describe-fhir-import-job</summary><blockquote>**
+
+  * --datastore-id
+  * --job-id
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-fhir-datastores</summary>
+- **<details><summary>list-fhir-datastores</summary><blockquote>**
 
   * --filter
   * --next-token
@@ -66,7 +62,7 @@ healthlake
   * --generate-cli-skeleton
 
 
-- <details><summary>list-fhir-export-jobs</summary>
+- **<details><summary>list-fhir-export-jobs</summary><blockquote>**
 
   * --datastore-id
   * --next-token
@@ -80,7 +76,7 @@ healthlake
   * --generate-cli-skeleton
 
 
-- <details><summary>list-fhir-import-jobs</summary>
+- **<details><summary>list-fhir-import-jobs</summary><blockquote>**
 
   * --datastore-id
   * --next-token
@@ -94,7 +90,7 @@ healthlake
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -102,7 +98,7 @@ healthlake
   * --generate-cli-skeleton
 
 
-- <details><summary>start-fhir-export-job</summary>
+- **<details><summary>start-fhir-export-job</summary><blockquote>**
 
   * --job-name
   * --output-data-config
@@ -114,7 +110,7 @@ healthlake
   * --generate-cli-skeleton
 
 
-- <details><summary>start-fhir-import-job</summary>
+- **<details><summary>start-fhir-import-job</summary><blockquote>**
 
   * --job-name
   * --input-data-config
@@ -127,7 +123,7 @@ healthlake
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -136,7 +132,7 @@ healthlake
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -145,5 +141,18 @@ healthlake
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

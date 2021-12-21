@@ -1,10 +1,6 @@
-<details>
+<details><summary>lex-runtime</summary><blockquote>
 
-<summary>
-lex-runtime
-</summary>
-
-- <details><summary>delete-session</summary>
+- **<details><summary>delete-session</summary><blockquote>**
 
   * --bot-name
   * --bot-alias
@@ -14,7 +10,7 @@ lex-runtime
   * --generate-cli-skeleton
 
 
-- <details><summary>get-session</summary>
+- **<details><summary>get-session</summary><blockquote>**
 
   * --bot-name
   * --bot-alias
@@ -25,12 +21,12 @@ lex-runtime
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>post-content</summary>
+- **<details><summary>post-content</summary><blockquote>**
 
   * --bot-name
   * --bot-alias
@@ -43,7 +39,7 @@ lex-runtime
   * --active-contexts
 
 
-- <details><summary>post-text</summary>
+- **<details><summary>post-text</summary><blockquote>**
 
   * --bot-name
   * --bot-alias
@@ -57,7 +53,7 @@ lex-runtime
   * --generate-cli-skeleton
 
 
-- <details><summary>put-session</summary>
+- **<details><summary>put-session</summary><blockquote>**
 
   * --bot-name
   * --bot-alias
@@ -69,5 +65,10 @@ lex-runtime
   * --active-contexts
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

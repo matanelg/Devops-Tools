@@ -1,10 +1,6 @@
-<details>
+<details><summary>compute-optimizer</summary><blockquote>
 
-<summary>
-compute-optimizer
-</summary>
-
-- <details><summary>describe-recommendation-export-jobs</summary>
+- **<details><summary>describe-recommendation-export-jobs</summary><blockquote>**
 
   * --job-ids
   * --filters
@@ -15,7 +11,7 @@ compute-optimizer
   * --generate-cli-skeleton
 
 
-- <details><summary>export-auto-scaling-group-recommendations</summary>
+- **<details><summary>export-auto-scaling-group-recommendations</summary><blockquote>**
 
   * --account-ids
   * --filters
@@ -29,7 +25,7 @@ compute-optimizer
   * --generate-cli-skeleton
 
 
-- <details><summary>export-ebs-volume-recommendations</summary>
+- **<details><summary>export-ebs-volume-recommendations</summary><blockquote>**
 
   * --account-ids
   * --filters
@@ -43,7 +39,7 @@ compute-optimizer
   * --generate-cli-skeleton
 
 
-- <details><summary>export-ec2-instance-recommendations</summary>
+- **<details><summary>export-ec2-instance-recommendations</summary><blockquote>**
 
   * --account-ids
   * --filters
@@ -57,7 +53,7 @@ compute-optimizer
   * --generate-cli-skeleton
 
 
-- <details><summary>export-lambda-function-recommendations</summary>
+- **<details><summary>export-lambda-function-recommendations</summary><blockquote>**
 
   * --account-ids
   * --filters
@@ -71,7 +67,7 @@ compute-optimizer
   * --generate-cli-skeleton
 
 
-- <details><summary>get-auto-scaling-group-recommendations</summary>
+- **<details><summary>get-auto-scaling-group-recommendations</summary><blockquote>**
 
   * --account-ids
   * --auto-scaling-group-arns
@@ -83,7 +79,7 @@ compute-optimizer
   * --generate-cli-skeleton
 
 
-- <details><summary>get-ebs-volume-recommendations</summary>
+- **<details><summary>get-ebs-volume-recommendations</summary><blockquote>**
 
   * --volume-arns
   * --next-token
@@ -95,7 +91,7 @@ compute-optimizer
   * --generate-cli-skeleton
 
 
-- <details><summary>get-ec2-instance-recommendations</summary>
+- **<details><summary>get-ec2-instance-recommendations</summary><blockquote>**
 
   * --instance-arns
   * --next-token
@@ -107,7 +103,7 @@ compute-optimizer
   * --generate-cli-skeleton
 
 
-- <details><summary>get-ec2-recommendation-projected-metrics</summary>
+- **<details><summary>get-ec2-recommendation-projected-metrics</summary><blockquote>**
 
   * --instance-arn
   * --stat
@@ -119,14 +115,14 @@ compute-optimizer
   * --generate-cli-skeleton
 
 
-- <details><summary>get-enrollment-status</summary>
+- **<details><summary>get-enrollment-status</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-lambda-function-recommendations</summary>
+- **<details><summary>get-lambda-function-recommendations</summary><blockquote>**
 
   * --function-arns
   * --account-ids
@@ -138,7 +134,7 @@ compute-optimizer
   * --generate-cli-skeleton
 
 
-- <details><summary>get-recommendation-summaries</summary>
+- **<details><summary>get-recommendation-summaries</summary><blockquote>**
 
   * --account-ids
   * --next-token
@@ -148,12 +144,12 @@ compute-optimizer
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>update-enrollment-status</summary>
+- **<details><summary>update-enrollment-status</summary><blockquote>**
 
   * --status
   * --include-member-accounts
@@ -163,5 +159,18 @@ compute-optimizer
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

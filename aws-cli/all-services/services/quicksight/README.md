@@ -1,10 +1,6 @@
-<details>
+<details><summary>quicksight</summary><blockquote>
 
-<summary>
-quicksight
-</summary>
-
-- <details><summary>cancel-ingestion</summary>
+- **<details><summary>cancel-ingestion</summary><blockquote>**
 
   * --aws-account-id
   * --data-set-id
@@ -14,7 +10,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>create-account-customization</summary>
+- **<details><summary>create-account-customization</summary><blockquote>**
 
   * --aws-account-id
   * --namespace
@@ -25,7 +21,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>create-analysis</summary>
+- **<details><summary>create-analysis</summary><blockquote>**
 
   * --aws-account-id
   * --analysis-id
@@ -40,7 +36,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>create-dashboard</summary>
+- **<details><summary>create-dashboard</summary><blockquote>**
 
   * --aws-account-id
   * --dashboard-id
@@ -57,7 +53,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>create-data-set</summary>
+- **<details><summary>create-data-set</summary><blockquote>**
 
   * --aws-account-id
   * --data-set-id
@@ -76,7 +72,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>create-data-source</summary>
+- **<details><summary>create-data-source</summary><blockquote>**
 
   * --aws-account-id
   * --data-source-id
@@ -93,7 +89,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>create-folder</summary>
+- **<details><summary>create-folder</summary><blockquote>**
 
   * --aws-account-id
   * --folder-id
@@ -107,7 +103,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>create-folder-membership</summary>
+- **<details><summary>create-folder-membership</summary><blockquote>**
 
   * --aws-account-id
   * --folder-id
@@ -118,7 +114,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>create-group</summary>
+- **<details><summary>create-group</summary><blockquote>**
 
   * --group-name
   * --description
@@ -129,7 +125,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>create-group-membership</summary>
+- **<details><summary>create-group-membership</summary><blockquote>**
 
   * --member-name
   * --group-name
@@ -140,7 +136,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>create-iam-policy-assignment</summary>
+- **<details><summary>create-iam-policy-assignment</summary><blockquote>**
 
   * --aws-account-id
   * --assignment-name
@@ -153,7 +149,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>create-ingestion</summary>
+- **<details><summary>create-ingestion</summary><blockquote>**
 
   * --data-set-id
   * --ingestion-id
@@ -163,7 +159,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>create-namespace</summary>
+- **<details><summary>create-namespace</summary><blockquote>**
 
   * --aws-account-id
   * --namespace
@@ -174,7 +170,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>create-template</summary>
+- **<details><summary>create-template</summary><blockquote>**
 
   * --aws-account-id
   * --template-id
@@ -188,7 +184,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>create-template-alias</summary>
+- **<details><summary>create-template-alias</summary><blockquote>**
 
   * --aws-account-id
   * --template-id
@@ -199,7 +195,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>create-theme</summary>
+- **<details><summary>create-theme</summary><blockquote>**
 
   * --aws-account-id
   * --theme-id
@@ -214,7 +210,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>create-theme-alias</summary>
+- **<details><summary>create-theme-alias</summary><blockquote>**
 
   * --aws-account-id
   * --theme-id
@@ -225,7 +221,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-account-customization</summary>
+- **<details><summary>delete-account-customization</summary><blockquote>**
 
   * --aws-account-id
   * --namespace
@@ -234,7 +230,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-analysis</summary>
+- **<details><summary>delete-analysis</summary><blockquote>**
 
   * --aws-account-id
   * --analysis-id
@@ -246,7 +242,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-dashboard</summary>
+- **<details><summary>delete-dashboard</summary><blockquote>**
 
   * --aws-account-id
   * --dashboard-id
@@ -256,7 +252,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-data-set</summary>
+- **<details><summary>delete-data-set</summary><blockquote>**
 
   * --aws-account-id
   * --data-set-id
@@ -265,7 +261,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-data-source</summary>
+- **<details><summary>delete-data-source</summary><blockquote>**
 
   * --aws-account-id
   * --data-source-id
@@ -274,7 +270,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-folder</summary>
+- **<details><summary>delete-folder</summary><blockquote>**
 
   * --aws-account-id
   * --folder-id
@@ -283,7 +279,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-folder-membership</summary>
+- **<details><summary>delete-folder-membership</summary><blockquote>**
 
   * --aws-account-id
   * --folder-id
@@ -294,7 +290,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-group</summary>
+- **<details><summary>delete-group</summary><blockquote>**
 
   * --group-name
   * --aws-account-id
@@ -304,7 +300,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-group-membership</summary>
+- **<details><summary>delete-group-membership</summary><blockquote>**
 
   * --member-name
   * --group-name
@@ -315,7 +311,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-iam-policy-assignment</summary>
+- **<details><summary>delete-iam-policy-assignment</summary><blockquote>**
 
   * --aws-account-id
   * --assignment-name
@@ -325,7 +321,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-namespace</summary>
+- **<details><summary>delete-namespace</summary><blockquote>**
 
   * --aws-account-id
   * --namespace
@@ -334,7 +330,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-template</summary>
+- **<details><summary>delete-template</summary><blockquote>**
 
   * --aws-account-id
   * --template-id
@@ -344,7 +340,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-template-alias</summary>
+- **<details><summary>delete-template-alias</summary><blockquote>**
 
   * --aws-account-id
   * --template-id
@@ -354,7 +350,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-theme</summary>
+- **<details><summary>delete-theme</summary><blockquote>**
 
   * --aws-account-id
   * --theme-id
@@ -364,7 +360,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-theme-alias</summary>
+- **<details><summary>delete-theme-alias</summary><blockquote>**
 
   * --aws-account-id
   * --theme-id
@@ -374,7 +370,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user</summary>
+- **<details><summary>delete-user</summary><blockquote>**
 
   * --user-name
   * --aws-account-id
@@ -384,7 +380,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user-by-principal-id</summary>
+- **<details><summary>delete-user-by-principal-id</summary><blockquote>**
 
   * --principal-id
   * --aws-account-id
@@ -394,7 +390,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-account-customization</summary>
+- **<details><summary>describe-account-customization</summary><blockquote>**
 
   * --aws-account-id
   * --namespace
@@ -405,7 +401,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-account-settings</summary>
+- **<details><summary>describe-account-settings</summary><blockquote>**
 
   * --aws-account-id
   * --cli-input-json
@@ -413,16 +409,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-analysis</summary>
-
-  * --aws-account-id
-  * --analysis-id
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>describe-analysis-permissions</summary>
+- **<details><summary>describe-analysis</summary><blockquote>**
 
   * --aws-account-id
   * --analysis-id
@@ -431,7 +418,16 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-dashboard</summary>
+- **<details><summary>describe-analysis-permissions</summary><blockquote>**
+
+  * --aws-account-id
+  * --analysis-id
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>describe-dashboard</summary><blockquote>**
 
   * --aws-account-id
   * --dashboard-id
@@ -442,7 +438,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-dashboard-permissions</summary>
+- **<details><summary>describe-dashboard-permissions</summary><blockquote>**
 
   * --aws-account-id
   * --dashboard-id
@@ -451,7 +447,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-data-set</summary>
+- **<details><summary>describe-data-set</summary><blockquote>**
 
   * --aws-account-id
   * --data-set-id
@@ -460,7 +456,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-data-set-permissions</summary>
+- **<details><summary>describe-data-set-permissions</summary><blockquote>**
 
   * --aws-account-id
   * --data-set-id
@@ -469,7 +465,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-data-source</summary>
+- **<details><summary>describe-data-source</summary><blockquote>**
 
   * --aws-account-id
   * --data-source-id
@@ -478,7 +474,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-data-source-permissions</summary>
+- **<details><summary>describe-data-source-permissions</summary><blockquote>**
 
   * --aws-account-id
   * --data-source-id
@@ -487,7 +483,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-folder</summary>
+- **<details><summary>describe-folder</summary><blockquote>**
 
   * --aws-account-id
   * --folder-id
@@ -496,7 +492,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-folder-permissions</summary>
+- **<details><summary>describe-folder-permissions</summary><blockquote>**
 
   * --aws-account-id
   * --folder-id
@@ -505,7 +501,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-folder-resolved-permissions</summary>
+- **<details><summary>describe-folder-resolved-permissions</summary><blockquote>**
 
   * --aws-account-id
   * --folder-id
@@ -514,7 +510,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-group</summary>
+- **<details><summary>describe-group</summary><blockquote>**
 
   * --group-name
   * --aws-account-id
@@ -524,7 +520,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-iam-policy-assignment</summary>
+- **<details><summary>describe-iam-policy-assignment</summary><blockquote>**
 
   * --aws-account-id
   * --assignment-name
@@ -534,7 +530,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-ingestion</summary>
+- **<details><summary>describe-ingestion</summary><blockquote>**
 
   * --aws-account-id
   * --data-set-id
@@ -544,7 +540,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-namespace</summary>
+- **<details><summary>describe-namespace</summary><blockquote>**
 
   * --aws-account-id
   * --namespace
@@ -553,7 +549,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-template</summary>
+- **<details><summary>describe-template</summary><blockquote>**
 
   * --aws-account-id
   * --template-id
@@ -564,7 +560,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-template-alias</summary>
+- **<details><summary>describe-template-alias</summary><blockquote>**
 
   * --aws-account-id
   * --template-id
@@ -574,7 +570,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-template-permissions</summary>
+- **<details><summary>describe-template-permissions</summary><blockquote>**
 
   * --aws-account-id
   * --template-id
@@ -583,7 +579,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-theme</summary>
+- **<details><summary>describe-theme</summary><blockquote>**
 
   * --aws-account-id
   * --theme-id
@@ -594,7 +590,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-theme-alias</summary>
+- **<details><summary>describe-theme-alias</summary><blockquote>**
 
   * --aws-account-id
   * --theme-id
@@ -604,7 +600,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-theme-permissions</summary>
+- **<details><summary>describe-theme-permissions</summary><blockquote>**
 
   * --aws-account-id
   * --theme-id
@@ -613,7 +609,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-user</summary>
+- **<details><summary>describe-user</summary><blockquote>**
 
   * --user-name
   * --aws-account-id
@@ -623,7 +619,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>get-dashboard-embed-url</summary>
+- **<details><summary>get-dashboard-embed-url</summary><blockquote>**
 
   * --aws-account-id
   * --dashboard-id
@@ -643,7 +639,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>get-session-embed-url</summary>
+- **<details><summary>get-session-embed-url</summary><blockquote>**
 
   * --aws-account-id
   * --entry-point
@@ -654,12 +650,12 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-analyses</summary>
+- **<details><summary>list-analyses</summary><blockquote>**
 
   * --aws-account-id
   * --cli-input-json
@@ -670,7 +666,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-dashboards</summary>
+- **<details><summary>list-dashboards</summary><blockquote>**
 
   * --aws-account-id
   * --cli-input-json
@@ -681,7 +677,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-dashboard-versions</summary>
+- **<details><summary>list-dashboard-versions</summary><blockquote>**
 
   * --aws-account-id
   * --dashboard-id
@@ -693,7 +689,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-data-sets</summary>
+- **<details><summary>list-data-sets</summary><blockquote>**
 
   * --aws-account-id
   * --cli-input-json
@@ -704,7 +700,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-data-sources</summary>
+- **<details><summary>list-data-sources</summary><blockquote>**
 
   * --aws-account-id
   * --cli-input-json
@@ -715,7 +711,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-folder-members</summary>
+- **<details><summary>list-folder-members</summary><blockquote>**
 
   * --aws-account-id
   * --folder-id
@@ -726,7 +722,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-folders</summary>
+- **<details><summary>list-folders</summary><blockquote>**
 
   * --aws-account-id
   * --next-token
@@ -736,7 +732,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-group-memberships</summary>
+- **<details><summary>list-group-memberships</summary><blockquote>**
 
   * --group-name
   * --next-token
@@ -748,7 +744,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-groups</summary>
+- **<details><summary>list-groups</summary><blockquote>**
 
   * --aws-account-id
   * --next-token
@@ -759,7 +755,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-iam-policy-assignments</summary>
+- **<details><summary>list-iam-policy-assignments</summary><blockquote>**
 
   * --aws-account-id
   * --assignment-status
@@ -771,7 +767,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-iam-policy-assignments-for-user</summary>
+- **<details><summary>list-iam-policy-assignments-for-user</summary><blockquote>**
 
   * --aws-account-id
   * --user-name
@@ -783,7 +779,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-ingestions</summary>
+- **<details><summary>list-ingestions</summary><blockquote>**
 
   * --data-set-id
   * --aws-account-id
@@ -795,7 +791,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-namespaces</summary>
+- **<details><summary>list-namespaces</summary><blockquote>**
 
   * --aws-account-id
   * --cli-input-json
@@ -806,7 +802,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -814,7 +810,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-template-aliases</summary>
+- **<details><summary>list-template-aliases</summary><blockquote>**
 
   * --aws-account-id
   * --template-id
@@ -826,7 +822,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-templates</summary>
+- **<details><summary>list-templates</summary><blockquote>**
 
   * --aws-account-id
   * --cli-input-json
@@ -837,7 +833,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-template-versions</summary>
+- **<details><summary>list-template-versions</summary><blockquote>**
 
   * --aws-account-id
   * --template-id
@@ -849,7 +845,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-theme-aliases</summary>
+- **<details><summary>list-theme-aliases</summary><blockquote>**
 
   * --aws-account-id
   * --theme-id
@@ -860,7 +856,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-themes</summary>
+- **<details><summary>list-themes</summary><blockquote>**
 
   * --aws-account-id
   * --type
@@ -872,7 +868,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-theme-versions</summary>
+- **<details><summary>list-theme-versions</summary><blockquote>**
 
   * --aws-account-id
   * --theme-id
@@ -884,7 +880,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-user-groups</summary>
+- **<details><summary>list-user-groups</summary><blockquote>**
 
   * --user-name
   * --aws-account-id
@@ -896,7 +892,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>list-users</summary>
+- **<details><summary>list-users</summary><blockquote>**
 
   * --aws-account-id
   * --next-token
@@ -907,7 +903,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>register-user</summary>
+- **<details><summary>register-user</summary><blockquote>**
 
   * --identity-type
   * --email
@@ -926,7 +922,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-analysis</summary>
+- **<details><summary>restore-analysis</summary><blockquote>**
 
   * --aws-account-id
   * --analysis-id
@@ -935,7 +931,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>search-analyses</summary>
+- **<details><summary>search-analyses</summary><blockquote>**
 
   * --aws-account-id
   * --filters
@@ -947,7 +943,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>search-dashboards</summary>
+- **<details><summary>search-dashboards</summary><blockquote>**
 
   * --aws-account-id
   * --filters
@@ -959,7 +955,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>search-folders</summary>
+- **<details><summary>search-folders</summary><blockquote>**
 
   * --aws-account-id
   * --filters
@@ -970,7 +966,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -979,7 +975,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -988,7 +984,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-account-customization</summary>
+- **<details><summary>update-account-customization</summary><blockquote>**
 
   * --aws-account-id
   * --namespace
@@ -998,7 +994,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-account-settings</summary>
+- **<details><summary>update-account-settings</summary><blockquote>**
 
   * --aws-account-id
   * --default-namespace
@@ -1008,7 +1004,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-analysis</summary>
+- **<details><summary>update-analysis</summary><blockquote>**
 
   * --aws-account-id
   * --analysis-id
@@ -1021,7 +1017,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-analysis-permissions</summary>
+- **<details><summary>update-analysis-permissions</summary><blockquote>**
 
   * --aws-account-id
   * --analysis-id
@@ -1032,7 +1028,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-dashboard</summary>
+- **<details><summary>update-dashboard</summary><blockquote>**
 
   * --aws-account-id
   * --dashboard-id
@@ -1047,7 +1043,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-dashboard-permissions</summary>
+- **<details><summary>update-dashboard-permissions</summary><blockquote>**
 
   * --aws-account-id
   * --dashboard-id
@@ -1058,7 +1054,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-dashboard-published-version</summary>
+- **<details><summary>update-dashboard-published-version</summary><blockquote>**
 
   * --aws-account-id
   * --dashboard-id
@@ -1068,7 +1064,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-data-set</summary>
+- **<details><summary>update-data-set</summary><blockquote>**
 
   * --aws-account-id
   * --data-set-id
@@ -1085,7 +1081,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-data-set-permissions</summary>
+- **<details><summary>update-data-set-permissions</summary><blockquote>**
 
   * --aws-account-id
   * --data-set-id
@@ -1096,7 +1092,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-data-source</summary>
+- **<details><summary>update-data-source</summary><blockquote>**
 
   * --aws-account-id
   * --data-source-id
@@ -1110,7 +1106,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-data-source-permissions</summary>
+- **<details><summary>update-data-source-permissions</summary><blockquote>**
 
   * --aws-account-id
   * --data-source-id
@@ -1121,7 +1117,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-folder</summary>
+- **<details><summary>update-folder</summary><blockquote>**
 
   * --aws-account-id
   * --folder-id
@@ -1131,7 +1127,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-folder-permissions</summary>
+- **<details><summary>update-folder-permissions</summary><blockquote>**
 
   * --aws-account-id
   * --folder-id
@@ -1142,7 +1138,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-group</summary>
+- **<details><summary>update-group</summary><blockquote>**
 
   * --group-name
   * --description
@@ -1153,7 +1149,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-iam-policy-assignment</summary>
+- **<details><summary>update-iam-policy-assignment</summary><blockquote>**
 
   * --aws-account-id
   * --assignment-name
@@ -1166,7 +1162,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-template</summary>
+- **<details><summary>update-template</summary><blockquote>**
 
   * --aws-account-id
   * --template-id
@@ -1178,7 +1174,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-template-alias</summary>
+- **<details><summary>update-template-alias</summary><blockquote>**
 
   * --aws-account-id
   * --template-id
@@ -1189,7 +1185,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-template-permissions</summary>
+- **<details><summary>update-template-permissions</summary><blockquote>**
 
   * --aws-account-id
   * --template-id
@@ -1200,7 +1196,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-theme</summary>
+- **<details><summary>update-theme</summary><blockquote>**
 
   * --aws-account-id
   * --theme-id
@@ -1213,7 +1209,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-theme-alias</summary>
+- **<details><summary>update-theme-alias</summary><blockquote>**
 
   * --aws-account-id
   * --theme-id
@@ -1224,7 +1220,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-theme-permissions</summary>
+- **<details><summary>update-theme-permissions</summary><blockquote>**
 
   * --aws-account-id
   * --theme-id
@@ -1235,7 +1231,7 @@ quicksight
   * --generate-cli-skeleton
 
 
-- <details><summary>update-user</summary>
+- **<details><summary>update-user</summary><blockquote>**
 
   * --user-name
   * --aws-account-id
@@ -1253,5 +1249,116 @@ quicksight
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>acm-pca</summary><blockquote>
 
-<summary>
-acm-pca
-</summary>
-
-- <details><summary>create-certificate-authority</summary>
+- **<details><summary>create-certificate-authority</summary><blockquote>**
 
   * --certificate-authority-configuration
   * --revocation-configuration
@@ -17,7 +13,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>create-certificate-authority-audit-report</summary>
+- **<details><summary>create-certificate-authority-audit-report</summary><blockquote>**
 
   * --certificate-authority-arn
   * --s3-bucket-name
@@ -27,7 +23,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>create-permission</summary>
+- **<details><summary>create-permission</summary><blockquote>**
 
   * --certificate-authority-arn
   * --principal
@@ -38,7 +34,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-certificate-authority</summary>
+- **<details><summary>delete-certificate-authority</summary><blockquote>**
 
   * --certificate-authority-arn
   * --permanent-deletion-time-in-days
@@ -47,7 +43,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-permission</summary>
+- **<details><summary>delete-permission</summary><blockquote>**
 
   * --certificate-authority-arn
   * --principal
@@ -57,7 +53,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-policy</summary>
+- **<details><summary>delete-policy</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -65,7 +61,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-certificate-authority</summary>
+- **<details><summary>describe-certificate-authority</summary><blockquote>**
 
   * --certificate-authority-arn
   * --cli-input-json
@@ -73,7 +69,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-certificate-authority-audit-report</summary>
+- **<details><summary>describe-certificate-authority-audit-report</summary><blockquote>**
 
   * --certificate-authority-arn
   * --audit-report-id
@@ -82,7 +78,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>get-certificate</summary>
+- **<details><summary>get-certificate</summary><blockquote>**
 
   * --certificate-authority-arn
   * --certificate-arn
@@ -91,7 +87,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>get-certificate-authority-certificate</summary>
+- **<details><summary>get-certificate-authority-certificate</summary><blockquote>**
 
   * --certificate-authority-arn
   * --cli-input-json
@@ -99,7 +95,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>get-certificate-authority-csr</summary>
+- **<details><summary>get-certificate-authority-csr</summary><blockquote>**
 
   * --certificate-authority-arn
   * --cli-input-json
@@ -107,7 +103,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>get-policy</summary>
+- **<details><summary>get-policy</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -115,12 +111,12 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>import-certificate-authority-certificate</summary>
+- **<details><summary>import-certificate-authority-certificate</summary><blockquote>**
 
   * --certificate-authority-arn
   * --certificate
@@ -130,7 +126,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>issue-certificate</summary>
+- **<details><summary>issue-certificate</summary><blockquote>**
 
   * --api-passthrough
   * --certificate-authority-arn
@@ -145,7 +141,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>list-certificate-authorities</summary>
+- **<details><summary>list-certificate-authorities</summary><blockquote>**
 
   * --resource-owner
   * --cli-input-json
@@ -156,7 +152,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>list-permissions</summary>
+- **<details><summary>list-permissions</summary><blockquote>**
 
   * --certificate-authority-arn
   * --cli-input-json
@@ -167,7 +163,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags</summary>
+- **<details><summary>list-tags</summary><blockquote>**
 
   * --certificate-authority-arn
   * --cli-input-json
@@ -178,7 +174,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>put-policy</summary>
+- **<details><summary>put-policy</summary><blockquote>**
 
   * --resource-arn
   * --policy
@@ -187,7 +183,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-certificate-authority</summary>
+- **<details><summary>restore-certificate-authority</summary><blockquote>**
 
   * --certificate-authority-arn
   * --cli-input-json
@@ -195,7 +191,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>revoke-certificate</summary>
+- **<details><summary>revoke-certificate</summary><blockquote>**
 
   * --certificate-authority-arn
   * --certificate-serial
@@ -205,7 +201,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-certificate-authority</summary>
+- **<details><summary>tag-certificate-authority</summary><blockquote>**
 
   * --certificate-authority-arn
   * --tags
@@ -214,7 +210,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-certificate-authority</summary>
+- **<details><summary>untag-certificate-authority</summary><blockquote>**
 
   * --certificate-authority-arn
   * --tags
@@ -223,7 +219,7 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>update-certificate-authority</summary>
+- **<details><summary>update-certificate-authority</summary><blockquote>**
 
   * --certificate-authority-arn
   * --revocation-configuration
@@ -233,10 +229,34 @@ acm-pca
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

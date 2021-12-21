@@ -1,10 +1,6 @@
-<details>
+<details><summary>iotanalytics</summary><blockquote>
 
-<summary>
-iotanalytics
-</summary>
-
-- <details><summary>batch-put-message</summary>
+- **<details><summary>batch-put-message</summary><blockquote>**
 
   * --channel-name
   * --messages
@@ -13,7 +9,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-pipeline-reprocessing</summary>
+- **<details><summary>cancel-pipeline-reprocessing</summary><blockquote>**
 
   * --pipeline-name
   * --reprocessing-id
@@ -22,7 +18,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>create-channel</summary>
+- **<details><summary>create-channel</summary><blockquote>**
 
   * --channel-name
   * --channel-storage
@@ -33,7 +29,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>create-dataset</summary>
+- **<details><summary>create-dataset</summary><blockquote>**
 
   * --dataset-name
   * --actions
@@ -48,7 +44,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>create-dataset-content</summary>
+- **<details><summary>create-dataset-content</summary><blockquote>**
 
   * --dataset-name
   * --version-id
@@ -57,7 +53,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>create-datastore</summary>
+- **<details><summary>create-datastore</summary><blockquote>**
 
   * --datastore-name
   * --datastore-storage
@@ -70,7 +66,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>create-pipeline</summary>
+- **<details><summary>create-pipeline</summary><blockquote>**
 
   * --pipeline-name
   * --pipeline-activities
@@ -80,7 +76,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-channel</summary>
+- **<details><summary>delete-channel</summary><blockquote>**
 
   * --channel-name
   * --cli-input-json
@@ -88,7 +84,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-dataset</summary>
+- **<details><summary>delete-dataset</summary><blockquote>**
 
   * --dataset-name
   * --cli-input-json
@@ -96,7 +92,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-dataset-content</summary>
+- **<details><summary>delete-dataset-content</summary><blockquote>**
 
   * --dataset-name
   * --version-id
@@ -105,7 +101,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-datastore</summary>
+- **<details><summary>delete-datastore</summary><blockquote>**
 
   * --datastore-name
   * --cli-input-json
@@ -113,7 +109,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-pipeline</summary>
+- **<details><summary>delete-pipeline</summary><blockquote>**
 
   * --pipeline-name
   * --cli-input-json
@@ -121,7 +117,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-channel</summary>
+- **<details><summary>describe-channel</summary><blockquote>**
 
   * --channel-name
   * --include-statistics
@@ -131,7 +127,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-dataset</summary>
+- **<details><summary>describe-dataset</summary><blockquote>**
 
   * --dataset-name
   * --cli-input-json
@@ -139,7 +135,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-datastore</summary>
+- **<details><summary>describe-datastore</summary><blockquote>**
 
   * --datastore-name
   * --include-statistics
@@ -149,14 +145,14 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-logging-options</summary>
+- **<details><summary>describe-logging-options</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-pipeline</summary>
+- **<details><summary>describe-pipeline</summary><blockquote>**
 
   * --pipeline-name
   * --cli-input-json
@@ -164,7 +160,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>get-dataset-content</summary>
+- **<details><summary>get-dataset-content</summary><blockquote>**
 
   * --dataset-name
   * --version-id
@@ -173,12 +169,12 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-channels</summary>
+- **<details><summary>list-channels</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -188,7 +184,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>list-dataset-contents</summary>
+- **<details><summary>list-dataset-contents</summary><blockquote>**
 
   * --dataset-name
   * --scheduled-on-or-after
@@ -201,7 +197,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>list-datasets</summary>
+- **<details><summary>list-datasets</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -211,7 +207,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>list-datastores</summary>
+- **<details><summary>list-datastores</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -221,7 +217,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>list-pipelines</summary>
+- **<details><summary>list-pipelines</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -231,7 +227,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -239,7 +235,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>put-logging-options</summary>
+- **<details><summary>put-logging-options</summary><blockquote>**
 
   * --logging-options
   * --cli-input-json
@@ -247,7 +243,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>run-pipeline-activity</summary>
+- **<details><summary>run-pipeline-activity</summary><blockquote>**
 
   * --pipeline-activity
   * --payloads
@@ -256,7 +252,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>sample-channel-data</summary>
+- **<details><summary>sample-channel-data</summary><blockquote>**
 
   * --channel-name
   * --max-messages
@@ -267,7 +263,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>start-pipeline-reprocessing</summary>
+- **<details><summary>start-pipeline-reprocessing</summary><blockquote>**
 
   * --pipeline-name
   * --start-time
@@ -278,7 +274,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -287,7 +283,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -296,7 +292,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>update-channel</summary>
+- **<details><summary>update-channel</summary><blockquote>**
 
   * --channel-name
   * --channel-storage
@@ -306,7 +302,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>update-dataset</summary>
+- **<details><summary>update-dataset</summary><blockquote>**
 
   * --dataset-name
   * --actions
@@ -320,7 +316,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>update-datastore</summary>
+- **<details><summary>update-datastore</summary><blockquote>**
 
   * --datastore-name
   * --retention-period
@@ -331,7 +327,7 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-- <details><summary>update-pipeline</summary>
+- **<details><summary>update-pipeline</summary><blockquote>**
 
   * --pipeline-name
   * --pipeline-activities
@@ -340,5 +336,39 @@ iotanalytics
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

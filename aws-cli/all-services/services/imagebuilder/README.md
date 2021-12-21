@@ -1,10 +1,6 @@
-<details>
+<details><summary>imagebuilder</summary><blockquote>
 
-<summary>
-imagebuilder
-</summary>
-
-- <details><summary>cancel-image-creation</summary>
+- **<details><summary>cancel-image-creation</summary><blockquote>**
 
   * --image-build-version-arn
   * --client-token
@@ -13,7 +9,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>create-component</summary>
+- **<details><summary>create-component</summary><blockquote>**
 
   * --name
   * --semantic-version
@@ -31,7 +27,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>create-container-recipe</summary>
+- **<details><summary>create-container-recipe</summary><blockquote>**
 
   * --container-type
   * --name
@@ -54,7 +50,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>create-distribution-configuration</summary>
+- **<details><summary>create-distribution-configuration</summary><blockquote>**
 
   * --name
   * --description
@@ -66,7 +62,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>create-image</summary>
+- **<details><summary>create-image</summary><blockquote>**
 
   * --image-recipe-arn
   * --container-recipe-arn
@@ -82,7 +78,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>create-image-pipeline</summary>
+- **<details><summary>create-image-pipeline</summary><blockquote>**
 
   * --name
   * --description
@@ -102,7 +98,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>create-image-recipe</summary>
+- **<details><summary>create-image-recipe</summary><blockquote>**
 
   * --name
   * --description
@@ -119,7 +115,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>create-infrastructure-configuration</summary>
+- **<details><summary>create-infrastructure-configuration</summary><blockquote>**
 
   * --name
   * --description
@@ -140,7 +136,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-component</summary>
+- **<details><summary>delete-component</summary><blockquote>**
 
   * --component-build-version-arn
   * --cli-input-json
@@ -148,7 +144,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-container-recipe</summary>
+- **<details><summary>delete-container-recipe</summary><blockquote>**
 
   * --container-recipe-arn
   * --cli-input-json
@@ -156,7 +152,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-distribution-configuration</summary>
+- **<details><summary>delete-distribution-configuration</summary><blockquote>**
 
   * --distribution-configuration-arn
   * --cli-input-json
@@ -164,7 +160,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-image</summary>
+- **<details><summary>delete-image</summary><blockquote>**
 
   * --image-build-version-arn
   * --cli-input-json
@@ -172,7 +168,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-image-pipeline</summary>
+- **<details><summary>delete-image-pipeline</summary><blockquote>**
 
   * --image-pipeline-arn
   * --cli-input-json
@@ -180,7 +176,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-image-recipe</summary>
+- **<details><summary>delete-image-recipe</summary><blockquote>**
 
   * --image-recipe-arn
   * --cli-input-json
@@ -188,7 +184,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-infrastructure-configuration</summary>
+- **<details><summary>delete-infrastructure-configuration</summary><blockquote>**
 
   * --infrastructure-configuration-arn
   * --cli-input-json
@@ -196,7 +192,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>get-component</summary>
+- **<details><summary>get-component</summary><blockquote>**
 
   * --component-build-version-arn
   * --cli-input-json
@@ -204,7 +200,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>get-component-policy</summary>
+- **<details><summary>get-component-policy</summary><blockquote>**
 
   * --component-arn
   * --cli-input-json
@@ -212,7 +208,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>get-container-recipe</summary>
+- **<details><summary>get-container-recipe</summary><blockquote>**
 
   * --container-recipe-arn
   * --cli-input-json
@@ -220,7 +216,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>get-container-recipe-policy</summary>
+- **<details><summary>get-container-recipe-policy</summary><blockquote>**
 
   * --container-recipe-arn
   * --cli-input-json
@@ -228,7 +224,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>get-distribution-configuration</summary>
+- **<details><summary>get-distribution-configuration</summary><blockquote>**
 
   * --distribution-configuration-arn
   * --cli-input-json
@@ -236,7 +232,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>get-image</summary>
+- **<details><summary>get-image</summary><blockquote>**
 
   * --image-build-version-arn
   * --cli-input-json
@@ -244,7 +240,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>get-image-pipeline</summary>
+- **<details><summary>get-image-pipeline</summary><blockquote>**
 
   * --image-pipeline-arn
   * --cli-input-json
@@ -252,7 +248,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>get-image-policy</summary>
+- **<details><summary>get-image-policy</summary><blockquote>**
 
   * --image-arn
   * --cli-input-json
@@ -260,7 +256,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>get-image-recipe</summary>
+- **<details><summary>get-image-recipe</summary><blockquote>**
 
   * --image-recipe-arn
   * --cli-input-json
@@ -268,7 +264,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>get-image-recipe-policy</summary>
+- **<details><summary>get-image-recipe-policy</summary><blockquote>**
 
   * --image-recipe-arn
   * --cli-input-json
@@ -276,7 +272,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>get-infrastructure-configuration</summary>
+- **<details><summary>get-infrastructure-configuration</summary><blockquote>**
 
   * --infrastructure-configuration-arn
   * --cli-input-json
@@ -284,12 +280,12 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>import-component</summary>
+- **<details><summary>import-component</summary><blockquote>**
 
   * --name
   * --semantic-version
@@ -308,7 +304,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>list-component-build-versions</summary>
+- **<details><summary>list-component-build-versions</summary><blockquote>**
 
   * --component-version-arn
   * --max-results
@@ -318,7 +314,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>list-components</summary>
+- **<details><summary>list-components</summary><blockquote>**
 
   * --owner
   * --filters
@@ -331,7 +327,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>list-container-recipes</summary>
+- **<details><summary>list-container-recipes</summary><blockquote>**
 
   * --owner
   * --filters
@@ -342,7 +338,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>list-distribution-configurations</summary>
+- **<details><summary>list-distribution-configurations</summary><blockquote>**
 
   * --filters
   * --max-results
@@ -352,7 +348,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>list-image-build-versions</summary>
+- **<details><summary>list-image-build-versions</summary><blockquote>**
 
   * --image-version-arn
   * --filters
@@ -363,7 +359,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>list-image-packages</summary>
+- **<details><summary>list-image-packages</summary><blockquote>**
 
   * --image-build-version-arn
   * --max-results
@@ -373,7 +369,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>list-image-pipeline-images</summary>
+- **<details><summary>list-image-pipeline-images</summary><blockquote>**
 
   * --image-pipeline-arn
   * --filters
@@ -384,7 +380,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>list-image-pipelines</summary>
+- **<details><summary>list-image-pipelines</summary><blockquote>**
 
   * --filters
   * --max-results
@@ -394,7 +390,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>list-image-recipes</summary>
+- **<details><summary>list-image-recipes</summary><blockquote>**
 
   * --owner
   * --filters
@@ -405,7 +401,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>list-images</summary>
+- **<details><summary>list-images</summary><blockquote>**
 
   * --owner
   * --filters
@@ -420,7 +416,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>list-infrastructure-configurations</summary>
+- **<details><summary>list-infrastructure-configurations</summary><blockquote>**
 
   * --filters
   * --max-results
@@ -430,7 +426,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -438,7 +434,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>put-component-policy</summary>
+- **<details><summary>put-component-policy</summary><blockquote>**
 
   * --component-arn
   * --policy
@@ -447,7 +443,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>put-container-recipe-policy</summary>
+- **<details><summary>put-container-recipe-policy</summary><blockquote>**
 
   * --container-recipe-arn
   * --policy
@@ -456,7 +452,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>put-image-policy</summary>
+- **<details><summary>put-image-policy</summary><blockquote>**
 
   * --image-arn
   * --policy
@@ -465,7 +461,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>put-image-recipe-policy</summary>
+- **<details><summary>put-image-recipe-policy</summary><blockquote>**
 
   * --image-recipe-arn
   * --policy
@@ -474,7 +470,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>start-image-pipeline-execution</summary>
+- **<details><summary>start-image-pipeline-execution</summary><blockquote>**
 
   * --image-pipeline-arn
   * --client-token
@@ -483,7 +479,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -492,7 +488,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -501,7 +497,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>update-distribution-configuration</summary>
+- **<details><summary>update-distribution-configuration</summary><blockquote>**
 
   * --distribution-configuration-arn
   * --description
@@ -512,7 +508,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>update-image-pipeline</summary>
+- **<details><summary>update-image-pipeline</summary><blockquote>**
 
   * --image-pipeline-arn
   * --description
@@ -531,7 +527,7 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-- <details><summary>update-infrastructure-configuration</summary>
+- **<details><summary>update-infrastructure-configuration</summary><blockquote>**
 
   * --infrastructure-configuration-arn
   * --description
@@ -551,5 +547,54 @@ imagebuilder
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

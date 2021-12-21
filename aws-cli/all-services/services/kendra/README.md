@@ -1,10 +1,6 @@
-<details>
+<details><summary>kendra</summary><blockquote>
 
-<summary>
-kendra
-</summary>
-
-- <details><summary>batch-delete-document</summary>
+- **<details><summary>batch-delete-document</summary><blockquote>**
 
   * --index-id
   * --document-id-list
@@ -14,7 +10,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-document-status</summary>
+- **<details><summary>batch-get-document-status</summary><blockquote>**
 
   * --index-id
   * --document-info-list
@@ -23,7 +19,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-put-document</summary>
+- **<details><summary>batch-put-document</summary><blockquote>**
 
   * --index-id
   * --role-arn
@@ -33,7 +29,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>clear-query-suggestions</summary>
+- **<details><summary>clear-query-suggestions</summary><blockquote>**
 
   * --index-id
   * --cli-input-json
@@ -41,7 +37,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>create-data-source</summary>
+- **<details><summary>create-data-source</summary><blockquote>**
 
   * --name
   * --index-id
@@ -57,7 +53,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>create-faq</summary>
+- **<details><summary>create-faq</summary><blockquote>**
 
   * --index-id
   * --name
@@ -72,7 +68,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>create-index</summary>
+- **<details><summary>create-index</summary><blockquote>**
 
   * --name
   * --edition
@@ -88,7 +84,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>create-query-suggestions-block-list</summary>
+- **<details><summary>create-query-suggestions-block-list</summary><blockquote>**
 
   * --index-id
   * --name
@@ -102,7 +98,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>create-thesaurus</summary>
+- **<details><summary>create-thesaurus</summary><blockquote>**
 
   * --index-id
   * --name
@@ -116,7 +112,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-data-source</summary>
+- **<details><summary>delete-data-source</summary><blockquote>**
 
   * --id
   * --index-id
@@ -125,7 +121,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-faq</summary>
+- **<details><summary>delete-faq</summary><blockquote>**
 
   * --id
   * --index-id
@@ -134,7 +130,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-index</summary>
+- **<details><summary>delete-index</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -142,7 +138,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-principal-mapping</summary>
+- **<details><summary>delete-principal-mapping</summary><blockquote>**
 
   * --index-id
   * --data-source-id
@@ -153,7 +149,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-query-suggestions-block-list</summary>
+- **<details><summary>delete-query-suggestions-block-list</summary><blockquote>**
 
   * --index-id
   * --id
@@ -162,7 +158,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-thesaurus</summary>
+- **<details><summary>delete-thesaurus</summary><blockquote>**
 
   * --id
   * --index-id
@@ -171,7 +167,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-data-source</summary>
+- **<details><summary>describe-data-source</summary><blockquote>**
 
   * --id
   * --index-id
@@ -180,7 +176,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-faq</summary>
+- **<details><summary>describe-faq</summary><blockquote>**
 
   * --id
   * --index-id
@@ -189,7 +185,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-index</summary>
+- **<details><summary>describe-index</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -197,7 +193,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-principal-mapping</summary>
+- **<details><summary>describe-principal-mapping</summary><blockquote>**
 
   * --index-id
   * --data-source-id
@@ -207,7 +203,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-query-suggestions-block-list</summary>
+- **<details><summary>describe-query-suggestions-block-list</summary><blockquote>**
 
   * --index-id
   * --id
@@ -216,7 +212,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-query-suggestions-config</summary>
+- **<details><summary>describe-query-suggestions-config</summary><blockquote>**
 
   * --index-id
   * --cli-input-json
@@ -224,7 +220,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-thesaurus</summary>
+- **<details><summary>describe-thesaurus</summary><blockquote>**
 
   * --id
   * --index-id
@@ -233,7 +229,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>get-query-suggestions</summary>
+- **<details><summary>get-query-suggestions</summary><blockquote>**
 
   * --index-id
   * --query-text
@@ -243,12 +239,12 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-data-sources</summary>
+- **<details><summary>list-data-sources</summary><blockquote>**
 
   * --index-id
   * --next-token
@@ -258,7 +254,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>list-data-source-sync-jobs</summary>
+- **<details><summary>list-data-source-sync-jobs</summary><blockquote>**
 
   * --id
   * --index-id
@@ -271,7 +267,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>list-faqs</summary>
+- **<details><summary>list-faqs</summary><blockquote>**
 
   * --index-id
   * --next-token
@@ -281,7 +277,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>list-groups-older-than-ordering-id</summary>
+- **<details><summary>list-groups-older-than-ordering-id</summary><blockquote>**
 
   * --index-id
   * --data-source-id
@@ -293,7 +289,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>list-indices</summary>
+- **<details><summary>list-indices</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -302,7 +298,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>list-query-suggestions-block-lists</summary>
+- **<details><summary>list-query-suggestions-block-lists</summary><blockquote>**
 
   * --index-id
   * --next-token
@@ -312,7 +308,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -320,7 +316,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>list-thesauri</summary>
+- **<details><summary>list-thesauri</summary><blockquote>**
 
   * --index-id
   * --next-token
@@ -330,7 +326,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>put-principal-mapping</summary>
+- **<details><summary>put-principal-mapping</summary><blockquote>**
 
   * --index-id
   * --data-source-id
@@ -343,7 +339,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>query</summary>
+- **<details><summary>query</summary><blockquote>**
 
   * --index-id
   * --query-text
@@ -362,7 +358,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>start-data-source-sync-job</summary>
+- **<details><summary>start-data-source-sync-job</summary><blockquote>**
 
   * --id
   * --index-id
@@ -371,7 +367,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-data-source-sync-job</summary>
+- **<details><summary>stop-data-source-sync-job</summary><blockquote>**
 
   * --id
   * --index-id
@@ -380,7 +376,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>submit-feedback</summary>
+- **<details><summary>submit-feedback</summary><blockquote>**
 
   * --index-id
   * --query-id
@@ -391,7 +387,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -400,7 +396,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -409,7 +405,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>update-data-source</summary>
+- **<details><summary>update-data-source</summary><blockquote>**
 
   * --id
   * --name
@@ -423,7 +419,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>update-index</summary>
+- **<details><summary>update-index</summary><blockquote>**
 
   * --id
   * --name
@@ -438,7 +434,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>update-query-suggestions-block-list</summary>
+- **<details><summary>update-query-suggestions-block-list</summary><blockquote>**
 
   * --index-id
   * --id
@@ -451,7 +447,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>update-query-suggestions-config</summary>
+- **<details><summary>update-query-suggestions-config</summary><blockquote>**
 
   * --index-id
   * --mode
@@ -465,7 +461,7 @@ kendra
   * --generate-cli-skeleton
 
 
-- <details><summary>update-thesaurus</summary>
+- **<details><summary>update-thesaurus</summary><blockquote>**
 
   * --id
   * --name
@@ -478,5 +474,48 @@ kendra
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

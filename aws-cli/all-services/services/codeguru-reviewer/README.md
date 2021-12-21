@@ -1,10 +1,6 @@
-<details>
+<details><summary>codeguru-reviewer</summary><blockquote>
 
-<summary>
-codeguru-reviewer
-</summary>
-
-- <details><summary>associate-repository</summary>
+- **<details><summary>associate-repository</summary><blockquote>**
 
   * --repository
   * --client-request-token
@@ -15,7 +11,7 @@ codeguru-reviewer
   * --generate-cli-skeleton
 
 
-- <details><summary>create-code-review</summary>
+- **<details><summary>create-code-review</summary><blockquote>**
 
   * --name
   * --repository-association-arn
@@ -26,7 +22,7 @@ codeguru-reviewer
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-code-review</summary>
+- **<details><summary>describe-code-review</summary><blockquote>**
 
   * --code-review-arn
   * --cli-input-json
@@ -34,7 +30,7 @@ codeguru-reviewer
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-recommendation-feedback</summary>
+- **<details><summary>describe-recommendation-feedback</summary><blockquote>**
 
   * --code-review-arn
   * --recommendation-id
@@ -44,7 +40,7 @@ codeguru-reviewer
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-repository-association</summary>
+- **<details><summary>describe-repository-association</summary><blockquote>**
 
   * --association-arn
   * --cli-input-json
@@ -52,7 +48,7 @@ codeguru-reviewer
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-repository</summary>
+- **<details><summary>disassociate-repository</summary><blockquote>**
 
   * --association-arn
   * --cli-input-json
@@ -60,12 +56,12 @@ codeguru-reviewer
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-code-reviews</summary>
+- **<details><summary>list-code-reviews</summary><blockquote>**
 
   * --provider-types
   * --states
@@ -78,7 +74,7 @@ codeguru-reviewer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-recommendation-feedback</summary>
+- **<details><summary>list-recommendation-feedback</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -90,7 +86,7 @@ codeguru-reviewer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-recommendations</summary>
+- **<details><summary>list-recommendations</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -100,7 +96,7 @@ codeguru-reviewer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-repository-associations</summary>
+- **<details><summary>list-repository-associations</summary><blockquote>**
 
   * --provider-types
   * --states
@@ -114,7 +110,7 @@ codeguru-reviewer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -122,7 +118,7 @@ codeguru-reviewer
   * --generate-cli-skeleton
 
 
-- <details><summary>put-recommendation-feedback</summary>
+- **<details><summary>put-recommendation-feedback</summary><blockquote>**
 
   * --code-review-arn
   * --recommendation-id
@@ -132,7 +128,7 @@ codeguru-reviewer
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -141,7 +137,7 @@ codeguru-reviewer
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -150,10 +146,25 @@ codeguru-reviewer
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

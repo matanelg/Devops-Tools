@@ -1,10 +1,6 @@
-<details>
+<details><summary>schemas</summary><blockquote>
 
-<summary>
-schemas
-</summary>
-
-- <details><summary>create-discoverer</summary>
+- **<details><summary>create-discoverer</summary><blockquote>**
 
   * --description
   * --source-arn
@@ -14,7 +10,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>create-registry</summary>
+- **<details><summary>create-registry</summary><blockquote>**
 
   * --description
   * --registry-name
@@ -24,7 +20,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>create-schema</summary>
+- **<details><summary>create-schema</summary><blockquote>**
 
   * --content
   * --description
@@ -37,7 +33,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-discoverer</summary>
+- **<details><summary>delete-discoverer</summary><blockquote>**
 
   * --discoverer-id
   * --cli-input-json
@@ -45,7 +41,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-registry</summary>
+- **<details><summary>delete-registry</summary><blockquote>**
 
   * --registry-name
   * --cli-input-json
@@ -53,7 +49,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-resource-policy</summary>
+- **<details><summary>delete-resource-policy</summary><blockquote>**
 
   * --registry-name
   * --cli-input-json
@@ -61,7 +57,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-schema</summary>
+- **<details><summary>delete-schema</summary><blockquote>**
 
   * --registry-name
   * --schema-name
@@ -70,7 +66,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-schema-version</summary>
+- **<details><summary>delete-schema-version</summary><blockquote>**
 
   * --registry-name
   * --schema-name
@@ -80,7 +76,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-code-binding</summary>
+- **<details><summary>describe-code-binding</summary><blockquote>**
 
   * --language
   * --registry-name
@@ -91,7 +87,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-discoverer</summary>
+- **<details><summary>describe-discoverer</summary><blockquote>**
 
   * --discoverer-id
   * --cli-input-json
@@ -99,7 +95,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-registry</summary>
+- **<details><summary>describe-registry</summary><blockquote>**
 
   * --registry-name
   * --cli-input-json
@@ -107,7 +103,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-schema</summary>
+- **<details><summary>describe-schema</summary><blockquote>**
 
   * --registry-name
   * --schema-name
@@ -117,7 +113,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>export-schema</summary>
+- **<details><summary>export-schema</summary><blockquote>**
 
   * --registry-name
   * --schema-name
@@ -128,7 +124,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>get-code-binding-source</summary>
+- **<details><summary>get-code-binding-source</summary><blockquote>**
 
   * --language
   * --registry-name
@@ -136,7 +132,7 @@ schemas
   * --schema-version
 
 
-- <details><summary>get-discovered-schema</summary>
+- **<details><summary>get-discovered-schema</summary><blockquote>**
 
   * --events
   * --type
@@ -145,7 +141,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resource-policy</summary>
+- **<details><summary>get-resource-policy</summary><blockquote>**
 
   * --registry-name
   * --cli-input-json
@@ -153,12 +149,12 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-discoverers</summary>
+- **<details><summary>list-discoverers</summary><blockquote>**
 
   * --discoverer-id-prefix
   * --source-arn-prefix
@@ -170,7 +166,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>list-registries</summary>
+- **<details><summary>list-registries</summary><blockquote>**
 
   * --registry-name-prefix
   * --scope
@@ -182,7 +178,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>list-schemas</summary>
+- **<details><summary>list-schemas</summary><blockquote>**
 
   * --registry-name
   * --schema-name-prefix
@@ -194,7 +190,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>list-schema-versions</summary>
+- **<details><summary>list-schema-versions</summary><blockquote>**
 
   * --registry-name
   * --schema-name
@@ -206,7 +202,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -214,7 +210,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>put-code-binding</summary>
+- **<details><summary>put-code-binding</summary><blockquote>**
 
   * --language
   * --registry-name
@@ -225,7 +221,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>put-resource-policy</summary>
+- **<details><summary>put-resource-policy</summary><blockquote>**
 
   * --policy
   * --registry-name
@@ -235,7 +231,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>search-schemas</summary>
+- **<details><summary>search-schemas</summary><blockquote>**
 
   * --keywords
   * --registry-name
@@ -247,7 +243,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>start-discoverer</summary>
+- **<details><summary>start-discoverer</summary><blockquote>**
 
   * --discoverer-id
   * --cli-input-json
@@ -255,7 +251,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-discoverer</summary>
+- **<details><summary>stop-discoverer</summary><blockquote>**
 
   * --discoverer-id
   * --cli-input-json
@@ -263,7 +259,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -272,7 +268,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -281,7 +277,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>update-discoverer</summary>
+- **<details><summary>update-discoverer</summary><blockquote>**
 
   * --description
   * --discoverer-id
@@ -290,7 +286,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>update-registry</summary>
+- **<details><summary>update-registry</summary><blockquote>**
 
   * --description
   * --registry-name
@@ -299,7 +295,7 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>update-schema</summary>
+- **<details><summary>update-schema</summary><blockquote>**
 
   * --client-token-id
   * --content
@@ -312,10 +308,42 @@ schemas
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

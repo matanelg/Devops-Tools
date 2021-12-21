@@ -1,10 +1,6 @@
-<details>
+<details><summary>route53resolver</summary><blockquote>
 
-<summary>
-route53resolver
-</summary>
-
-- <details><summary>associate-firewall-rule-group</summary>
+- **<details><summary>associate-firewall-rule-group</summary><blockquote>**
 
   * --creator-request-id
   * --firewall-rule-group-id
@@ -18,7 +14,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-resolver-endpoint-ip-address</summary>
+- **<details><summary>associate-resolver-endpoint-ip-address</summary><blockquote>**
 
   * --resolver-endpoint-id
   * --ip-address
@@ -27,7 +23,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-resolver-query-log-config</summary>
+- **<details><summary>associate-resolver-query-log-config</summary><blockquote>**
 
   * --resolver-query-log-config-id
   * --resource-id
@@ -36,7 +32,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-resolver-rule</summary>
+- **<details><summary>associate-resolver-rule</summary><blockquote>**
 
   * --resolver-rule-id
   * --name
@@ -46,7 +42,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>create-firewall-domain-list</summary>
+- **<details><summary>create-firewall-domain-list</summary><blockquote>**
 
   * --creator-request-id
   * --name
@@ -56,7 +52,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>create-firewall-rule</summary>
+- **<details><summary>create-firewall-rule</summary><blockquote>**
 
   * --creator-request-id
   * --firewall-rule-group-id
@@ -73,7 +69,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>create-firewall-rule-group</summary>
+- **<details><summary>create-firewall-rule-group</summary><blockquote>**
 
   * --creator-request-id
   * --name
@@ -83,7 +79,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>create-resolver-endpoint</summary>
+- **<details><summary>create-resolver-endpoint</summary><blockquote>**
 
   * --creator-request-id
   * --name
@@ -96,7 +92,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>create-resolver-query-log-config</summary>
+- **<details><summary>create-resolver-query-log-config</summary><blockquote>**
 
   * --name
   * --destination-arn
@@ -107,7 +103,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>create-resolver-rule</summary>
+- **<details><summary>create-resolver-rule</summary><blockquote>**
 
   * --creator-request-id
   * --name
@@ -121,7 +117,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-firewall-domain-list</summary>
+- **<details><summary>delete-firewall-domain-list</summary><blockquote>**
 
   * --firewall-domain-list-id
   * --cli-input-json
@@ -129,7 +125,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-firewall-rule</summary>
+- **<details><summary>delete-firewall-rule</summary><blockquote>**
 
   * --firewall-rule-group-id
   * --firewall-domain-list-id
@@ -138,7 +134,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-firewall-rule-group</summary>
+- **<details><summary>delete-firewall-rule-group</summary><blockquote>**
 
   * --firewall-rule-group-id
   * --cli-input-json
@@ -146,7 +142,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-resolver-endpoint</summary>
+- **<details><summary>delete-resolver-endpoint</summary><blockquote>**
 
   * --resolver-endpoint-id
   * --cli-input-json
@@ -154,7 +150,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-resolver-query-log-config</summary>
+- **<details><summary>delete-resolver-query-log-config</summary><blockquote>**
 
   * --resolver-query-log-config-id
   * --cli-input-json
@@ -162,7 +158,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-resolver-rule</summary>
+- **<details><summary>delete-resolver-rule</summary><blockquote>**
 
   * --resolver-rule-id
   * --cli-input-json
@@ -170,7 +166,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-firewall-rule-group</summary>
+- **<details><summary>disassociate-firewall-rule-group</summary><blockquote>**
 
   * --firewall-rule-group-association-id
   * --cli-input-json
@@ -178,7 +174,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-resolver-endpoint-ip-address</summary>
+- **<details><summary>disassociate-resolver-endpoint-ip-address</summary><blockquote>**
 
   * --resolver-endpoint-id
   * --ip-address
@@ -187,7 +183,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-resolver-query-log-config</summary>
+- **<details><summary>disassociate-resolver-query-log-config</summary><blockquote>**
 
   * --resolver-query-log-config-id
   * --resource-id
@@ -196,7 +192,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-resolver-rule</summary>
+- **<details><summary>disassociate-resolver-rule</summary><blockquote>**
 
   * --vpc-id
   * --resolver-rule-id
@@ -205,7 +201,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>get-firewall-config</summary>
+- **<details><summary>get-firewall-config</summary><blockquote>**
 
   * --resource-id
   * --cli-input-json
@@ -213,7 +209,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>get-firewall-domain-list</summary>
+- **<details><summary>get-firewall-domain-list</summary><blockquote>**
 
   * --firewall-domain-list-id
   * --cli-input-json
@@ -221,7 +217,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>get-firewall-rule-group</summary>
+- **<details><summary>get-firewall-rule-group</summary><blockquote>**
 
   * --firewall-rule-group-id
   * --cli-input-json
@@ -229,7 +225,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>get-firewall-rule-group-association</summary>
+- **<details><summary>get-firewall-rule-group-association</summary><blockquote>**
 
   * --firewall-rule-group-association-id
   * --cli-input-json
@@ -237,7 +233,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>get-firewall-rule-group-policy</summary>
+- **<details><summary>get-firewall-rule-group-policy</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -245,7 +241,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resolver-dnssec-config</summary>
+- **<details><summary>get-resolver-dnssec-config</summary><blockquote>**
 
   * --resource-id
   * --cli-input-json
@@ -253,7 +249,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resolver-endpoint</summary>
+- **<details><summary>get-resolver-endpoint</summary><blockquote>**
 
   * --resolver-endpoint-id
   * --cli-input-json
@@ -261,7 +257,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resolver-query-log-config</summary>
+- **<details><summary>get-resolver-query-log-config</summary><blockquote>**
 
   * --resolver-query-log-config-id
   * --cli-input-json
@@ -269,7 +265,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resolver-query-log-config-association</summary>
+- **<details><summary>get-resolver-query-log-config-association</summary><blockquote>**
 
   * --resolver-query-log-config-association-id
   * --cli-input-json
@@ -277,7 +273,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resolver-query-log-config-policy</summary>
+- **<details><summary>get-resolver-query-log-config-policy</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -285,7 +281,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resolver-rule</summary>
+- **<details><summary>get-resolver-rule</summary><blockquote>**
 
   * --resolver-rule-id
   * --cli-input-json
@@ -293,7 +289,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resolver-rule-association</summary>
+- **<details><summary>get-resolver-rule-association</summary><blockquote>**
 
   * --resolver-rule-association-id
   * --cli-input-json
@@ -301,7 +297,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resolver-rule-policy</summary>
+- **<details><summary>get-resolver-rule-policy</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -309,12 +305,12 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>import-firewall-domains</summary>
+- **<details><summary>import-firewall-domains</summary><blockquote>**
 
   * --firewall-domain-list-id
   * --operation
@@ -324,7 +320,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>list-firewall-configs</summary>
+- **<details><summary>list-firewall-configs</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -334,7 +330,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>list-firewall-domain-lists</summary>
+- **<details><summary>list-firewall-domain-lists</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -344,7 +340,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>list-firewall-domains</summary>
+- **<details><summary>list-firewall-domains</summary><blockquote>**
 
   * --firewall-domain-list-id
   * --cli-input-json
@@ -355,7 +351,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>list-firewall-rule-group-associations</summary>
+- **<details><summary>list-firewall-rule-group-associations</summary><blockquote>**
 
   * --firewall-rule-group-id
   * --vpc-id
@@ -369,7 +365,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>list-firewall-rule-groups</summary>
+- **<details><summary>list-firewall-rule-groups</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -379,7 +375,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>list-firewall-rules</summary>
+- **<details><summary>list-firewall-rules</summary><blockquote>**
 
   * --firewall-rule-group-id
   * --priority
@@ -392,7 +388,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resolver-dnssec-configs</summary>
+- **<details><summary>list-resolver-dnssec-configs</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -403,7 +399,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resolver-endpoint-ip-addresses</summary>
+- **<details><summary>list-resolver-endpoint-ip-addresses</summary><blockquote>**
 
   * --resolver-endpoint-id
   * --cli-input-json
@@ -414,7 +410,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resolver-endpoints</summary>
+- **<details><summary>list-resolver-endpoints</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -425,20 +421,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resolver-query-log-config-associations</summary>
-
-  * --filters
-  * --sort-by
-  * --sort-order
-  * --cli-input-json
-  * --cli-input-yaml
-  * --starting-token
-  * --page-size
-  * --max-items
-  * --generate-cli-skeleton
-
-
-- <details><summary>list-resolver-query-log-configs</summary>
+- **<details><summary>list-resolver-query-log-config-associations</summary><blockquote>**
 
   * --filters
   * --sort-by
@@ -451,7 +434,20 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resolver-rule-associations</summary>
+- **<details><summary>list-resolver-query-log-configs</summary><blockquote>**
+
+  * --filters
+  * --sort-by
+  * --sort-order
+  * --cli-input-json
+  * --cli-input-yaml
+  * --starting-token
+  * --page-size
+  * --max-items
+  * --generate-cli-skeleton
+
+
+- **<details><summary>list-resolver-rule-associations</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -462,7 +458,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resolver-rules</summary>
+- **<details><summary>list-resolver-rules</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -473,7 +469,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -484,7 +480,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>put-firewall-rule-group-policy</summary>
+- **<details><summary>put-firewall-rule-group-policy</summary><blockquote>**
 
   * --arn
   * --firewall-rule-group-policy
@@ -493,7 +489,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>put-resolver-query-log-config-policy</summary>
+- **<details><summary>put-resolver-query-log-config-policy</summary><blockquote>**
 
   * --arn
   * --resolver-query-log-config-policy
@@ -502,7 +498,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>put-resolver-rule-policy</summary>
+- **<details><summary>put-resolver-rule-policy</summary><blockquote>**
 
   * --arn
   * --resolver-rule-policy
@@ -511,7 +507,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -520,7 +516,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -529,7 +525,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>update-firewall-config</summary>
+- **<details><summary>update-firewall-config</summary><blockquote>**
 
   * --resource-id
   * --firewall-fail-open
@@ -538,7 +534,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>update-firewall-domains</summary>
+- **<details><summary>update-firewall-domains</summary><blockquote>**
 
   * --firewall-domain-list-id
   * --operation
@@ -548,7 +544,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>update-firewall-rule</summary>
+- **<details><summary>update-firewall-rule</summary><blockquote>**
 
   * --firewall-rule-group-id
   * --firewall-domain-list-id
@@ -564,7 +560,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>update-firewall-rule-group-association</summary>
+- **<details><summary>update-firewall-rule-group-association</summary><blockquote>**
 
   * --firewall-rule-group-association-id
   * --priority
@@ -575,7 +571,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>update-resolver-dnssec-config</summary>
+- **<details><summary>update-resolver-dnssec-config</summary><blockquote>**
 
   * --resource-id
   * --validation
@@ -584,7 +580,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>update-resolver-endpoint</summary>
+- **<details><summary>update-resolver-endpoint</summary><blockquote>**
 
   * --resolver-endpoint-id
   * --name
@@ -593,7 +589,7 @@ route53resolver
   * --generate-cli-skeleton
 
 
-- <details><summary>update-resolver-rule</summary>
+- **<details><summary>update-resolver-rule</summary><blockquote>**
 
   * --resolver-rule-id
   * --config
@@ -602,5 +598,65 @@ route53resolver
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

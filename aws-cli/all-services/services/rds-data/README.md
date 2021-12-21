@@ -1,10 +1,6 @@
-<details>
+<details><summary>rds-data</summary><blockquote>
 
-<summary>
-rds-data
-</summary>
-
-- <details><summary>batch-execute-statement</summary>
+- **<details><summary>batch-execute-statement</summary><blockquote>**
 
   * --database
   * --parameter-sets
@@ -18,7 +14,7 @@ rds-data
   * --generate-cli-skeleton
 
 
-- <details><summary>begin-transaction</summary>
+- **<details><summary>begin-transaction</summary><blockquote>**
 
   * --database
   * --resource-arn
@@ -29,7 +25,7 @@ rds-data
   * --generate-cli-skeleton
 
 
-- <details><summary>commit-transaction</summary>
+- **<details><summary>commit-transaction</summary><blockquote>**
 
   * --resource-arn
   * --secret-arn
@@ -39,7 +35,7 @@ rds-data
   * --generate-cli-skeleton
 
 
-- <details><summary>execute-statement</summary>
+- **<details><summary>execute-statement</summary><blockquote>**
 
   * --continue-after-timeout
   * --no-continue-after-timeout
@@ -58,12 +54,12 @@ rds-data
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>rollback-transaction</summary>
+- **<details><summary>rollback-transaction</summary><blockquote>**
 
   * --resource-arn
   * --secret-arn
@@ -73,5 +69,10 @@ rds-data
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

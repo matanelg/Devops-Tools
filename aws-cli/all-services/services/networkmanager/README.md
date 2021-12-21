@@ -1,10 +1,6 @@
-<details>
+<details><summary>networkmanager</summary><blockquote>
 
-<summary>
-networkmanager
-</summary>
-
-- <details><summary>associate-customer-gateway</summary>
+- **<details><summary>associate-customer-gateway</summary><blockquote>**
 
   * --customer-gateway-arn
   * --global-network-id
@@ -15,7 +11,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-link</summary>
+- **<details><summary>associate-link</summary><blockquote>**
 
   * --global-network-id
   * --device-id
@@ -25,7 +21,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-transit-gateway-connect-peer</summary>
+- **<details><summary>associate-transit-gateway-connect-peer</summary><blockquote>**
 
   * --global-network-id
   * --transit-gateway-connect-peer-arn
@@ -36,7 +32,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>create-connection</summary>
+- **<details><summary>create-connection</summary><blockquote>**
 
   * --global-network-id
   * --device-id
@@ -50,7 +46,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>create-device</summary>
+- **<details><summary>create-device</summary><blockquote>**
 
   * --global-network-id
   * --aws-location
@@ -67,7 +63,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>create-global-network</summary>
+- **<details><summary>create-global-network</summary><blockquote>**
 
   * --description
   * --tags
@@ -76,7 +72,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>create-link</summary>
+- **<details><summary>create-link</summary><blockquote>**
 
   * --global-network-id
   * --description
@@ -90,7 +86,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>create-site</summary>
+- **<details><summary>create-site</summary><blockquote>**
 
   * --global-network-id
   * --description
@@ -101,7 +97,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-connection</summary>
+- **<details><summary>delete-connection</summary><blockquote>**
 
   * --global-network-id
   * --connection-id
@@ -110,7 +106,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-device</summary>
+- **<details><summary>delete-device</summary><blockquote>**
 
   * --global-network-id
   * --device-id
@@ -119,7 +115,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-global-network</summary>
+- **<details><summary>delete-global-network</summary><blockquote>**
 
   * --global-network-id
   * --cli-input-json
@@ -127,7 +123,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-link</summary>
+- **<details><summary>delete-link</summary><blockquote>**
 
   * --global-network-id
   * --link-id
@@ -136,7 +132,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-site</summary>
+- **<details><summary>delete-site</summary><blockquote>**
 
   * --global-network-id
   * --site-id
@@ -145,7 +141,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-transit-gateway</summary>
+- **<details><summary>deregister-transit-gateway</summary><blockquote>**
 
   * --global-network-id
   * --transit-gateway-arn
@@ -154,7 +150,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-global-networks</summary>
+- **<details><summary>describe-global-networks</summary><blockquote>**
 
   * --global-network-ids
   * --cli-input-json
@@ -165,7 +161,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-customer-gateway</summary>
+- **<details><summary>disassociate-customer-gateway</summary><blockquote>**
 
   * --global-network-id
   * --customer-gateway-arn
@@ -174,7 +170,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-link</summary>
+- **<details><summary>disassociate-link</summary><blockquote>**
 
   * --global-network-id
   * --device-id
@@ -184,7 +180,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-transit-gateway-connect-peer</summary>
+- **<details><summary>disassociate-transit-gateway-connect-peer</summary><blockquote>**
 
   * --global-network-id
   * --transit-gateway-connect-peer-arn
@@ -193,7 +189,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-connections</summary>
+- **<details><summary>get-connections</summary><blockquote>**
 
   * --global-network-id
   * --connection-ids
@@ -206,7 +202,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-customer-gateway-associations</summary>
+- **<details><summary>get-customer-gateway-associations</summary><blockquote>**
 
   * --global-network-id
   * --customer-gateway-arns
@@ -218,7 +214,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-devices</summary>
+- **<details><summary>get-devices</summary><blockquote>**
 
   * --global-network-id
   * --device-ids
@@ -231,7 +227,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-link-associations</summary>
+- **<details><summary>get-link-associations</summary><blockquote>**
 
   * --global-network-id
   * --device-id
@@ -244,7 +240,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-links</summary>
+- **<details><summary>get-links</summary><blockquote>**
 
   * --global-network-id
   * --link-ids
@@ -259,7 +255,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-sites</summary>
+- **<details><summary>get-sites</summary><blockquote>**
 
   * --global-network-id
   * --site-ids
@@ -271,7 +267,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-transit-gateway-connect-peer-associations</summary>
+- **<details><summary>get-transit-gateway-connect-peer-associations</summary><blockquote>**
 
   * --global-network-id
   * --transit-gateway-connect-peer-arns
@@ -283,7 +279,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-transit-gateway-registrations</summary>
+- **<details><summary>get-transit-gateway-registrations</summary><blockquote>**
 
   * --global-network-id
   * --transit-gateway-arns
@@ -295,12 +291,12 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -308,7 +304,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>register-transit-gateway</summary>
+- **<details><summary>register-transit-gateway</summary><blockquote>**
 
   * --global-network-id
   * --transit-gateway-arn
@@ -317,7 +313,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -326,7 +322,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -335,7 +331,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>update-connection</summary>
+- **<details><summary>update-connection</summary><blockquote>**
 
   * --global-network-id
   * --connection-id
@@ -347,7 +343,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>update-device</summary>
+- **<details><summary>update-device</summary><blockquote>**
 
   * --global-network-id
   * --device-id
@@ -364,7 +360,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>update-global-network</summary>
+- **<details><summary>update-global-network</summary><blockquote>**
 
   * --global-network-id
   * --description
@@ -373,7 +369,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>update-link</summary>
+- **<details><summary>update-link</summary><blockquote>**
 
   * --global-network-id
   * --link-id
@@ -386,7 +382,7 @@ networkmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>update-site</summary>
+- **<details><summary>update-site</summary><blockquote>**
 
   * --global-network-id
   * --site-id
@@ -397,5 +393,40 @@ networkmanager
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

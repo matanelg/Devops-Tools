@@ -1,15 +1,11 @@
-<details>
+<details><summary>ddb</summary><blockquote>
 
-<summary>
-ddb
-</summary>
-
-- <details><summary>put</summary>
+- **<details><summary>put</summary><blockquote>**
 
   * --condition
 
 
-- <details><summary>select</summary>
+- **<details><summary>select</summary><blockquote>**
 
   * --index-name
   * --projection
@@ -25,5 +21,6 @@ ddb
   * --page-size
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>s3</summary><blockquote>
 
-<summary>
-s3
-</summary>
-
-- <details><summary>cp</summary>
+- **<details><summary>cp</summary><blockquote>**
 
   * --dryrun
   * --quiet
@@ -43,7 +39,7 @@ s3
   * --recursive
 
 
-- <details><summary>ls</summary>
+- **<details><summary>ls</summary><blockquote>**
 
   * --recursive
   * --page-size
@@ -52,12 +48,12 @@ s3
   * --request-payer
 
 
-- <details><summary>mb</summary>
+- **<details><summary>mb</summary><blockquote>**
 
   * 
 
 
-- <details><summary>mv</summary>
+- **<details><summary>mv</summary><blockquote>**
 
   * --dryrun
   * --quiet
@@ -95,17 +91,17 @@ s3
   * --recursive
 
 
-- <details><summary>presign</summary>
+- **<details><summary>presign</summary><blockquote>**
 
   * --expires-in
 
 
-- <details><summary>rb</summary>
+- **<details><summary>rb</summary><blockquote>**
 
   * --force
 
 
-- <details><summary>rm</summary>
+- **<details><summary>rm</summary><blockquote>**
 
   * --dryrun
   * --quiet
@@ -117,7 +113,7 @@ s3
   * --page-size
 
 
-- <details><summary>sync</summary>
+- **<details><summary>sync</summary><blockquote>**
 
   * --dryrun
   * --quiet
@@ -157,11 +153,19 @@ s3
   * --delete
 
 
-- <details><summary>website</summary>
+- **<details><summary>website</summary><blockquote>**
 
   * --index-document
   * --error-document
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

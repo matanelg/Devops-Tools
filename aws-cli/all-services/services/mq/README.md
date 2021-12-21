@@ -1,10 +1,6 @@
-<details>
+<details><summary>mq</summary><blockquote>
 
-<summary>
-mq
-</summary>
-
-- <details><summary>create-broker</summary>
+- **<details><summary>create-broker</summary><blockquote>**
 
   * --authentication-strategy
   * --auto-minor-version-upgrade
@@ -32,7 +28,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>create-configuration</summary>
+- **<details><summary>create-configuration</summary><blockquote>**
 
   * --authentication-strategy
   * --engine-type
@@ -44,7 +40,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>create-tags</summary>
+- **<details><summary>create-tags</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -53,7 +49,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>create-user</summary>
+- **<details><summary>create-user</summary><blockquote>**
 
   * --broker-id
   * --console-access
@@ -66,7 +62,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-broker</summary>
+- **<details><summary>delete-broker</summary><blockquote>**
 
   * --broker-id
   * --cli-input-json
@@ -74,7 +70,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-tags</summary>
+- **<details><summary>delete-tags</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -83,7 +79,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user</summary>
+- **<details><summary>delete-user</summary><blockquote>**
 
   * --broker-id
   * --username
@@ -92,7 +88,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-broker</summary>
+- **<details><summary>describe-broker</summary><blockquote>**
 
   * --broker-id
   * --cli-input-json
@@ -100,7 +96,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-broker-engine-types</summary>
+- **<details><summary>describe-broker-engine-types</summary><blockquote>**
 
   * --engine-type
   * --max-results
@@ -110,7 +106,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-broker-instance-options</summary>
+- **<details><summary>describe-broker-instance-options</summary><blockquote>**
 
   * --engine-type
   * --host-instance-type
@@ -122,7 +118,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-configuration</summary>
+- **<details><summary>describe-configuration</summary><blockquote>**
 
   * --configuration-id
   * --cli-input-json
@@ -130,7 +126,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-configuration-revision</summary>
+- **<details><summary>describe-configuration-revision</summary><blockquote>**
 
   * --configuration-id
   * --configuration-revision
@@ -139,7 +135,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-user</summary>
+- **<details><summary>describe-user</summary><blockquote>**
 
   * --broker-id
   * --username
@@ -148,12 +144,12 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-brokers</summary>
+- **<details><summary>list-brokers</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -163,7 +159,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>list-configuration-revisions</summary>
+- **<details><summary>list-configuration-revisions</summary><blockquote>**
 
   * --configuration-id
   * --max-results
@@ -173,7 +169,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>list-configurations</summary>
+- **<details><summary>list-configurations</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -182,7 +178,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags</summary>
+- **<details><summary>list-tags</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -190,7 +186,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>list-users</summary>
+- **<details><summary>list-users</summary><blockquote>**
 
   * --broker-id
   * --max-results
@@ -200,7 +196,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>reboot-broker</summary>
+- **<details><summary>reboot-broker</summary><blockquote>**
 
   * --broker-id
   * --cli-input-json
@@ -208,7 +204,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>update-broker</summary>
+- **<details><summary>update-broker</summary><blockquote>**
 
   * --authentication-strategy
   * --auto-minor-version-upgrade
@@ -226,7 +222,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>update-configuration</summary>
+- **<details><summary>update-configuration</summary><blockquote>**
 
   * --configuration-id
   * --data
@@ -236,7 +232,7 @@ mq
   * --generate-cli-skeleton
 
 
-- <details><summary>update-user</summary>
+- **<details><summary>update-user</summary><blockquote>**
 
   * --broker-id
   * --console-access
@@ -249,5 +245,27 @@ mq
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>sts</summary><blockquote>
 
-<summary>
-sts
-</summary>
-
-- <details><summary>assume-role</summary>
+- **<details><summary>assume-role</summary><blockquote>**
 
   * --role-arn
   * --role-session-name
@@ -22,7 +18,7 @@ sts
   * --generate-cli-skeleton
 
 
-- <details><summary>assume-role-with-saml</summary>
+- **<details><summary>assume-role-with-saml</summary><blockquote>**
 
   * --role-arn
   * --principal-arn
@@ -35,7 +31,7 @@ sts
   * --generate-cli-skeleton
 
 
-- <details><summary>assume-role-with-web-identity</summary>
+- **<details><summary>assume-role-with-web-identity</summary><blockquote>**
 
   * --role-arn
   * --role-session-name
@@ -49,7 +45,7 @@ sts
   * --generate-cli-skeleton
 
 
-- <details><summary>decode-authorization-message</summary>
+- **<details><summary>decode-authorization-message</summary><blockquote>**
 
   * --encoded-message
   * --cli-input-json
@@ -57,7 +53,7 @@ sts
   * --generate-cli-skeleton
 
 
-- <details><summary>get-access-key-info</summary>
+- **<details><summary>get-access-key-info</summary><blockquote>**
 
   * --access-key-id
   * --cli-input-json
@@ -65,14 +61,14 @@ sts
   * --generate-cli-skeleton
 
 
-- <details><summary>get-caller-identity</summary>
+- **<details><summary>get-caller-identity</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-federation-token</summary>
+- **<details><summary>get-federation-token</summary><blockquote>**
 
   * --name
   * --policy
@@ -84,7 +80,7 @@ sts
   * --generate-cli-skeleton
 
 
-- <details><summary>get-session-token</summary>
+- **<details><summary>get-session-token</summary><blockquote>**
 
   * --duration-seconds
   * --serial-number
@@ -94,10 +90,18 @@ sts
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

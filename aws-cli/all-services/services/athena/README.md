@@ -1,10 +1,6 @@
-<details>
+<details><summary>athena</summary><blockquote>
 
-<summary>
-athena
-</summary>
-
-- <details><summary>batch-get-named-query</summary>
+- **<details><summary>batch-get-named-query</summary><blockquote>**
 
   * --named-query-ids
   * --cli-input-json
@@ -12,7 +8,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-query-execution</summary>
+- **<details><summary>batch-get-query-execution</summary><blockquote>**
 
   * --query-execution-ids
   * --cli-input-json
@@ -20,7 +16,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>create-data-catalog</summary>
+- **<details><summary>create-data-catalog</summary><blockquote>**
 
   * --name
   * --type
@@ -32,7 +28,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>create-named-query</summary>
+- **<details><summary>create-named-query</summary><blockquote>**
 
   * --name
   * --description
@@ -45,7 +41,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>create-prepared-statement</summary>
+- **<details><summary>create-prepared-statement</summary><blockquote>**
 
   * --statement-name
   * --work-group
@@ -56,7 +52,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>create-work-group</summary>
+- **<details><summary>create-work-group</summary><blockquote>**
 
   * --name
   * --configuration
@@ -67,7 +63,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-data-catalog</summary>
+- **<details><summary>delete-data-catalog</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -75,7 +71,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-named-query</summary>
+- **<details><summary>delete-named-query</summary><blockquote>**
 
   * --named-query-id
   * --cli-input-json
@@ -83,7 +79,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-prepared-statement</summary>
+- **<details><summary>delete-prepared-statement</summary><blockquote>**
 
   * --statement-name
   * --work-group
@@ -92,7 +88,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-work-group</summary>
+- **<details><summary>delete-work-group</summary><blockquote>**
 
   * --work-group
   * --recursive-delete-option
@@ -102,7 +98,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>get-database</summary>
+- **<details><summary>get-database</summary><blockquote>**
 
   * --catalog-name
   * --database-name
@@ -111,7 +107,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>get-data-catalog</summary>
+- **<details><summary>get-data-catalog</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -119,7 +115,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>get-named-query</summary>
+- **<details><summary>get-named-query</summary><blockquote>**
 
   * --named-query-id
   * --cli-input-json
@@ -127,7 +123,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>get-prepared-statement</summary>
+- **<details><summary>get-prepared-statement</summary><blockquote>**
 
   * --statement-name
   * --work-group
@@ -136,7 +132,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>get-query-execution</summary>
+- **<details><summary>get-query-execution</summary><blockquote>**
 
   * --query-execution-id
   * --cli-input-json
@@ -144,7 +140,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>get-query-results</summary>
+- **<details><summary>get-query-results</summary><blockquote>**
 
   * --query-execution-id
   * --cli-input-json
@@ -155,7 +151,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>get-table-metadata</summary>
+- **<details><summary>get-table-metadata</summary><blockquote>**
 
   * --catalog-name
   * --database-name
@@ -165,7 +161,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>get-work-group</summary>
+- **<details><summary>get-work-group</summary><blockquote>**
 
   * --work-group
   * --cli-input-json
@@ -173,12 +169,12 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-databases</summary>
+- **<details><summary>list-databases</summary><blockquote>**
 
   * --catalog-name
   * --cli-input-json
@@ -189,7 +185,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>list-data-catalogs</summary>
+- **<details><summary>list-data-catalogs</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -199,7 +195,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>list-engine-versions</summary>
+- **<details><summary>list-engine-versions</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -208,7 +204,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>list-named-queries</summary>
+- **<details><summary>list-named-queries</summary><blockquote>**
 
   * --work-group
   * --cli-input-json
@@ -219,7 +215,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>list-prepared-statements</summary>
+- **<details><summary>list-prepared-statements</summary><blockquote>**
 
   * --work-group
   * --next-token
@@ -229,7 +225,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>list-query-executions</summary>
+- **<details><summary>list-query-executions</summary><blockquote>**
 
   * --work-group
   * --cli-input-json
@@ -240,7 +236,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>list-table-metadata</summary>
+- **<details><summary>list-table-metadata</summary><blockquote>**
 
   * --catalog-name
   * --database-name
@@ -253,7 +249,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -264,7 +260,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>list-work-groups</summary>
+- **<details><summary>list-work-groups</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -273,7 +269,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>start-query-execution</summary>
+- **<details><summary>start-query-execution</summary><blockquote>**
 
   * --query-string
   * --client-request-token
@@ -285,7 +281,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-query-execution</summary>
+- **<details><summary>stop-query-execution</summary><blockquote>**
 
   * --query-execution-id
   * --cli-input-json
@@ -293,7 +289,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -302,7 +298,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -311,7 +307,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>update-data-catalog</summary>
+- **<details><summary>update-data-catalog</summary><blockquote>**
 
   * --name
   * --type
@@ -322,7 +318,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>update-prepared-statement</summary>
+- **<details><summary>update-prepared-statement</summary><blockquote>**
 
   * --statement-name
   * --work-group
@@ -333,7 +329,7 @@ athena
   * --generate-cli-skeleton
 
 
-- <details><summary>update-work-group</summary>
+- **<details><summary>update-work-group</summary><blockquote>**
 
   * --work-group
   * --description
@@ -344,5 +340,39 @@ athena
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

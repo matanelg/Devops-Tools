@@ -1,10 +1,6 @@
-<details>
+<details><summary>nimble</summary><blockquote>
 
-<summary>
-nimble
-</summary>
-
-- <details><summary>accept-eulas</summary>
+- **<details><summary>accept-eulas</summary><blockquote>**
 
   * --client-token
   * --eula-ids
@@ -14,7 +10,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>create-launch-profile</summary>
+- **<details><summary>create-launch-profile</summary><blockquote>**
 
   * --client-token
   * --description
@@ -30,7 +26,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>create-streaming-image</summary>
+- **<details><summary>create-streaming-image</summary><blockquote>**
 
   * --client-token
   * --description
@@ -43,7 +39,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>create-streaming-session</summary>
+- **<details><summary>create-streaming-session</summary><blockquote>**
 
   * --client-token
   * --ec2-instance-type
@@ -56,7 +52,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>create-streaming-session-stream</summary>
+- **<details><summary>create-streaming-session-stream</summary><blockquote>**
 
   * --client-token
   * --expiration-in-seconds
@@ -67,7 +63,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>create-studio</summary>
+- **<details><summary>create-studio</summary><blockquote>**
 
   * --admin-role-arn
   * --client-token
@@ -81,7 +77,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>create-studio-component</summary>
+- **<details><summary>create-studio-component</summary><blockquote>**
 
   * --client-token
   * --configuration
@@ -99,7 +95,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-launch-profile</summary>
+- **<details><summary>delete-launch-profile</summary><blockquote>**
 
   * --client-token
   * --launch-profile-id
@@ -109,7 +105,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-launch-profile-member</summary>
+- **<details><summary>delete-launch-profile-member</summary><blockquote>**
 
   * --client-token
   * --launch-profile-id
@@ -120,7 +116,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-streaming-image</summary>
+- **<details><summary>delete-streaming-image</summary><blockquote>**
 
   * --client-token
   * --streaming-image-id
@@ -130,7 +126,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-streaming-session</summary>
+- **<details><summary>delete-streaming-session</summary><blockquote>**
 
   * --client-token
   * --session-id
@@ -140,7 +136,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-studio</summary>
+- **<details><summary>delete-studio</summary><blockquote>**
 
   * --client-token
   * --studio-id
@@ -149,7 +145,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-studio-component</summary>
+- **<details><summary>delete-studio-component</summary><blockquote>**
 
   * --client-token
   * --studio-component-id
@@ -159,7 +155,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-studio-member</summary>
+- **<details><summary>delete-studio-member</summary><blockquote>**
 
   * --client-token
   * --principal-id
@@ -169,7 +165,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>get-eula</summary>
+- **<details><summary>get-eula</summary><blockquote>**
 
   * --eula-id
   * --cli-input-json
@@ -177,7 +173,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>get-launch-profile</summary>
+- **<details><summary>get-launch-profile</summary><blockquote>**
 
   * --launch-profile-id
   * --studio-id
@@ -186,7 +182,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>get-launch-profile-details</summary>
+- **<details><summary>get-launch-profile-details</summary><blockquote>**
 
   * --launch-profile-id
   * --studio-id
@@ -195,7 +191,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>get-launch-profile-initialization</summary>
+- **<details><summary>get-launch-profile-initialization</summary><blockquote>**
 
   * --launch-profile-id
   * --launch-profile-protocol-versions
@@ -207,7 +203,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>get-launch-profile-member</summary>
+- **<details><summary>get-launch-profile-member</summary><blockquote>**
 
   * --launch-profile-id
   * --principal-id
@@ -217,7 +213,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>get-streaming-image</summary>
+- **<details><summary>get-streaming-image</summary><blockquote>**
 
   * --streaming-image-id
   * --studio-id
@@ -226,7 +222,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>get-streaming-session</summary>
+- **<details><summary>get-streaming-session</summary><blockquote>**
 
   * --session-id
   * --studio-id
@@ -235,7 +231,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>get-streaming-session-stream</summary>
+- **<details><summary>get-streaming-session-stream</summary><blockquote>**
 
   * --session-id
   * --stream-id
@@ -245,7 +241,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>get-studio</summary>
+- **<details><summary>get-studio</summary><blockquote>**
 
   * --studio-id
   * --cli-input-json
@@ -253,7 +249,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>get-studio-component</summary>
+- **<details><summary>get-studio-component</summary><blockquote>**
 
   * --studio-component-id
   * --studio-id
@@ -262,7 +258,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>get-studio-member</summary>
+- **<details><summary>get-studio-member</summary><blockquote>**
 
   * --principal-id
   * --studio-id
@@ -271,12 +267,12 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-eula-acceptances</summary>
+- **<details><summary>list-eula-acceptances</summary><blockquote>**
 
   * --eula-ids
   * --studio-id
@@ -287,7 +283,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>list-eulas</summary>
+- **<details><summary>list-eulas</summary><blockquote>**
 
   * --eula-ids
   * --cli-input-json
@@ -297,7 +293,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>list-launch-profile-members</summary>
+- **<details><summary>list-launch-profile-members</summary><blockquote>**
 
   * --launch-profile-id
   * --studio-id
@@ -309,7 +305,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>list-launch-profiles</summary>
+- **<details><summary>list-launch-profiles</summary><blockquote>**
 
   * --principal-id
   * --states
@@ -322,7 +318,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>list-streaming-images</summary>
+- **<details><summary>list-streaming-images</summary><blockquote>**
 
   * --owner
   * --studio-id
@@ -333,7 +329,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>list-streaming-sessions</summary>
+- **<details><summary>list-streaming-sessions</summary><blockquote>**
 
   * --created-by
   * --session-ids
@@ -345,7 +341,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>list-studio-components</summary>
+- **<details><summary>list-studio-components</summary><blockquote>**
 
   * --states
   * --studio-id
@@ -358,7 +354,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>list-studio-members</summary>
+- **<details><summary>list-studio-members</summary><blockquote>**
 
   * --studio-id
   * --cli-input-json
@@ -369,7 +365,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>list-studios</summary>
+- **<details><summary>list-studios</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -378,7 +374,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -386,7 +382,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>put-launch-profile-members</summary>
+- **<details><summary>put-launch-profile-members</summary><blockquote>**
 
   * --client-token
   * --identity-store-id
@@ -398,7 +394,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>put-studio-members</summary>
+- **<details><summary>put-studio-members</summary><blockquote>**
 
   * --client-token
   * --identity-store-id
@@ -409,7 +405,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>start-studio-sso-configuration-repair</summary>
+- **<details><summary>start-studio-sso-configuration-repair</summary><blockquote>**
 
   * --client-token
   * --studio-id
@@ -418,7 +414,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -427,7 +423,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -436,7 +432,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>update-launch-profile</summary>
+- **<details><summary>update-launch-profile</summary><blockquote>**
 
   * --client-token
   * --description
@@ -451,7 +447,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>update-launch-profile-member</summary>
+- **<details><summary>update-launch-profile-member</summary><blockquote>**
 
   * --client-token
   * --launch-profile-id
@@ -463,7 +459,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>update-streaming-image</summary>
+- **<details><summary>update-streaming-image</summary><blockquote>**
 
   * --client-token
   * --description
@@ -475,7 +471,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>update-studio</summary>
+- **<details><summary>update-studio</summary><blockquote>**
 
   * --admin-role-arn
   * --client-token
@@ -487,7 +483,7 @@ nimble
   * --generate-cli-skeleton
 
 
-- <details><summary>update-studio-component</summary>
+- **<details><summary>update-studio-component</summary><blockquote>**
 
   * --client-token
   * --configuration
@@ -505,5 +501,50 @@ nimble
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

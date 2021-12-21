@@ -1,15 +1,11 @@
-<details>
+<details><summary>ec2-instance-connect</summary><blockquote>
 
-<summary>
-ec2-instance-connect
-</summary>
-
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>send-serial-console-ssh-public-key</summary>
+- **<details><summary>send-serial-console-ssh-public-key</summary><blockquote>**
 
   * --instance-id
   * --serial-port
@@ -19,7 +15,7 @@ ec2-instance-connect
   * --generate-cli-skeleton
 
 
-- <details><summary>send-ssh-public-key</summary>
+- **<details><summary>send-ssh-public-key</summary><blockquote>**
 
   * --instance-id
   * --instance-os-user
@@ -30,5 +26,7 @@ ec2-instance-connect
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

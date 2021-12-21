@@ -1,10 +1,6 @@
-<details>
+<details><summary>serverlessrepo</summary><blockquote>
 
-<summary>
-serverlessrepo
-</summary>
-
-- <details><summary>create-application</summary>
+- **<details><summary>create-application</summary><blockquote>**
 
   * --author
   * --description
@@ -26,7 +22,7 @@ serverlessrepo
   * --generate-cli-skeleton
 
 
-- <details><summary>create-application-version</summary>
+- **<details><summary>create-application-version</summary><blockquote>**
 
   * --application-id
   * --semantic-version
@@ -39,7 +35,7 @@ serverlessrepo
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cloud-formation-change-set</summary>
+- **<details><summary>create-cloud-formation-change-set</summary><blockquote>**
 
   * --application-id
   * --capabilities
@@ -59,7 +55,7 @@ serverlessrepo
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cloud-formation-template</summary>
+- **<details><summary>create-cloud-formation-template</summary><blockquote>**
 
   * --application-id
   * --semantic-version
@@ -68,7 +64,7 @@ serverlessrepo
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application</summary>
+- **<details><summary>delete-application</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -76,7 +72,7 @@ serverlessrepo
   * --generate-cli-skeleton
 
 
-- <details><summary>get-application</summary>
+- **<details><summary>get-application</summary><blockquote>**
 
   * --application-id
   * --semantic-version
@@ -85,7 +81,7 @@ serverlessrepo
   * --generate-cli-skeleton
 
 
-- <details><summary>get-application-policy</summary>
+- **<details><summary>get-application-policy</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -93,7 +89,7 @@ serverlessrepo
   * --generate-cli-skeleton
 
 
-- <details><summary>get-cloud-formation-template</summary>
+- **<details><summary>get-cloud-formation-template</summary><blockquote>**
 
   * --application-id
   * --template-id
@@ -102,12 +98,12 @@ serverlessrepo
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-application-dependencies</summary>
+- **<details><summary>list-application-dependencies</summary><blockquote>**
 
   * --application-id
   * --max-items
@@ -119,7 +115,7 @@ serverlessrepo
   * --generate-cli-skeleton
 
 
-- <details><summary>list-applications</summary>
+- **<details><summary>list-applications</summary><blockquote>**
 
   * --max-items
   * --cli-input-json
@@ -129,7 +125,7 @@ serverlessrepo
   * --generate-cli-skeleton
 
 
-- <details><summary>list-application-versions</summary>
+- **<details><summary>list-application-versions</summary><blockquote>**
 
   * --application-id
   * --max-items
@@ -140,7 +136,7 @@ serverlessrepo
   * --generate-cli-skeleton
 
 
-- <details><summary>put-application-policy</summary>
+- **<details><summary>put-application-policy</summary><blockquote>**
 
   * --application-id
   * --statements
@@ -149,7 +145,7 @@ serverlessrepo
   * --generate-cli-skeleton
 
 
-- <details><summary>unshare-application</summary>
+- **<details><summary>unshare-application</summary><blockquote>**
 
   * --application-id
   * --organization-id
@@ -158,7 +154,7 @@ serverlessrepo
   * --generate-cli-skeleton
 
 
-- <details><summary>update-application</summary>
+- **<details><summary>update-application</summary><blockquote>**
 
   * --application-id
   * --author
@@ -172,5 +168,19 @@ serverlessrepo
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

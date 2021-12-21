@@ -1,10 +1,6 @@
-<details>
+<details><summary>personalize</summary><blockquote>
 
-<summary>
-personalize
-</summary>
-
-- <details><summary>create-batch-inference-job</summary>
+- **<details><summary>create-batch-inference-job</summary><blockquote>**
 
   * --job-name
   * --solution-version-arn
@@ -19,7 +15,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>create-campaign</summary>
+- **<details><summary>create-campaign</summary><blockquote>**
 
   * --name
   * --solution-version-arn
@@ -30,7 +26,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>create-dataset</summary>
+- **<details><summary>create-dataset</summary><blockquote>**
 
   * --name
   * --schema-arn
@@ -41,7 +37,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>create-dataset-export-job</summary>
+- **<details><summary>create-dataset-export-job</summary><blockquote>**
 
   * --job-name
   * --dataset-arn
@@ -53,7 +49,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>create-dataset-group</summary>
+- **<details><summary>create-dataset-group</summary><blockquote>**
 
   * --name
   * --role-arn
@@ -63,7 +59,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>create-dataset-import-job</summary>
+- **<details><summary>create-dataset-import-job</summary><blockquote>**
 
   * --job-name
   * --dataset-arn
@@ -74,7 +70,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>create-event-tracker</summary>
+- **<details><summary>create-event-tracker</summary><blockquote>**
 
   * --name
   * --dataset-group-arn
@@ -83,7 +79,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>create-filter</summary>
+- **<details><summary>create-filter</summary><blockquote>**
 
   * --name
   * --dataset-group-arn
@@ -93,7 +89,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>create-schema</summary>
+- **<details><summary>create-schema</summary><blockquote>**
 
   * --name
   * --schema
@@ -102,7 +98,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>create-solution</summary>
+- **<details><summary>create-solution</summary><blockquote>**
 
   * --name
   * --perform-hpo
@@ -118,7 +114,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>create-solution-version</summary>
+- **<details><summary>create-solution-version</summary><blockquote>**
 
   * --solution-arn
   * --training-mode
@@ -127,7 +123,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-campaign</summary>
+- **<details><summary>delete-campaign</summary><blockquote>**
 
   * --campaign-arn
   * --cli-input-json
@@ -135,7 +131,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-dataset</summary>
+- **<details><summary>delete-dataset</summary><blockquote>**
 
   * --dataset-arn
   * --cli-input-json
@@ -143,7 +139,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-dataset-group</summary>
+- **<details><summary>delete-dataset-group</summary><blockquote>**
 
   * --dataset-group-arn
   * --cli-input-json
@@ -151,7 +147,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-event-tracker</summary>
+- **<details><summary>delete-event-tracker</summary><blockquote>**
 
   * --event-tracker-arn
   * --cli-input-json
@@ -159,7 +155,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-filter</summary>
+- **<details><summary>delete-filter</summary><blockquote>**
 
   * --filter-arn
   * --cli-input-json
@@ -167,7 +163,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-schema</summary>
+- **<details><summary>delete-schema</summary><blockquote>**
 
   * --schema-arn
   * --cli-input-json
@@ -175,7 +171,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-solution</summary>
+- **<details><summary>delete-solution</summary><blockquote>**
 
   * --solution-arn
   * --cli-input-json
@@ -183,7 +179,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-algorithm</summary>
+- **<details><summary>describe-algorithm</summary><blockquote>**
 
   * --algorithm-arn
   * --cli-input-json
@@ -191,7 +187,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-batch-inference-job</summary>
+- **<details><summary>describe-batch-inference-job</summary><blockquote>**
 
   * --batch-inference-job-arn
   * --cli-input-json
@@ -199,7 +195,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-campaign</summary>
+- **<details><summary>describe-campaign</summary><blockquote>**
 
   * --campaign-arn
   * --cli-input-json
@@ -207,7 +203,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-dataset</summary>
+- **<details><summary>describe-dataset</summary><blockquote>**
 
   * --dataset-arn
   * --cli-input-json
@@ -215,7 +211,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-dataset-export-job</summary>
+- **<details><summary>describe-dataset-export-job</summary><blockquote>**
 
   * --dataset-export-job-arn
   * --cli-input-json
@@ -223,7 +219,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-dataset-group</summary>
+- **<details><summary>describe-dataset-group</summary><blockquote>**
 
   * --dataset-group-arn
   * --cli-input-json
@@ -231,7 +227,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-dataset-import-job</summary>
+- **<details><summary>describe-dataset-import-job</summary><blockquote>**
 
   * --dataset-import-job-arn
   * --cli-input-json
@@ -239,7 +235,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-event-tracker</summary>
+- **<details><summary>describe-event-tracker</summary><blockquote>**
 
   * --event-tracker-arn
   * --cli-input-json
@@ -247,7 +243,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-feature-transformation</summary>
+- **<details><summary>describe-feature-transformation</summary><blockquote>**
 
   * --feature-transformation-arn
   * --cli-input-json
@@ -255,7 +251,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-filter</summary>
+- **<details><summary>describe-filter</summary><blockquote>**
 
   * --filter-arn
   * --cli-input-json
@@ -263,7 +259,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-recipe</summary>
+- **<details><summary>describe-recipe</summary><blockquote>**
 
   * --recipe-arn
   * --cli-input-json
@@ -271,7 +267,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-schema</summary>
+- **<details><summary>describe-schema</summary><blockquote>**
 
   * --schema-arn
   * --cli-input-json
@@ -279,7 +275,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-solution</summary>
+- **<details><summary>describe-solution</summary><blockquote>**
 
   * --solution-arn
   * --cli-input-json
@@ -287,7 +283,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-solution-version</summary>
+- **<details><summary>describe-solution-version</summary><blockquote>**
 
   * --solution-version-arn
   * --cli-input-json
@@ -295,7 +291,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>get-solution-metrics</summary>
+- **<details><summary>get-solution-metrics</summary><blockquote>**
 
   * --solution-version-arn
   * --cli-input-json
@@ -303,12 +299,12 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-batch-inference-jobs</summary>
+- **<details><summary>list-batch-inference-jobs</summary><blockquote>**
 
   * --solution-version-arn
   * --cli-input-json
@@ -319,7 +315,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>list-campaigns</summary>
+- **<details><summary>list-campaigns</summary><blockquote>**
 
   * --solution-arn
   * --cli-input-json
@@ -330,7 +326,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>list-dataset-export-jobs</summary>
+- **<details><summary>list-dataset-export-jobs</summary><blockquote>**
 
   * --dataset-arn
   * --cli-input-json
@@ -341,7 +337,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>list-dataset-groups</summary>
+- **<details><summary>list-dataset-groups</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -351,7 +347,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>list-dataset-import-jobs</summary>
+- **<details><summary>list-dataset-import-jobs</summary><blockquote>**
 
   * --dataset-arn
   * --cli-input-json
@@ -362,7 +358,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>list-datasets</summary>
+- **<details><summary>list-datasets</summary><blockquote>**
 
   * --dataset-group-arn
   * --cli-input-json
@@ -373,7 +369,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>list-event-trackers</summary>
+- **<details><summary>list-event-trackers</summary><blockquote>**
 
   * --dataset-group-arn
   * --cli-input-json
@@ -384,7 +380,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>list-filters</summary>
+- **<details><summary>list-filters</summary><blockquote>**
 
   * --dataset-group-arn
   * --cli-input-json
@@ -395,7 +391,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>list-recipes</summary>
+- **<details><summary>list-recipes</summary><blockquote>**
 
   * --recipe-provider
   * --cli-input-json
@@ -406,7 +402,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>list-schemas</summary>
+- **<details><summary>list-schemas</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -416,7 +412,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>list-solutions</summary>
+- **<details><summary>list-solutions</summary><blockquote>**
 
   * --dataset-group-arn
   * --cli-input-json
@@ -427,7 +423,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>list-solution-versions</summary>
+- **<details><summary>list-solution-versions</summary><blockquote>**
 
   * --solution-arn
   * --cli-input-json
@@ -438,7 +434,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-solution-version-creation</summary>
+- **<details><summary>stop-solution-version-creation</summary><blockquote>**
 
   * --solution-version-arn
   * --cli-input-json
@@ -446,7 +442,7 @@ personalize
   * --generate-cli-skeleton
 
 
-- <details><summary>update-campaign</summary>
+- **<details><summary>update-campaign</summary><blockquote>**
 
   * --campaign-arn
   * --solution-version-arn
@@ -457,5 +453,52 @@ personalize
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

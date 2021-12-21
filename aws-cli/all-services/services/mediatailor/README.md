@@ -1,10 +1,6 @@
-<details>
+<details><summary>mediatailor</summary><blockquote>
 
-<summary>
-mediatailor
-</summary>
-
-- <details><summary>create-channel</summary>
+- **<details><summary>create-channel</summary><blockquote>**
 
   * --channel-name
   * --outputs
@@ -15,7 +11,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>create-program</summary>
+- **<details><summary>create-program</summary><blockquote>**
 
   * --ad-breaks
   * --channel-name
@@ -28,7 +24,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>create-source-location</summary>
+- **<details><summary>create-source-location</summary><blockquote>**
 
   * --access-configuration
   * --default-segment-delivery-configuration
@@ -40,7 +36,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>create-vod-source</summary>
+- **<details><summary>create-vod-source</summary><blockquote>**
 
   * --http-package-configurations
   * --source-location-name
@@ -51,7 +47,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-channel</summary>
+- **<details><summary>delete-channel</summary><blockquote>**
 
   * --channel-name
   * --cli-input-json
@@ -59,7 +55,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-channel-policy</summary>
+- **<details><summary>delete-channel-policy</summary><blockquote>**
 
   * --channel-name
   * --cli-input-json
@@ -67,7 +63,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-playback-configuration</summary>
+- **<details><summary>delete-playback-configuration</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -75,7 +71,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-program</summary>
+- **<details><summary>delete-program</summary><blockquote>**
 
   * --channel-name
   * --program-name
@@ -84,7 +80,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-source-location</summary>
+- **<details><summary>delete-source-location</summary><blockquote>**
 
   * --source-location-name
   * --cli-input-json
@@ -92,7 +88,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-vod-source</summary>
+- **<details><summary>delete-vod-source</summary><blockquote>**
 
   * --source-location-name
   * --vod-source-name
@@ -101,7 +97,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-channel</summary>
+- **<details><summary>describe-channel</summary><blockquote>**
 
   * --channel-name
   * --cli-input-json
@@ -109,7 +105,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-program</summary>
+- **<details><summary>describe-program</summary><blockquote>**
 
   * --channel-name
   * --program-name
@@ -118,7 +114,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-source-location</summary>
+- **<details><summary>describe-source-location</summary><blockquote>**
 
   * --source-location-name
   * --cli-input-json
@@ -126,7 +122,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-vod-source</summary>
+- **<details><summary>describe-vod-source</summary><blockquote>**
 
   * --source-location-name
   * --vod-source-name
@@ -135,7 +131,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>get-channel-policy</summary>
+- **<details><summary>get-channel-policy</summary><blockquote>**
 
   * --channel-name
   * --cli-input-json
@@ -143,7 +139,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>get-channel-schedule</summary>
+- **<details><summary>get-channel-schedule</summary><blockquote>**
 
   * --channel-name
   * --duration-minutes
@@ -155,7 +151,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>get-playback-configuration</summary>
+- **<details><summary>get-playback-configuration</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -163,12 +159,12 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-alerts</summary>
+- **<details><summary>list-alerts</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -179,7 +175,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>list-channels</summary>
+- **<details><summary>list-channels</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -189,7 +185,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>list-playback-configurations</summary>
+- **<details><summary>list-playback-configurations</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -199,7 +195,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>list-source-locations</summary>
+- **<details><summary>list-source-locations</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -209,7 +205,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -217,7 +213,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>list-vod-sources</summary>
+- **<details><summary>list-vod-sources</summary><blockquote>**
 
   * --source-location-name
   * --cli-input-json
@@ -228,7 +224,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>put-channel-policy</summary>
+- **<details><summary>put-channel-policy</summary><blockquote>**
 
   * --channel-name
   * --policy
@@ -237,7 +233,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>put-playback-configuration</summary>
+- **<details><summary>put-playback-configuration</summary><blockquote>**
 
   * --ad-decision-server-url
   * --avail-suppression
@@ -258,7 +254,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>start-channel</summary>
+- **<details><summary>start-channel</summary><blockquote>**
 
   * --channel-name
   * --cli-input-json
@@ -266,7 +262,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-channel</summary>
+- **<details><summary>stop-channel</summary><blockquote>**
 
   * --channel-name
   * --cli-input-json
@@ -274,7 +270,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -283,7 +279,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -292,7 +288,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>update-channel</summary>
+- **<details><summary>update-channel</summary><blockquote>**
 
   * --channel-name
   * --outputs
@@ -301,7 +297,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>update-source-location</summary>
+- **<details><summary>update-source-location</summary><blockquote>**
 
   * --access-configuration
   * --default-segment-delivery-configuration
@@ -312,7 +308,7 @@ mediatailor
   * --generate-cli-skeleton
 
 
-- <details><summary>update-vod-source</summary>
+- **<details><summary>update-vod-source</summary><blockquote>**
 
   * --http-package-configurations
   * --source-location-name
@@ -322,5 +318,37 @@ mediatailor
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>codestar-notifications</summary><blockquote>
 
-<summary>
-codestar-notifications
-</summary>
-
-- <details><summary>create-notification-rule</summary>
+- **<details><summary>create-notification-rule</summary><blockquote>**
 
   * --name
   * --event-type-ids
@@ -19,7 +15,7 @@ codestar-notifications
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-notification-rule</summary>
+- **<details><summary>delete-notification-rule</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -27,7 +23,7 @@ codestar-notifications
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-target</summary>
+- **<details><summary>delete-target</summary><blockquote>**
 
   * --target-address
   * --force-unsubscribe-all
@@ -37,7 +33,7 @@ codestar-notifications
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-notification-rule</summary>
+- **<details><summary>describe-notification-rule</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -45,12 +41,12 @@ codestar-notifications
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-event-types</summary>
+- **<details><summary>list-event-types</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -61,7 +57,7 @@ codestar-notifications
   * --generate-cli-skeleton
 
 
-- <details><summary>list-notification-rules</summary>
+- **<details><summary>list-notification-rules</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -72,7 +68,7 @@ codestar-notifications
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -80,7 +76,7 @@ codestar-notifications
   * --generate-cli-skeleton
 
 
-- <details><summary>list-targets</summary>
+- **<details><summary>list-targets</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -91,7 +87,7 @@ codestar-notifications
   * --generate-cli-skeleton
 
 
-- <details><summary>subscribe</summary>
+- **<details><summary>subscribe</summary><blockquote>**
 
   * --arn
   * --target
@@ -101,7 +97,7 @@ codestar-notifications
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --arn
   * --tags
@@ -110,7 +106,7 @@ codestar-notifications
   * --generate-cli-skeleton
 
 
-- <details><summary>unsubscribe</summary>
+- **<details><summary>unsubscribe</summary><blockquote>**
 
   * --arn
   * --target-address
@@ -119,7 +115,7 @@ codestar-notifications
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --arn
   * --tag-keys
@@ -128,7 +124,7 @@ codestar-notifications
   * --generate-cli-skeleton
 
 
-- <details><summary>update-notification-rule</summary>
+- **<details><summary>update-notification-rule</summary><blockquote>**
 
   * --arn
   * --name
@@ -141,5 +137,18 @@ codestar-notifications
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

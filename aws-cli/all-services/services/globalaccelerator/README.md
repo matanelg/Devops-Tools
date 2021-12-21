@@ -1,10 +1,6 @@
-<details>
+<details><summary>globalaccelerator</summary><blockquote>
 
-<summary>
-globalaccelerator
-</summary>
-
-- <details><summary>add-custom-routing-endpoints</summary>
+- **<details><summary>add-custom-routing-endpoints</summary><blockquote>**
 
   * --endpoint-configurations
   * --endpoint-group-arn
@@ -13,7 +9,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>advertise-byoip-cidr</summary>
+- **<details><summary>advertise-byoip-cidr</summary><blockquote>**
 
   * --cidr
   * --cli-input-json
@@ -21,7 +17,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>allow-custom-routing-traffic</summary>
+- **<details><summary>allow-custom-routing-traffic</summary><blockquote>**
 
   * --endpoint-group-arn
   * --endpoint-id
@@ -34,7 +30,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>create-accelerator</summary>
+- **<details><summary>create-accelerator</summary><blockquote>**
 
   * --name
   * --ip-address-type
@@ -48,7 +44,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>create-custom-routing-accelerator</summary>
+- **<details><summary>create-custom-routing-accelerator</summary><blockquote>**
 
   * --name
   * --ip-address-type
@@ -62,7 +58,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>create-custom-routing-endpoint-group</summary>
+- **<details><summary>create-custom-routing-endpoint-group</summary><blockquote>**
 
   * --listener-arn
   * --endpoint-group-region
@@ -73,7 +69,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>create-custom-routing-listener</summary>
+- **<details><summary>create-custom-routing-listener</summary><blockquote>**
 
   * --accelerator-arn
   * --port-ranges
@@ -83,7 +79,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>create-endpoint-group</summary>
+- **<details><summary>create-endpoint-group</summary><blockquote>**
 
   * --listener-arn
   * --endpoint-group-region
@@ -101,7 +97,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>create-listener</summary>
+- **<details><summary>create-listener</summary><blockquote>**
 
   * --accelerator-arn
   * --port-ranges
@@ -113,7 +109,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-accelerator</summary>
+- **<details><summary>delete-accelerator</summary><blockquote>**
 
   * --accelerator-arn
   * --cli-input-json
@@ -121,7 +117,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-custom-routing-accelerator</summary>
+- **<details><summary>delete-custom-routing-accelerator</summary><blockquote>**
 
   * --accelerator-arn
   * --cli-input-json
@@ -129,7 +125,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-custom-routing-endpoint-group</summary>
+- **<details><summary>delete-custom-routing-endpoint-group</summary><blockquote>**
 
   * --endpoint-group-arn
   * --cli-input-json
@@ -137,7 +133,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-custom-routing-listener</summary>
+- **<details><summary>delete-custom-routing-listener</summary><blockquote>**
 
   * --listener-arn
   * --cli-input-json
@@ -145,7 +141,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-endpoint-group</summary>
+- **<details><summary>delete-endpoint-group</summary><blockquote>**
 
   * --endpoint-group-arn
   * --cli-input-json
@@ -153,7 +149,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-listener</summary>
+- **<details><summary>delete-listener</summary><blockquote>**
 
   * --listener-arn
   * --cli-input-json
@@ -161,7 +157,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>deny-custom-routing-traffic</summary>
+- **<details><summary>deny-custom-routing-traffic</summary><blockquote>**
 
   * --endpoint-group-arn
   * --endpoint-id
@@ -174,7 +170,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>deprovision-byoip-cidr</summary>
+- **<details><summary>deprovision-byoip-cidr</summary><blockquote>**
 
   * --cidr
   * --cli-input-json
@@ -182,7 +178,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-accelerator</summary>
+- **<details><summary>describe-accelerator</summary><blockquote>**
 
   * --accelerator-arn
   * --cli-input-json
@@ -190,7 +186,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-accelerator-attributes</summary>
+- **<details><summary>describe-accelerator-attributes</summary><blockquote>**
 
   * --accelerator-arn
   * --cli-input-json
@@ -198,7 +194,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-custom-routing-accelerator</summary>
+- **<details><summary>describe-custom-routing-accelerator</summary><blockquote>**
 
   * --accelerator-arn
   * --cli-input-json
@@ -206,7 +202,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-custom-routing-accelerator-attributes</summary>
+- **<details><summary>describe-custom-routing-accelerator-attributes</summary><blockquote>**
 
   * --accelerator-arn
   * --cli-input-json
@@ -214,7 +210,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-custom-routing-endpoint-group</summary>
+- **<details><summary>describe-custom-routing-endpoint-group</summary><blockquote>**
 
   * --endpoint-group-arn
   * --cli-input-json
@@ -222,7 +218,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-custom-routing-listener</summary>
+- **<details><summary>describe-custom-routing-listener</summary><blockquote>**
 
   * --listener-arn
   * --cli-input-json
@@ -230,7 +226,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-endpoint-group</summary>
+- **<details><summary>describe-endpoint-group</summary><blockquote>**
 
   * --endpoint-group-arn
   * --cli-input-json
@@ -238,7 +234,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-listener</summary>
+- **<details><summary>describe-listener</summary><blockquote>**
 
   * --listener-arn
   * --cli-input-json
@@ -246,12 +242,12 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-accelerators</summary>
+- **<details><summary>list-accelerators</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -261,7 +257,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>list-byoip-cidrs</summary>
+- **<details><summary>list-byoip-cidrs</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -271,7 +267,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>list-custom-routing-accelerators</summary>
+- **<details><summary>list-custom-routing-accelerators</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -281,7 +277,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>list-custom-routing-endpoint-groups</summary>
+- **<details><summary>list-custom-routing-endpoint-groups</summary><blockquote>**
 
   * --listener-arn
   * --max-results
@@ -291,7 +287,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>list-custom-routing-listeners</summary>
+- **<details><summary>list-custom-routing-listeners</summary><blockquote>**
 
   * --accelerator-arn
   * --cli-input-json
@@ -302,7 +298,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>list-custom-routing-port-mappings</summary>
+- **<details><summary>list-custom-routing-port-mappings</summary><blockquote>**
 
   * --accelerator-arn
   * --endpoint-group-arn
@@ -314,7 +310,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>list-custom-routing-port-mappings-by-destination</summary>
+- **<details><summary>list-custom-routing-port-mappings-by-destination</summary><blockquote>**
 
   * --endpoint-id
   * --destination-address
@@ -326,7 +322,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>list-endpoint-groups</summary>
+- **<details><summary>list-endpoint-groups</summary><blockquote>**
 
   * --listener-arn
   * --cli-input-json
@@ -337,7 +333,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>list-listeners</summary>
+- **<details><summary>list-listeners</summary><blockquote>**
 
   * --accelerator-arn
   * --cli-input-json
@@ -348,7 +344,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -356,7 +352,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>provision-byoip-cidr</summary>
+- **<details><summary>provision-byoip-cidr</summary><blockquote>**
 
   * --cidr
   * --cidr-authorization-context
@@ -365,7 +361,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-custom-routing-endpoints</summary>
+- **<details><summary>remove-custom-routing-endpoints</summary><blockquote>**
 
   * --endpoint-ids
   * --endpoint-group-arn
@@ -374,7 +370,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -383,7 +379,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -392,7 +388,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>update-accelerator</summary>
+- **<details><summary>update-accelerator</summary><blockquote>**
 
   * --accelerator-arn
   * --name
@@ -404,7 +400,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>update-accelerator-attributes</summary>
+- **<details><summary>update-accelerator-attributes</summary><blockquote>**
 
   * --accelerator-arn
   * --flow-logs-enabled
@@ -416,7 +412,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>update-custom-routing-accelerator</summary>
+- **<details><summary>update-custom-routing-accelerator</summary><blockquote>**
 
   * --accelerator-arn
   * --name
@@ -428,7 +424,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>update-custom-routing-accelerator-attributes</summary>
+- **<details><summary>update-custom-routing-accelerator-attributes</summary><blockquote>**
 
   * --accelerator-arn
   * --flow-logs-enabled
@@ -440,7 +436,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>update-custom-routing-listener</summary>
+- **<details><summary>update-custom-routing-listener</summary><blockquote>**
 
   * --listener-arn
   * --port-ranges
@@ -449,7 +445,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>update-endpoint-group</summary>
+- **<details><summary>update-endpoint-group</summary><blockquote>**
 
   * --endpoint-group-arn
   * --endpoint-configurations
@@ -465,7 +461,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>update-listener</summary>
+- **<details><summary>update-listener</summary><blockquote>**
 
   * --listener-arn
   * --port-ranges
@@ -476,7 +472,7 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-- <details><summary>withdraw-byoip-cidr</summary>
+- **<details><summary>withdraw-byoip-cidr</summary><blockquote>**
 
   * --cidr
   * --cli-input-json
@@ -484,5 +480,52 @@ globalaccelerator
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

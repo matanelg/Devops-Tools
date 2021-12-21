@@ -1,10 +1,6 @@
-<details>
+<details><summary>frauddetector</summary><blockquote>
 
-<summary>
-frauddetector
-</summary>
-
-- <details><summary>batch-create-variable</summary>
+- **<details><summary>batch-create-variable</summary><blockquote>**
 
   * --variable-entries
   * --tags
@@ -13,7 +9,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-variable</summary>
+- **<details><summary>batch-get-variable</summary><blockquote>**
 
   * --names
   * --cli-input-json
@@ -21,7 +17,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-batch-prediction-job</summary>
+- **<details><summary>cancel-batch-prediction-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -29,7 +25,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>create-batch-prediction-job</summary>
+- **<details><summary>create-batch-prediction-job</summary><blockquote>**
 
   * --job-id
   * --input-path
@@ -44,7 +40,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>create-detector-version</summary>
+- **<details><summary>create-detector-version</summary><blockquote>**
 
   * --detector-id
   * --description
@@ -58,7 +54,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>create-model</summary>
+- **<details><summary>create-model</summary><blockquote>**
 
   * --model-id
   * --model-type
@@ -70,7 +66,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>create-model-version</summary>
+- **<details><summary>create-model-version</summary><blockquote>**
 
   * --model-id
   * --model-type
@@ -83,7 +79,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>create-rule</summary>
+- **<details><summary>create-rule</summary><blockquote>**
 
   * --rule-id
   * --detector-id
@@ -97,7 +93,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>create-variable</summary>
+- **<details><summary>create-variable</summary><blockquote>**
 
   * --name
   * --data-type
@@ -111,7 +107,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-batch-prediction-job</summary>
+- **<details><summary>delete-batch-prediction-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -119,7 +115,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-detector</summary>
+- **<details><summary>delete-detector</summary><blockquote>**
 
   * --detector-id
   * --cli-input-json
@@ -127,7 +123,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-detector-version</summary>
+- **<details><summary>delete-detector-version</summary><blockquote>**
 
   * --detector-id
   * --detector-version-id
@@ -136,7 +132,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-entity-type</summary>
+- **<details><summary>delete-entity-type</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -144,7 +140,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-event</summary>
+- **<details><summary>delete-event</summary><blockquote>**
 
   * --event-id
   * --event-type-name
@@ -153,7 +149,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-event-type</summary>
+- **<details><summary>delete-event-type</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -161,7 +157,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-external-model</summary>
+- **<details><summary>delete-external-model</summary><blockquote>**
 
   * --model-endpoint
   * --cli-input-json
@@ -169,7 +165,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-label</summary>
+- **<details><summary>delete-label</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -177,7 +173,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-model</summary>
+- **<details><summary>delete-model</summary><blockquote>**
 
   * --model-id
   * --model-type
@@ -186,7 +182,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-model-version</summary>
+- **<details><summary>delete-model-version</summary><blockquote>**
 
   * --model-id
   * --model-type
@@ -196,7 +192,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-outcome</summary>
+- **<details><summary>delete-outcome</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -204,7 +200,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-rule</summary>
+- **<details><summary>delete-rule</summary><blockquote>**
 
   * --rule
   * --cli-input-json
@@ -212,7 +208,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-variable</summary>
+- **<details><summary>delete-variable</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -220,7 +216,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-detector</summary>
+- **<details><summary>describe-detector</summary><blockquote>**
 
   * --detector-id
   * --next-token
@@ -230,7 +226,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-model-versions</summary>
+- **<details><summary>describe-model-versions</summary><blockquote>**
 
   * --model-id
   * --model-version-number
@@ -242,7 +238,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>get-batch-prediction-jobs</summary>
+- **<details><summary>get-batch-prediction-jobs</summary><blockquote>**
 
   * --job-id
   * --max-results
@@ -252,7 +248,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>get-detectors</summary>
+- **<details><summary>get-detectors</summary><blockquote>**
 
   * --detector-id
   * --next-token
@@ -262,7 +258,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>get-detector-version</summary>
+- **<details><summary>get-detector-version</summary><blockquote>**
 
   * --detector-id
   * --detector-version-id
@@ -271,7 +267,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>get-entity-types</summary>
+- **<details><summary>get-entity-types</summary><blockquote>**
 
   * --name
   * --next-token
@@ -281,7 +277,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>get-event-prediction</summary>
+- **<details><summary>get-event-prediction</summary><blockquote>**
 
   * --detector-id
   * --detector-version-id
@@ -296,7 +292,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>get-event-types</summary>
+- **<details><summary>get-event-types</summary><blockquote>**
 
   * --name
   * --next-token
@@ -306,7 +302,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>get-external-models</summary>
+- **<details><summary>get-external-models</summary><blockquote>**
 
   * --model-endpoint
   * --next-token
@@ -316,14 +312,14 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>get-kms-encryption-key</summary>
+- **<details><summary>get-kms-encryption-key</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-labels</summary>
+- **<details><summary>get-labels</summary><blockquote>**
 
   * --name
   * --next-token
@@ -333,7 +329,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>get-models</summary>
+- **<details><summary>get-models</summary><blockquote>**
 
   * --model-id
   * --model-type
@@ -344,7 +340,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>get-model-version</summary>
+- **<details><summary>get-model-version</summary><blockquote>**
 
   * --model-id
   * --model-type
@@ -354,7 +350,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>get-outcomes</summary>
+- **<details><summary>get-outcomes</summary><blockquote>**
 
   * --name
   * --next-token
@@ -364,7 +360,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>get-rules</summary>
+- **<details><summary>get-rules</summary><blockquote>**
 
   * --rule-id
   * --detector-id
@@ -376,7 +372,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>get-variables</summary>
+- **<details><summary>get-variables</summary><blockquote>**
 
   * --name
   * --next-token
@@ -386,12 +382,12 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --next-token
@@ -401,7 +397,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>put-detector</summary>
+- **<details><summary>put-detector</summary><blockquote>**
 
   * --detector-id
   * --description
@@ -412,7 +408,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>put-entity-type</summary>
+- **<details><summary>put-entity-type</summary><blockquote>**
 
   * --name
   * --description
@@ -422,7 +418,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>put-event-type</summary>
+- **<details><summary>put-event-type</summary><blockquote>**
 
   * --name
   * --description
@@ -435,7 +431,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>put-external-model</summary>
+- **<details><summary>put-external-model</summary><blockquote>**
 
   * --model-endpoint
   * --model-source
@@ -449,7 +445,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>put-kms-encryption-key</summary>
+- **<details><summary>put-kms-encryption-key</summary><blockquote>**
 
   * --kms-encryption-key-arn
   * --cli-input-json
@@ -457,7 +453,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>put-label</summary>
+- **<details><summary>put-label</summary><blockquote>**
 
   * --name
   * --description
@@ -467,7 +463,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>put-outcome</summary>
+- **<details><summary>put-outcome</summary><blockquote>**
 
   * --name
   * --description
@@ -477,7 +473,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -486,7 +482,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -495,7 +491,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>update-detector-version</summary>
+- **<details><summary>update-detector-version</summary><blockquote>**
 
   * --detector-id
   * --detector-version-id
@@ -509,7 +505,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>update-detector-version-metadata</summary>
+- **<details><summary>update-detector-version-metadata</summary><blockquote>**
 
   * --detector-id
   * --detector-version-id
@@ -519,7 +515,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>update-detector-version-status</summary>
+- **<details><summary>update-detector-version-status</summary><blockquote>**
 
   * --detector-id
   * --detector-version-id
@@ -529,7 +525,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>update-model</summary>
+- **<details><summary>update-model</summary><blockquote>**
 
   * --model-id
   * --model-type
@@ -539,7 +535,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>update-model-version</summary>
+- **<details><summary>update-model-version</summary><blockquote>**
 
   * --model-id
   * --model-type
@@ -551,7 +547,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>update-model-version-status</summary>
+- **<details><summary>update-model-version-status</summary><blockquote>**
 
   * --model-id
   * --model-type
@@ -562,7 +558,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>update-rule-metadata</summary>
+- **<details><summary>update-rule-metadata</summary><blockquote>**
 
   * --rule
   * --description
@@ -571,7 +567,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>update-rule-version</summary>
+- **<details><summary>update-rule-version</summary><blockquote>**
 
   * --rule
   * --description
@@ -584,7 +580,7 @@ frauddetector
   * --generate-cli-skeleton
 
 
-- <details><summary>update-variable</summary>
+- **<details><summary>update-variable</summary><blockquote>**
 
   * --name
   * --default-value
@@ -595,5 +591,62 @@ frauddetector
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

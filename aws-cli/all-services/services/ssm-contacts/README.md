@@ -1,10 +1,6 @@
-<details>
+<details><summary>ssm-contacts</summary><blockquote>
 
-<summary>
-ssm-contacts
-</summary>
-
-- <details><summary>accept-page</summary>
+- **<details><summary>accept-page</summary><blockquote>**
 
   * --page-id
   * --contact-channel-id
@@ -16,7 +12,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>activate-contact-channel</summary>
+- **<details><summary>activate-contact-channel</summary><blockquote>**
 
   * --contact-channel-id
   * --activation-code
@@ -25,7 +21,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>create-contact</summary>
+- **<details><summary>create-contact</summary><blockquote>**
 
   * --alias
   * --display-name
@@ -38,7 +34,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>create-contact-channel</summary>
+- **<details><summary>create-contact-channel</summary><blockquote>**
 
   * --contact-id
   * --name
@@ -52,7 +48,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>deactivate-contact-channel</summary>
+- **<details><summary>deactivate-contact-channel</summary><blockquote>**
 
   * --contact-channel-id
   * --cli-input-json
@@ -60,7 +56,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-contact</summary>
+- **<details><summary>delete-contact</summary><blockquote>**
 
   * --contact-id
   * --cli-input-json
@@ -68,7 +64,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-contact-channel</summary>
+- **<details><summary>delete-contact-channel</summary><blockquote>**
 
   * --contact-channel-id
   * --cli-input-json
@@ -76,7 +72,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-engagement</summary>
+- **<details><summary>describe-engagement</summary><blockquote>**
 
   * --engagement-id
   * --cli-input-json
@@ -84,7 +80,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-page</summary>
+- **<details><summary>describe-page</summary><blockquote>**
 
   * --page-id
   * --cli-input-json
@@ -92,7 +88,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>get-contact</summary>
+- **<details><summary>get-contact</summary><blockquote>**
 
   * --contact-id
   * --cli-input-json
@@ -100,7 +96,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>get-contact-channel</summary>
+- **<details><summary>get-contact-channel</summary><blockquote>**
 
   * --contact-channel-id
   * --cli-input-json
@@ -108,7 +104,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>get-contact-policy</summary>
+- **<details><summary>get-contact-policy</summary><blockquote>**
 
   * --contact-arn
   * --cli-input-json
@@ -116,12 +112,12 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-contact-channels</summary>
+- **<details><summary>list-contact-channels</summary><blockquote>**
 
   * --contact-id
   * --cli-input-json
@@ -132,7 +128,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>list-contacts</summary>
+- **<details><summary>list-contacts</summary><blockquote>**
 
   * --alias-prefix
   * --type
@@ -144,7 +140,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>list-engagements</summary>
+- **<details><summary>list-engagements</summary><blockquote>**
 
   * --incident-id
   * --time-range-value
@@ -156,7 +152,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>list-page-receipts</summary>
+- **<details><summary>list-page-receipts</summary><blockquote>**
 
   * --page-id
   * --cli-input-json
@@ -167,7 +163,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>list-pages-by-contact</summary>
+- **<details><summary>list-pages-by-contact</summary><blockquote>**
 
   * --contact-id
   * --cli-input-json
@@ -178,7 +174,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>list-pages-by-engagement</summary>
+- **<details><summary>list-pages-by-engagement</summary><blockquote>**
 
   * --engagement-id
   * --cli-input-json
@@ -189,7 +185,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -197,7 +193,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>put-contact-policy</summary>
+- **<details><summary>put-contact-policy</summary><blockquote>**
 
   * --contact-arn
   * --policy
@@ -206,7 +202,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>send-activation-code</summary>
+- **<details><summary>send-activation-code</summary><blockquote>**
 
   * --contact-channel-id
   * --cli-input-json
@@ -214,7 +210,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>start-engagement</summary>
+- **<details><summary>start-engagement</summary><blockquote>**
 
   * --contact-id
   * --sender
@@ -229,7 +225,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-engagement</summary>
+- **<details><summary>stop-engagement</summary><blockquote>**
 
   * --engagement-id
   * --reason
@@ -238,7 +234,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -247,7 +243,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -256,7 +252,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>update-contact</summary>
+- **<details><summary>update-contact</summary><blockquote>**
 
   * --contact-id
   * --display-name
@@ -266,7 +262,7 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-- <details><summary>update-contact-channel</summary>
+- **<details><summary>update-contact-channel</summary><blockquote>**
 
   * --contact-channel-id
   * --name
@@ -276,5 +272,32 @@ ssm-contacts
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

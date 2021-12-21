@@ -1,10 +1,6 @@
-<details>
+<details><summary>timestream-write</summary><blockquote>
 
-<summary>
-timestream-write
-</summary>
-
-- <details><summary>create-database</summary>
+- **<details><summary>create-database</summary><blockquote>**
 
   * --database-name
   * --kms-key-id
@@ -14,7 +10,7 @@ timestream-write
   * --generate-cli-skeleton
 
 
-- <details><summary>create-table</summary>
+- **<details><summary>create-table</summary><blockquote>**
 
   * --database-name
   * --table-name
@@ -25,7 +21,7 @@ timestream-write
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-database</summary>
+- **<details><summary>delete-database</summary><blockquote>**
 
   * --database-name
   * --cli-input-json
@@ -33,31 +29,7 @@ timestream-write
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-table</summary>
-
-  * --database-name
-  * --table-name
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>describe-database</summary>
-
-  * --database-name
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>describe-endpoints</summary>
-
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>describe-table</summary>
+- **<details><summary>delete-table</summary><blockquote>**
 
   * --database-name
   * --table-name
@@ -66,12 +38,36 @@ timestream-write
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>describe-database</summary><blockquote>**
+
+  * --database-name
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>describe-endpoints</summary><blockquote>**
+
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>describe-table</summary><blockquote>**
+
+  * --database-name
+  * --table-name
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-databases</summary>
+- **<details><summary>list-databases</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -80,7 +76,7 @@ timestream-write
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tables</summary>
+- **<details><summary>list-tables</summary><blockquote>**
 
   * --database-name
   * --next-token
@@ -90,7 +86,7 @@ timestream-write
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -98,7 +94,7 @@ timestream-write
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -107,7 +103,7 @@ timestream-write
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -116,7 +112,7 @@ timestream-write
   * --generate-cli-skeleton
 
 
-- <details><summary>update-database</summary>
+- **<details><summary>update-database</summary><blockquote>**
 
   * --database-name
   * --kms-key-id
@@ -125,7 +121,7 @@ timestream-write
   * --generate-cli-skeleton
 
 
-- <details><summary>update-table</summary>
+- **<details><summary>update-table</summary><blockquote>**
 
   * --database-name
   * --table-name
@@ -135,7 +131,7 @@ timestream-write
   * --generate-cli-skeleton
 
 
-- <details><summary>write-records</summary>
+- **<details><summary>write-records</summary><blockquote>**
 
   * --database-name
   * --table-name
@@ -146,5 +142,20 @@ timestream-write
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

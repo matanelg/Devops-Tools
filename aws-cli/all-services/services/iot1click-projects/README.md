@@ -1,10 +1,6 @@
-<details>
+<details><summary>iot1click-projects</summary><blockquote>
 
-<summary>
-iot1click-projects
-</summary>
-
-- <details><summary>associate-device-with-placement</summary>
+- **<details><summary>associate-device-with-placement</summary><blockquote>**
 
   * --project-name
   * --placement-name
@@ -15,7 +11,7 @@ iot1click-projects
   * --generate-cli-skeleton
 
 
-- <details><summary>create-placement</summary>
+- **<details><summary>create-placement</summary><blockquote>**
 
   * --placement-name
   * --project-name
@@ -25,7 +21,7 @@ iot1click-projects
   * --generate-cli-skeleton
 
 
-- <details><summary>create-project</summary>
+- **<details><summary>create-project</summary><blockquote>**
 
   * --project-name
   * --description
@@ -36,7 +32,7 @@ iot1click-projects
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-placement</summary>
+- **<details><summary>delete-placement</summary><blockquote>**
 
   * --placement-name
   * --project-name
@@ -45,7 +41,7 @@ iot1click-projects
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-project</summary>
+- **<details><summary>delete-project</summary><blockquote>**
 
   * --project-name
   * --cli-input-json
@@ -53,7 +49,7 @@ iot1click-projects
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-placement</summary>
+- **<details><summary>describe-placement</summary><blockquote>**
 
   * --placement-name
   * --project-name
@@ -62,7 +58,7 @@ iot1click-projects
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-project</summary>
+- **<details><summary>describe-project</summary><blockquote>**
 
   * --project-name
   * --cli-input-json
@@ -70,7 +66,7 @@ iot1click-projects
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-device-from-placement</summary>
+- **<details><summary>disassociate-device-from-placement</summary><blockquote>**
 
   * --project-name
   * --placement-name
@@ -80,7 +76,7 @@ iot1click-projects
   * --generate-cli-skeleton
 
 
-- <details><summary>get-devices-in-placement</summary>
+- **<details><summary>get-devices-in-placement</summary><blockquote>**
 
   * --project-name
   * --placement-name
@@ -89,12 +85,12 @@ iot1click-projects
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-placements</summary>
+- **<details><summary>list-placements</summary><blockquote>**
 
   * --project-name
   * --cli-input-json
@@ -105,7 +101,7 @@ iot1click-projects
   * --generate-cli-skeleton
 
 
-- <details><summary>list-projects</summary>
+- **<details><summary>list-projects</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -115,7 +111,7 @@ iot1click-projects
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -123,7 +119,7 @@ iot1click-projects
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -132,7 +128,7 @@ iot1click-projects
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -141,7 +137,7 @@ iot1click-projects
   * --generate-cli-skeleton
 
 
-- <details><summary>update-placement</summary>
+- **<details><summary>update-placement</summary><blockquote>**
 
   * --placement-name
   * --project-name
@@ -151,7 +147,7 @@ iot1click-projects
   * --generate-cli-skeleton
 
 
-- <details><summary>update-project</summary>
+- **<details><summary>update-project</summary><blockquote>**
 
   * --project-name
   * --description
@@ -161,5 +157,21 @@ iot1click-projects
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

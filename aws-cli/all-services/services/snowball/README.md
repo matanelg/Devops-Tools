@@ -1,10 +1,6 @@
-<details>
+<details><summary>snowball</summary><blockquote>
 
-<summary>
-snowball
-</summary>
-
-- <details><summary>cancel-cluster</summary>
+- **<details><summary>cancel-cluster</summary><blockquote>**
 
   * --cluster-id
   * --cli-input-json
@@ -12,7 +8,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-job</summary>
+- **<details><summary>cancel-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -20,7 +16,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>create-address</summary>
+- **<details><summary>create-address</summary><blockquote>**
 
   * --address
   * --cli-input-json
@@ -28,7 +24,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cluster</summary>
+- **<details><summary>create-cluster</summary><blockquote>**
 
   * --job-type
   * --resources
@@ -48,7 +44,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>create-job</summary>
+- **<details><summary>create-job</summary><blockquote>**
 
   * --job-type
   * --resources
@@ -72,7 +68,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>create-long-term-pricing</summary>
+- **<details><summary>create-long-term-pricing</summary><blockquote>**
 
   * --long-term-pricing-type
   * --is-long-term-pricing-auto-renew
@@ -83,7 +79,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>create-return-shipping-label</summary>
+- **<details><summary>create-return-shipping-label</summary><blockquote>**
 
   * --job-id
   * --shipping-option
@@ -92,7 +88,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-address</summary>
+- **<details><summary>describe-address</summary><blockquote>**
 
   * --address-id
   * --cli-input-json
@@ -100,7 +96,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-addresses</summary>
+- **<details><summary>describe-addresses</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -110,7 +106,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cluster</summary>
+- **<details><summary>describe-cluster</summary><blockquote>**
 
   * --cluster-id
   * --cli-input-json
@@ -118,7 +114,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-job</summary>
+- **<details><summary>describe-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -126,7 +122,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-return-shipping-label</summary>
+- **<details><summary>describe-return-shipping-label</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -134,7 +130,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>get-job-manifest</summary>
+- **<details><summary>get-job-manifest</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -142,7 +138,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>get-job-unlock-code</summary>
+- **<details><summary>get-job-unlock-code</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -150,14 +146,14 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>get-snowball-usage</summary>
+- **<details><summary>get-snowball-usage</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-software-updates</summary>
+- **<details><summary>get-software-updates</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -165,12 +161,12 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-cluster-jobs</summary>
+- **<details><summary>list-cluster-jobs</summary><blockquote>**
 
   * --cluster-id
   * --cli-input-json
@@ -181,7 +177,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>list-clusters</summary>
+- **<details><summary>list-clusters</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -191,7 +187,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>list-compatible-images</summary>
+- **<details><summary>list-compatible-images</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -201,7 +197,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>list-jobs</summary>
+- **<details><summary>list-jobs</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -211,7 +207,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>list-long-term-pricing</summary>
+- **<details><summary>list-long-term-pricing</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -220,7 +216,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>update-cluster</summary>
+- **<details><summary>update-cluster</summary><blockquote>**
 
   * --cluster-id
   * --role-arn
@@ -236,7 +232,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>update-job</summary>
+- **<details><summary>update-job</summary><blockquote>**
 
   * --job-id
   * --role-arn
@@ -253,7 +249,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>update-job-shipment-state</summary>
+- **<details><summary>update-job-shipment-state</summary><blockquote>**
 
   * --job-id
   * --shipment-state
@@ -262,7 +258,7 @@ snowball
   * --generate-cli-skeleton
 
 
-- <details><summary>update-long-term-pricing</summary>
+- **<details><summary>update-long-term-pricing</summary><blockquote>**
 
   * --long-term-pricing-id
   * --replacement-job
@@ -273,5 +269,30 @@ snowball
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

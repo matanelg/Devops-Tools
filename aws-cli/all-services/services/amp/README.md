@@ -1,10 +1,6 @@
-<details>
+<details><summary>amp</summary><blockquote>
 
-<summary>
-amp
-</summary>
-
-- <details><summary>create-workspace</summary>
+- **<details><summary>create-workspace</summary><blockquote>**
 
   * --alias
   * --client-token
@@ -13,7 +9,7 @@ amp
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-workspace</summary>
+- **<details><summary>delete-workspace</summary><blockquote>**
 
   * --client-token
   * --workspace-id
@@ -22,7 +18,7 @@ amp
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-workspace</summary>
+- **<details><summary>describe-workspace</summary><blockquote>**
 
   * --workspace-id
   * --cli-input-json
@@ -30,12 +26,12 @@ amp
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-workspaces</summary>
+- **<details><summary>list-workspaces</summary><blockquote>**
 
   * --alias
   * --cli-input-json
@@ -46,7 +42,7 @@ amp
   * --generate-cli-skeleton
 
 
-- <details><summary>update-workspace-alias</summary>
+- **<details><summary>update-workspace-alias</summary><blockquote>**
 
   * --alias
   * --client-token
@@ -56,5 +52,10 @@ amp
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

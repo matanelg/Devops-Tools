@@ -1,10 +1,6 @@
-<details>
+<details><summary>appmesh</summary><blockquote>
 
-<summary>
-appmesh
-</summary>
-
-- <details><summary>create-gateway-route</summary>
+- **<details><summary>create-gateway-route</summary><blockquote>**
 
   * --client-token
   * --gateway-route-name
@@ -18,7 +14,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>create-mesh</summary>
+- **<details><summary>create-mesh</summary><blockquote>**
 
   * --client-token
   * --mesh-name
@@ -29,7 +25,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>create-route</summary>
+- **<details><summary>create-route</summary><blockquote>**
 
   * --client-token
   * --mesh-name
@@ -43,7 +39,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>create-virtual-gateway</summary>
+- **<details><summary>create-virtual-gateway</summary><blockquote>**
 
   * --client-token
   * --mesh-name
@@ -56,7 +52,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>create-virtual-node</summary>
+- **<details><summary>create-virtual-node</summary><blockquote>**
 
   * --client-token
   * --mesh-name
@@ -69,7 +65,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>create-virtual-router</summary>
+- **<details><summary>create-virtual-router</summary><blockquote>**
 
   * --client-token
   * --mesh-name
@@ -82,7 +78,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>create-virtual-service</summary>
+- **<details><summary>create-virtual-service</summary><blockquote>**
 
   * --client-token
   * --mesh-name
@@ -95,7 +91,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-gateway-route</summary>
+- **<details><summary>delete-gateway-route</summary><blockquote>**
 
   * --gateway-route-name
   * --mesh-name
@@ -106,7 +102,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-mesh</summary>
+- **<details><summary>delete-mesh</summary><blockquote>**
 
   * --mesh-name
   * --cli-input-json
@@ -114,7 +110,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-route</summary>
+- **<details><summary>delete-route</summary><blockquote>**
 
   * --mesh-name
   * --mesh-owner
@@ -125,7 +121,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-virtual-gateway</summary>
+- **<details><summary>delete-virtual-gateway</summary><blockquote>**
 
   * --mesh-name
   * --mesh-owner
@@ -135,7 +131,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-virtual-node</summary>
+- **<details><summary>delete-virtual-node</summary><blockquote>**
 
   * --mesh-name
   * --mesh-owner
@@ -145,7 +141,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-virtual-router</summary>
+- **<details><summary>delete-virtual-router</summary><blockquote>**
 
   * --mesh-name
   * --mesh-owner
@@ -155,7 +151,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-virtual-service</summary>
+- **<details><summary>delete-virtual-service</summary><blockquote>**
 
   * --mesh-name
   * --mesh-owner
@@ -165,7 +161,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-gateway-route</summary>
+- **<details><summary>describe-gateway-route</summary><blockquote>**
 
   * --gateway-route-name
   * --mesh-name
@@ -176,7 +172,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-mesh</summary>
+- **<details><summary>describe-mesh</summary><blockquote>**
 
   * --mesh-name
   * --mesh-owner
@@ -185,7 +181,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-route</summary>
+- **<details><summary>describe-route</summary><blockquote>**
 
   * --mesh-name
   * --mesh-owner
@@ -196,7 +192,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-virtual-gateway</summary>
+- **<details><summary>describe-virtual-gateway</summary><blockquote>**
 
   * --mesh-name
   * --mesh-owner
@@ -206,7 +202,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-virtual-node</summary>
+- **<details><summary>describe-virtual-node</summary><blockquote>**
 
   * --mesh-name
   * --mesh-owner
@@ -216,7 +212,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-virtual-router</summary>
+- **<details><summary>describe-virtual-router</summary><blockquote>**
 
   * --mesh-name
   * --mesh-owner
@@ -226,7 +222,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-virtual-service</summary>
+- **<details><summary>describe-virtual-service</summary><blockquote>**
 
   * --mesh-name
   * --mesh-owner
@@ -236,12 +232,12 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-gateway-routes</summary>
+- **<details><summary>list-gateway-routes</summary><blockquote>**
 
   * --mesh-name
   * --mesh-owner
@@ -254,7 +250,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>list-meshes</summary>
+- **<details><summary>list-meshes</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -264,7 +260,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>list-routes</summary>
+- **<details><summary>list-routes</summary><blockquote>**
 
   * --mesh-name
   * --mesh-owner
@@ -277,7 +273,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -288,7 +284,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>list-virtual-gateways</summary>
+- **<details><summary>list-virtual-gateways</summary><blockquote>**
 
   * --mesh-name
   * --mesh-owner
@@ -300,7 +296,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>list-virtual-nodes</summary>
+- **<details><summary>list-virtual-nodes</summary><blockquote>**
 
   * --mesh-name
   * --mesh-owner
@@ -312,7 +308,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>list-virtual-routers</summary>
+- **<details><summary>list-virtual-routers</summary><blockquote>**
 
   * --mesh-name
   * --mesh-owner
@@ -324,7 +320,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>list-virtual-services</summary>
+- **<details><summary>list-virtual-services</summary><blockquote>**
 
   * --mesh-name
   * --mesh-owner
@@ -336,7 +332,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -345,7 +341,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -354,7 +350,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>update-gateway-route</summary>
+- **<details><summary>update-gateway-route</summary><blockquote>**
 
   * --client-token
   * --gateway-route-name
@@ -367,7 +363,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>update-mesh</summary>
+- **<details><summary>update-mesh</summary><blockquote>**
 
   * --client-token
   * --mesh-name
@@ -377,7 +373,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>update-route</summary>
+- **<details><summary>update-route</summary><blockquote>**
 
   * --client-token
   * --mesh-name
@@ -390,7 +386,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>update-virtual-gateway</summary>
+- **<details><summary>update-virtual-gateway</summary><blockquote>**
 
   * --client-token
   * --mesh-name
@@ -402,7 +398,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>update-virtual-node</summary>
+- **<details><summary>update-virtual-node</summary><blockquote>**
 
   * --client-token
   * --mesh-name
@@ -414,7 +410,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>update-virtual-router</summary>
+- **<details><summary>update-virtual-router</summary><blockquote>**
 
   * --client-token
   * --mesh-name
@@ -426,7 +422,7 @@ appmesh
   * --generate-cli-skeleton
 
 
-- <details><summary>update-virtual-service</summary>
+- **<details><summary>update-virtual-service</summary><blockquote>**
 
   * --client-token
   * --mesh-name
@@ -438,5 +434,43 @@ appmesh
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

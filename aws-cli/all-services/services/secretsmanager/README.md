@@ -1,10 +1,6 @@
-<details>
+<details><summary>secretsmanager</summary><blockquote>
 
-<summary>
-secretsmanager
-</summary>
-
-- <details><summary>cancel-rotate-secret</summary>
+- **<details><summary>cancel-rotate-secret</summary><blockquote>**
 
   * --secret-id
   * --cli-input-json
@@ -12,7 +8,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>create-secret</summary>
+- **<details><summary>create-secret</summary><blockquote>**
 
   * --name
   * --client-request-token
@@ -29,7 +25,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-resource-policy</summary>
+- **<details><summary>delete-resource-policy</summary><blockquote>**
 
   * --secret-id
   * --cli-input-json
@@ -37,7 +33,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-secret</summary>
+- **<details><summary>delete-secret</summary><blockquote>**
 
   * --secret-id
   * --recovery-window-in-days
@@ -48,7 +44,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-secret</summary>
+- **<details><summary>describe-secret</summary><blockquote>**
 
   * --secret-id
   * --cli-input-json
@@ -56,7 +52,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-random-password</summary>
+- **<details><summary>get-random-password</summary><blockquote>**
 
   * --password-length
   * --exclude-characters
@@ -77,7 +73,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resource-policy</summary>
+- **<details><summary>get-resource-policy</summary><blockquote>**
 
   * --secret-id
   * --cli-input-json
@@ -85,7 +81,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-secret-value</summary>
+- **<details><summary>get-secret-value</summary><blockquote>**
 
   * --secret-id
   * --version-id
@@ -95,12 +91,12 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-secrets</summary>
+- **<details><summary>list-secrets</summary><blockquote>**
 
   * --filters
   * --sort-order
@@ -112,7 +108,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-secret-version-ids</summary>
+- **<details><summary>list-secret-version-ids</summary><blockquote>**
 
   * --secret-id
   * --max-results
@@ -124,7 +120,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>put-resource-policy</summary>
+- **<details><summary>put-resource-policy</summary><blockquote>**
 
   * --secret-id
   * --resource-policy
@@ -135,7 +131,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>put-secret-value</summary>
+- **<details><summary>put-secret-value</summary><blockquote>**
 
   * --secret-id
   * --client-request-token
@@ -147,7 +143,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-regions-from-replication</summary>
+- **<details><summary>remove-regions-from-replication</summary><blockquote>**
 
   * --secret-id
   * --remove-replica-regions
@@ -156,7 +152,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>replicate-secret-to-regions</summary>
+- **<details><summary>replicate-secret-to-regions</summary><blockquote>**
 
   * --secret-id
   * --add-replica-regions
@@ -167,7 +163,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-secret</summary>
+- **<details><summary>restore-secret</summary><blockquote>**
 
   * --secret-id
   * --cli-input-json
@@ -175,7 +171,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>rotate-secret</summary>
+- **<details><summary>rotate-secret</summary><blockquote>**
 
   * --secret-id
   * --client-request-token
@@ -186,7 +182,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-replication-to-replica</summary>
+- **<details><summary>stop-replication-to-replica</summary><blockquote>**
 
   * --secret-id
   * --cli-input-json
@@ -194,7 +190,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --secret-id
   * --tags
@@ -203,7 +199,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --secret-id
   * --tag-keys
@@ -212,7 +208,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>update-secret</summary>
+- **<details><summary>update-secret</summary><blockquote>**
 
   * --secret-id
   * --client-request-token
@@ -225,7 +221,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>update-secret-version-stage</summary>
+- **<details><summary>update-secret-version-stage</summary><blockquote>**
 
   * --secret-id
   * --version-stage
@@ -236,7 +232,7 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>validate-resource-policy</summary>
+- **<details><summary>validate-resource-policy</summary><blockquote>**
 
   * --secret-id
   * --resource-policy
@@ -245,5 +241,27 @@ secretsmanager
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>iotsecuretunneling</summary><blockquote>
 
-<summary>
-iotsecuretunneling
-</summary>
-
-- <details><summary>close-tunnel</summary>
+- **<details><summary>close-tunnel</summary><blockquote>**
 
   * --tunnel-id
   * --delete
@@ -14,7 +10,7 @@ iotsecuretunneling
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-tunnel</summary>
+- **<details><summary>describe-tunnel</summary><blockquote>**
 
   * --tunnel-id
   * --cli-input-json
@@ -22,12 +18,12 @@ iotsecuretunneling
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -35,7 +31,7 @@ iotsecuretunneling
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tunnels</summary>
+- **<details><summary>list-tunnels</summary><blockquote>**
 
   * --thing-name
   * --max-results
@@ -45,7 +41,7 @@ iotsecuretunneling
   * --generate-cli-skeleton
 
 
-- <details><summary>open-tunnel</summary>
+- **<details><summary>open-tunnel</summary><blockquote>**
 
   * --description
   * --tags
@@ -56,7 +52,7 @@ iotsecuretunneling
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -65,7 +61,7 @@ iotsecuretunneling
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -74,5 +70,12 @@ iotsecuretunneling
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

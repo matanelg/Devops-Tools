@@ -1,10 +1,6 @@
-<details>
+<details><summary>mobile</summary><blockquote>
 
-<summary>
-mobile
-</summary>
-
-- <details><summary>create-project</summary>
+- **<details><summary>create-project</summary><blockquote>**
 
   * --name
   * --contents
@@ -15,7 +11,7 @@ mobile
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-project</summary>
+- **<details><summary>delete-project</summary><blockquote>**
 
   * --project-id
   * --cli-input-json
@@ -23,7 +19,7 @@ mobile
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-bundle</summary>
+- **<details><summary>describe-bundle</summary><blockquote>**
 
   * --bundle-id
   * --cli-input-json
@@ -31,7 +27,7 @@ mobile
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-project</summary>
+- **<details><summary>describe-project</summary><blockquote>**
 
   * --project-id
   * --sync-from-resources
@@ -41,7 +37,7 @@ mobile
   * --generate-cli-skeleton
 
 
-- <details><summary>export-bundle</summary>
+- **<details><summary>export-bundle</summary><blockquote>**
 
   * --bundle-id
   * --project-id
@@ -51,7 +47,7 @@ mobile
   * --generate-cli-skeleton
 
 
-- <details><summary>export-project</summary>
+- **<details><summary>export-project</summary><blockquote>**
 
   * --project-id
   * --cli-input-json
@@ -59,12 +55,12 @@ mobile
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-bundles</summary>
+- **<details><summary>list-bundles</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -74,7 +70,7 @@ mobile
   * --generate-cli-skeleton
 
 
-- <details><summary>list-projects</summary>
+- **<details><summary>list-projects</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -84,7 +80,7 @@ mobile
   * --generate-cli-skeleton
 
 
-- <details><summary>update-project</summary>
+- **<details><summary>update-project</summary><blockquote>**
 
   * --contents
   * --project-id
@@ -93,5 +89,14 @@ mobile
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

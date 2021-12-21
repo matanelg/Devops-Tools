@@ -1,10 +1,6 @@
-<details>
+<details><summary>codestar-connections</summary><blockquote>
 
-<summary>
-codestar-connections
-</summary>
-
-- <details><summary>create-connection</summary>
+- **<details><summary>create-connection</summary><blockquote>**
 
   * --provider-type
   * --connection-name
@@ -15,7 +11,7 @@ codestar-connections
   * --generate-cli-skeleton
 
 
-- <details><summary>create-host</summary>
+- **<details><summary>create-host</summary><blockquote>**
 
   * --name
   * --provider-type
@@ -27,7 +23,7 @@ codestar-connections
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-connection</summary>
+- **<details><summary>delete-connection</summary><blockquote>**
 
   * --connection-arn
   * --cli-input-json
@@ -35,7 +31,7 @@ codestar-connections
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-host</summary>
+- **<details><summary>delete-host</summary><blockquote>**
 
   * --host-arn
   * --cli-input-json
@@ -43,7 +39,7 @@ codestar-connections
   * --generate-cli-skeleton
 
 
-- <details><summary>get-connection</summary>
+- **<details><summary>get-connection</summary><blockquote>**
 
   * --connection-arn
   * --cli-input-json
@@ -51,7 +47,7 @@ codestar-connections
   * --generate-cli-skeleton
 
 
-- <details><summary>get-host</summary>
+- **<details><summary>get-host</summary><blockquote>**
 
   * --host-arn
   * --cli-input-json
@@ -59,12 +55,12 @@ codestar-connections
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-connections</summary>
+- **<details><summary>list-connections</summary><blockquote>**
 
   * --provider-type-filter
   * --host-arn-filter
@@ -75,7 +71,7 @@ codestar-connections
   * --generate-cli-skeleton
 
 
-- <details><summary>list-hosts</summary>
+- **<details><summary>list-hosts</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -84,7 +80,7 @@ codestar-connections
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -92,7 +88,7 @@ codestar-connections
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -101,7 +97,7 @@ codestar-connections
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -110,7 +106,7 @@ codestar-connections
   * --generate-cli-skeleton
 
 
-- <details><summary>update-host</summary>
+- **<details><summary>update-host</summary><blockquote>**
 
   * --host-arn
   * --provider-endpoint
@@ -120,5 +116,17 @@ codestar-connections
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

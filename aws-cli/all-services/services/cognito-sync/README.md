@@ -1,10 +1,6 @@
-<details>
+<details><summary>cognito-sync</summary><blockquote>
 
-<summary>
-cognito-sync
-</summary>
-
-- <details><summary>bulk-publish</summary>
+- **<details><summary>bulk-publish</summary><blockquote>**
 
   * --identity-pool-id
   * --cli-input-json
@@ -12,7 +8,7 @@ cognito-sync
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-dataset</summary>
+- **<details><summary>delete-dataset</summary><blockquote>**
 
   * --identity-pool-id
   * --identity-id
@@ -22,7 +18,7 @@ cognito-sync
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-dataset</summary>
+- **<details><summary>describe-dataset</summary><blockquote>**
 
   * --identity-pool-id
   * --identity-id
@@ -32,7 +28,7 @@ cognito-sync
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-identity-pool-usage</summary>
+- **<details><summary>describe-identity-pool-usage</summary><blockquote>**
 
   * --identity-pool-id
   * --cli-input-json
@@ -40,7 +36,7 @@ cognito-sync
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-identity-usage</summary>
+- **<details><summary>describe-identity-usage</summary><blockquote>**
 
   * --identity-pool-id
   * --identity-id
@@ -49,7 +45,7 @@ cognito-sync
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bulk-publish-details</summary>
+- **<details><summary>get-bulk-publish-details</summary><blockquote>**
 
   * --identity-pool-id
   * --cli-input-json
@@ -57,7 +53,7 @@ cognito-sync
   * --generate-cli-skeleton
 
 
-- <details><summary>get-cognito-events</summary>
+- **<details><summary>get-cognito-events</summary><blockquote>**
 
   * --identity-pool-id
   * --cli-input-json
@@ -65,7 +61,7 @@ cognito-sync
   * --generate-cli-skeleton
 
 
-- <details><summary>get-identity-pool-configuration</summary>
+- **<details><summary>get-identity-pool-configuration</summary><blockquote>**
 
   * --identity-pool-id
   * --cli-input-json
@@ -73,12 +69,12 @@ cognito-sync
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-datasets</summary>
+- **<details><summary>list-datasets</summary><blockquote>**
 
   * --identity-pool-id
   * --identity-id
@@ -89,7 +85,7 @@ cognito-sync
   * --generate-cli-skeleton
 
 
-- <details><summary>list-identity-pool-usage</summary>
+- **<details><summary>list-identity-pool-usage</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -98,7 +94,7 @@ cognito-sync
   * --generate-cli-skeleton
 
 
-- <details><summary>list-records</summary>
+- **<details><summary>list-records</summary><blockquote>**
 
   * --identity-pool-id
   * --identity-id
@@ -112,7 +108,7 @@ cognito-sync
   * --generate-cli-skeleton
 
 
-- <details><summary>register-device</summary>
+- **<details><summary>register-device</summary><blockquote>**
 
   * --identity-pool-id
   * --identity-id
@@ -123,7 +119,7 @@ cognito-sync
   * --generate-cli-skeleton
 
 
-- <details><summary>set-cognito-events</summary>
+- **<details><summary>set-cognito-events</summary><blockquote>**
 
   * --identity-pool-id
   * --events
@@ -132,7 +128,7 @@ cognito-sync
   * --generate-cli-skeleton
 
 
-- <details><summary>set-identity-pool-configuration</summary>
+- **<details><summary>set-identity-pool-configuration</summary><blockquote>**
 
   * --identity-pool-id
   * --push-sync
@@ -142,7 +138,7 @@ cognito-sync
   * --generate-cli-skeleton
 
 
-- <details><summary>subscribe-to-dataset</summary>
+- **<details><summary>subscribe-to-dataset</summary><blockquote>**
 
   * --identity-pool-id
   * --identity-id
@@ -153,7 +149,7 @@ cognito-sync
   * --generate-cli-skeleton
 
 
-- <details><summary>unsubscribe-from-dataset</summary>
+- **<details><summary>unsubscribe-from-dataset</summary><blockquote>**
 
   * --identity-pool-id
   * --identity-id
@@ -164,7 +160,7 @@ cognito-sync
   * --generate-cli-skeleton
 
 
-- <details><summary>update-records</summary>
+- **<details><summary>update-records</summary><blockquote>**
 
   * --identity-pool-id
   * --identity-id
@@ -178,5 +174,22 @@ cognito-sync
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

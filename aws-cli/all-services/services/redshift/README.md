@@ -1,10 +1,6 @@
-<details>
+<details><summary>redshift</summary><blockquote>
 
-<summary>
-redshift
-</summary>
-
-- <details><summary>accept-reserved-node-exchange</summary>
+- **<details><summary>accept-reserved-node-exchange</summary><blockquote>**
 
   * --reserved-node-id
   * --target-reserved-node-offering-id
@@ -13,7 +9,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>add-partner</summary>
+- **<details><summary>add-partner</summary><blockquote>**
 
   * --account-id
   * --cluster-identifier
@@ -24,7 +20,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>authorize-cluster-security-group-ingress</summary>
+- **<details><summary>authorize-cluster-security-group-ingress</summary><blockquote>**
 
   * --cluster-security-group-name
   * --cidrip
@@ -35,7 +31,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>authorize-endpoint-access</summary>
+- **<details><summary>authorize-endpoint-access</summary><blockquote>**
 
   * --cluster-identifier
   * --account
@@ -45,7 +41,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>authorize-snapshot-access</summary>
+- **<details><summary>authorize-snapshot-access</summary><blockquote>**
 
   * --snapshot-identifier
   * --snapshot-cluster-identifier
@@ -55,7 +51,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-delete-cluster-snapshots</summary>
+- **<details><summary>batch-delete-cluster-snapshots</summary><blockquote>**
 
   * --identifiers
   * --cli-input-json
@@ -63,7 +59,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-modify-cluster-snapshots</summary>
+- **<details><summary>batch-modify-cluster-snapshots</summary><blockquote>**
 
   * --snapshot-identifier-list
   * --manual-snapshot-retention-period
@@ -74,7 +70,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-resize</summary>
+- **<details><summary>cancel-resize</summary><blockquote>**
 
   * --cluster-identifier
   * --cli-input-json
@@ -82,7 +78,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-cluster-snapshot</summary>
+- **<details><summary>copy-cluster-snapshot</summary><blockquote>**
 
   * --source-snapshot-identifier
   * --source-snapshot-cluster-identifier
@@ -93,7 +89,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-authentication-profile</summary>
+- **<details><summary>create-authentication-profile</summary><blockquote>**
 
   * --authentication-profile-name
   * --authentication-profile-content
@@ -102,7 +98,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cluster</summary>
+- **<details><summary>create-cluster</summary><blockquote>**
 
   * --db-name
   * --cluster-identifier
@@ -146,7 +142,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cluster-parameter-group</summary>
+- **<details><summary>create-cluster-parameter-group</summary><blockquote>**
 
   * --parameter-group-name
   * --parameter-group-family
@@ -157,7 +153,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cluster-security-group</summary>
+- **<details><summary>create-cluster-security-group</summary><blockquote>**
 
   * --cluster-security-group-name
   * --description
@@ -167,7 +163,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cluster-snapshot</summary>
+- **<details><summary>create-cluster-snapshot</summary><blockquote>**
 
   * --snapshot-identifier
   * --cluster-identifier
@@ -178,7 +174,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cluster-subnet-group</summary>
+- **<details><summary>create-cluster-subnet-group</summary><blockquote>**
 
   * --cluster-subnet-group-name
   * --description
@@ -189,7 +185,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-endpoint-access</summary>
+- **<details><summary>create-endpoint-access</summary><blockquote>**
 
   * --cluster-identifier
   * --resource-owner
@@ -201,7 +197,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-event-subscription</summary>
+- **<details><summary>create-event-subscription</summary><blockquote>**
 
   * --subscription-name
   * --sns-topic-arn
@@ -217,7 +213,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-hsm-client-certificate</summary>
+- **<details><summary>create-hsm-client-certificate</summary><blockquote>**
 
   * --hsm-client-certificate-identifier
   * --tags
@@ -226,7 +222,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-hsm-configuration</summary>
+- **<details><summary>create-hsm-configuration</summary><blockquote>**
 
   * --hsm-configuration-identifier
   * --description
@@ -240,7 +236,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-scheduled-action</summary>
+- **<details><summary>create-scheduled-action</summary><blockquote>**
 
   * --scheduled-action-name
   * --target-action
@@ -256,7 +252,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-snapshot-copy-grant</summary>
+- **<details><summary>create-snapshot-copy-grant</summary><blockquote>**
 
   * --snapshot-copy-grant-name
   * --kms-key-id
@@ -266,7 +262,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-snapshot-schedule</summary>
+- **<details><summary>create-snapshot-schedule</summary><blockquote>**
 
   * --schedule-definitions
   * --schedule-identifier
@@ -280,7 +276,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-tags</summary>
+- **<details><summary>create-tags</summary><blockquote>**
 
   * --resource-name
   * --tags
@@ -289,7 +285,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-usage-limit</summary>
+- **<details><summary>create-usage-limit</summary><blockquote>**
 
   * --cluster-identifier
   * --feature-type
@@ -303,7 +299,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-authentication-profile</summary>
+- **<details><summary>delete-authentication-profile</summary><blockquote>**
 
   * --authentication-profile-name
   * --cli-input-json
@@ -311,7 +307,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-cluster</summary>
+- **<details><summary>delete-cluster</summary><blockquote>**
 
   * --cluster-identifier
   * --skip-final-cluster-snapshot
@@ -323,7 +319,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-cluster-parameter-group</summary>
+- **<details><summary>delete-cluster-parameter-group</summary><blockquote>**
 
   * --parameter-group-name
   * --cli-input-json
@@ -331,7 +327,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-cluster-security-group</summary>
+- **<details><summary>delete-cluster-security-group</summary><blockquote>**
 
   * --cluster-security-group-name
   * --cli-input-json
@@ -339,7 +335,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-cluster-snapshot</summary>
+- **<details><summary>delete-cluster-snapshot</summary><blockquote>**
 
   * --snapshot-identifier
   * --snapshot-cluster-identifier
@@ -348,7 +344,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-cluster-subnet-group</summary>
+- **<details><summary>delete-cluster-subnet-group</summary><blockquote>**
 
   * --cluster-subnet-group-name
   * --cli-input-json
@@ -356,7 +352,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-endpoint-access</summary>
+- **<details><summary>delete-endpoint-access</summary><blockquote>**
 
   * --endpoint-name
   * --cli-input-json
@@ -364,7 +360,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-event-subscription</summary>
+- **<details><summary>delete-event-subscription</summary><blockquote>**
 
   * --subscription-name
   * --cli-input-json
@@ -372,7 +368,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-hsm-client-certificate</summary>
+- **<details><summary>delete-hsm-client-certificate</summary><blockquote>**
 
   * --hsm-client-certificate-identifier
   * --cli-input-json
@@ -380,7 +376,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-hsm-configuration</summary>
+- **<details><summary>delete-hsm-configuration</summary><blockquote>**
 
   * --hsm-configuration-identifier
   * --cli-input-json
@@ -388,7 +384,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-partner</summary>
+- **<details><summary>delete-partner</summary><blockquote>**
 
   * --account-id
   * --cluster-identifier
@@ -399,7 +395,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-scheduled-action</summary>
+- **<details><summary>delete-scheduled-action</summary><blockquote>**
 
   * --scheduled-action-name
   * --cli-input-json
@@ -407,7 +403,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-snapshot-copy-grant</summary>
+- **<details><summary>delete-snapshot-copy-grant</summary><blockquote>**
 
   * --snapshot-copy-grant-name
   * --cli-input-json
@@ -415,7 +411,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-snapshot-schedule</summary>
+- **<details><summary>delete-snapshot-schedule</summary><blockquote>**
 
   * --schedule-identifier
   * --cli-input-json
@@ -423,7 +419,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-tags</summary>
+- **<details><summary>delete-tags</summary><blockquote>**
 
   * --resource-name
   * --tag-keys
@@ -432,7 +428,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-usage-limit</summary>
+- **<details><summary>delete-usage-limit</summary><blockquote>**
 
   * --usage-limit-id
   * --cli-input-json
@@ -440,7 +436,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-account-attributes</summary>
+- **<details><summary>describe-account-attributes</summary><blockquote>**
 
   * --attribute-names
   * --cli-input-json
@@ -448,7 +444,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-authentication-profiles</summary>
+- **<details><summary>describe-authentication-profiles</summary><blockquote>**
 
   * --authentication-profile-name
   * --cli-input-json
@@ -456,7 +452,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cluster-db-revisions</summary>
+- **<details><summary>describe-cluster-db-revisions</summary><blockquote>**
 
   * --cluster-identifier
   * --cli-input-json
@@ -467,7 +463,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cluster-parameter-groups</summary>
+- **<details><summary>describe-cluster-parameter-groups</summary><blockquote>**
 
   * --parameter-group-name
   * --tag-keys
@@ -480,7 +476,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cluster-parameters</summary>
+- **<details><summary>describe-cluster-parameters</summary><blockquote>**
 
   * --parameter-group-name
   * --source
@@ -492,7 +488,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-clusters</summary>
+- **<details><summary>describe-clusters</summary><blockquote>**
 
   * --cluster-identifier
   * --tag-keys
@@ -505,7 +501,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cluster-security-groups</summary>
+- **<details><summary>describe-cluster-security-groups</summary><blockquote>**
 
   * --cluster-security-group-name
   * --tag-keys
@@ -518,7 +514,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cluster-snapshots</summary>
+- **<details><summary>describe-cluster-snapshots</summary><blockquote>**
 
   * --cluster-identifier
   * --snapshot-identifier
@@ -539,7 +535,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cluster-subnet-groups</summary>
+- **<details><summary>describe-cluster-subnet-groups</summary><blockquote>**
 
   * --cluster-subnet-group-name
   * --tag-keys
@@ -552,7 +548,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cluster-tracks</summary>
+- **<details><summary>describe-cluster-tracks</summary><blockquote>**
 
   * --maintenance-track-name
   * --cli-input-json
@@ -563,7 +559,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cluster-versions</summary>
+- **<details><summary>describe-cluster-versions</summary><blockquote>**
 
   * --cluster-version
   * --cluster-parameter-group-family
@@ -575,7 +571,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-default-cluster-parameters</summary>
+- **<details><summary>describe-default-cluster-parameters</summary><blockquote>**
 
   * --parameter-group-family
   * --cli-input-json
@@ -586,7 +582,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-endpoint-access</summary>
+- **<details><summary>describe-endpoint-access</summary><blockquote>**
 
   * --cluster-identifier
   * --resource-owner
@@ -600,7 +596,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-endpoint-authorization</summary>
+- **<details><summary>describe-endpoint-authorization</summary><blockquote>**
 
   * --cluster-identifier
   * --account
@@ -614,7 +610,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-event-categories</summary>
+- **<details><summary>describe-event-categories</summary><blockquote>**
 
   * --source-type
   * --cli-input-json
@@ -622,7 +618,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-events</summary>
+- **<details><summary>describe-events</summary><blockquote>**
 
   * --source-identifier
   * --source-type
@@ -637,7 +633,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-event-subscriptions</summary>
+- **<details><summary>describe-event-subscriptions</summary><blockquote>**
 
   * --subscription-name
   * --tag-keys
@@ -650,7 +646,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-hsm-client-certificates</summary>
+- **<details><summary>describe-hsm-client-certificates</summary><blockquote>**
 
   * --hsm-client-certificate-identifier
   * --tag-keys
@@ -663,7 +659,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-hsm-configurations</summary>
+- **<details><summary>describe-hsm-configurations</summary><blockquote>**
 
   * --hsm-configuration-identifier
   * --tag-keys
@@ -676,7 +672,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-logging-status</summary>
+- **<details><summary>describe-logging-status</summary><blockquote>**
 
   * --cluster-identifier
   * --cli-input-json
@@ -684,7 +680,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-node-configuration-options</summary>
+- **<details><summary>describe-node-configuration-options</summary><blockquote>**
 
   * --action-type
   * --cluster-identifier
@@ -699,7 +695,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-orderable-cluster-options</summary>
+- **<details><summary>describe-orderable-cluster-options</summary><blockquote>**
 
   * --cluster-version
   * --node-type
@@ -711,7 +707,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-partners</summary>
+- **<details><summary>describe-partners</summary><blockquote>**
 
   * --account-id
   * --cluster-identifier
@@ -722,7 +718,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-reserved-node-offerings</summary>
+- **<details><summary>describe-reserved-node-offerings</summary><blockquote>**
 
   * --reserved-node-offering-id
   * --cli-input-json
@@ -733,7 +729,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-reserved-nodes</summary>
+- **<details><summary>describe-reserved-nodes</summary><blockquote>**
 
   * --reserved-node-id
   * --cli-input-json
@@ -744,7 +740,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-resize</summary>
+- **<details><summary>describe-resize</summary><blockquote>**
 
   * --cluster-identifier
   * --cli-input-json
@@ -752,7 +748,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-scheduled-actions</summary>
+- **<details><summary>describe-scheduled-actions</summary><blockquote>**
 
   * --scheduled-action-name
   * --target-action-type
@@ -769,7 +765,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-snapshot-copy-grants</summary>
+- **<details><summary>describe-snapshot-copy-grants</summary><blockquote>**
 
   * --snapshot-copy-grant-name
   * --tag-keys
@@ -782,7 +778,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-snapshot-schedules</summary>
+- **<details><summary>describe-snapshot-schedules</summary><blockquote>**
 
   * --cluster-identifier
   * --schedule-identifier
@@ -796,14 +792,14 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-storage</summary>
+- **<details><summary>describe-storage</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-table-restore-status</summary>
+- **<details><summary>describe-table-restore-status</summary><blockquote>**
 
   * --cluster-identifier
   * --table-restore-request-id
@@ -815,7 +811,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-tags</summary>
+- **<details><summary>describe-tags</summary><blockquote>**
 
   * --resource-name
   * --resource-type
@@ -829,7 +825,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-usage-limits</summary>
+- **<details><summary>describe-usage-limits</summary><blockquote>**
 
   * --usage-limit-id
   * --cluster-identifier
@@ -844,7 +840,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-logging</summary>
+- **<details><summary>disable-logging</summary><blockquote>**
 
   * --cluster-identifier
   * --cli-input-json
@@ -852,7 +848,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-snapshot-copy</summary>
+- **<details><summary>disable-snapshot-copy</summary><blockquote>**
 
   * --cluster-identifier
   * --cli-input-json
@@ -860,7 +856,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-logging</summary>
+- **<details><summary>enable-logging</summary><blockquote>**
 
   * --cluster-identifier
   * --bucket-name
@@ -870,7 +866,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-snapshot-copy</summary>
+- **<details><summary>enable-snapshot-copy</summary><blockquote>**
 
   * --cluster-identifier
   * --destination-region
@@ -882,7 +878,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>get-cluster-credentials</summary>
+- **<details><summary>get-cluster-credentials</summary><blockquote>**
 
   * --db-user
   * --db-name
@@ -896,7 +892,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>get-reserved-node-exchange-offerings</summary>
+- **<details><summary>get-reserved-node-exchange-offerings</summary><blockquote>**
 
   * --reserved-node-id
   * --cli-input-json
@@ -907,12 +903,12 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>modify-aqua-configuration</summary>
+- **<details><summary>modify-aqua-configuration</summary><blockquote>**
 
   * --cluster-identifier
   * --aqua-configuration-status
@@ -921,7 +917,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-authentication-profile</summary>
+- **<details><summary>modify-authentication-profile</summary><blockquote>**
 
   * --authentication-profile-name
   * --authentication-profile-content
@@ -930,7 +926,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-cluster</summary>
+- **<details><summary>modify-cluster</summary><blockquote>**
 
   * --cluster-identifier
   * --cluster-type
@@ -967,7 +963,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-cluster-db-revision</summary>
+- **<details><summary>modify-cluster-db-revision</summary><blockquote>**
 
   * --cluster-identifier
   * --revision-target
@@ -976,7 +972,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-cluster-iam-roles</summary>
+- **<details><summary>modify-cluster-iam-roles</summary><blockquote>**
 
   * --cluster-identifier
   * --add-iam-roles
@@ -986,7 +982,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-cluster-maintenance</summary>
+- **<details><summary>modify-cluster-maintenance</summary><blockquote>**
 
   * --cluster-identifier
   * --defer-maintenance
@@ -1000,7 +996,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-cluster-parameter-group</summary>
+- **<details><summary>modify-cluster-parameter-group</summary><blockquote>**
 
   * --parameter-group-name
   * --parameters
@@ -1009,7 +1005,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-cluster-snapshot</summary>
+- **<details><summary>modify-cluster-snapshot</summary><blockquote>**
 
   * --snapshot-identifier
   * --manual-snapshot-retention-period
@@ -1020,7 +1016,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-cluster-snapshot-schedule</summary>
+- **<details><summary>modify-cluster-snapshot-schedule</summary><blockquote>**
 
   * --cluster-identifier
   * --schedule-identifier
@@ -1031,7 +1027,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-cluster-subnet-group</summary>
+- **<details><summary>modify-cluster-subnet-group</summary><blockquote>**
 
   * --cluster-subnet-group-name
   * --description
@@ -1041,7 +1037,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-endpoint-access</summary>
+- **<details><summary>modify-endpoint-access</summary><blockquote>**
 
   * --endpoint-name
   * --vpc-security-group-ids
@@ -1050,7 +1046,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-event-subscription</summary>
+- **<details><summary>modify-event-subscription</summary><blockquote>**
 
   * --subscription-name
   * --sns-topic-arn
@@ -1065,7 +1061,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-scheduled-action</summary>
+- **<details><summary>modify-scheduled-action</summary><blockquote>**
 
   * --scheduled-action-name
   * --target-action
@@ -1081,7 +1077,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-snapshot-copy-retention-period</summary>
+- **<details><summary>modify-snapshot-copy-retention-period</summary><blockquote>**
 
   * --cluster-identifier
   * --retention-period
@@ -1092,7 +1088,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-snapshot-schedule</summary>
+- **<details><summary>modify-snapshot-schedule</summary><blockquote>**
 
   * --schedule-identifier
   * --schedule-definitions
@@ -1101,7 +1097,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-usage-limit</summary>
+- **<details><summary>modify-usage-limit</summary><blockquote>**
 
   * --usage-limit-id
   * --amount
@@ -1111,7 +1107,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>pause-cluster</summary>
+- **<details><summary>pause-cluster</summary><blockquote>**
 
   * --cluster-identifier
   * --cli-input-json
@@ -1119,7 +1115,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>purchase-reserved-node-offering</summary>
+- **<details><summary>purchase-reserved-node-offering</summary><blockquote>**
 
   * --reserved-node-offering-id
   * --node-count
@@ -1128,7 +1124,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>reboot-cluster</summary>
+- **<details><summary>reboot-cluster</summary><blockquote>**
 
   * --cluster-identifier
   * --cli-input-json
@@ -1136,7 +1132,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-cluster-parameter-group</summary>
+- **<details><summary>reset-cluster-parameter-group</summary><blockquote>**
 
   * --parameter-group-name
   * --reset-all-parameters
@@ -1147,7 +1143,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>resize-cluster</summary>
+- **<details><summary>resize-cluster</summary><blockquote>**
 
   * --cluster-identifier
   * --cluster-type
@@ -1160,7 +1156,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-from-cluster-snapshot</summary>
+- **<details><summary>restore-from-cluster-snapshot</summary><blockquote>**
 
   * --cluster-identifier
   * --snapshot-identifier
@@ -1199,7 +1195,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-table-from-cluster-snapshot</summary>
+- **<details><summary>restore-table-from-cluster-snapshot</summary><blockquote>**
 
   * --cluster-identifier
   * --snapshot-identifier
@@ -1216,7 +1212,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>resume-cluster</summary>
+- **<details><summary>resume-cluster</summary><blockquote>**
 
   * --cluster-identifier
   * --cli-input-json
@@ -1224,7 +1220,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>revoke-cluster-security-group-ingress</summary>
+- **<details><summary>revoke-cluster-security-group-ingress</summary><blockquote>**
 
   * --cluster-security-group-name
   * --cidrip
@@ -1235,7 +1231,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>revoke-endpoint-access</summary>
+- **<details><summary>revoke-endpoint-access</summary><blockquote>**
 
   * --cluster-identifier
   * --account
@@ -1247,7 +1243,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>revoke-snapshot-access</summary>
+- **<details><summary>revoke-snapshot-access</summary><blockquote>**
 
   * --snapshot-identifier
   * --snapshot-cluster-identifier
@@ -1257,7 +1253,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>rotate-encryption-key</summary>
+- **<details><summary>rotate-encryption-key</summary><blockquote>**
 
   * --cluster-identifier
   * --cli-input-json
@@ -1265,7 +1261,7 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>update-partner-status</summary>
+- **<details><summary>update-partner-status</summary><blockquote>**
 
   * --account-id
   * --cluster-identifier
@@ -1278,10 +1274,119 @@ redshift
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>iotfleethub</summary><blockquote>
 
-<summary>
-iotfleethub
-</summary>
-
-- <details><summary>create-application</summary>
+- **<details><summary>create-application</summary><blockquote>**
 
   * --application-name
   * --application-description
@@ -16,7 +12,7 @@ iotfleethub
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application</summary>
+- **<details><summary>delete-application</summary><blockquote>**
 
   * --application-id
   * --client-token
@@ -25,7 +21,7 @@ iotfleethub
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-application</summary>
+- **<details><summary>describe-application</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -33,12 +29,12 @@ iotfleethub
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-applications</summary>
+- **<details><summary>list-applications</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -47,7 +43,7 @@ iotfleethub
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -55,7 +51,7 @@ iotfleethub
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -64,7 +60,7 @@ iotfleethub
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -73,7 +69,7 @@ iotfleethub
   * --generate-cli-skeleton
 
 
-- <details><summary>update-application</summary>
+- **<details><summary>update-application</summary><blockquote>**
 
   * --application-id
   * --application-name
@@ -84,5 +80,13 @@ iotfleethub
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

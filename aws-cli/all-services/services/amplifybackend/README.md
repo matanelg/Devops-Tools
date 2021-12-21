@@ -1,10 +1,6 @@
-<details>
+<details><summary>amplifybackend</summary><blockquote>
 
-<summary>
-amplifybackend
-</summary>
-
-- <details><summary>clone-backend</summary>
+- **<details><summary>clone-backend</summary><blockquote>**
 
   * --app-id
   * --backend-environment-name
@@ -14,7 +10,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>create-backend</summary>
+- **<details><summary>create-backend</summary><blockquote>**
 
   * --app-id
   * --app-name
@@ -26,7 +22,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>create-backend-api</summary>
+- **<details><summary>create-backend-api</summary><blockquote>**
 
   * --app-id
   * --backend-environment-name
@@ -37,7 +33,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>create-backend-auth</summary>
+- **<details><summary>create-backend-auth</summary><blockquote>**
 
   * --app-id
   * --backend-environment-name
@@ -48,7 +44,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>create-backend-config</summary>
+- **<details><summary>create-backend-config</summary><blockquote>**
 
   * --app-id
   * --backend-manager-app-id
@@ -57,7 +53,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>create-token</summary>
+- **<details><summary>create-token</summary><blockquote>**
 
   * --app-id
   * --cli-input-json
@@ -65,7 +61,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-backend</summary>
+- **<details><summary>delete-backend</summary><blockquote>**
 
   * --app-id
   * --backend-environment-name
@@ -74,7 +70,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-backend-api</summary>
+- **<details><summary>delete-backend-api</summary><blockquote>**
 
   * --app-id
   * --backend-environment-name
@@ -85,7 +81,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-backend-auth</summary>
+- **<details><summary>delete-backend-auth</summary><blockquote>**
 
   * --app-id
   * --backend-environment-name
@@ -95,7 +91,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-token</summary>
+- **<details><summary>delete-token</summary><blockquote>**
 
   * --app-id
   * --session-id
@@ -104,7 +100,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>generate-backend-api-models</summary>
+- **<details><summary>generate-backend-api-models</summary><blockquote>**
 
   * --app-id
   * --backend-environment-name
@@ -114,7 +110,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>get-backend</summary>
+- **<details><summary>get-backend</summary><blockquote>**
 
   * --app-id
   * --backend-environment-name
@@ -123,7 +119,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>get-backend-api</summary>
+- **<details><summary>get-backend-api</summary><blockquote>**
 
   * --app-id
   * --backend-environment-name
@@ -134,7 +130,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>get-backend-api-models</summary>
+- **<details><summary>get-backend-api-models</summary><blockquote>**
 
   * --app-id
   * --backend-environment-name
@@ -144,7 +140,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>get-backend-auth</summary>
+- **<details><summary>get-backend-auth</summary><blockquote>**
 
   * --app-id
   * --backend-environment-name
@@ -154,7 +150,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>get-backend-job</summary>
+- **<details><summary>get-backend-job</summary><blockquote>**
 
   * --app-id
   * --backend-environment-name
@@ -164,7 +160,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>get-token</summary>
+- **<details><summary>get-token</summary><blockquote>**
 
   * --app-id
   * --session-id
@@ -173,12 +169,12 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>import-backend-auth</summary>
+- **<details><summary>import-backend-auth</summary><blockquote>**
 
   * --app-id
   * --backend-environment-name
@@ -191,7 +187,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>list-backend-jobs</summary>
+- **<details><summary>list-backend-jobs</summary><blockquote>**
 
   * --app-id
   * --backend-environment-name
@@ -206,7 +202,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-all-backends</summary>
+- **<details><summary>remove-all-backends</summary><blockquote>**
 
   * --app-id
   * --clean-amplify-app
@@ -216,7 +212,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-backend-config</summary>
+- **<details><summary>remove-backend-config</summary><blockquote>**
 
   * --app-id
   * --cli-input-json
@@ -224,18 +220,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>update-backend-api</summary>
-
-  * --app-id
-  * --backend-environment-name
-  * --resource-config
-  * --resource-name
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>update-backend-auth</summary>
+- **<details><summary>update-backend-api</summary><blockquote>**
 
   * --app-id
   * --backend-environment-name
@@ -246,7 +231,18 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>update-backend-config</summary>
+- **<details><summary>update-backend-auth</summary><blockquote>**
+
+  * --app-id
+  * --backend-environment-name
+  * --resource-config
+  * --resource-name
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>update-backend-config</summary><blockquote>**
 
   * --app-id
   * --login-auth-config
@@ -255,7 +251,7 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-- <details><summary>update-backend-job</summary>
+- **<details><summary>update-backend-job</summary><blockquote>**
 
   * --app-id
   * --backend-environment-name
@@ -267,5 +263,30 @@ amplifybackend
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

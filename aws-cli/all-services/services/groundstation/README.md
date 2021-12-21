@@ -1,10 +1,6 @@
-<details>
+<details><summary>groundstation</summary><blockquote>
 
-<summary>
-groundstation
-</summary>
-
-- <details><summary>cancel-contact</summary>
+- **<details><summary>cancel-contact</summary><blockquote>**
 
   * --contact-id
   * --cli-input-json
@@ -12,7 +8,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>create-config</summary>
+- **<details><summary>create-config</summary><blockquote>**
 
   * --config-data
   * --name
@@ -22,7 +18,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>create-dataflow-endpoint-group</summary>
+- **<details><summary>create-dataflow-endpoint-group</summary><blockquote>**
 
   * --endpoint-details
   * --tags
@@ -31,7 +27,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>create-mission-profile</summary>
+- **<details><summary>create-mission-profile</summary><blockquote>**
 
   * --contact-post-pass-duration-seconds
   * --contact-pre-pass-duration-seconds
@@ -45,7 +41,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-config</summary>
+- **<details><summary>delete-config</summary><blockquote>**
 
   * --config-id
   * --config-type
@@ -54,7 +50,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-dataflow-endpoint-group</summary>
+- **<details><summary>delete-dataflow-endpoint-group</summary><blockquote>**
 
   * --dataflow-endpoint-group-id
   * --cli-input-json
@@ -62,7 +58,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-mission-profile</summary>
+- **<details><summary>delete-mission-profile</summary><blockquote>**
 
   * --mission-profile-id
   * --cli-input-json
@@ -70,7 +66,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-contact</summary>
+- **<details><summary>describe-contact</summary><blockquote>**
 
   * --contact-id
   * --cli-input-json
@@ -78,7 +74,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>get-config</summary>
+- **<details><summary>get-config</summary><blockquote>**
 
   * --config-id
   * --config-type
@@ -87,7 +83,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>get-dataflow-endpoint-group</summary>
+- **<details><summary>get-dataflow-endpoint-group</summary><blockquote>**
 
   * --dataflow-endpoint-group-id
   * --cli-input-json
@@ -95,7 +91,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>get-minute-usage</summary>
+- **<details><summary>get-minute-usage</summary><blockquote>**
 
   * --month
   * --year
@@ -104,7 +100,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>get-mission-profile</summary>
+- **<details><summary>get-mission-profile</summary><blockquote>**
 
   * --mission-profile-id
   * --cli-input-json
@@ -112,7 +108,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>get-satellite</summary>
+- **<details><summary>get-satellite</summary><blockquote>**
 
   * --satellite-id
   * --cli-input-json
@@ -120,12 +116,12 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-configs</summary>
+- **<details><summary>list-configs</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -135,7 +131,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-contacts</summary>
+- **<details><summary>list-contacts</summary><blockquote>**
 
   * --end-time
   * --ground-station
@@ -151,7 +147,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-dataflow-endpoint-groups</summary>
+- **<details><summary>list-dataflow-endpoint-groups</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -161,7 +157,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-ground-stations</summary>
+- **<details><summary>list-ground-stations</summary><blockquote>**
 
   * --satellite-id
   * --cli-input-json
@@ -172,7 +168,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-mission-profiles</summary>
+- **<details><summary>list-mission-profiles</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -182,7 +178,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-satellites</summary>
+- **<details><summary>list-satellites</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -192,7 +188,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -200,7 +196,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>reserve-contact</summary>
+- **<details><summary>reserve-contact</summary><blockquote>**
 
   * --end-time
   * --ground-station
@@ -213,7 +209,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -222,7 +218,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -231,7 +227,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>update-config</summary>
+- **<details><summary>update-config</summary><blockquote>**
 
   * --config-data
   * --config-id
@@ -242,7 +238,7 @@ groundstation
   * --generate-cli-skeleton
 
 
-- <details><summary>update-mission-profile</summary>
+- **<details><summary>update-mission-profile</summary><blockquote>**
 
   * --contact-post-pass-duration-seconds
   * --contact-pre-pass-duration-seconds
@@ -256,5 +252,30 @@ groundstation
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

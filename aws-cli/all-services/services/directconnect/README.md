@@ -1,10 +1,6 @@
-<details>
+<details><summary>directconnect</summary><blockquote>
 
-<summary>
-directconnect
-</summary>
-
-- <details><summary>accept-direct-connect-gateway-association-proposal</summary>
+- **<details><summary>accept-direct-connect-gateway-association-proposal</summary><blockquote>**
 
   * --direct-connect-gateway-id
   * --proposal-id
@@ -15,7 +11,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>allocate-hosted-connection</summary>
+- **<details><summary>allocate-hosted-connection</summary><blockquote>**
 
   * --connection-id
   * --owner-account
@@ -28,7 +24,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>allocate-private-virtual-interface</summary>
+- **<details><summary>allocate-private-virtual-interface</summary><blockquote>**
 
   * --connection-id
   * --owner-account
@@ -38,7 +34,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>allocate-public-virtual-interface</summary>
+- **<details><summary>allocate-public-virtual-interface</summary><blockquote>**
 
   * --connection-id
   * --owner-account
@@ -48,7 +44,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>allocate-transit-virtual-interface</summary>
+- **<details><summary>allocate-transit-virtual-interface</summary><blockquote>**
 
   * --connection-id
   * --owner-account
@@ -58,7 +54,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-connection-with-lag</summary>
+- **<details><summary>associate-connection-with-lag</summary><blockquote>**
 
   * --connection-id
   * --lag-id
@@ -67,7 +63,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-hosted-connection</summary>
+- **<details><summary>associate-hosted-connection</summary><blockquote>**
 
   * --connection-id
   * --parent-connection-id
@@ -76,7 +72,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-mac-sec-key</summary>
+- **<details><summary>associate-mac-sec-key</summary><blockquote>**
 
   * --connection-id
   * --secret-arn
@@ -87,7 +83,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-virtual-interface</summary>
+- **<details><summary>associate-virtual-interface</summary><blockquote>**
 
   * --virtual-interface-id
   * --connection-id
@@ -96,7 +92,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>confirm-connection</summary>
+- **<details><summary>confirm-connection</summary><blockquote>**
 
   * --connection-id
   * --cli-input-json
@@ -104,7 +100,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>confirm-private-virtual-interface</summary>
+- **<details><summary>confirm-private-virtual-interface</summary><blockquote>**
 
   * --virtual-interface-id
   * --virtual-gateway-id
@@ -114,7 +110,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>confirm-public-virtual-interface</summary>
+- **<details><summary>confirm-public-virtual-interface</summary><blockquote>**
 
   * --virtual-interface-id
   * --cli-input-json
@@ -122,7 +118,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>confirm-transit-virtual-interface</summary>
+- **<details><summary>confirm-transit-virtual-interface</summary><blockquote>**
 
   * --virtual-interface-id
   * --direct-connect-gateway-id
@@ -131,7 +127,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>create-bgp-peer</summary>
+- **<details><summary>create-bgp-peer</summary><blockquote>**
 
   * --virtual-interface-id
   * --new-bgp-peer
@@ -140,7 +136,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>create-connection</summary>
+- **<details><summary>create-connection</summary><blockquote>**
 
   * --location
   * --bandwidth
@@ -155,7 +151,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>create-direct-connect-gateway</summary>
+- **<details><summary>create-direct-connect-gateway</summary><blockquote>**
 
   * --direct-connect-gateway-name
   * --amazon-side-asn
@@ -164,7 +160,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>create-direct-connect-gateway-association</summary>
+- **<details><summary>create-direct-connect-gateway-association</summary><blockquote>**
 
   * --direct-connect-gateway-id
   * --gateway-id
@@ -175,7 +171,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>create-direct-connect-gateway-association-proposal</summary>
+- **<details><summary>create-direct-connect-gateway-association-proposal</summary><blockquote>**
 
   * --direct-connect-gateway-id
   * --direct-connect-gateway-owner-account
@@ -187,7 +183,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>create-interconnect</summary>
+- **<details><summary>create-interconnect</summary><blockquote>**
 
   * --interconnect-name
   * --bandwidth
@@ -200,7 +196,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>create-lag</summary>
+- **<details><summary>create-lag</summary><blockquote>**
 
   * --number-of-connections
   * --location
@@ -217,7 +213,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>create-private-virtual-interface</summary>
+- **<details><summary>create-private-virtual-interface</summary><blockquote>**
 
   * --connection-id
   * --new-private-virtual-interface
@@ -226,7 +222,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>create-public-virtual-interface</summary>
+- **<details><summary>create-public-virtual-interface</summary><blockquote>**
 
   * --connection-id
   * --new-public-virtual-interface
@@ -235,7 +231,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>create-transit-virtual-interface</summary>
+- **<details><summary>create-transit-virtual-interface</summary><blockquote>**
 
   * --connection-id
   * --new-transit-virtual-interface
@@ -244,7 +240,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bgp-peer</summary>
+- **<details><summary>delete-bgp-peer</summary><blockquote>**
 
   * --virtual-interface-id
   * --asn
@@ -255,7 +251,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-connection</summary>
+- **<details><summary>delete-connection</summary><blockquote>**
 
   * --connection-id
   * --cli-input-json
@@ -263,7 +259,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-direct-connect-gateway</summary>
+- **<details><summary>delete-direct-connect-gateway</summary><blockquote>**
 
   * --direct-connect-gateway-id
   * --cli-input-json
@@ -271,7 +267,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-direct-connect-gateway-association</summary>
+- **<details><summary>delete-direct-connect-gateway-association</summary><blockquote>**
 
   * --association-id
   * --direct-connect-gateway-id
@@ -281,7 +277,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-direct-connect-gateway-association-proposal</summary>
+- **<details><summary>delete-direct-connect-gateway-association-proposal</summary><blockquote>**
 
   * --proposal-id
   * --cli-input-json
@@ -289,7 +285,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-interconnect</summary>
+- **<details><summary>delete-interconnect</summary><blockquote>**
 
   * --interconnect-id
   * --cli-input-json
@@ -297,7 +293,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-lag</summary>
+- **<details><summary>delete-lag</summary><blockquote>**
 
   * --lag-id
   * --cli-input-json
@@ -305,7 +301,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-virtual-interface</summary>
+- **<details><summary>delete-virtual-interface</summary><blockquote>**
 
   * --virtual-interface-id
   * --cli-input-json
@@ -313,7 +309,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-connections</summary>
+- **<details><summary>describe-connections</summary><blockquote>**
 
   * --connection-id
   * --cli-input-json
@@ -321,7 +317,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-direct-connect-gateway-association-proposals</summary>
+- **<details><summary>describe-direct-connect-gateway-association-proposals</summary><blockquote>**
 
   * --direct-connect-gateway-id
   * --proposal-id
@@ -333,7 +329,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-direct-connect-gateway-associations</summary>
+- **<details><summary>describe-direct-connect-gateway-associations</summary><blockquote>**
 
   * --association-id
   * --associated-gateway-id
@@ -347,7 +343,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-direct-connect-gateway-attachments</summary>
+- **<details><summary>describe-direct-connect-gateway-attachments</summary><blockquote>**
 
   * --direct-connect-gateway-id
   * --virtual-interface-id
@@ -359,7 +355,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-direct-connect-gateways</summary>
+- **<details><summary>describe-direct-connect-gateways</summary><blockquote>**
 
   * --direct-connect-gateway-id
   * --cli-input-json
@@ -370,7 +366,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-hosted-connections</summary>
+- **<details><summary>describe-hosted-connections</summary><blockquote>**
 
   * --connection-id
   * --cli-input-json
@@ -378,7 +374,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-interconnects</summary>
+- **<details><summary>describe-interconnects</summary><blockquote>**
 
   * --interconnect-id
   * --cli-input-json
@@ -386,7 +382,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-lags</summary>
+- **<details><summary>describe-lags</summary><blockquote>**
 
   * --lag-id
   * --cli-input-json
@@ -394,7 +390,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-loa</summary>
+- **<details><summary>describe-loa</summary><blockquote>**
 
   * --connection-id
   * --provider-name
@@ -404,14 +400,14 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-locations</summary>
+- **<details><summary>describe-locations</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-tags</summary>
+- **<details><summary>describe-tags</summary><blockquote>**
 
   * --resource-arns
   * --cli-input-json
@@ -419,14 +415,14 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-virtual-gateways</summary>
+- **<details><summary>describe-virtual-gateways</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-virtual-interfaces</summary>
+- **<details><summary>describe-virtual-interfaces</summary><blockquote>**
 
   * --connection-id
   * --virtual-interface-id
@@ -435,7 +431,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-connection-from-lag</summary>
+- **<details><summary>disassociate-connection-from-lag</summary><blockquote>**
 
   * --connection-id
   * --lag-id
@@ -444,7 +440,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-mac-sec-key</summary>
+- **<details><summary>disassociate-mac-sec-key</summary><blockquote>**
 
   * --connection-id
   * --secret-arn
@@ -453,12 +449,12 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-virtual-interface-test-history</summary>
+- **<details><summary>list-virtual-interface-test-history</summary><blockquote>**
 
   * --test-id
   * --virtual-interface-id
@@ -471,7 +467,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>start-bgp-failover-test</summary>
+- **<details><summary>start-bgp-failover-test</summary><blockquote>**
 
   * --virtual-interface-id
   * --bgp-peers
@@ -481,7 +477,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-bgp-failover-test</summary>
+- **<details><summary>stop-bgp-failover-test</summary><blockquote>**
 
   * --virtual-interface-id
   * --cli-input-json
@@ -489,7 +485,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -498,7 +494,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -507,7 +503,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>update-connection</summary>
+- **<details><summary>update-connection</summary><blockquote>**
 
   * --connection-id
   * --connection-name
@@ -517,7 +513,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>update-direct-connect-gateway-association</summary>
+- **<details><summary>update-direct-connect-gateway-association</summary><blockquote>**
 
   * --association-id
   * --add-allowed-prefixes-to-direct-connect-gateway
@@ -527,7 +523,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>update-lag</summary>
+- **<details><summary>update-lag</summary><blockquote>**
 
   * --lag-id
   * --lag-name
@@ -538,7 +534,7 @@ directconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>update-virtual-interface-attributes</summary>
+- **<details><summary>update-virtual-interface-attributes</summary><blockquote>**
 
   * --virtual-interface-id
   * --mtu
@@ -547,5 +543,60 @@ directconnect
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

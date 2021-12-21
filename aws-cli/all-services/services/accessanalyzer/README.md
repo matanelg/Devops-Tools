@@ -1,10 +1,6 @@
-<details>
+<details><summary>accessanalyzer</summary><blockquote>
 
-<summary>
-accessanalyzer
-</summary>
-
-- <details><summary>apply-archive-rule</summary>
+- **<details><summary>apply-archive-rule</summary><blockquote>**
 
   * --analyzer-arn
   * --client-token
@@ -14,7 +10,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-policy-generation</summary>
+- **<details><summary>cancel-policy-generation</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -22,7 +18,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>create-access-preview</summary>
+- **<details><summary>create-access-preview</summary><blockquote>**
 
   * --analyzer-arn
   * --client-token
@@ -32,7 +28,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>create-analyzer</summary>
+- **<details><summary>create-analyzer</summary><blockquote>**
 
   * --analyzer-name
   * --archive-rules
@@ -44,7 +40,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>create-archive-rule</summary>
+- **<details><summary>create-archive-rule</summary><blockquote>**
 
   * --analyzer-name
   * --client-token
@@ -55,7 +51,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-analyzer</summary>
+- **<details><summary>delete-analyzer</summary><blockquote>**
 
   * --analyzer-name
   * --client-token
@@ -64,7 +60,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-archive-rule</summary>
+- **<details><summary>delete-archive-rule</summary><blockquote>**
 
   * --analyzer-name
   * --client-token
@@ -74,7 +70,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>get-access-preview</summary>
+- **<details><summary>get-access-preview</summary><blockquote>**
 
   * --access-preview-id
   * --analyzer-arn
@@ -83,7 +79,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>get-analyzed-resource</summary>
+- **<details><summary>get-analyzed-resource</summary><blockquote>**
 
   * --analyzer-arn
   * --resource-arn
@@ -92,7 +88,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>get-analyzer</summary>
+- **<details><summary>get-analyzer</summary><blockquote>**
 
   * --analyzer-name
   * --cli-input-json
@@ -100,7 +96,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>get-archive-rule</summary>
+- **<details><summary>get-archive-rule</summary><blockquote>**
 
   * --analyzer-name
   * --rule-name
@@ -109,7 +105,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>get-finding</summary>
+- **<details><summary>get-finding</summary><blockquote>**
 
   * --analyzer-arn
   * --id
@@ -118,7 +114,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>get-generated-policy</summary>
+- **<details><summary>get-generated-policy</summary><blockquote>**
 
   * --include-resource-placeholders
   * --no-include-resource-placeholders
@@ -130,12 +126,12 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-access-preview-findings</summary>
+- **<details><summary>list-access-preview-findings</summary><blockquote>**
 
   * --access-preview-id
   * --analyzer-arn
@@ -148,7 +144,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-access-previews</summary>
+- **<details><summary>list-access-previews</summary><blockquote>**
 
   * --analyzer-arn
   * --cli-input-json
@@ -159,7 +155,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-analyzed-resources</summary>
+- **<details><summary>list-analyzed-resources</summary><blockquote>**
 
   * --analyzer-arn
   * --resource-type
@@ -171,7 +167,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-analyzers</summary>
+- **<details><summary>list-analyzers</summary><blockquote>**
 
   * --type
   * --cli-input-json
@@ -182,7 +178,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-archive-rules</summary>
+- **<details><summary>list-archive-rules</summary><blockquote>**
 
   * --analyzer-name
   * --cli-input-json
@@ -193,7 +189,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-findings</summary>
+- **<details><summary>list-findings</summary><blockquote>**
 
   * --analyzer-arn
   * --filter
@@ -206,7 +202,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-policy-generations</summary>
+- **<details><summary>list-policy-generations</summary><blockquote>**
 
   * --principal-arn
   * --cli-input-json
@@ -217,7 +213,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -225,7 +221,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>start-policy-generation</summary>
+- **<details><summary>start-policy-generation</summary><blockquote>**
 
   * --client-token
   * --cloud-trail-details
@@ -235,7 +231,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>start-resource-scan</summary>
+- **<details><summary>start-resource-scan</summary><blockquote>**
 
   * --analyzer-arn
   * --resource-arn
@@ -244,7 +240,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -253,7 +249,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -262,7 +258,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>update-archive-rule</summary>
+- **<details><summary>update-archive-rule</summary><blockquote>**
 
   * --analyzer-name
   * --client-token
@@ -273,7 +269,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>update-findings</summary>
+- **<details><summary>update-findings</summary><blockquote>**
 
   * --analyzer-arn
   * --client-token
@@ -285,7 +281,7 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-- <details><summary>validate-policy</summary>
+- **<details><summary>validate-policy</summary><blockquote>**
 
   * --locale
   * --policy-document
@@ -298,5 +294,33 @@ accessanalyzer
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>polly</summary><blockquote>
 
-<summary>
-polly
-</summary>
-
-- <details><summary>delete-lexicon</summary>
+- **<details><summary>delete-lexicon</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -12,7 +8,7 @@ polly
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-voices</summary>
+- **<details><summary>describe-voices</summary><blockquote>**
 
   * --engine
   * --language-code
@@ -25,7 +21,7 @@ polly
   * --generate-cli-skeleton
 
 
-- <details><summary>get-lexicon</summary>
+- **<details><summary>get-lexicon</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -33,7 +29,7 @@ polly
   * --generate-cli-skeleton
 
 
-- <details><summary>get-speech-synthesis-task</summary>
+- **<details><summary>get-speech-synthesis-task</summary><blockquote>**
 
   * --task-id
   * --cli-input-json
@@ -41,12 +37,12 @@ polly
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-lexicons</summary>
+- **<details><summary>list-lexicons</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -55,7 +51,7 @@ polly
   * --generate-cli-skeleton
 
 
-- <details><summary>list-speech-synthesis-tasks</summary>
+- **<details><summary>list-speech-synthesis-tasks</summary><blockquote>**
 
   * --status
   * --cli-input-json
@@ -66,7 +62,7 @@ polly
   * --generate-cli-skeleton
 
 
-- <details><summary>put-lexicon</summary>
+- **<details><summary>put-lexicon</summary><blockquote>**
 
   * --name
   * --content
@@ -75,7 +71,7 @@ polly
   * --generate-cli-skeleton
 
 
-- <details><summary>start-speech-synthesis-task</summary>
+- **<details><summary>start-speech-synthesis-task</summary><blockquote>**
 
   * --engine
   * --language-code
@@ -94,7 +90,7 @@ polly
   * --generate-cli-skeleton
 
 
-- <details><summary>synthesize-speech</summary>
+- **<details><summary>synthesize-speech</summary><blockquote>**
 
   * --engine
   * --language-code
@@ -107,5 +103,14 @@ polly
   * --voice-id
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

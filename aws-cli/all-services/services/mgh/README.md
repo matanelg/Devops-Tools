@@ -1,10 +1,6 @@
-<details>
+<details><summary>mgh</summary><blockquote>
 
-<summary>
-mgh
-</summary>
-
-- <details><summary>associate-created-artifact</summary>
+- **<details><summary>associate-created-artifact</summary><blockquote>**
 
   * --progress-update-stream
   * --migration-task-name
@@ -16,7 +12,7 @@ mgh
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-discovered-resource</summary>
+- **<details><summary>associate-discovered-resource</summary><blockquote>**
 
   * --progress-update-stream
   * --migration-task-name
@@ -28,7 +24,7 @@ mgh
   * --generate-cli-skeleton
 
 
-- <details><summary>create-progress-update-stream</summary>
+- **<details><summary>create-progress-update-stream</summary><blockquote>**
 
   * --progress-update-stream-name
   * --dry-run
@@ -38,7 +34,7 @@ mgh
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-progress-update-stream</summary>
+- **<details><summary>delete-progress-update-stream</summary><blockquote>**
 
   * --progress-update-stream-name
   * --dry-run
@@ -48,7 +44,7 @@ mgh
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-application-state</summary>
+- **<details><summary>describe-application-state</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -56,7 +52,7 @@ mgh
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-migration-task</summary>
+- **<details><summary>describe-migration-task</summary><blockquote>**
 
   * --progress-update-stream
   * --migration-task-name
@@ -65,7 +61,7 @@ mgh
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-created-artifact</summary>
+- **<details><summary>disassociate-created-artifact</summary><blockquote>**
 
   * --progress-update-stream
   * --migration-task-name
@@ -77,7 +73,7 @@ mgh
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-discovered-resource</summary>
+- **<details><summary>disassociate-discovered-resource</summary><blockquote>**
 
   * --progress-update-stream
   * --migration-task-name
@@ -89,12 +85,12 @@ mgh
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>import-migration-task</summary>
+- **<details><summary>import-migration-task</summary><blockquote>**
 
   * --progress-update-stream
   * --migration-task-name
@@ -105,7 +101,7 @@ mgh
   * --generate-cli-skeleton
 
 
-- <details><summary>list-application-states</summary>
+- **<details><summary>list-application-states</summary><blockquote>**
 
   * --application-ids
   * --cli-input-json
@@ -116,7 +112,7 @@ mgh
   * --generate-cli-skeleton
 
 
-- <details><summary>list-created-artifacts</summary>
+- **<details><summary>list-created-artifacts</summary><blockquote>**
 
   * --progress-update-stream
   * --migration-task-name
@@ -128,7 +124,7 @@ mgh
   * --generate-cli-skeleton
 
 
-- <details><summary>list-discovered-resources</summary>
+- **<details><summary>list-discovered-resources</summary><blockquote>**
 
   * --progress-update-stream
   * --migration-task-name
@@ -140,7 +136,7 @@ mgh
   * --generate-cli-skeleton
 
 
-- <details><summary>list-migration-tasks</summary>
+- **<details><summary>list-migration-tasks</summary><blockquote>**
 
   * --resource-name
   * --cli-input-json
@@ -151,7 +147,7 @@ mgh
   * --generate-cli-skeleton
 
 
-- <details><summary>list-progress-update-streams</summary>
+- **<details><summary>list-progress-update-streams</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -161,7 +157,7 @@ mgh
   * --generate-cli-skeleton
 
 
-- <details><summary>notify-application-state</summary>
+- **<details><summary>notify-application-state</summary><blockquote>**
 
   * --application-id
   * --status
@@ -173,7 +169,7 @@ mgh
   * --generate-cli-skeleton
 
 
-- <details><summary>notify-migration-task-state</summary>
+- **<details><summary>notify-migration-task-state</summary><blockquote>**
 
   * --progress-update-stream
   * --migration-task-name
@@ -187,7 +183,7 @@ mgh
   * --generate-cli-skeleton
 
 
-- <details><summary>put-resource-attributes</summary>
+- **<details><summary>put-resource-attributes</summary><blockquote>**
 
   * --progress-update-stream
   * --migration-task-name
@@ -199,5 +195,22 @@ mgh
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

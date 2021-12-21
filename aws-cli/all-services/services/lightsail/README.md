@@ -1,10 +1,6 @@
-<details>
+<details><summary>lightsail</summary><blockquote>
 
-<summary>
-lightsail
-</summary>
-
-- <details><summary>allocate-static-ip</summary>
+- **<details><summary>allocate-static-ip</summary><blockquote>**
 
   * --static-ip-name
   * --cli-input-json
@@ -12,7 +8,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-certificate-to-distribution</summary>
+- **<details><summary>attach-certificate-to-distribution</summary><blockquote>**
 
   * --distribution-name
   * --certificate-name
@@ -21,7 +17,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-disk</summary>
+- **<details><summary>attach-disk</summary><blockquote>**
 
   * --disk-name
   * --instance-name
@@ -31,7 +27,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-instances-to-load-balancer</summary>
+- **<details><summary>attach-instances-to-load-balancer</summary><blockquote>**
 
   * --load-balancer-name
   * --instance-names
@@ -40,7 +36,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-load-balancer-tls-certificate</summary>
+- **<details><summary>attach-load-balancer-tls-certificate</summary><blockquote>**
 
   * --load-balancer-name
   * --certificate-name
@@ -49,7 +45,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-static-ip</summary>
+- **<details><summary>attach-static-ip</summary><blockquote>**
 
   * --static-ip-name
   * --instance-name
@@ -58,7 +54,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>close-instance-public-ports</summary>
+- **<details><summary>close-instance-public-ports</summary><blockquote>**
 
   * --port-info
   * --instance-name
@@ -67,7 +63,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-snapshot</summary>
+- **<details><summary>copy-snapshot</summary><blockquote>**
 
   * --source-snapshot-name
   * --source-resource-name
@@ -81,7 +77,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-bucket</summary>
+- **<details><summary>create-bucket</summary><blockquote>**
 
   * --bucket-name
   * --bundle-id
@@ -93,7 +89,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-bucket-access-key</summary>
+- **<details><summary>create-bucket-access-key</summary><blockquote>**
 
   * --bucket-name
   * --cli-input-json
@@ -101,7 +97,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-certificate</summary>
+- **<details><summary>create-certificate</summary><blockquote>**
 
   * --certificate-name
   * --domain-name
@@ -112,7 +108,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cloud-formation-stack</summary>
+- **<details><summary>create-cloud-formation-stack</summary><blockquote>**
 
   * --instances
   * --cli-input-json
@@ -120,7 +116,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-contact-method</summary>
+- **<details><summary>create-contact-method</summary><blockquote>**
 
   * --protocol
   * --contact-endpoint
@@ -129,7 +125,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-container-service</summary>
+- **<details><summary>create-container-service</summary><blockquote>**
 
   * --service-name
   * --power
@@ -142,7 +138,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-container-service-deployment</summary>
+- **<details><summary>create-container-service-deployment</summary><blockquote>**
 
   * --service-name
   * --containers
@@ -152,14 +148,14 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-container-service-registry-login</summary>
+- **<details><summary>create-container-service-registry-login</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>create-disk</summary>
+- **<details><summary>create-disk</summary><blockquote>**
 
   * --disk-name
   * --availability-zone
@@ -171,7 +167,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-disk-from-snapshot</summary>
+- **<details><summary>create-disk-from-snapshot</summary><blockquote>**
 
   * --disk-name
   * --disk-snapshot-name
@@ -188,7 +184,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-disk-snapshot</summary>
+- **<details><summary>create-disk-snapshot</summary><blockquote>**
 
   * --disk-name
   * --disk-snapshot-name
@@ -199,7 +195,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-distribution</summary>
+- **<details><summary>create-distribution</summary><blockquote>**
 
   * --distribution-name
   * --origin
@@ -214,7 +210,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-domain</summary>
+- **<details><summary>create-domain</summary><blockquote>**
 
   * --domain-name
   * --tags
@@ -223,7 +219,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-domain-entry</summary>
+- **<details><summary>create-domain-entry</summary><blockquote>**
 
   * --domain-name
   * --domain-entry
@@ -232,7 +228,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-instances</summary>
+- **<details><summary>create-instances</summary><blockquote>**
 
   * --instance-names
   * --availability-zone
@@ -249,7 +245,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-instances-from-snapshot</summary>
+- **<details><summary>create-instances-from-snapshot</summary><blockquote>**
 
   * --instance-names
   * --attached-disk-mapping
@@ -270,7 +266,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-instance-snapshot</summary>
+- **<details><summary>create-instance-snapshot</summary><blockquote>**
 
   * --instance-snapshot-name
   * --instance-name
@@ -280,7 +276,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-key-pair</summary>
+- **<details><summary>create-key-pair</summary><blockquote>**
 
   * --key-pair-name
   * --tags
@@ -289,7 +285,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-load-balancer</summary>
+- **<details><summary>create-load-balancer</summary><blockquote>**
 
   * --load-balancer-name
   * --instance-port
@@ -304,7 +300,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-load-balancer-tls-certificate</summary>
+- **<details><summary>create-load-balancer-tls-certificate</summary><blockquote>**
 
   * --load-balancer-name
   * --certificate-name
@@ -316,7 +312,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-relational-database</summary>
+- **<details><summary>create-relational-database</summary><blockquote>**
 
   * --relational-database-name
   * --availability-zone
@@ -335,7 +331,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-relational-database-from-snapshot</summary>
+- **<details><summary>create-relational-database-from-snapshot</summary><blockquote>**
 
   * --relational-database-name
   * --availability-zone
@@ -353,7 +349,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-relational-database-snapshot</summary>
+- **<details><summary>create-relational-database-snapshot</summary><blockquote>**
 
   * --relational-database-name
   * --relational-database-snapshot-name
@@ -363,7 +359,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-alarm</summary>
+- **<details><summary>delete-alarm</summary><blockquote>**
 
   * --alarm-name
   * --cli-input-json
@@ -371,7 +367,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-auto-snapshot</summary>
+- **<details><summary>delete-auto-snapshot</summary><blockquote>**
 
   * --resource-name
   * --date
@@ -380,7 +376,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bucket</summary>
+- **<details><summary>delete-bucket</summary><blockquote>**
 
   * --bucket-name
   * --force-delete
@@ -390,7 +386,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bucket-access-key</summary>
+- **<details><summary>delete-bucket-access-key</summary><blockquote>**
 
   * --bucket-name
   * --access-key-id
@@ -399,7 +395,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-certificate</summary>
+- **<details><summary>delete-certificate</summary><blockquote>**
 
   * --certificate-name
   * --cli-input-json
@@ -407,7 +403,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-contact-method</summary>
+- **<details><summary>delete-contact-method</summary><blockquote>**
 
   * --protocol
   * --cli-input-json
@@ -415,7 +411,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-container-image</summary>
+- **<details><summary>delete-container-image</summary><blockquote>**
 
   * --service-name
   * --image
@@ -424,7 +420,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-container-service</summary>
+- **<details><summary>delete-container-service</summary><blockquote>**
 
   * --service-name
   * --cli-input-json
@@ -432,7 +428,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-disk</summary>
+- **<details><summary>delete-disk</summary><blockquote>**
 
   * --disk-name
   * --force-delete-add-ons
@@ -442,7 +438,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-disk-snapshot</summary>
+- **<details><summary>delete-disk-snapshot</summary><blockquote>**
 
   * --disk-snapshot-name
   * --cli-input-json
@@ -450,7 +446,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-distribution</summary>
+- **<details><summary>delete-distribution</summary><blockquote>**
 
   * --distribution-name
   * --cli-input-json
@@ -458,7 +454,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-domain</summary>
+- **<details><summary>delete-domain</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -466,7 +462,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-domain-entry</summary>
+- **<details><summary>delete-domain-entry</summary><blockquote>**
 
   * --domain-name
   * --domain-entry
@@ -475,7 +471,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-instance</summary>
+- **<details><summary>delete-instance</summary><blockquote>**
 
   * --instance-name
   * --force-delete-add-ons
@@ -485,7 +481,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-instance-snapshot</summary>
+- **<details><summary>delete-instance-snapshot</summary><blockquote>**
 
   * --instance-snapshot-name
   * --cli-input-json
@@ -493,7 +489,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-key-pair</summary>
+- **<details><summary>delete-key-pair</summary><blockquote>**
 
   * --key-pair-name
   * --cli-input-json
@@ -501,7 +497,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-known-host-keys</summary>
+- **<details><summary>delete-known-host-keys</summary><blockquote>**
 
   * --instance-name
   * --cli-input-json
@@ -509,7 +505,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-load-balancer</summary>
+- **<details><summary>delete-load-balancer</summary><blockquote>**
 
   * --load-balancer-name
   * --cli-input-json
@@ -517,7 +513,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-load-balancer-tls-certificate</summary>
+- **<details><summary>delete-load-balancer-tls-certificate</summary><blockquote>**
 
   * --load-balancer-name
   * --certificate-name
@@ -528,7 +524,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-relational-database</summary>
+- **<details><summary>delete-relational-database</summary><blockquote>**
 
   * --relational-database-name
   * --skip-final-snapshot
@@ -539,7 +535,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-relational-database-snapshot</summary>
+- **<details><summary>delete-relational-database-snapshot</summary><blockquote>**
 
   * --relational-database-snapshot-name
   * --cli-input-json
@@ -547,7 +543,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-certificate-from-distribution</summary>
+- **<details><summary>detach-certificate-from-distribution</summary><blockquote>**
 
   * --distribution-name
   * --cli-input-json
@@ -555,7 +551,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-disk</summary>
+- **<details><summary>detach-disk</summary><blockquote>**
 
   * --disk-name
   * --cli-input-json
@@ -563,7 +559,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-instances-from-load-balancer</summary>
+- **<details><summary>detach-instances-from-load-balancer</summary><blockquote>**
 
   * --load-balancer-name
   * --instance-names
@@ -572,7 +568,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-static-ip</summary>
+- **<details><summary>detach-static-ip</summary><blockquote>**
 
   * --static-ip-name
   * --cli-input-json
@@ -580,7 +576,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-add-on</summary>
+- **<details><summary>disable-add-on</summary><blockquote>**
 
   * --add-on-type
   * --resource-name
@@ -589,14 +585,14 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>download-default-key-pair</summary>
+- **<details><summary>download-default-key-pair</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-add-on</summary>
+- **<details><summary>enable-add-on</summary><blockquote>**
 
   * --resource-name
   * --add-on-request
@@ -605,7 +601,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>export-snapshot</summary>
+- **<details><summary>export-snapshot</summary><blockquote>**
 
   * --source-snapshot-name
   * --cli-input-json
@@ -613,7 +609,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-active-names</summary>
+- **<details><summary>get-active-names</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -622,7 +618,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-alarms</summary>
+- **<details><summary>get-alarms</summary><blockquote>**
 
   * --alarm-name
   * --page-token
@@ -632,7 +628,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-auto-snapshots</summary>
+- **<details><summary>get-auto-snapshots</summary><blockquote>**
 
   * --resource-name
   * --cli-input-json
@@ -640,7 +636,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-blueprints</summary>
+- **<details><summary>get-blueprints</summary><blockquote>**
 
   * --include-inactive
   * --no-include-inactive
@@ -651,7 +647,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-access-keys</summary>
+- **<details><summary>get-bucket-access-keys</summary><blockquote>**
 
   * --bucket-name
   * --cli-input-json
@@ -659,7 +655,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-bundles</summary>
+- **<details><summary>get-bucket-bundles</summary><blockquote>**
 
   * --include-inactive
   * --no-include-inactive
@@ -668,7 +664,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-metric-data</summary>
+- **<details><summary>get-bucket-metric-data</summary><blockquote>**
 
   * --bucket-name
   * --metric-name
@@ -682,7 +678,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-buckets</summary>
+- **<details><summary>get-buckets</summary><blockquote>**
 
   * --bucket-name
   * --page-token
@@ -693,7 +689,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bundles</summary>
+- **<details><summary>get-bundles</summary><blockquote>**
 
   * --include-inactive
   * --no-include-inactive
@@ -704,7 +700,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-certificates</summary>
+- **<details><summary>get-certificates</summary><blockquote>**
 
   * --certificate-statuses
   * --include-certificate-details
@@ -715,7 +711,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-cloud-formation-stack-records</summary>
+- **<details><summary>get-cloud-formation-stack-records</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -724,7 +720,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-contact-methods</summary>
+- **<details><summary>get-contact-methods</summary><blockquote>**
 
   * --protocols
   * --cli-input-json
@@ -732,14 +728,14 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-container-api-metadata</summary>
+- **<details><summary>get-container-api-metadata</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-container-images</summary>
+- **<details><summary>get-container-images</summary><blockquote>**
 
   * --service-name
   * --cli-input-json
@@ -747,7 +743,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-container-log</summary>
+- **<details><summary>get-container-log</summary><blockquote>**
 
   * --service-name
   * --container-name
@@ -760,7 +756,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-container-service-deployments</summary>
+- **<details><summary>get-container-service-deployments</summary><blockquote>**
 
   * --service-name
   * --cli-input-json
@@ -768,7 +764,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-container-service-metric-data</summary>
+- **<details><summary>get-container-service-metric-data</summary><blockquote>**
 
   * --service-name
   * --metric-name
@@ -781,14 +777,14 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-container-service-powers</summary>
+- **<details><summary>get-container-service-powers</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-container-services</summary>
+- **<details><summary>get-container-services</summary><blockquote>**
 
   * --service-name
   * --cli-input-json
@@ -796,7 +792,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-disk</summary>
+- **<details><summary>get-disk</summary><blockquote>**
 
   * --disk-name
   * --cli-input-json
@@ -804,7 +800,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-disks</summary>
+- **<details><summary>get-disks</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -813,7 +809,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-disk-snapshot</summary>
+- **<details><summary>get-disk-snapshot</summary><blockquote>**
 
   * --disk-snapshot-name
   * --cli-input-json
@@ -821,7 +817,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-disk-snapshots</summary>
+- **<details><summary>get-disk-snapshots</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -830,14 +826,14 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-distribution-bundles</summary>
+- **<details><summary>get-distribution-bundles</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-distribution-latest-cache-reset</summary>
+- **<details><summary>get-distribution-latest-cache-reset</summary><blockquote>**
 
   * --distribution-name
   * --cli-input-json
@@ -845,7 +841,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-distribution-metric-data</summary>
+- **<details><summary>get-distribution-metric-data</summary><blockquote>**
 
   * --distribution-name
   * --metric-name
@@ -859,7 +855,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-distributions</summary>
+- **<details><summary>get-distributions</summary><blockquote>**
 
   * --distribution-name
   * --page-token
@@ -868,7 +864,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-domain</summary>
+- **<details><summary>get-domain</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -876,7 +872,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-domains</summary>
+- **<details><summary>get-domains</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -885,7 +881,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-export-snapshot-records</summary>
+- **<details><summary>get-export-snapshot-records</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -894,7 +890,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-instance</summary>
+- **<details><summary>get-instance</summary><blockquote>**
 
   * --instance-name
   * --cli-input-json
@@ -902,7 +898,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-instance-access-details</summary>
+- **<details><summary>get-instance-access-details</summary><blockquote>**
 
   * --instance-name
   * --protocol
@@ -911,7 +907,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-instance-metric-data</summary>
+- **<details><summary>get-instance-metric-data</summary><blockquote>**
 
   * --instance-name
   * --metric-name
@@ -925,7 +921,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-instance-port-states</summary>
+- **<details><summary>get-instance-port-states</summary><blockquote>**
 
   * --instance-name
   * --cli-input-json
@@ -933,7 +929,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-instances</summary>
+- **<details><summary>get-instances</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -942,7 +938,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-instance-snapshot</summary>
+- **<details><summary>get-instance-snapshot</summary><blockquote>**
 
   * --instance-snapshot-name
   * --cli-input-json
@@ -950,7 +946,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-instance-snapshots</summary>
+- **<details><summary>get-instance-snapshots</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -959,7 +955,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-instance-state</summary>
+- **<details><summary>get-instance-state</summary><blockquote>**
 
   * --instance-name
   * --cli-input-json
@@ -967,7 +963,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-key-pair</summary>
+- **<details><summary>get-key-pair</summary><blockquote>**
 
   * --key-pair-name
   * --cli-input-json
@@ -975,7 +971,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-key-pairs</summary>
+- **<details><summary>get-key-pairs</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -984,7 +980,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-load-balancer</summary>
+- **<details><summary>get-load-balancer</summary><blockquote>**
 
   * --load-balancer-name
   * --cli-input-json
@@ -992,7 +988,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-load-balancer-metric-data</summary>
+- **<details><summary>get-load-balancer-metric-data</summary><blockquote>**
 
   * --load-balancer-name
   * --metric-name
@@ -1006,7 +1002,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-load-balancers</summary>
+- **<details><summary>get-load-balancers</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -1015,7 +1011,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-load-balancer-tls-certificates</summary>
+- **<details><summary>get-load-balancer-tls-certificates</summary><blockquote>**
 
   * --load-balancer-name
   * --cli-input-json
@@ -1023,7 +1019,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-operation</summary>
+- **<details><summary>get-operation</summary><blockquote>**
 
   * --operation-id
   * --cli-input-json
@@ -1031,7 +1027,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-operations</summary>
+- **<details><summary>get-operations</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -1040,7 +1036,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-operations-for-resource</summary>
+- **<details><summary>get-operations-for-resource</summary><blockquote>**
 
   * --resource-name
   * --page-token
@@ -1049,7 +1045,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-regions</summary>
+- **<details><summary>get-regions</summary><blockquote>**
 
   * --include-availability-zones
   * --no-include-availability-zones
@@ -1060,7 +1056,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-relational-database</summary>
+- **<details><summary>get-relational-database</summary><blockquote>**
 
   * --relational-database-name
   * --cli-input-json
@@ -1068,7 +1064,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-relational-database-blueprints</summary>
+- **<details><summary>get-relational-database-blueprints</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -1077,7 +1073,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-relational-database-bundles</summary>
+- **<details><summary>get-relational-database-bundles</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -1086,7 +1082,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-relational-database-events</summary>
+- **<details><summary>get-relational-database-events</summary><blockquote>**
 
   * --relational-database-name
   * --duration-in-minutes
@@ -1097,7 +1093,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-relational-database-log-events</summary>
+- **<details><summary>get-relational-database-log-events</summary><blockquote>**
 
   * --relational-database-name
   * --log-stream-name
@@ -1111,7 +1107,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-relational-database-log-streams</summary>
+- **<details><summary>get-relational-database-log-streams</summary><blockquote>**
 
   * --relational-database-name
   * --cli-input-json
@@ -1119,7 +1115,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-relational-database-master-user-password</summary>
+- **<details><summary>get-relational-database-master-user-password</summary><blockquote>**
 
   * --relational-database-name
   * --password-version
@@ -1128,7 +1124,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-relational-database-metric-data</summary>
+- **<details><summary>get-relational-database-metric-data</summary><blockquote>**
 
   * --relational-database-name
   * --metric-name
@@ -1142,7 +1138,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-relational-database-parameters</summary>
+- **<details><summary>get-relational-database-parameters</summary><blockquote>**
 
   * --relational-database-name
   * --cli-input-json
@@ -1152,7 +1148,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-relational-databases</summary>
+- **<details><summary>get-relational-databases</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -1161,7 +1157,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-relational-database-snapshot</summary>
+- **<details><summary>get-relational-database-snapshot</summary><blockquote>**
 
   * --relational-database-snapshot-name
   * --cli-input-json
@@ -1169,7 +1165,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-relational-database-snapshots</summary>
+- **<details><summary>get-relational-database-snapshots</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -1178,7 +1174,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-static-ip</summary>
+- **<details><summary>get-static-ip</summary><blockquote>**
 
   * --static-ip-name
   * --cli-input-json
@@ -1186,7 +1182,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-static-ips</summary>
+- **<details><summary>get-static-ips</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -1195,12 +1191,12 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>import-key-pair</summary>
+- **<details><summary>import-key-pair</summary><blockquote>**
 
   * --key-pair-name
   * --public-key-base64
@@ -1209,14 +1205,14 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>is-vpc-peered</summary>
+- **<details><summary>is-vpc-peered</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>open-instance-public-ports</summary>
+- **<details><summary>open-instance-public-ports</summary><blockquote>**
 
   * --port-info
   * --instance-name
@@ -1225,21 +1221,21 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>peer-vpc</summary>
+- **<details><summary>peer-vpc</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>push-container-image</summary>
+- **<details><summary>push-container-image</summary><blockquote>**
 
   * --service-name
   * --image
   * --label
 
 
-- <details><summary>put-alarm</summary>
+- **<details><summary>put-alarm</summary><blockquote>**
 
   * --alarm-name
   * --metric-name
@@ -1258,7 +1254,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>put-instance-public-ports</summary>
+- **<details><summary>put-instance-public-ports</summary><blockquote>**
 
   * --port-infos
   * --instance-name
@@ -1267,7 +1263,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>reboot-instance</summary>
+- **<details><summary>reboot-instance</summary><blockquote>**
 
   * --instance-name
   * --cli-input-json
@@ -1275,7 +1271,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>reboot-relational-database</summary>
+- **<details><summary>reboot-relational-database</summary><blockquote>**
 
   * --relational-database-name
   * --cli-input-json
@@ -1283,7 +1279,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>register-container-image</summary>
+- **<details><summary>register-container-image</summary><blockquote>**
 
   * --service-name
   * --label
@@ -1293,7 +1289,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>release-static-ip</summary>
+- **<details><summary>release-static-ip</summary><blockquote>**
 
   * --static-ip-name
   * --cli-input-json
@@ -1301,7 +1297,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-distribution-cache</summary>
+- **<details><summary>reset-distribution-cache</summary><blockquote>**
 
   * --distribution-name
   * --cli-input-json
@@ -1309,7 +1305,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>send-contact-method-verification</summary>
+- **<details><summary>send-contact-method-verification</summary><blockquote>**
 
   * --protocol
   * --cli-input-json
@@ -1317,7 +1313,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>set-ip-address-type</summary>
+- **<details><summary>set-ip-address-type</summary><blockquote>**
 
   * --resource-type
   * --resource-name
@@ -1327,7 +1323,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>set-resource-access-for-bucket</summary>
+- **<details><summary>set-resource-access-for-bucket</summary><blockquote>**
 
   * --resource-name
   * --bucket-name
@@ -1337,7 +1333,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>start-instance</summary>
+- **<details><summary>start-instance</summary><blockquote>**
 
   * --instance-name
   * --cli-input-json
@@ -1345,7 +1341,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>start-relational-database</summary>
+- **<details><summary>start-relational-database</summary><blockquote>**
 
   * --relational-database-name
   * --cli-input-json
@@ -1353,7 +1349,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-instance</summary>
+- **<details><summary>stop-instance</summary><blockquote>**
 
   * --instance-name
   * --force
@@ -1363,7 +1359,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-relational-database</summary>
+- **<details><summary>stop-relational-database</summary><blockquote>**
 
   * --relational-database-name
   * --relational-database-snapshot-name
@@ -1372,7 +1368,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-name
   * --resource-arn
@@ -1382,7 +1378,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>test-alarm</summary>
+- **<details><summary>test-alarm</summary><blockquote>**
 
   * --alarm-name
   * --state
@@ -1391,14 +1387,14 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>unpeer-vpc</summary>
+- **<details><summary>unpeer-vpc</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-name
   * --resource-arn
@@ -1408,7 +1404,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>update-bucket</summary>
+- **<details><summary>update-bucket</summary><blockquote>**
 
   * --bucket-name
   * --access-rules
@@ -1419,7 +1415,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>update-bucket-bundle</summary>
+- **<details><summary>update-bucket-bundle</summary><blockquote>**
 
   * --bucket-name
   * --bundle-id
@@ -1428,7 +1424,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>update-container-service</summary>
+- **<details><summary>update-container-service</summary><blockquote>**
 
   * --service-name
   * --power
@@ -1441,7 +1437,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>update-distribution</summary>
+- **<details><summary>update-distribution</summary><blockquote>**
 
   * --distribution-name
   * --origin
@@ -1455,7 +1451,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>update-distribution-bundle</summary>
+- **<details><summary>update-distribution-bundle</summary><blockquote>**
 
   * --distribution-name
   * --bundle-id
@@ -1464,7 +1460,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>update-domain-entry</summary>
+- **<details><summary>update-domain-entry</summary><blockquote>**
 
   * --domain-name
   * --domain-entry
@@ -1473,7 +1469,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>update-load-balancer-attribute</summary>
+- **<details><summary>update-load-balancer-attribute</summary><blockquote>**
 
   * --load-balancer-name
   * --attribute-name
@@ -1483,7 +1479,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>update-relational-database</summary>
+- **<details><summary>update-relational-database</summary><blockquote>**
 
   * --relational-database-name
   * --master-user-password
@@ -1505,7 +1501,7 @@ lightsail
   * --generate-cli-skeleton
 
 
-- <details><summary>update-relational-database-parameters</summary>
+- **<details><summary>update-relational-database-parameters</summary><blockquote>**
 
   * --relational-database-name
   * --parameters
@@ -1514,5 +1510,159 @@ lightsail
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

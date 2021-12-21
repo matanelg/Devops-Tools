@@ -1,10 +1,6 @@
-<details>
+<details><summary>iotsitewise</summary><blockquote>
 
-<summary>
-iotsitewise
-</summary>
-
-- <details><summary>associate-assets</summary>
+- **<details><summary>associate-assets</summary><blockquote>**
 
   * --asset-id
   * --hierarchy-id
@@ -15,7 +11,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-associate-project-assets</summary>
+- **<details><summary>batch-associate-project-assets</summary><blockquote>**
 
   * --project-id
   * --asset-ids
@@ -25,7 +21,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-disassociate-project-assets</summary>
+- **<details><summary>batch-disassociate-project-assets</summary><blockquote>**
 
   * --project-id
   * --asset-ids
@@ -35,7 +31,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-put-asset-property-value</summary>
+- **<details><summary>batch-put-asset-property-value</summary><blockquote>**
 
   * --entries
   * --cli-input-json
@@ -43,7 +39,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>create-access-policy</summary>
+- **<details><summary>create-access-policy</summary><blockquote>**
 
   * --access-policy-identity
   * --access-policy-resource
@@ -55,7 +51,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>create-asset</summary>
+- **<details><summary>create-asset</summary><blockquote>**
 
   * --asset-name
   * --asset-model-id
@@ -66,7 +62,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>create-asset-model</summary>
+- **<details><summary>create-asset-model</summary><blockquote>**
 
   * --asset-model-name
   * --asset-model-description
@@ -80,7 +76,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>create-dashboard</summary>
+- **<details><summary>create-dashboard</summary><blockquote>**
 
   * --project-id
   * --dashboard-name
@@ -93,7 +89,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>create-gateway</summary>
+- **<details><summary>create-gateway</summary><blockquote>**
 
   * --gateway-name
   * --gateway-platform
@@ -103,7 +99,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>create-portal</summary>
+- **<details><summary>create-portal</summary><blockquote>**
 
   * --portal-name
   * --portal-description
@@ -120,7 +116,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>create-project</summary>
+- **<details><summary>create-project</summary><blockquote>**
 
   * --portal-id
   * --project-name
@@ -132,7 +128,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-access-policy</summary>
+- **<details><summary>delete-access-policy</summary><blockquote>**
 
   * --access-policy-id
   * --client-token
@@ -141,7 +137,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-asset</summary>
+- **<details><summary>delete-asset</summary><blockquote>**
 
   * --asset-id
   * --client-token
@@ -150,7 +146,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-asset-model</summary>
+- **<details><summary>delete-asset-model</summary><blockquote>**
 
   * --asset-model-id
   * --client-token
@@ -159,7 +155,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-dashboard</summary>
+- **<details><summary>delete-dashboard</summary><blockquote>**
 
   * --dashboard-id
   * --client-token
@@ -168,7 +164,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-gateway</summary>
+- **<details><summary>delete-gateway</summary><blockquote>**
 
   * --gateway-id
   * --cli-input-json
@@ -176,7 +172,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-portal</summary>
+- **<details><summary>delete-portal</summary><blockquote>**
 
   * --portal-id
   * --client-token
@@ -185,7 +181,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-project</summary>
+- **<details><summary>delete-project</summary><blockquote>**
 
   * --project-id
   * --client-token
@@ -194,7 +190,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-access-policy</summary>
+- **<details><summary>describe-access-policy</summary><blockquote>**
 
   * --access-policy-id
   * --cli-input-json
@@ -202,7 +198,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-asset</summary>
+- **<details><summary>describe-asset</summary><blockquote>**
 
   * --asset-id
   * --cli-input-json
@@ -210,7 +206,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-asset-model</summary>
+- **<details><summary>describe-asset-model</summary><blockquote>**
 
   * --asset-model-id
   * --cli-input-json
@@ -218,7 +214,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-asset-property</summary>
+- **<details><summary>describe-asset-property</summary><blockquote>**
 
   * --asset-id
   * --property-id
@@ -227,7 +223,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-dashboard</summary>
+- **<details><summary>describe-dashboard</summary><blockquote>**
 
   * --dashboard-id
   * --cli-input-json
@@ -235,14 +231,14 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-default-encryption-configuration</summary>
+- **<details><summary>describe-default-encryption-configuration</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-gateway</summary>
+- **<details><summary>describe-gateway</summary><blockquote>**
 
   * --gateway-id
   * --cli-input-json
@@ -250,7 +246,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-gateway-capability-configuration</summary>
+- **<details><summary>describe-gateway-capability-configuration</summary><blockquote>**
 
   * --gateway-id
   * --capability-namespace
@@ -259,14 +255,14 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-logging-options</summary>
+- **<details><summary>describe-logging-options</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-portal</summary>
+- **<details><summary>describe-portal</summary><blockquote>**
 
   * --portal-id
   * --cli-input-json
@@ -274,7 +270,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-project</summary>
+- **<details><summary>describe-project</summary><blockquote>**
 
   * --project-id
   * --cli-input-json
@@ -282,14 +278,14 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-storage-configuration</summary>
+- **<details><summary>describe-storage-configuration</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-assets</summary>
+- **<details><summary>disassociate-assets</summary><blockquote>**
 
   * --asset-id
   * --hierarchy-id
@@ -300,7 +296,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>get-asset-property-aggregates</summary>
+- **<details><summary>get-asset-property-aggregates</summary><blockquote>**
 
   * --asset-id
   * --property-id
@@ -319,7 +315,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>get-asset-property-value</summary>
+- **<details><summary>get-asset-property-value</summary><blockquote>**
 
   * --asset-id
   * --property-id
@@ -329,7 +325,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>get-asset-property-value-history</summary>
+- **<details><summary>get-asset-property-value-history</summary><blockquote>**
 
   * --asset-id
   * --property-id
@@ -346,7 +342,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>get-interpolated-asset-property-values</summary>
+- **<details><summary>get-interpolated-asset-property-values</summary><blockquote>**
 
   * --asset-id
   * --property-id
@@ -366,12 +362,12 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-access-policies</summary>
+- **<details><summary>list-access-policies</summary><blockquote>**
 
   * --identity-type
   * --identity-id
@@ -386,7 +382,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>list-asset-models</summary>
+- **<details><summary>list-asset-models</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -396,7 +392,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>list-asset-relationships</summary>
+- **<details><summary>list-asset-relationships</summary><blockquote>**
 
   * --asset-id
   * --traversal-type
@@ -408,7 +404,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>list-assets</summary>
+- **<details><summary>list-assets</summary><blockquote>**
 
   * --asset-model-id
   * --filter
@@ -420,7 +416,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>list-associated-assets</summary>
+- **<details><summary>list-associated-assets</summary><blockquote>**
 
   * --asset-id
   * --hierarchy-id
@@ -433,7 +429,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>list-dashboards</summary>
+- **<details><summary>list-dashboards</summary><blockquote>**
 
   * --project-id
   * --cli-input-json
@@ -444,7 +440,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>list-gateways</summary>
+- **<details><summary>list-gateways</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -454,7 +450,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>list-portals</summary>
+- **<details><summary>list-portals</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -464,7 +460,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>list-project-assets</summary>
+- **<details><summary>list-project-assets</summary><blockquote>**
 
   * --project-id
   * --cli-input-json
@@ -475,7 +471,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>list-projects</summary>
+- **<details><summary>list-projects</summary><blockquote>**
 
   * --portal-id
   * --cli-input-json
@@ -486,7 +482,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -494,7 +490,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>put-default-encryption-configuration</summary>
+- **<details><summary>put-default-encryption-configuration</summary><blockquote>**
 
   * --encryption-type
   * --kms-key-id
@@ -503,7 +499,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>put-logging-options</summary>
+- **<details><summary>put-logging-options</summary><blockquote>**
 
   * --logging-options
   * --cli-input-json
@@ -511,7 +507,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>put-storage-configuration</summary>
+- **<details><summary>put-storage-configuration</summary><blockquote>**
 
   * --storage-type
   * --multi-layer-storage
@@ -520,7 +516,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -529,7 +525,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -538,7 +534,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>update-access-policy</summary>
+- **<details><summary>update-access-policy</summary><blockquote>**
 
   * --access-policy-id
   * --access-policy-identity
@@ -550,7 +546,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>update-asset</summary>
+- **<details><summary>update-asset</summary><blockquote>**
 
   * --asset-id
   * --asset-name
@@ -560,7 +556,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>update-asset-model</summary>
+- **<details><summary>update-asset-model</summary><blockquote>**
 
   * --asset-model-id
   * --asset-model-name
@@ -574,7 +570,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>update-asset-property</summary>
+- **<details><summary>update-asset-property</summary><blockquote>**
 
   * --asset-id
   * --property-id
@@ -586,7 +582,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>update-dashboard</summary>
+- **<details><summary>update-dashboard</summary><blockquote>**
 
   * --dashboard-id
   * --dashboard-name
@@ -598,7 +594,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>update-gateway</summary>
+- **<details><summary>update-gateway</summary><blockquote>**
 
   * --gateway-id
   * --gateway-name
@@ -607,7 +603,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>update-gateway-capability-configuration</summary>
+- **<details><summary>update-gateway-capability-configuration</summary><blockquote>**
 
   * --gateway-id
   * --capability-namespace
@@ -617,7 +613,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>update-portal</summary>
+- **<details><summary>update-portal</summary><blockquote>**
 
   * --portal-id
   * --portal-name
@@ -633,7 +629,7 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>update-project</summary>
+- **<details><summary>update-project</summary><blockquote>**
 
   * --project-id
   * --project-name
@@ -644,10 +640,71 @@ iotsitewise
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

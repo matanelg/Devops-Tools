@@ -1,10 +1,6 @@
-<details>
+<details><summary>datapipeline</summary><blockquote>
 
-<summary>
-datapipeline
-</summary>
-
-- <details><summary>activate-pipeline</summary>
+- **<details><summary>activate-pipeline</summary><blockquote>**
 
   * --pipeline-id
   * --parameter-values
@@ -15,7 +11,7 @@ datapipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>add-tags</summary>
+- **<details><summary>add-tags</summary><blockquote>**
 
   * --pipeline-id
   * --tags
@@ -24,12 +20,12 @@ datapipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>create-default-roles</summary>
+- **<details><summary>create-default-roles</summary><blockquote>**
 
   * 
 
 
-- <details><summary>create-pipeline</summary>
+- **<details><summary>create-pipeline</summary><blockquote>**
 
   * --name
   * --unique-id
@@ -40,7 +36,7 @@ datapipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>deactivate-pipeline</summary>
+- **<details><summary>deactivate-pipeline</summary><blockquote>**
 
   * --pipeline-id
   * --cancel-active
@@ -50,7 +46,7 @@ datapipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-pipeline</summary>
+- **<details><summary>delete-pipeline</summary><blockquote>**
 
   * --pipeline-id
   * --cli-input-json
@@ -58,7 +54,7 @@ datapipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-objects</summary>
+- **<details><summary>describe-objects</summary><blockquote>**
 
   * --pipeline-id
   * --object-ids
@@ -71,7 +67,7 @@ datapipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-pipelines</summary>
+- **<details><summary>describe-pipelines</summary><blockquote>**
 
   * --pipeline-ids
   * --cli-input-json
@@ -79,7 +75,7 @@ datapipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>evaluate-expression</summary>
+- **<details><summary>evaluate-expression</summary><blockquote>**
 
   * --pipeline-id
   * --object-id
@@ -89,7 +85,7 @@ datapipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>get-pipeline-definition</summary>
+- **<details><summary>get-pipeline-definition</summary><blockquote>**
 
   * --pipeline-id
   * --pipeline-version
@@ -98,12 +94,12 @@ datapipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-pipelines</summary>
+- **<details><summary>list-pipelines</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -112,7 +108,7 @@ datapipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>list-runs</summary>
+- **<details><summary>list-runs</summary><blockquote>**
 
   * --pipeline-id
   * --status
@@ -120,7 +116,7 @@ datapipeline
   * --schedule-interval
 
 
-- <details><summary>poll-for-task</summary>
+- **<details><summary>poll-for-task</summary><blockquote>**
 
   * --worker-group
   * --hostname
@@ -130,7 +126,7 @@ datapipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>put-pipeline-definition</summary>
+- **<details><summary>put-pipeline-definition</summary><blockquote>**
 
   * --pipeline-id
   * --parameter-objects
@@ -142,7 +138,7 @@ datapipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>query-objects</summary>
+- **<details><summary>query-objects</summary><blockquote>**
 
   * --pipeline-id
   * --sphere
@@ -155,7 +151,7 @@ datapipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-tags</summary>
+- **<details><summary>remove-tags</summary><blockquote>**
 
   * --pipeline-id
   * --tag-keys
@@ -164,7 +160,7 @@ datapipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>report-task-progress</summary>
+- **<details><summary>report-task-progress</summary><blockquote>**
 
   * --task-id
   * --fields
@@ -173,7 +169,7 @@ datapipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>report-task-runner-heartbeat</summary>
+- **<details><summary>report-task-runner-heartbeat</summary><blockquote>**
 
   * --taskrunner-id
   * --worker-group
@@ -183,7 +179,7 @@ datapipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>set-status</summary>
+- **<details><summary>set-status</summary><blockquote>**
 
   * --pipeline-id
   * --object-ids
@@ -193,7 +189,7 @@ datapipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>set-task-status</summary>
+- **<details><summary>set-task-status</summary><blockquote>**
 
   * --task-id
   * --task-status
@@ -205,7 +201,7 @@ datapipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>validate-pipeline-definition</summary>
+- **<details><summary>validate-pipeline-definition</summary><blockquote>**
 
   * --pipeline-id
   * --pipeline-objects
@@ -216,5 +212,26 @@ datapipeline
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

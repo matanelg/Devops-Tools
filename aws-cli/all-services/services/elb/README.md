@@ -1,10 +1,6 @@
-<details>
+<details><summary>elb</summary><blockquote>
 
-<summary>
-elb
-</summary>
-
-- <details><summary>add-tags</summary>
+- **<details><summary>add-tags</summary><blockquote>**
 
   * --load-balancer-names
   * --tags
@@ -13,7 +9,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>apply-security-groups-to-load-balancer</summary>
+- **<details><summary>apply-security-groups-to-load-balancer</summary><blockquote>**
 
   * --load-balancer-name
   * --security-groups
@@ -22,7 +18,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-load-balancer-to-subnets</summary>
+- **<details><summary>attach-load-balancer-to-subnets</summary><blockquote>**
 
   * --load-balancer-name
   * --subnets
@@ -31,7 +27,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>configure-health-check</summary>
+- **<details><summary>configure-health-check</summary><blockquote>**
 
   * --load-balancer-name
   * --health-check
@@ -40,7 +36,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>create-app-cookie-stickiness-policy</summary>
+- **<details><summary>create-app-cookie-stickiness-policy</summary><blockquote>**
 
   * --load-balancer-name
   * --policy-name
@@ -50,7 +46,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>create-lb-cookie-stickiness-policy</summary>
+- **<details><summary>create-lb-cookie-stickiness-policy</summary><blockquote>**
 
   * --load-balancer-name
   * --policy-name
@@ -60,7 +56,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>create-load-balancer</summary>
+- **<details><summary>create-load-balancer</summary><blockquote>**
 
   * --load-balancer-name
   * --listeners
@@ -74,7 +70,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>create-load-balancer-listeners</summary>
+- **<details><summary>create-load-balancer-listeners</summary><blockquote>**
 
   * --load-balancer-name
   * --listeners
@@ -83,7 +79,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>create-load-balancer-policy</summary>
+- **<details><summary>create-load-balancer-policy</summary><blockquote>**
 
   * --load-balancer-name
   * --policy-name
@@ -94,7 +90,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-load-balancer</summary>
+- **<details><summary>delete-load-balancer</summary><blockquote>**
 
   * --load-balancer-name
   * --cli-input-json
@@ -102,7 +98,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-load-balancer-listeners</summary>
+- **<details><summary>delete-load-balancer-listeners</summary><blockquote>**
 
   * --load-balancer-name
   * --load-balancer-ports
@@ -111,7 +107,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-load-balancer-policy</summary>
+- **<details><summary>delete-load-balancer-policy</summary><blockquote>**
 
   * --load-balancer-name
   * --policy-name
@@ -120,7 +116,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-instances-from-load-balancer</summary>
+- **<details><summary>deregister-instances-from-load-balancer</summary><blockquote>**
 
   * --load-balancer-name
   * --instances
@@ -129,7 +125,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-account-limits</summary>
+- **<details><summary>describe-account-limits</summary><blockquote>**
 
   * --page-size
   * --cli-input-json
@@ -139,7 +135,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instance-health</summary>
+- **<details><summary>describe-instance-health</summary><blockquote>**
 
   * --load-balancer-name
   * --instances
@@ -148,7 +144,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-load-balancer-attributes</summary>
+- **<details><summary>describe-load-balancer-attributes</summary><blockquote>**
 
   * --load-balancer-name
   * --cli-input-json
@@ -156,7 +152,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-load-balancer-policies</summary>
+- **<details><summary>describe-load-balancer-policies</summary><blockquote>**
 
   * --load-balancer-name
   * --policy-names
@@ -165,7 +161,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-load-balancer-policy-types</summary>
+- **<details><summary>describe-load-balancer-policy-types</summary><blockquote>**
 
   * --policy-type-names
   * --cli-input-json
@@ -173,7 +169,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-load-balancers</summary>
+- **<details><summary>describe-load-balancers</summary><blockquote>**
 
   * --load-balancer-names
   * --page-size
@@ -184,7 +180,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-tags</summary>
+- **<details><summary>describe-tags</summary><blockquote>**
 
   * --load-balancer-names
   * --cli-input-json
@@ -192,7 +188,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-load-balancer-from-subnets</summary>
+- **<details><summary>detach-load-balancer-from-subnets</summary><blockquote>**
 
   * --load-balancer-name
   * --subnets
@@ -201,7 +197,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-availability-zones-for-load-balancer</summary>
+- **<details><summary>disable-availability-zones-for-load-balancer</summary><blockquote>**
 
   * --load-balancer-name
   * --availability-zones
@@ -210,7 +206,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-availability-zones-for-load-balancer</summary>
+- **<details><summary>enable-availability-zones-for-load-balancer</summary><blockquote>**
 
   * --load-balancer-name
   * --availability-zones
@@ -219,12 +215,12 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>modify-load-balancer-attributes</summary>
+- **<details><summary>modify-load-balancer-attributes</summary><blockquote>**
 
   * --load-balancer-name
   * --load-balancer-attributes
@@ -233,7 +229,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>register-instances-with-load-balancer</summary>
+- **<details><summary>register-instances-with-load-balancer</summary><blockquote>**
 
   * --load-balancer-name
   * --instances
@@ -242,7 +238,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-tags</summary>
+- **<details><summary>remove-tags</summary><blockquote>**
 
   * --load-balancer-names
   * --tags
@@ -251,7 +247,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>set-load-balancer-listener-ssl-certificate</summary>
+- **<details><summary>set-load-balancer-listener-ssl-certificate</summary><blockquote>**
 
   * --load-balancer-name
   * --load-balancer-port
@@ -261,7 +257,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>set-load-balancer-policies-for-backend-server</summary>
+- **<details><summary>set-load-balancer-policies-for-backend-server</summary><blockquote>**
 
   * --load-balancer-name
   * --instance-port
@@ -271,7 +267,7 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>set-load-balancer-policies-of-listener</summary>
+- **<details><summary>set-load-balancer-policies-of-listener</summary><blockquote>**
 
   * --load-balancer-name
   * --load-balancer-port
@@ -281,10 +277,40 @@ elb
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>codeguruprofiler</summary><blockquote>
 
-<summary>
-codeguruprofiler
-</summary>
-
-- <details><summary>add-notification-channels</summary>
+- **<details><summary>add-notification-channels</summary><blockquote>**
 
   * --channels
   * --profiling-group-name
@@ -13,7 +9,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-frame-metric-data</summary>
+- **<details><summary>batch-get-frame-metric-data</summary><blockquote>**
 
   * --end-time
   * --frame-metrics
@@ -26,7 +22,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>configure-agent</summary>
+- **<details><summary>configure-agent</summary><blockquote>**
 
   * --fleet-instance-id
   * --metadata
@@ -36,7 +32,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>create-profiling-group</summary>
+- **<details><summary>create-profiling-group</summary><blockquote>**
 
   * --agent-orchestration-config
   * --client-token
@@ -48,7 +44,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-profiling-group</summary>
+- **<details><summary>delete-profiling-group</summary><blockquote>**
 
   * --profiling-group-name
   * --cli-input-json
@@ -56,7 +52,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-profiling-group</summary>
+- **<details><summary>describe-profiling-group</summary><blockquote>**
 
   * --profiling-group-name
   * --cli-input-json
@@ -64,7 +60,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>get-findings-report-account-summary</summary>
+- **<details><summary>get-findings-report-account-summary</summary><blockquote>**
 
   * --daily-reports-only
   * --no-daily-reports-only
@@ -75,7 +71,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>get-notification-configuration</summary>
+- **<details><summary>get-notification-configuration</summary><blockquote>**
 
   * --profiling-group-name
   * --cli-input-json
@@ -83,7 +79,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>get-policy</summary>
+- **<details><summary>get-policy</summary><blockquote>**
 
   * --profiling-group-name
   * --cli-input-json
@@ -91,7 +87,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>get-profile</summary>
+- **<details><summary>get-profile</summary><blockquote>**
 
   * --accept
   * --end-time
@@ -101,7 +97,7 @@ codeguruprofiler
   * --start-time
 
 
-- <details><summary>get-recommendations</summary>
+- **<details><summary>get-recommendations</summary><blockquote>**
 
   * --end-time
   * --locale
@@ -112,12 +108,12 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-findings-reports</summary>
+- **<details><summary>list-findings-reports</summary><blockquote>**
 
   * --daily-reports-only
   * --no-daily-reports-only
@@ -131,7 +127,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>list-profile-times</summary>
+- **<details><summary>list-profile-times</summary><blockquote>**
 
   * --end-time
   * --order-by
@@ -146,7 +142,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>list-profiling-groups</summary>
+- **<details><summary>list-profiling-groups</summary><blockquote>**
 
   * --include-description
   * --no-include-description
@@ -157,7 +153,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -165,7 +161,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>post-agent-profile</summary>
+- **<details><summary>post-agent-profile</summary><blockquote>**
 
   * --agent-profile
   * --content-type
@@ -176,7 +172,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>put-permission</summary>
+- **<details><summary>put-permission</summary><blockquote>**
 
   * --action-group
   * --principals
@@ -187,7 +183,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-notification-channel</summary>
+- **<details><summary>remove-notification-channel</summary><blockquote>**
 
   * --channel-id
   * --profiling-group-name
@@ -196,7 +192,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-permission</summary>
+- **<details><summary>remove-permission</summary><blockquote>**
 
   * --action-group
   * --profiling-group-name
@@ -206,7 +202,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>submit-feedback</summary>
+- **<details><summary>submit-feedback</summary><blockquote>**
 
   * --anomaly-instance-id
   * --comment
@@ -217,7 +213,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -226,7 +222,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -235,7 +231,7 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>update-profiling-group</summary>
+- **<details><summary>update-profiling-group</summary><blockquote>**
 
   * --agent-orchestration-config
   * --profiling-group-name
@@ -244,5 +240,28 @@ codeguruprofiler
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

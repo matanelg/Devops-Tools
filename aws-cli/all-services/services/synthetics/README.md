@@ -1,10 +1,6 @@
-<details>
+<details><summary>synthetics</summary><blockquote>
 
-<summary>
-synthetics
-</summary>
-
-- <details><summary>create-canary</summary>
+- **<details><summary>create-canary</summary><blockquote>**
 
   * --name
   * --code
@@ -22,7 +18,7 @@ synthetics
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-canary</summary>
+- **<details><summary>delete-canary</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -30,7 +26,7 @@ synthetics
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-canaries</summary>
+- **<details><summary>describe-canaries</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -39,7 +35,7 @@ synthetics
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-canaries-last-run</summary>
+- **<details><summary>describe-canaries-last-run</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -48,7 +44,7 @@ synthetics
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-runtime-versions</summary>
+- **<details><summary>describe-runtime-versions</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -57,7 +53,7 @@ synthetics
   * --generate-cli-skeleton
 
 
-- <details><summary>get-canary</summary>
+- **<details><summary>get-canary</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -65,7 +61,7 @@ synthetics
   * --generate-cli-skeleton
 
 
-- <details><summary>get-canary-runs</summary>
+- **<details><summary>get-canary-runs</summary><blockquote>**
 
   * --name
   * --next-token
@@ -75,12 +71,12 @@ synthetics
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -88,7 +84,7 @@ synthetics
   * --generate-cli-skeleton
 
 
-- <details><summary>start-canary</summary>
+- **<details><summary>start-canary</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -96,7 +92,7 @@ synthetics
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-canary</summary>
+- **<details><summary>stop-canary</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -104,7 +100,7 @@ synthetics
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -113,7 +109,7 @@ synthetics
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -122,7 +118,7 @@ synthetics
   * --generate-cli-skeleton
 
 
-- <details><summary>update-canary</summary>
+- **<details><summary>update-canary</summary><blockquote>**
 
   * --name
   * --code
@@ -138,5 +134,18 @@ synthetics
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

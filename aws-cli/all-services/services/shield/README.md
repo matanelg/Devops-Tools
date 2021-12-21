@@ -1,10 +1,6 @@
-<details>
+<details><summary>shield</summary><blockquote>
 
-<summary>
-shield
-</summary>
-
-- <details><summary>associate-drt-log-bucket</summary>
+- **<details><summary>associate-drt-log-bucket</summary><blockquote>**
 
   * --log-bucket
   * --cli-input-json
@@ -12,7 +8,7 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-drt-role</summary>
+- **<details><summary>associate-drt-role</summary><blockquote>**
 
   * --role-arn
   * --cli-input-json
@@ -20,7 +16,7 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-health-check</summary>
+- **<details><summary>associate-health-check</summary><blockquote>**
 
   * --protection-id
   * --health-check-arn
@@ -29,7 +25,7 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-proactive-engagement-details</summary>
+- **<details><summary>associate-proactive-engagement-details</summary><blockquote>**
 
   * --emergency-contact-list
   * --cli-input-json
@@ -37,7 +33,7 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>create-protection</summary>
+- **<details><summary>create-protection</summary><blockquote>**
 
   * --name
   * --resource-arn
@@ -47,7 +43,7 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>create-protection-group</summary>
+- **<details><summary>create-protection-group</summary><blockquote>**
 
   * --protection-group-id
   * --aggregation
@@ -60,14 +56,14 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>create-subscription</summary>
+- **<details><summary>create-subscription</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-protection</summary>
+- **<details><summary>delete-protection</summary><blockquote>**
 
   * --protection-id
   * --cli-input-json
@@ -75,7 +71,7 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-protection-group</summary>
+- **<details><summary>delete-protection-group</summary><blockquote>**
 
   * --protection-group-id
   * --cli-input-json
@@ -83,7 +79,7 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-attack</summary>
+- **<details><summary>describe-attack</summary><blockquote>**
 
   * --attack-id
   * --cli-input-json
@@ -91,28 +87,28 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-attack-statistics</summary>
+- **<details><summary>describe-attack-statistics</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-drt-access</summary>
+- **<details><summary>describe-drt-access</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-emergency-contact-settings</summary>
+- **<details><summary>describe-emergency-contact-settings</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-protection</summary>
+- **<details><summary>describe-protection</summary><blockquote>**
 
   * --protection-id
   * --resource-arn
@@ -121,7 +117,7 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-protection-group</summary>
+- **<details><summary>describe-protection-group</summary><blockquote>**
 
   * --protection-group-id
   * --cli-input-json
@@ -129,21 +125,21 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-subscription</summary>
+- **<details><summary>describe-subscription</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-proactive-engagement</summary>
+- **<details><summary>disable-proactive-engagement</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-drt-log-bucket</summary>
+- **<details><summary>disassociate-drt-log-bucket</summary><blockquote>**
 
   * --log-bucket
   * --cli-input-json
@@ -151,14 +147,14 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-drt-role</summary>
+- **<details><summary>disassociate-drt-role</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-health-check</summary>
+- **<details><summary>disassociate-health-check</summary><blockquote>**
 
   * --protection-id
   * --health-check-arn
@@ -167,26 +163,26 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-proactive-engagement</summary>
+- **<details><summary>enable-proactive-engagement</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-subscription-state</summary>
+- **<details><summary>get-subscription-state</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-attacks</summary>
+- **<details><summary>list-attacks</summary><blockquote>**
 
   * --resource-arns
   * --start-time
@@ -199,7 +195,7 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>list-protection-groups</summary>
+- **<details><summary>list-protection-groups</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -208,7 +204,7 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>list-protections</summary>
+- **<details><summary>list-protections</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -218,7 +214,7 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resources-in-protection-group</summary>
+- **<details><summary>list-resources-in-protection-group</summary><blockquote>**
 
   * --protection-group-id
   * --next-token
@@ -228,7 +224,7 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -236,7 +232,7 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -245,7 +241,7 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -254,7 +250,7 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>update-emergency-contact-settings</summary>
+- **<details><summary>update-emergency-contact-settings</summary><blockquote>**
 
   * --emergency-contact-list
   * --cli-input-json
@@ -262,7 +258,7 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>update-protection-group</summary>
+- **<details><summary>update-protection-group</summary><blockquote>**
 
   * --protection-group-id
   * --aggregation
@@ -274,7 +270,7 @@ shield
   * --generate-cli-skeleton
 
 
-- <details><summary>update-subscription</summary>
+- **<details><summary>update-subscription</summary><blockquote>**
 
   * --auto-renew
   * --cli-input-json
@@ -282,5 +278,37 @@ shield
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

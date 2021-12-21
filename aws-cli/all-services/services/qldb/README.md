@@ -1,10 +1,6 @@
-<details>
+<details><summary>qldb</summary><blockquote>
 
-<summary>
-qldb
-</summary>
-
-- <details><summary>cancel-journal-kinesis-stream</summary>
+- **<details><summary>cancel-journal-kinesis-stream</summary><blockquote>**
 
   * --ledger-name
   * --stream-id
@@ -13,7 +9,7 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>create-ledger</summary>
+- **<details><summary>create-ledger</summary><blockquote>**
 
   * --name
   * --tags
@@ -25,7 +21,7 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-ledger</summary>
+- **<details><summary>delete-ledger</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -33,7 +29,7 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-journal-kinesis-stream</summary>
+- **<details><summary>describe-journal-kinesis-stream</summary><blockquote>**
 
   * --ledger-name
   * --stream-id
@@ -42,7 +38,7 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-journal-s3-export</summary>
+- **<details><summary>describe-journal-s3-export</summary><blockquote>**
 
   * --name
   * --export-id
@@ -51,7 +47,7 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-ledger</summary>
+- **<details><summary>describe-ledger</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -59,7 +55,7 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>export-journal-to-s3</summary>
+- **<details><summary>export-journal-to-s3</summary><blockquote>**
 
   * --name
   * --inclusive-start-time
@@ -71,7 +67,7 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>get-block</summary>
+- **<details><summary>get-block</summary><blockquote>**
 
   * --name
   * --block-address
@@ -81,7 +77,7 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>get-digest</summary>
+- **<details><summary>get-digest</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -89,7 +85,7 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>get-revision</summary>
+- **<details><summary>get-revision</summary><blockquote>**
 
   * --name
   * --block-address
@@ -100,12 +96,12 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-journal-kinesis-streams-for-ledger</summary>
+- **<details><summary>list-journal-kinesis-streams-for-ledger</summary><blockquote>**
 
   * --ledger-name
   * --max-results
@@ -115,7 +111,7 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>list-journal-s3-exports</summary>
+- **<details><summary>list-journal-s3-exports</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -124,7 +120,7 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>list-journal-s3-exports-for-ledger</summary>
+- **<details><summary>list-journal-s3-exports-for-ledger</summary><blockquote>**
 
   * --name
   * --max-results
@@ -134,7 +130,7 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>list-ledgers</summary>
+- **<details><summary>list-ledgers</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -143,7 +139,7 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -151,7 +147,7 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>stream-journal-to-kinesis</summary>
+- **<details><summary>stream-journal-to-kinesis</summary><blockquote>**
 
   * --ledger-name
   * --role-arn
@@ -165,7 +161,7 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -174,7 +170,7 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -183,7 +179,7 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>update-ledger</summary>
+- **<details><summary>update-ledger</summary><blockquote>**
 
   * --name
   * --deletion-protection
@@ -193,7 +189,7 @@ qldb
   * --generate-cli-skeleton
 
 
-- <details><summary>update-ledger-permissions-mode</summary>
+- **<details><summary>update-ledger-permissions-mode</summary><blockquote>**
 
   * --name
   * --permissions-mode
@@ -202,5 +198,25 @@ qldb
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

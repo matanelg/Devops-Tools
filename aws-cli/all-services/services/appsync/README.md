@@ -1,10 +1,6 @@
-<details>
+<details><summary>appsync</summary><blockquote>
 
-<summary>
-appsync
-</summary>
-
-- <details><summary>create-api-cache</summary>
+- **<details><summary>create-api-cache</summary><blockquote>**
 
   * --api-id
   * --ttl
@@ -19,7 +15,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>create-api-key</summary>
+- **<details><summary>create-api-key</summary><blockquote>**
 
   * --api-id
   * --description
@@ -29,7 +25,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>create-data-source</summary>
+- **<details><summary>create-data-source</summary><blockquote>**
 
   * --api-id
   * --name
@@ -46,7 +42,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>create-function</summary>
+- **<details><summary>create-function</summary><blockquote>**
 
   * --api-id
   * --name
@@ -61,7 +57,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>create-graphql-api</summary>
+- **<details><summary>create-graphql-api</summary><blockquote>**
 
   * --name
   * --log-config
@@ -77,7 +73,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>create-resolver</summary>
+- **<details><summary>create-resolver</summary><blockquote>**
 
   * --api-id
   * --type-name
@@ -94,7 +90,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>create-type</summary>
+- **<details><summary>create-type</summary><blockquote>**
 
   * --api-id
   * --definition
@@ -104,7 +100,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-api-cache</summary>
+- **<details><summary>delete-api-cache</summary><blockquote>**
 
   * --api-id
   * --cli-input-json
@@ -112,7 +108,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-api-key</summary>
+- **<details><summary>delete-api-key</summary><blockquote>**
 
   * --api-id
   * --id
@@ -121,7 +117,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-data-source</summary>
+- **<details><summary>delete-data-source</summary><blockquote>**
 
   * --api-id
   * --name
@@ -130,7 +126,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-function</summary>
+- **<details><summary>delete-function</summary><blockquote>**
 
   * --api-id
   * --function-id
@@ -139,7 +135,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-graphql-api</summary>
+- **<details><summary>delete-graphql-api</summary><blockquote>**
 
   * --api-id
   * --cli-input-json
@@ -147,7 +143,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-resolver</summary>
+- **<details><summary>delete-resolver</summary><blockquote>**
 
   * --api-id
   * --type-name
@@ -157,7 +153,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-type</summary>
+- **<details><summary>delete-type</summary><blockquote>**
 
   * --api-id
   * --type-name
@@ -166,7 +162,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>flush-api-cache</summary>
+- **<details><summary>flush-api-cache</summary><blockquote>**
 
   * --api-id
   * --cli-input-json
@@ -174,7 +170,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>get-api-cache</summary>
+- **<details><summary>get-api-cache</summary><blockquote>**
 
   * --api-id
   * --cli-input-json
@@ -182,7 +178,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>get-data-source</summary>
+- **<details><summary>get-data-source</summary><blockquote>**
 
   * --api-id
   * --name
@@ -191,7 +187,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>get-function</summary>
+- **<details><summary>get-function</summary><blockquote>**
 
   * --api-id
   * --function-id
@@ -200,7 +196,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>get-graphql-api</summary>
+- **<details><summary>get-graphql-api</summary><blockquote>**
 
   * --api-id
   * --cli-input-json
@@ -208,7 +204,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>get-introspection-schema</summary>
+- **<details><summary>get-introspection-schema</summary><blockquote>**
 
   * --api-id
   * --format
@@ -216,7 +212,7 @@ appsync
   * --no-include-directives
 
 
-- <details><summary>get-resolver</summary>
+- **<details><summary>get-resolver</summary><blockquote>**
 
   * --api-id
   * --type-name
@@ -226,7 +222,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>get-schema-creation-status</summary>
+- **<details><summary>get-schema-creation-status</summary><blockquote>**
 
   * --api-id
   * --cli-input-json
@@ -234,7 +230,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>get-type</summary>
+- **<details><summary>get-type</summary><blockquote>**
 
   * --api-id
   * --type-name
@@ -244,12 +240,12 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-api-keys</summary>
+- **<details><summary>list-api-keys</summary><blockquote>**
 
   * --api-id
   * --cli-input-json
@@ -260,7 +256,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>list-data-sources</summary>
+- **<details><summary>list-data-sources</summary><blockquote>**
 
   * --api-id
   * --cli-input-json
@@ -271,7 +267,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>list-functions</summary>
+- **<details><summary>list-functions</summary><blockquote>**
 
   * --api-id
   * --cli-input-json
@@ -282,7 +278,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>list-graphql-apis</summary>
+- **<details><summary>list-graphql-apis</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -292,7 +288,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resolvers</summary>
+- **<details><summary>list-resolvers</summary><blockquote>**
 
   * --api-id
   * --type-name
@@ -304,7 +300,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resolvers-by-function</summary>
+- **<details><summary>list-resolvers-by-function</summary><blockquote>**
 
   * --api-id
   * --function-id
@@ -316,7 +312,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -324,7 +320,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>list-types</summary>
+- **<details><summary>list-types</summary><blockquote>**
 
   * --api-id
   * --format
@@ -336,7 +332,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>start-schema-creation</summary>
+- **<details><summary>start-schema-creation</summary><blockquote>**
 
   * --api-id
   * --definition
@@ -345,7 +341,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -354,7 +350,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -363,7 +359,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>update-api-cache</summary>
+- **<details><summary>update-api-cache</summary><blockquote>**
 
   * --api-id
   * --ttl
@@ -374,7 +370,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>update-api-key</summary>
+- **<details><summary>update-api-key</summary><blockquote>**
 
   * --api-id
   * --id
@@ -385,7 +381,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>update-data-source</summary>
+- **<details><summary>update-data-source</summary><blockquote>**
 
   * --api-id
   * --name
@@ -402,7 +398,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>update-function</summary>
+- **<details><summary>update-function</summary><blockquote>**
 
   * --api-id
   * --name
@@ -418,7 +414,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>update-graphql-api</summary>
+- **<details><summary>update-graphql-api</summary><blockquote>**
 
   * --api-id
   * --name
@@ -434,7 +430,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>update-resolver</summary>
+- **<details><summary>update-resolver</summary><blockquote>**
 
   * --api-id
   * --type-name
@@ -451,7 +447,7 @@ appsync
   * --generate-cli-skeleton
 
 
-- <details><summary>update-type</summary>
+- **<details><summary>update-type</summary><blockquote>**
 
   * --api-id
   * --type-name
@@ -462,5 +458,46 @@ appsync
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

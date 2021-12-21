@@ -1,10 +1,6 @@
-<details>
+<details><summary>discovery</summary><blockquote>
 
-<summary>
-discovery
-</summary>
-
-- <details><summary>associate-configuration-items-to-application</summary>
+- **<details><summary>associate-configuration-items-to-application</summary><blockquote>**
 
   * --application-configuration-id
   * --configuration-ids
@@ -13,7 +9,7 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-delete-import-data</summary>
+- **<details><summary>batch-delete-import-data</summary><blockquote>**
 
   * --import-task-ids
   * --cli-input-json
@@ -21,7 +17,7 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>create-application</summary>
+- **<details><summary>create-application</summary><blockquote>**
 
   * --name
   * --description
@@ -30,7 +26,7 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>create-tags</summary>
+- **<details><summary>create-tags</summary><blockquote>**
 
   * --configuration-ids
   * --tags
@@ -39,7 +35,7 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-applications</summary>
+- **<details><summary>delete-applications</summary><blockquote>**
 
   * --configuration-ids
   * --cli-input-json
@@ -47,7 +43,7 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-tags</summary>
+- **<details><summary>delete-tags</summary><blockquote>**
 
   * --configuration-ids
   * --tags
@@ -56,7 +52,7 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-agents</summary>
+- **<details><summary>describe-agents</summary><blockquote>**
 
   * --agent-ids
   * --filters
@@ -68,7 +64,7 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-configurations</summary>
+- **<details><summary>describe-configurations</summary><blockquote>**
 
   * --configuration-ids
   * --cli-input-json
@@ -76,7 +72,7 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-continuous-exports</summary>
+- **<details><summary>describe-continuous-exports</summary><blockquote>**
 
   * --export-ids
   * --cli-input-json
@@ -87,7 +83,7 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-export-tasks</summary>
+- **<details><summary>describe-export-tasks</summary><blockquote>**
 
   * --export-ids
   * --filters
@@ -99,7 +95,7 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-import-tasks</summary>
+- **<details><summary>describe-import-tasks</summary><blockquote>**
 
   * --filters
   * --max-results
@@ -109,7 +105,7 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-tags</summary>
+- **<details><summary>describe-tags</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -120,7 +116,7 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-configuration-items-from-application</summary>
+- **<details><summary>disassociate-configuration-items-from-application</summary><blockquote>**
 
   * --application-configuration-id
   * --configuration-ids
@@ -129,19 +125,19 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>get-discovery-summary</summary>
+- **<details><summary>get-discovery-summary</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-configurations</summary>
+- **<details><summary>list-configurations</summary><blockquote>**
 
   * --configuration-type
   * --filters
@@ -154,7 +150,7 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>list-server-neighbors</summary>
+- **<details><summary>list-server-neighbors</summary><blockquote>**
 
   * --configuration-id
   * --port-information-needed
@@ -167,14 +163,14 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>start-continuous-export</summary>
+- **<details><summary>start-continuous-export</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>start-data-collection-by-agent-ids</summary>
+- **<details><summary>start-data-collection-by-agent-ids</summary><blockquote>**
 
   * --agent-ids
   * --cli-input-json
@@ -182,7 +178,7 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>start-export-task</summary>
+- **<details><summary>start-export-task</summary><blockquote>**
 
   * --export-data-format
   * --filters
@@ -193,7 +189,7 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>start-import-task</summary>
+- **<details><summary>start-import-task</summary><blockquote>**
 
   * --client-request-token
   * --name
@@ -203,7 +199,7 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-continuous-export</summary>
+- **<details><summary>stop-continuous-export</summary><blockquote>**
 
   * --export-id
   * --cli-input-json
@@ -211,7 +207,7 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-data-collection-by-agent-ids</summary>
+- **<details><summary>stop-data-collection-by-agent-ids</summary><blockquote>**
 
   * --agent-ids
   * --cli-input-json
@@ -219,7 +215,7 @@ discovery
   * --generate-cli-skeleton
 
 
-- <details><summary>update-application</summary>
+- **<details><summary>update-application</summary><blockquote>**
 
   * --configuration-id
   * --name
@@ -229,5 +225,28 @@ discovery
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

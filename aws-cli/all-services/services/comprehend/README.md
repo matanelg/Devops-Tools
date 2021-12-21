@@ -1,10 +1,6 @@
-<details>
+<details><summary>comprehend</summary><blockquote>
 
-<summary>
-comprehend
-</summary>
-
-- <details><summary>batch-detect-dominant-language</summary>
+- **<details><summary>batch-detect-dominant-language</summary><blockquote>**
 
   * --text-list
   * --cli-input-json
@@ -12,7 +8,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-detect-entities</summary>
+- **<details><summary>batch-detect-entities</summary><blockquote>**
 
   * --text-list
   * --language-code
@@ -21,7 +17,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-detect-key-phrases</summary>
+- **<details><summary>batch-detect-key-phrases</summary><blockquote>**
 
   * --text-list
   * --language-code
@@ -30,7 +26,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-detect-sentiment</summary>
+- **<details><summary>batch-detect-sentiment</summary><blockquote>**
 
   * --text-list
   * --language-code
@@ -39,7 +35,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-detect-syntax</summary>
+- **<details><summary>batch-detect-syntax</summary><blockquote>**
 
   * --text-list
   * --language-code
@@ -48,7 +44,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>classify-document</summary>
+- **<details><summary>classify-document</summary><blockquote>**
 
   * --text
   * --endpoint-arn
@@ -57,7 +53,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>contains-pii-entities</summary>
+- **<details><summary>contains-pii-entities</summary><blockquote>**
 
   * --text
   * --language-code
@@ -66,7 +62,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>create-document-classifier</summary>
+- **<details><summary>create-document-classifier</summary><blockquote>**
 
   * --document-classifier-name
   * --data-access-role-arn
@@ -84,7 +80,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>create-endpoint</summary>
+- **<details><summary>create-endpoint</summary><blockquote>**
 
   * --endpoint-name
   * --model-arn
@@ -97,7 +93,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>create-entity-recognizer</summary>
+- **<details><summary>create-entity-recognizer</summary><blockquote>**
 
   * --recognizer-name
   * --data-access-role-arn
@@ -113,7 +109,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-document-classifier</summary>
+- **<details><summary>delete-document-classifier</summary><blockquote>**
 
   * --document-classifier-arn
   * --cli-input-json
@@ -121,7 +117,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-endpoint</summary>
+- **<details><summary>delete-endpoint</summary><blockquote>**
 
   * --endpoint-arn
   * --cli-input-json
@@ -129,7 +125,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-entity-recognizer</summary>
+- **<details><summary>delete-entity-recognizer</summary><blockquote>**
 
   * --entity-recognizer-arn
   * --cli-input-json
@@ -137,7 +133,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-document-classification-job</summary>
+- **<details><summary>describe-document-classification-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -145,7 +141,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-document-classifier</summary>
+- **<details><summary>describe-document-classifier</summary><blockquote>**
 
   * --document-classifier-arn
   * --cli-input-json
@@ -153,7 +149,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-dominant-language-detection-job</summary>
+- **<details><summary>describe-dominant-language-detection-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -161,7 +157,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-endpoint</summary>
+- **<details><summary>describe-endpoint</summary><blockquote>**
 
   * --endpoint-arn
   * --cli-input-json
@@ -169,7 +165,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-entities-detection-job</summary>
+- **<details><summary>describe-entities-detection-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -177,7 +173,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-entity-recognizer</summary>
+- **<details><summary>describe-entity-recognizer</summary><blockquote>**
 
   * --entity-recognizer-arn
   * --cli-input-json
@@ -185,7 +181,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-events-detection-job</summary>
+- **<details><summary>describe-events-detection-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -193,7 +189,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-key-phrases-detection-job</summary>
+- **<details><summary>describe-key-phrases-detection-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -201,7 +197,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-pii-entities-detection-job</summary>
+- **<details><summary>describe-pii-entities-detection-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -209,7 +205,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-sentiment-detection-job</summary>
+- **<details><summary>describe-sentiment-detection-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -217,7 +213,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-topics-detection-job</summary>
+- **<details><summary>describe-topics-detection-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -225,7 +221,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-dominant-language</summary>
+- **<details><summary>detect-dominant-language</summary><blockquote>**
 
   * --text
   * --cli-input-json
@@ -233,7 +229,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-entities</summary>
+- **<details><summary>detect-entities</summary><blockquote>**
 
   * --text
   * --language-code
@@ -243,7 +239,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-key-phrases</summary>
+- **<details><summary>detect-key-phrases</summary><blockquote>**
 
   * --text
   * --language-code
@@ -252,7 +248,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-pii-entities</summary>
+- **<details><summary>detect-pii-entities</summary><blockquote>**
 
   * --text
   * --language-code
@@ -261,7 +257,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-sentiment</summary>
+- **<details><summary>detect-sentiment</summary><blockquote>**
 
   * --text
   * --language-code
@@ -270,7 +266,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-syntax</summary>
+- **<details><summary>detect-syntax</summary><blockquote>**
 
   * --text
   * --language-code
@@ -279,12 +275,12 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-document-classification-jobs</summary>
+- **<details><summary>list-document-classification-jobs</summary><blockquote>**
 
   * --filter
   * --cli-input-json
@@ -295,7 +291,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>list-document-classifiers</summary>
+- **<details><summary>list-document-classifiers</summary><blockquote>**
 
   * --filter
   * --cli-input-json
@@ -306,7 +302,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>list-dominant-language-detection-jobs</summary>
+- **<details><summary>list-dominant-language-detection-jobs</summary><blockquote>**
 
   * --filter
   * --cli-input-json
@@ -317,7 +313,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>list-endpoints</summary>
+- **<details><summary>list-endpoints</summary><blockquote>**
 
   * --filter
   * --next-token
@@ -327,7 +323,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>list-entities-detection-jobs</summary>
+- **<details><summary>list-entities-detection-jobs</summary><blockquote>**
 
   * --filter
   * --cli-input-json
@@ -338,7 +334,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>list-entity-recognizers</summary>
+- **<details><summary>list-entity-recognizers</summary><blockquote>**
 
   * --filter
   * --cli-input-json
@@ -349,7 +345,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>list-events-detection-jobs</summary>
+- **<details><summary>list-events-detection-jobs</summary><blockquote>**
 
   * --filter
   * --next-token
@@ -359,7 +355,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>list-key-phrases-detection-jobs</summary>
+- **<details><summary>list-key-phrases-detection-jobs</summary><blockquote>**
 
   * --filter
   * --cli-input-json
@@ -370,7 +366,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>list-pii-entities-detection-jobs</summary>
+- **<details><summary>list-pii-entities-detection-jobs</summary><blockquote>**
 
   * --filter
   * --next-token
@@ -380,7 +376,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>list-sentiment-detection-jobs</summary>
+- **<details><summary>list-sentiment-detection-jobs</summary><blockquote>**
 
   * --filter
   * --cli-input-json
@@ -391,7 +387,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -399,7 +395,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>list-topics-detection-jobs</summary>
+- **<details><summary>list-topics-detection-jobs</summary><blockquote>**
 
   * --filter
   * --cli-input-json
@@ -410,7 +406,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>start-document-classification-job</summary>
+- **<details><summary>start-document-classification-job</summary><blockquote>**
 
   * --job-name
   * --document-classifier-arn
@@ -425,7 +421,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>start-dominant-language-detection-job</summary>
+- **<details><summary>start-dominant-language-detection-job</summary><blockquote>**
 
   * --input-data-config
   * --output-data-config
@@ -439,7 +435,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>start-entities-detection-job</summary>
+- **<details><summary>start-entities-detection-job</summary><blockquote>**
 
   * --input-data-config
   * --output-data-config
@@ -455,7 +451,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>start-events-detection-job</summary>
+- **<details><summary>start-events-detection-job</summary><blockquote>**
 
   * --input-data-config
   * --output-data-config
@@ -469,7 +465,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>start-key-phrases-detection-job</summary>
+- **<details><summary>start-key-phrases-detection-job</summary><blockquote>**
 
   * --input-data-config
   * --output-data-config
@@ -484,7 +480,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>start-pii-entities-detection-job</summary>
+- **<details><summary>start-pii-entities-detection-job</summary><blockquote>**
 
   * --input-data-config
   * --output-data-config
@@ -499,7 +495,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>start-sentiment-detection-job</summary>
+- **<details><summary>start-sentiment-detection-job</summary><blockquote>**
 
   * --input-data-config
   * --output-data-config
@@ -514,7 +510,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>start-topics-detection-job</summary>
+- **<details><summary>start-topics-detection-job</summary><blockquote>**
 
   * --input-data-config
   * --output-data-config
@@ -529,7 +525,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-dominant-language-detection-job</summary>
+- **<details><summary>stop-dominant-language-detection-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -537,7 +533,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-entities-detection-job</summary>
+- **<details><summary>stop-entities-detection-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -545,7 +541,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-events-detection-job</summary>
+- **<details><summary>stop-events-detection-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -553,7 +549,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-key-phrases-detection-job</summary>
+- **<details><summary>stop-key-phrases-detection-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -561,7 +557,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-pii-entities-detection-job</summary>
+- **<details><summary>stop-pii-entities-detection-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -569,7 +565,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-sentiment-detection-job</summary>
+- **<details><summary>stop-sentiment-detection-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -577,7 +573,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-training-document-classifier</summary>
+- **<details><summary>stop-training-document-classifier</summary><blockquote>**
 
   * --document-classifier-arn
   * --cli-input-json
@@ -585,7 +581,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-training-entity-recognizer</summary>
+- **<details><summary>stop-training-entity-recognizer</summary><blockquote>**
 
   * --entity-recognizer-arn
   * --cli-input-json
@@ -593,7 +589,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -602,7 +598,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -611,7 +607,7 @@ comprehend
   * --generate-cli-skeleton
 
 
-- <details><summary>update-endpoint</summary>
+- **<details><summary>update-endpoint</summary><blockquote>**
 
   * --endpoint-arn
   * --desired-inference-units
@@ -620,5 +616,66 @@ comprehend
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

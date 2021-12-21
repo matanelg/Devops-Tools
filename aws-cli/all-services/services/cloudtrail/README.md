@@ -1,10 +1,6 @@
-<details>
+<details><summary>cloudtrail</summary><blockquote>
 
-<summary>
-cloudtrail
-</summary>
-
-- <details><summary>add-tags</summary>
+- **<details><summary>add-tags</summary><blockquote>**
 
   * --resource-id
   * --tags-list
@@ -13,7 +9,7 @@ cloudtrail
   * --generate-cli-skeleton
 
 
-- <details><summary>create-trail</summary>
+- **<details><summary>create-trail</summary><blockquote>**
 
   * --name
   * --s3-bucket-name
@@ -36,7 +32,7 @@ cloudtrail
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-trail</summary>
+- **<details><summary>delete-trail</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -44,7 +40,7 @@ cloudtrail
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-trails</summary>
+- **<details><summary>describe-trails</summary><blockquote>**
 
   * --trail-name-list
   * --include-shadow-trails
@@ -54,7 +50,7 @@ cloudtrail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-event-selectors</summary>
+- **<details><summary>get-event-selectors</summary><blockquote>**
 
   * --trail-name
   * --cli-input-json
@@ -62,7 +58,7 @@ cloudtrail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-insight-selectors</summary>
+- **<details><summary>get-insight-selectors</summary><blockquote>**
 
   * --trail-name
   * --cli-input-json
@@ -70,7 +66,7 @@ cloudtrail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-trail</summary>
+- **<details><summary>get-trail</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -78,7 +74,7 @@ cloudtrail
   * --generate-cli-skeleton
 
 
-- <details><summary>get-trail-status</summary>
+- **<details><summary>get-trail-status</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -86,12 +82,12 @@ cloudtrail
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-public-keys</summary>
+- **<details><summary>list-public-keys</summary><blockquote>**
 
   * --start-time
   * --end-time
@@ -102,7 +98,7 @@ cloudtrail
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags</summary>
+- **<details><summary>list-tags</summary><blockquote>**
 
   * --resource-id-list
   * --cli-input-json
@@ -112,7 +108,7 @@ cloudtrail
   * --generate-cli-skeleton
 
 
-- <details><summary>list-trails</summary>
+- **<details><summary>list-trails</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -121,7 +117,7 @@ cloudtrail
   * --generate-cli-skeleton
 
 
-- <details><summary>lookup-events</summary>
+- **<details><summary>lookup-events</summary><blockquote>**
 
   * --lookup-attributes
   * --start-time
@@ -135,7 +131,7 @@ cloudtrail
   * --generate-cli-skeleton
 
 
-- <details><summary>put-event-selectors</summary>
+- **<details><summary>put-event-selectors</summary><blockquote>**
 
   * --trail-name
   * --event-selectors
@@ -145,7 +141,7 @@ cloudtrail
   * --generate-cli-skeleton
 
 
-- <details><summary>put-insight-selectors</summary>
+- **<details><summary>put-insight-selectors</summary><blockquote>**
 
   * --trail-name
   * --insight-selectors
@@ -154,7 +150,7 @@ cloudtrail
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-tags</summary>
+- **<details><summary>remove-tags</summary><blockquote>**
 
   * --resource-id
   * --tags-list
@@ -163,7 +159,7 @@ cloudtrail
   * --generate-cli-skeleton
 
 
-- <details><summary>start-logging</summary>
+- **<details><summary>start-logging</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -171,7 +167,7 @@ cloudtrail
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-logging</summary>
+- **<details><summary>stop-logging</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -179,7 +175,7 @@ cloudtrail
   * --generate-cli-skeleton
 
 
-- <details><summary>update-trail</summary>
+- **<details><summary>update-trail</summary><blockquote>**
 
   * --name
   * --s3-bucket-name
@@ -201,7 +197,7 @@ cloudtrail
   * --generate-cli-skeleton
 
 
-- <details><summary>validate-logs</summary>
+- **<details><summary>validate-logs</summary><blockquote>**
 
   * --trail-arn
   * --start-time
@@ -212,5 +208,24 @@ cloudtrail
   * --verbose
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

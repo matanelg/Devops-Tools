@@ -1,10 +1,6 @@
-<details>
+<details><summary>meteringmarketplace</summary><blockquote>
 
-<summary>
-meteringmarketplace
-</summary>
-
-- <details><summary>batch-meter-usage</summary>
+- **<details><summary>batch-meter-usage</summary><blockquote>**
 
   * --usage-records
   * --product-code
@@ -13,12 +9,12 @@ meteringmarketplace
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>meter-usage</summary>
+- **<details><summary>meter-usage</summary><blockquote>**
 
   * --product-code
   * --timestamp
@@ -32,7 +28,7 @@ meteringmarketplace
   * --generate-cli-skeleton
 
 
-- <details><summary>register-usage</summary>
+- **<details><summary>register-usage</summary><blockquote>**
 
   * --product-code
   * --public-key-version
@@ -42,7 +38,7 @@ meteringmarketplace
   * --generate-cli-skeleton
 
 
-- <details><summary>resolve-customer</summary>
+- **<details><summary>resolve-customer</summary><blockquote>**
 
   * --registration-token
   * --cli-input-json
@@ -50,5 +46,9 @@ meteringmarketplace
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

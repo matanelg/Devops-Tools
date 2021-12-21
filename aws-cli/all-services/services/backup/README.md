@@ -1,10 +1,6 @@
-<details>
+<details><summary>backup</summary><blockquote>
 
-<summary>
-backup
-</summary>
-
-- <details><summary>create-backup-plan</summary>
+- **<details><summary>create-backup-plan</summary><blockquote>**
 
   * --backup-plan
   * --backup-plan-tags
@@ -14,7 +10,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>create-backup-selection</summary>
+- **<details><summary>create-backup-selection</summary><blockquote>**
 
   * --backup-plan-id
   * --backup-selection
@@ -24,7 +20,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>create-backup-vault</summary>
+- **<details><summary>create-backup-vault</summary><blockquote>**
 
   * --backup-vault-name
   * --backup-vault-tags
@@ -35,7 +31,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-backup-plan</summary>
+- **<details><summary>delete-backup-plan</summary><blockquote>**
 
   * --backup-plan-id
   * --cli-input-json
@@ -43,7 +39,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-backup-selection</summary>
+- **<details><summary>delete-backup-selection</summary><blockquote>**
 
   * --backup-plan-id
   * --selection-id
@@ -52,7 +48,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-backup-vault</summary>
+- **<details><summary>delete-backup-vault</summary><blockquote>**
 
   * --backup-vault-name
   * --cli-input-json
@@ -60,7 +56,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-backup-vault-access-policy</summary>
+- **<details><summary>delete-backup-vault-access-policy</summary><blockquote>**
 
   * --backup-vault-name
   * --cli-input-json
@@ -68,7 +64,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-backup-vault-notifications</summary>
+- **<details><summary>delete-backup-vault-notifications</summary><blockquote>**
 
   * --backup-vault-name
   * --cli-input-json
@@ -76,7 +72,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-recovery-point</summary>
+- **<details><summary>delete-recovery-point</summary><blockquote>**
 
   * --backup-vault-name
   * --recovery-point-arn
@@ -85,7 +81,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-backup-job</summary>
+- **<details><summary>describe-backup-job</summary><blockquote>**
 
   * --backup-job-id
   * --cli-input-json
@@ -93,7 +89,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-backup-vault</summary>
+- **<details><summary>describe-backup-vault</summary><blockquote>**
 
   * --backup-vault-name
   * --cli-input-json
@@ -101,7 +97,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-copy-job</summary>
+- **<details><summary>describe-copy-job</summary><blockquote>**
 
   * --copy-job-id
   * --cli-input-json
@@ -109,14 +105,14 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-global-settings</summary>
+- **<details><summary>describe-global-settings</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-protected-resource</summary>
+- **<details><summary>describe-protected-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -124,7 +120,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-recovery-point</summary>
+- **<details><summary>describe-recovery-point</summary><blockquote>**
 
   * --backup-vault-name
   * --recovery-point-arn
@@ -133,14 +129,14 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-region-settings</summary>
+- **<details><summary>describe-region-settings</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-restore-job</summary>
+- **<details><summary>describe-restore-job</summary><blockquote>**
 
   * --restore-job-id
   * --cli-input-json
@@ -148,7 +144,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-recovery-point</summary>
+- **<details><summary>disassociate-recovery-point</summary><blockquote>**
 
   * --backup-vault-name
   * --recovery-point-arn
@@ -157,7 +153,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>export-backup-plan-template</summary>
+- **<details><summary>export-backup-plan-template</summary><blockquote>**
 
   * --backup-plan-id
   * --cli-input-json
@@ -165,7 +161,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>get-backup-plan</summary>
+- **<details><summary>get-backup-plan</summary><blockquote>**
 
   * --backup-plan-id
   * --version-id
@@ -174,7 +170,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>get-backup-plan-from-json</summary>
+- **<details><summary>get-backup-plan-from-json</summary><blockquote>**
 
   * --backup-plan-template-json
   * --cli-input-json
@@ -182,7 +178,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>get-backup-plan-from-template</summary>
+- **<details><summary>get-backup-plan-from-template</summary><blockquote>**
 
   * --backup-plan-template-id
   * --cli-input-json
@@ -190,7 +186,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>get-backup-selection</summary>
+- **<details><summary>get-backup-selection</summary><blockquote>**
 
   * --backup-plan-id
   * --selection-id
@@ -199,7 +195,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>get-backup-vault-access-policy</summary>
+- **<details><summary>get-backup-vault-access-policy</summary><blockquote>**
 
   * --backup-vault-name
   * --cli-input-json
@@ -207,7 +203,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>get-backup-vault-notifications</summary>
+- **<details><summary>get-backup-vault-notifications</summary><blockquote>**
 
   * --backup-vault-name
   * --cli-input-json
@@ -215,7 +211,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>get-recovery-point-restore-metadata</summary>
+- **<details><summary>get-recovery-point-restore-metadata</summary><blockquote>**
 
   * --backup-vault-name
   * --recovery-point-arn
@@ -224,19 +220,19 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>get-supported-resource-types</summary>
+- **<details><summary>get-supported-resource-types</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-backup-jobs</summary>
+- **<details><summary>list-backup-jobs</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -252,7 +248,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>list-backup-plans</summary>
+- **<details><summary>list-backup-plans</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -263,7 +259,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>list-backup-plan-templates</summary>
+- **<details><summary>list-backup-plan-templates</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -272,7 +268,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>list-backup-plan-versions</summary>
+- **<details><summary>list-backup-plan-versions</summary><blockquote>**
 
   * --backup-plan-id
   * --next-token
@@ -282,7 +278,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>list-backup-selections</summary>
+- **<details><summary>list-backup-selections</summary><blockquote>**
 
   * --backup-plan-id
   * --next-token
@@ -292,7 +288,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>list-backup-vaults</summary>
+- **<details><summary>list-backup-vaults</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -301,7 +297,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>list-copy-jobs</summary>
+- **<details><summary>list-copy-jobs</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -317,7 +313,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>list-protected-resources</summary>
+- **<details><summary>list-protected-resources</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -326,7 +322,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>list-recovery-points-by-backup-vault</summary>
+- **<details><summary>list-recovery-points-by-backup-vault</summary><blockquote>**
 
   * --backup-vault-name
   * --next-token
@@ -341,7 +337,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>list-recovery-points-by-resource</summary>
+- **<details><summary>list-recovery-points-by-resource</summary><blockquote>**
 
   * --resource-arn
   * --next-token
@@ -351,7 +347,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>list-restore-jobs</summary>
+- **<details><summary>list-restore-jobs</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -364,7 +360,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags</summary>
+- **<details><summary>list-tags</summary><blockquote>**
 
   * --resource-arn
   * --next-token
@@ -374,7 +370,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>put-backup-vault-access-policy</summary>
+- **<details><summary>put-backup-vault-access-policy</summary><blockquote>**
 
   * --backup-vault-name
   * --policy
@@ -383,7 +379,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>put-backup-vault-notifications</summary>
+- **<details><summary>put-backup-vault-notifications</summary><blockquote>**
 
   * --backup-vault-name
   * --sns-topic-arn
@@ -393,7 +389,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>start-backup-job</summary>
+- **<details><summary>start-backup-job</summary><blockquote>**
 
   * --backup-vault-name
   * --resource-arn
@@ -409,7 +405,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>start-copy-job</summary>
+- **<details><summary>start-copy-job</summary><blockquote>**
 
   * --recovery-point-arn
   * --source-backup-vault-name
@@ -422,7 +418,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>start-restore-job</summary>
+- **<details><summary>start-restore-job</summary><blockquote>**
 
   * --recovery-point-arn
   * --metadata
@@ -434,7 +430,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-backup-job</summary>
+- **<details><summary>stop-backup-job</summary><blockquote>**
 
   * --backup-job-id
   * --cli-input-json
@@ -442,7 +438,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -451,7 +447,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-key-list
@@ -460,7 +456,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>update-backup-plan</summary>
+- **<details><summary>update-backup-plan</summary><blockquote>**
 
   * --backup-plan-id
   * --backup-plan
@@ -469,7 +465,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>update-global-settings</summary>
+- **<details><summary>update-global-settings</summary><blockquote>**
 
   * --global-settings
   * --cli-input-json
@@ -477,7 +473,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>update-recovery-point-lifecycle</summary>
+- **<details><summary>update-recovery-point-lifecycle</summary><blockquote>**
 
   * --backup-vault-name
   * --recovery-point-arn
@@ -487,7 +483,7 @@ backup
   * --generate-cli-skeleton
 
 
-- <details><summary>update-region-settings</summary>
+- **<details><summary>update-region-settings</summary><blockquote>**
 
   * --resource-type-opt-in-preference
   * --cli-input-json
@@ -495,5 +491,56 @@ backup
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

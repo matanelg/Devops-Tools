@@ -1,10 +1,6 @@
-<details>
+<details><summary>eks</summary><blockquote>
 
-<summary>
-eks
-</summary>
-
-- <details><summary>associate-encryption-config</summary>
+- **<details><summary>associate-encryption-config</summary><blockquote>**
 
   * --cluster-name
   * --encryption-config
@@ -14,7 +10,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-identity-provider-config</summary>
+- **<details><summary>associate-identity-provider-config</summary><blockquote>**
 
   * --cluster-name
   * --oidc
@@ -25,7 +21,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>create-addon</summary>
+- **<details><summary>create-addon</summary><blockquote>**
 
   * --cluster-name
   * --addon-name
@@ -39,7 +35,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cluster</summary>
+- **<details><summary>create-cluster</summary><blockquote>**
 
   * --name
   * --role-arn
@@ -55,7 +51,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>create-fargate-profile</summary>
+- **<details><summary>create-fargate-profile</summary><blockquote>**
 
   * --fargate-profile-name
   * --cluster-name
@@ -69,7 +65,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>create-nodegroup</summary>
+- **<details><summary>create-nodegroup</summary><blockquote>**
 
   * --cluster-name
   * --nodegroup-name
@@ -94,7 +90,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-addon</summary>
+- **<details><summary>delete-addon</summary><blockquote>**
 
   * --cluster-name
   * --addon-name
@@ -103,7 +99,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-cluster</summary>
+- **<details><summary>delete-cluster</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -111,7 +107,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-fargate-profile</summary>
+- **<details><summary>delete-fargate-profile</summary><blockquote>**
 
   * --cluster-name
   * --fargate-profile-name
@@ -120,7 +116,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-nodegroup</summary>
+- **<details><summary>delete-nodegroup</summary><blockquote>**
 
   * --cluster-name
   * --nodegroup-name
@@ -129,7 +125,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-addon</summary>
+- **<details><summary>describe-addon</summary><blockquote>**
 
   * --cluster-name
   * --addon-name
@@ -138,7 +134,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-addon-versions</summary>
+- **<details><summary>describe-addon-versions</summary><blockquote>**
 
   * --kubernetes-version
   * --addon-name
@@ -150,7 +146,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cluster</summary>
+- **<details><summary>describe-cluster</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -158,7 +154,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fargate-profile</summary>
+- **<details><summary>describe-fargate-profile</summary><blockquote>**
 
   * --cluster-name
   * --fargate-profile-name
@@ -167,7 +163,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-identity-provider-config</summary>
+- **<details><summary>describe-identity-provider-config</summary><blockquote>**
 
   * --cluster-name
   * --identity-provider-config
@@ -176,7 +172,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-nodegroup</summary>
+- **<details><summary>describe-nodegroup</summary><blockquote>**
 
   * --cluster-name
   * --nodegroup-name
@@ -185,7 +181,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-update</summary>
+- **<details><summary>describe-update</summary><blockquote>**
 
   * --name
   * --update-id
@@ -196,7 +192,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-identity-provider-config</summary>
+- **<details><summary>disassociate-identity-provider-config</summary><blockquote>**
 
   * --cluster-name
   * --identity-provider-config
@@ -206,18 +202,18 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>get-token</summary>
+- **<details><summary>get-token</summary><blockquote>**
 
   * --cluster-name
   * --role-arn
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-addons</summary>
+- **<details><summary>list-addons</summary><blockquote>**
 
   * --cluster-name
   * --cli-input-json
@@ -228,7 +224,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>list-clusters</summary>
+- **<details><summary>list-clusters</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -238,7 +234,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>list-fargate-profiles</summary>
+- **<details><summary>list-fargate-profiles</summary><blockquote>**
 
   * --cluster-name
   * --cli-input-json
@@ -249,7 +245,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>list-identity-provider-configs</summary>
+- **<details><summary>list-identity-provider-configs</summary><blockquote>**
 
   * --cluster-name
   * --cli-input-json
@@ -260,7 +256,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>list-nodegroups</summary>
+- **<details><summary>list-nodegroups</summary><blockquote>**
 
   * --cluster-name
   * --cli-input-json
@@ -271,7 +267,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -279,7 +275,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>list-updates</summary>
+- **<details><summary>list-updates</summary><blockquote>**
 
   * --name
   * --nodegroup-name
@@ -292,7 +288,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -301,7 +297,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -310,7 +306,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>update-addon</summary>
+- **<details><summary>update-addon</summary><blockquote>**
 
   * --cluster-name
   * --addon-name
@@ -323,7 +319,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>update-cluster-config</summary>
+- **<details><summary>update-cluster-config</summary><blockquote>**
 
   * --name
   * --resources-vpc-config
@@ -334,7 +330,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>update-cluster-version</summary>
+- **<details><summary>update-cluster-version</summary><blockquote>**
 
   * --name
   * --client-request-token
@@ -344,7 +340,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>update-kubeconfig</summary>
+- **<details><summary>update-kubeconfig</summary><blockquote>**
 
   * --name
   * --kubeconfig
@@ -354,7 +350,7 @@ eks
   * --alias
 
 
-- <details><summary>update-nodegroup-config</summary>
+- **<details><summary>update-nodegroup-config</summary><blockquote>**
 
   * --cluster-name
   * --nodegroup-name
@@ -368,7 +364,7 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>update-nodegroup-version</summary>
+- **<details><summary>update-nodegroup-version</summary><blockquote>**
 
   * --cluster-name
   * --nodegroup-name
@@ -383,10 +379,45 @@ eks
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

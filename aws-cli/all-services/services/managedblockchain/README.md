@@ -1,10 +1,6 @@
-<details>
+<details><summary>managedblockchain</summary><blockquote>
 
-<summary>
-managedblockchain
-</summary>
-
-- <details><summary>create-member</summary>
+- **<details><summary>create-member</summary><blockquote>**
 
   * --client-request-token
   * --invitation-id
@@ -15,7 +11,7 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>create-network</summary>
+- **<details><summary>create-network</summary><blockquote>**
 
   * --client-request-token
   * --name
@@ -31,7 +27,7 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>create-node</summary>
+- **<details><summary>create-node</summary><blockquote>**
 
   * --client-request-token
   * --network-id
@@ -43,7 +39,7 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>create-proposal</summary>
+- **<details><summary>create-proposal</summary><blockquote>**
 
   * --client-request-token
   * --network-id
@@ -56,7 +52,7 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-member</summary>
+- **<details><summary>delete-member</summary><blockquote>**
 
   * --network-id
   * --member-id
@@ -65,34 +61,7 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-node</summary>
-
-  * --network-id
-  * --member-id
-  * --node-id
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>get-member</summary>
-
-  * --network-id
-  * --member-id
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>get-network</summary>
-
-  * --network-id
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>get-node</summary>
+- **<details><summary>delete-node</summary><blockquote>**
 
   * --network-id
   * --member-id
@@ -102,7 +71,34 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>get-proposal</summary>
+- **<details><summary>get-member</summary><blockquote>**
+
+  * --network-id
+  * --member-id
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>get-network</summary><blockquote>**
+
+  * --network-id
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>get-node</summary><blockquote>**
+
+  * --network-id
+  * --member-id
+  * --node-id
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>get-proposal</summary><blockquote>**
 
   * --network-id
   * --proposal-id
@@ -111,12 +107,12 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-invitations</summary>
+- **<details><summary>list-invitations</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -125,7 +121,7 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>list-members</summary>
+- **<details><summary>list-members</summary><blockquote>**
 
   * --network-id
   * --name
@@ -139,7 +135,7 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>list-networks</summary>
+- **<details><summary>list-networks</summary><blockquote>**
 
   * --name
   * --framework
@@ -151,7 +147,7 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>list-nodes</summary>
+- **<details><summary>list-nodes</summary><blockquote>**
 
   * --network-id
   * --member-id
@@ -163,7 +159,7 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>list-proposals</summary>
+- **<details><summary>list-proposals</summary><blockquote>**
 
   * --network-id
   * --max-results
@@ -173,7 +169,7 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>list-proposal-votes</summary>
+- **<details><summary>list-proposal-votes</summary><blockquote>**
 
   * --network-id
   * --proposal-id
@@ -184,7 +180,7 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -192,7 +188,7 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>reject-invitation</summary>
+- **<details><summary>reject-invitation</summary><blockquote>**
 
   * --invitation-id
   * --cli-input-json
@@ -200,7 +196,7 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -209,7 +205,7 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -218,7 +214,7 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>update-member</summary>
+- **<details><summary>update-member</summary><blockquote>**
 
   * --network-id
   * --member-id
@@ -228,7 +224,7 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>update-node</summary>
+- **<details><summary>update-node</summary><blockquote>**
 
   * --network-id
   * --member-id
@@ -239,7 +235,7 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-- <details><summary>vote-on-proposal</summary>
+- **<details><summary>vote-on-proposal</summary><blockquote>**
 
   * --network-id
   * --proposal-id
@@ -250,5 +246,28 @@ managedblockchain
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

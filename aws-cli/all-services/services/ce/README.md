@@ -1,10 +1,6 @@
-<details>
+<details><summary>ce</summary><blockquote>
 
-<summary>
-ce
-</summary>
-
-- <details><summary>create-anomaly-monitor</summary>
+- **<details><summary>create-anomaly-monitor</summary><blockquote>**
 
   * --anomaly-monitor
   * --cli-input-json
@@ -12,7 +8,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>create-anomaly-subscription</summary>
+- **<details><summary>create-anomaly-subscription</summary><blockquote>**
 
   * --anomaly-subscription
   * --cli-input-json
@@ -20,7 +16,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cost-category-definition</summary>
+- **<details><summary>create-cost-category-definition</summary><blockquote>**
 
   * --name
   * --rule-version
@@ -31,7 +27,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-anomaly-monitor</summary>
+- **<details><summary>delete-anomaly-monitor</summary><blockquote>**
 
   * --monitor-arn
   * --cli-input-json
@@ -39,7 +35,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-anomaly-subscription</summary>
+- **<details><summary>delete-anomaly-subscription</summary><blockquote>**
 
   * --subscription-arn
   * --cli-input-json
@@ -47,7 +43,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-cost-category-definition</summary>
+- **<details><summary>delete-cost-category-definition</summary><blockquote>**
 
   * --cost-category-arn
   * --cli-input-json
@@ -55,7 +51,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cost-category-definition</summary>
+- **<details><summary>describe-cost-category-definition</summary><blockquote>**
 
   * --cost-category-arn
   * --effective-on
@@ -64,7 +60,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>get-anomalies</summary>
+- **<details><summary>get-anomalies</summary><blockquote>**
 
   * --monitor-arn
   * --date-interval
@@ -77,7 +73,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>get-anomaly-monitors</summary>
+- **<details><summary>get-anomaly-monitors</summary><blockquote>**
 
   * --monitor-arn-list
   * --next-page-token
@@ -87,7 +83,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>get-anomaly-subscriptions</summary>
+- **<details><summary>get-anomaly-subscriptions</summary><blockquote>**
 
   * --subscription-arn-list
   * --monitor-arn
@@ -98,7 +94,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>get-cost-and-usage</summary>
+- **<details><summary>get-cost-and-usage</summary><blockquote>**
 
   * --time-period
   * --granularity
@@ -111,7 +107,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>get-cost-and-usage-with-resources</summary>
+- **<details><summary>get-cost-and-usage-with-resources</summary><blockquote>**
 
   * --time-period
   * --granularity
@@ -124,7 +120,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>get-cost-categories</summary>
+- **<details><summary>get-cost-categories</summary><blockquote>**
 
   * --search-string
   * --time-period
@@ -138,7 +134,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>get-cost-forecast</summary>
+- **<details><summary>get-cost-forecast</summary><blockquote>**
 
   * --time-period
   * --metric
@@ -150,7 +146,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>get-dimension-values</summary>
+- **<details><summary>get-dimension-values</summary><blockquote>**
 
   * --search-string
   * --time-period
@@ -165,7 +161,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>get-reservation-coverage</summary>
+- **<details><summary>get-reservation-coverage</summary><blockquote>**
 
   * --time-period
   * --group-by
@@ -180,7 +176,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>get-reservation-purchase-recommendation</summary>
+- **<details><summary>get-reservation-purchase-recommendation</summary><blockquote>**
 
   * --account-id
   * --service
@@ -197,7 +193,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>get-reservation-utilization</summary>
+- **<details><summary>get-reservation-utilization</summary><blockquote>**
 
   * --time-period
   * --group-by
@@ -211,7 +207,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>get-rightsizing-recommendation</summary>
+- **<details><summary>get-rightsizing-recommendation</summary><blockquote>**
 
   * --filter
   * --configuration
@@ -223,7 +219,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>get-savings-plans-coverage</summary>
+- **<details><summary>get-savings-plans-coverage</summary><blockquote>**
 
   * --time-period
   * --group-by
@@ -238,7 +234,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>get-savings-plans-purchase-recommendation</summary>
+- **<details><summary>get-savings-plans-purchase-recommendation</summary><blockquote>**
 
   * --savings-plans-type
   * --term-in-years
@@ -253,7 +249,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>get-savings-plans-utilization</summary>
+- **<details><summary>get-savings-plans-utilization</summary><blockquote>**
 
   * --time-period
   * --granularity
@@ -264,7 +260,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>get-savings-plans-utilization-details</summary>
+- **<details><summary>get-savings-plans-utilization-details</summary><blockquote>**
 
   * --time-period
   * --filter
@@ -277,7 +273,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>get-tags</summary>
+- **<details><summary>get-tags</summary><blockquote>**
 
   * --search-string
   * --time-period
@@ -291,7 +287,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>get-usage-forecast</summary>
+- **<details><summary>get-usage-forecast</summary><blockquote>**
 
   * --time-period
   * --metric
@@ -303,12 +299,12 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-cost-category-definitions</summary>
+- **<details><summary>list-cost-category-definitions</summary><blockquote>**
 
   * --effective-on
   * --next-token
@@ -318,7 +314,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>provide-anomaly-feedback</summary>
+- **<details><summary>provide-anomaly-feedback</summary><blockquote>**
 
   * --anomaly-id
   * --feedback
@@ -327,7 +323,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>update-anomaly-monitor</summary>
+- **<details><summary>update-anomaly-monitor</summary><blockquote>**
 
   * --monitor-arn
   * --monitor-name
@@ -336,7 +332,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>update-anomaly-subscription</summary>
+- **<details><summary>update-anomaly-subscription</summary><blockquote>**
 
   * --subscription-arn
   * --threshold
@@ -349,7 +345,7 @@ ce
   * --generate-cli-skeleton
 
 
-- <details><summary>update-cost-category-definition</summary>
+- **<details><summary>update-cost-category-definition</summary><blockquote>**
 
   * --cost-category-arn
   * --rule-version
@@ -360,5 +356,35 @@ ce
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

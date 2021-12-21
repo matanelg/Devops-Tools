@@ -1,10 +1,6 @@
-<details>
+<details><summary>iotthingsgraph</summary><blockquote>
 
-<summary>
-iotthingsgraph
-</summary>
-
-- <details><summary>associate-entity-to-thing</summary>
+- **<details><summary>associate-entity-to-thing</summary><blockquote>**
 
   * --thing-name
   * --entity-id
@@ -14,7 +10,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>create-flow-template</summary>
+- **<details><summary>create-flow-template</summary><blockquote>**
 
   * --definition
   * --compatible-namespace-version
@@ -23,7 +19,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>create-system-instance</summary>
+- **<details><summary>create-system-instance</summary><blockquote>**
 
   * --tags
   * --definition
@@ -37,7 +33,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>create-system-template</summary>
+- **<details><summary>create-system-template</summary><blockquote>**
 
   * --definition
   * --compatible-namespace-version
@@ -46,7 +42,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-flow-template</summary>
+- **<details><summary>delete-flow-template</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -54,14 +50,14 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-namespace</summary>
+- **<details><summary>delete-namespace</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-system-instance</summary>
+- **<details><summary>delete-system-instance</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -69,7 +65,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-system-template</summary>
+- **<details><summary>delete-system-template</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -77,7 +73,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>deploy-system-instance</summary>
+- **<details><summary>deploy-system-instance</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -85,7 +81,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>deprecate-flow-template</summary>
+- **<details><summary>deprecate-flow-template</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -93,7 +89,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>deprecate-system-template</summary>
+- **<details><summary>deprecate-system-template</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -101,7 +97,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-namespace</summary>
+- **<details><summary>describe-namespace</summary><blockquote>**
 
   * --namespace-name
   * --cli-input-json
@@ -109,7 +105,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>dissociate-entity-from-thing</summary>
+- **<details><summary>dissociate-entity-from-thing</summary><blockquote>**
 
   * --thing-name
   * --entity-type
@@ -118,7 +114,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>get-entities</summary>
+- **<details><summary>get-entities</summary><blockquote>**
 
   * --ids
   * --namespace-version
@@ -127,7 +123,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>get-flow-template</summary>
+- **<details><summary>get-flow-template</summary><blockquote>**
 
   * --id
   * --revision-number
@@ -136,7 +132,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>get-flow-template-revisions</summary>
+- **<details><summary>get-flow-template-revisions</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -147,14 +143,14 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>get-namespace-deletion-status</summary>
+- **<details><summary>get-namespace-deletion-status</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-system-instance</summary>
+- **<details><summary>get-system-instance</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -162,7 +158,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>get-system-template</summary>
+- **<details><summary>get-system-template</summary><blockquote>**
 
   * --id
   * --revision-number
@@ -171,7 +167,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>get-system-template-revisions</summary>
+- **<details><summary>get-system-template-revisions</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -182,7 +178,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>get-upload-status</summary>
+- **<details><summary>get-upload-status</summary><blockquote>**
 
   * --upload-id
   * --cli-input-json
@@ -190,12 +186,12 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-flow-execution-messages</summary>
+- **<details><summary>list-flow-execution-messages</summary><blockquote>**
 
   * --flow-execution-id
   * --cli-input-json
@@ -206,7 +202,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -217,7 +213,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>search-entities</summary>
+- **<details><summary>search-entities</summary><blockquote>**
 
   * --entity-types
   * --filters
@@ -230,7 +226,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>search-flow-executions</summary>
+- **<details><summary>search-flow-executions</summary><blockquote>**
 
   * --system-instance-id
   * --flow-execution-id
@@ -244,7 +240,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>search-flow-templates</summary>
+- **<details><summary>search-flow-templates</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -255,7 +251,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>search-system-instances</summary>
+- **<details><summary>search-system-instances</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -266,7 +262,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>search-system-templates</summary>
+- **<details><summary>search-system-templates</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -277,7 +273,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>search-things</summary>
+- **<details><summary>search-things</summary><blockquote>**
 
   * --entity-id
   * --namespace-version
@@ -289,7 +285,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -298,7 +294,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>undeploy-system-instance</summary>
+- **<details><summary>undeploy-system-instance</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -306,7 +302,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -315,7 +311,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>update-flow-template</summary>
+- **<details><summary>update-flow-template</summary><blockquote>**
 
   * --id
   * --definition
@@ -325,7 +321,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>update-system-template</summary>
+- **<details><summary>update-system-template</summary><blockquote>**
 
   * --id
   * --definition
@@ -335,7 +331,7 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-- <details><summary>upload-entity-definitions</summary>
+- **<details><summary>upload-entity-definitions</summary><blockquote>**
 
   * --document
   * --sync-with-public-namespace
@@ -347,5 +343,40 @@ iotthingsgraph
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

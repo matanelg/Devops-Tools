@@ -1,10 +1,6 @@
-<details>
+<details><summary>iot1click-devices</summary><blockquote>
 
-<summary>
-iot1click-devices
-</summary>
-
-- <details><summary>claim-devices-by-claim-code</summary>
+- **<details><summary>claim-devices-by-claim-code</summary><blockquote>**
 
   * --claim-code
   * --cli-input-json
@@ -12,7 +8,7 @@ iot1click-devices
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-device</summary>
+- **<details><summary>describe-device</summary><blockquote>**
 
   * --device-id
   * --cli-input-json
@@ -20,7 +16,7 @@ iot1click-devices
   * --generate-cli-skeleton
 
 
-- <details><summary>finalize-device-claim</summary>
+- **<details><summary>finalize-device-claim</summary><blockquote>**
 
   * --device-id
   * --tags
@@ -29,7 +25,7 @@ iot1click-devices
   * --generate-cli-skeleton
 
 
-- <details><summary>get-device-methods</summary>
+- **<details><summary>get-device-methods</summary><blockquote>**
 
   * --device-id
   * --cli-input-json
@@ -37,12 +33,12 @@ iot1click-devices
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>initiate-device-claim</summary>
+- **<details><summary>initiate-device-claim</summary><blockquote>**
 
   * --device-id
   * --cli-input-json
@@ -50,7 +46,7 @@ iot1click-devices
   * --generate-cli-skeleton
 
 
-- <details><summary>invoke-device-method</summary>
+- **<details><summary>invoke-device-method</summary><blockquote>**
 
   * --device-id
   * --device-method
@@ -60,7 +56,7 @@ iot1click-devices
   * --generate-cli-skeleton
 
 
-- <details><summary>list-device-events</summary>
+- **<details><summary>list-device-events</summary><blockquote>**
 
   * --device-id
   * --from-time-stamp
@@ -73,7 +69,7 @@ iot1click-devices
   * --generate-cli-skeleton
 
 
-- <details><summary>list-devices</summary>
+- **<details><summary>list-devices</summary><blockquote>**
 
   * --device-type
   * --cli-input-json
@@ -84,7 +80,7 @@ iot1click-devices
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -92,7 +88,7 @@ iot1click-devices
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -101,7 +97,7 @@ iot1click-devices
   * --generate-cli-skeleton
 
 
-- <details><summary>unclaim-device</summary>
+- **<details><summary>unclaim-device</summary><blockquote>**
 
   * --device-id
   * --cli-input-json
@@ -109,7 +105,7 @@ iot1click-devices
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -118,7 +114,7 @@ iot1click-devices
   * --generate-cli-skeleton
 
 
-- <details><summary>update-device-state</summary>
+- **<details><summary>update-device-state</summary><blockquote>**
 
   * --device-id
   * --enabled
@@ -128,5 +124,18 @@ iot1click-devices
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

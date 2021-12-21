@@ -1,10 +1,6 @@
-<details>
+<details><summary>elasticbeanstalk</summary><blockquote>
 
-<summary>
-elasticbeanstalk
-</summary>
-
-- <details><summary>abort-environment-update</summary>
+- **<details><summary>abort-environment-update</summary><blockquote>**
 
   * --environment-id
   * --environment-name
@@ -13,7 +9,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>apply-environment-managed-action</summary>
+- **<details><summary>apply-environment-managed-action</summary><blockquote>**
 
   * --environment-name
   * --environment-id
@@ -23,7 +19,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-environment-operations-role</summary>
+- **<details><summary>associate-environment-operations-role</summary><blockquote>**
 
   * --environment-name
   * --operations-role
@@ -32,7 +28,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>check-dns-availability</summary>
+- **<details><summary>check-dns-availability</summary><blockquote>**
 
   * --cname-prefix
   * --cli-input-json
@@ -40,7 +36,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>compose-environments</summary>
+- **<details><summary>compose-environments</summary><blockquote>**
 
   * --application-name
   * --group-name
@@ -50,7 +46,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>create-application</summary>
+- **<details><summary>create-application</summary><blockquote>**
 
   * --application-name
   * --description
@@ -61,7 +57,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>create-application-version</summary>
+- **<details><summary>create-application-version</summary><blockquote>**
 
   * --application-name
   * --version-label
@@ -79,7 +75,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>create-configuration-template</summary>
+- **<details><summary>create-configuration-template</summary><blockquote>**
 
   * --application-name
   * --template-name
@@ -95,7 +91,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>create-environment</summary>
+- **<details><summary>create-environment</summary><blockquote>**
 
   * --application-name
   * --environment-name
@@ -116,7 +112,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>create-platform-version</summary>
+- **<details><summary>create-platform-version</summary><blockquote>**
 
   * --platform-name
   * --platform-version
@@ -129,14 +125,14 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>create-storage-location</summary>
+- **<details><summary>create-storage-location</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application</summary>
+- **<details><summary>delete-application</summary><blockquote>**
 
   * --application-name
   * --terminate-env-by-force
@@ -146,7 +142,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application-version</summary>
+- **<details><summary>delete-application-version</summary><blockquote>**
 
   * --application-name
   * --version-label
@@ -157,7 +153,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-configuration-template</summary>
+- **<details><summary>delete-configuration-template</summary><blockquote>**
 
   * --application-name
   * --template-name
@@ -166,7 +162,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-environment-configuration</summary>
+- **<details><summary>delete-environment-configuration</summary><blockquote>**
 
   * --application-name
   * --environment-name
@@ -175,7 +171,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-platform-version</summary>
+- **<details><summary>delete-platform-version</summary><blockquote>**
 
   * --platform-arn
   * --cli-input-json
@@ -183,14 +179,14 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-account-attributes</summary>
+- **<details><summary>describe-account-attributes</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-applications</summary>
+- **<details><summary>describe-applications</summary><blockquote>**
 
   * --application-names
   * --cli-input-json
@@ -198,7 +194,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-application-versions</summary>
+- **<details><summary>describe-application-versions</summary><blockquote>**
 
   * --application-name
   * --version-labels
@@ -210,7 +206,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-configuration-options</summary>
+- **<details><summary>describe-configuration-options</summary><blockquote>**
 
   * --application-name
   * --template-name
@@ -223,7 +219,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-configuration-settings</summary>
+- **<details><summary>describe-configuration-settings</summary><blockquote>**
 
   * --application-name
   * --template-name
@@ -233,7 +229,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-environment-health</summary>
+- **<details><summary>describe-environment-health</summary><blockquote>**
 
   * --environment-name
   * --environment-id
@@ -243,7 +239,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-environment-managed-action-history</summary>
+- **<details><summary>describe-environment-managed-action-history</summary><blockquote>**
 
   * --environment-id
   * --environment-name
@@ -255,7 +251,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-environment-managed-actions</summary>
+- **<details><summary>describe-environment-managed-actions</summary><blockquote>**
 
   * --environment-name
   * --environment-id
@@ -265,7 +261,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-environment-resources</summary>
+- **<details><summary>describe-environment-resources</summary><blockquote>**
 
   * --environment-id
   * --environment-name
@@ -274,7 +270,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-environments</summary>
+- **<details><summary>describe-environments</summary><blockquote>**
 
   * --application-name
   * --version-label
@@ -291,7 +287,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-events</summary>
+- **<details><summary>describe-events</summary><blockquote>**
 
   * --application-name
   * --version-label
@@ -311,7 +307,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instances-health</summary>
+- **<details><summary>describe-instances-health</summary><blockquote>**
 
   * --environment-name
   * --environment-id
@@ -322,7 +318,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-platform-version</summary>
+- **<details><summary>describe-platform-version</summary><blockquote>**
 
   * --platform-arn
   * --cli-input-json
@@ -330,7 +326,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-environment-operations-role</summary>
+- **<details><summary>disassociate-environment-operations-role</summary><blockquote>**
 
   * --environment-name
   * --cli-input-json
@@ -338,19 +334,19 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-available-solution-stacks</summary>
+- **<details><summary>list-available-solution-stacks</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>list-platform-branches</summary>
+- **<details><summary>list-platform-branches</summary><blockquote>**
 
   * --filters
   * --max-records
@@ -360,7 +356,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>list-platform-versions</summary>
+- **<details><summary>list-platform-versions</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -371,7 +367,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -379,7 +375,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>rebuild-environment</summary>
+- **<details><summary>rebuild-environment</summary><blockquote>**
 
   * --environment-id
   * --environment-name
@@ -388,26 +384,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>request-environment-info</summary>
-
-  * --environment-id
-  * --environment-name
-  * --info-type
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>restart-app-server</summary>
-
-  * --environment-id
-  * --environment-name
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>retrieve-environment-info</summary>
+- **<details><summary>request-environment-info</summary><blockquote>**
 
   * --environment-id
   * --environment-name
@@ -417,7 +394,26 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>swap-environment-cnames</summary>
+- **<details><summary>restart-app-server</summary><blockquote>**
+
+  * --environment-id
+  * --environment-name
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>retrieve-environment-info</summary><blockquote>**
+
+  * --environment-id
+  * --environment-name
+  * --info-type
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>swap-environment-cnames</summary><blockquote>**
 
   * --source-environment-id
   * --source-environment-name
@@ -428,7 +424,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>terminate-environment</summary>
+- **<details><summary>terminate-environment</summary><blockquote>**
 
   * --environment-id
   * --environment-name
@@ -441,7 +437,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>update-application</summary>
+- **<details><summary>update-application</summary><blockquote>**
 
   * --application-name
   * --description
@@ -450,7 +446,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>update-application-resource-lifecycle</summary>
+- **<details><summary>update-application-resource-lifecycle</summary><blockquote>**
 
   * --application-name
   * --resource-lifecycle-config
@@ -459,7 +455,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>update-application-version</summary>
+- **<details><summary>update-application-version</summary><blockquote>**
 
   * --application-name
   * --version-label
@@ -469,7 +465,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>update-configuration-template</summary>
+- **<details><summary>update-configuration-template</summary><blockquote>**
 
   * --application-name
   * --template-name
@@ -481,7 +477,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>update-environment</summary>
+- **<details><summary>update-environment</summary><blockquote>**
 
   * --application-name
   * --environment-id
@@ -500,7 +496,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>update-tags-for-resource</summary>
+- **<details><summary>update-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags-to-add
@@ -510,7 +506,7 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>validate-configuration-settings</summary>
+- **<details><summary>validate-configuration-settings</summary><blockquote>**
 
   * --application-name
   * --template-name
@@ -521,10 +517,58 @@ elasticbeanstalk
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

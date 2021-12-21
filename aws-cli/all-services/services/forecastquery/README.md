@@ -1,15 +1,11 @@
-<details>
+<details><summary>forecastquery</summary><blockquote>
 
-<summary>
-forecastquery
-</summary>
-
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>query-forecast</summary>
+- **<details><summary>query-forecast</summary><blockquote>**
 
   * --forecast-arn
   * --start-date
@@ -21,5 +17,6 @@ forecastquery
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

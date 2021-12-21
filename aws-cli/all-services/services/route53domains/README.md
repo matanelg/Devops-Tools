@@ -1,10 +1,6 @@
-<details>
+<details><summary>route53domains</summary><blockquote>
 
-<summary>
-route53domains
-</summary>
-
-- <details><summary>accept-domain-transfer-from-another-aws-account</summary>
+- **<details><summary>accept-domain-transfer-from-another-aws-account</summary><blockquote>**
 
   * --domain-name
   * --password
@@ -13,7 +9,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-domain-transfer-to-another-aws-account</summary>
+- **<details><summary>cancel-domain-transfer-to-another-aws-account</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -21,7 +17,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>check-domain-availability</summary>
+- **<details><summary>check-domain-availability</summary><blockquote>**
 
   * --domain-name
   * --idn-lang-code
@@ -30,7 +26,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>check-domain-transferability</summary>
+- **<details><summary>check-domain-transferability</summary><blockquote>**
 
   * --domain-name
   * --auth-code
@@ -39,7 +35,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-tags-for-domain</summary>
+- **<details><summary>delete-tags-for-domain</summary><blockquote>**
 
   * --domain-name
   * --tags-to-delete
@@ -48,7 +44,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-domain-auto-renew</summary>
+- **<details><summary>disable-domain-auto-renew</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -56,7 +52,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-domain-transfer-lock</summary>
+- **<details><summary>disable-domain-transfer-lock</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -64,7 +60,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-domain-auto-renew</summary>
+- **<details><summary>enable-domain-auto-renew</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -72,7 +68,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-domain-transfer-lock</summary>
+- **<details><summary>enable-domain-transfer-lock</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -80,7 +76,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>get-contact-reachability-status</summary>
+- **<details><summary>get-contact-reachability-status</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -88,7 +84,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>get-domain-detail</summary>
+- **<details><summary>get-domain-detail</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -96,7 +92,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>get-domain-suggestions</summary>
+- **<details><summary>get-domain-suggestions</summary><blockquote>**
 
   * --domain-name
   * --suggestion-count
@@ -107,7 +103,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>get-operation-detail</summary>
+- **<details><summary>get-operation-detail</summary><blockquote>**
 
   * --operation-id
   * --cli-input-json
@@ -115,12 +111,12 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-domains</summary>
+- **<details><summary>list-domains</summary><blockquote>**
 
   * --max-items
   * --cli-input-json
@@ -130,7 +126,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>list-operations</summary>
+- **<details><summary>list-operations</summary><blockquote>**
 
   * --submitted-since
   * --max-items
@@ -141,7 +137,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-domain</summary>
+- **<details><summary>list-tags-for-domain</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -149,7 +145,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>register-domain</summary>
+- **<details><summary>register-domain</summary><blockquote>**
 
   * --domain-name
   * --idn-lang-code
@@ -170,7 +166,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>reject-domain-transfer-from-another-aws-account</summary>
+- **<details><summary>reject-domain-transfer-from-another-aws-account</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -178,7 +174,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>renew-domain</summary>
+- **<details><summary>renew-domain</summary><blockquote>**
 
   * --domain-name
   * --duration-in-years
@@ -188,7 +184,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>resend-contact-reachability-email</summary>
+- **<details><summary>resend-contact-reachability-email</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -196,7 +192,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>retrieve-domain-auth-code</summary>
+- **<details><summary>retrieve-domain-auth-code</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -204,7 +200,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>transfer-domain</summary>
+- **<details><summary>transfer-domain</summary><blockquote>**
 
   * --domain-name
   * --idn-lang-code
@@ -227,7 +223,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>transfer-domain-to-another-aws-account</summary>
+- **<details><summary>transfer-domain-to-another-aws-account</summary><blockquote>**
 
   * --domain-name
   * --account-id
@@ -236,7 +232,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>update-domain-contact</summary>
+- **<details><summary>update-domain-contact</summary><blockquote>**
 
   * --domain-name
   * --admin-contact
@@ -247,7 +243,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>update-domain-contact-privacy</summary>
+- **<details><summary>update-domain-contact-privacy</summary><blockquote>**
 
   * --domain-name
   * --admin-privacy
@@ -261,7 +257,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>update-domain-nameservers</summary>
+- **<details><summary>update-domain-nameservers</summary><blockquote>**
 
   * --domain-name
   * --fi-auth-key
@@ -271,7 +267,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>update-tags-for-domain</summary>
+- **<details><summary>update-tags-for-domain</summary><blockquote>**
 
   * --domain-name
   * --tags-to-update
@@ -280,7 +276,7 @@ route53domains
   * --generate-cli-skeleton
 
 
-- <details><summary>view-billing</summary>
+- **<details><summary>view-billing</summary><blockquote>**
 
   * --max-items
   * --start-time
@@ -292,5 +288,33 @@ route53domains
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>guardduty</summary><blockquote>
 
-<summary>
-guardduty
-</summary>
-
-- <details><summary>accept-invitation</summary>
+- **<details><summary>accept-invitation</summary><blockquote>**
 
   * --detector-id
   * --master-id
@@ -14,7 +10,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>archive-findings</summary>
+- **<details><summary>archive-findings</summary><blockquote>**
 
   * --detector-id
   * --finding-ids
@@ -23,7 +19,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>create-detector</summary>
+- **<details><summary>create-detector</summary><blockquote>**
 
   * --enable
   * --no-enable
@@ -36,7 +32,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>create-filter</summary>
+- **<details><summary>create-filter</summary><blockquote>**
 
   * --detector-id
   * --name
@@ -51,7 +47,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>create-ip-set</summary>
+- **<details><summary>create-ip-set</summary><blockquote>**
 
   * --detector-id
   * --name
@@ -66,7 +62,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>create-members</summary>
+- **<details><summary>create-members</summary><blockquote>**
 
   * --detector-id
   * --account-details
@@ -75,7 +71,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>create-publishing-destination</summary>
+- **<details><summary>create-publishing-destination</summary><blockquote>**
 
   * --detector-id
   * --destination-type
@@ -86,7 +82,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>create-sample-findings</summary>
+- **<details><summary>create-sample-findings</summary><blockquote>**
 
   * --detector-id
   * --finding-types
@@ -95,7 +91,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>create-threat-intel-set</summary>
+- **<details><summary>create-threat-intel-set</summary><blockquote>**
 
   * --detector-id
   * --name
@@ -110,7 +106,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>decline-invitations</summary>
+- **<details><summary>decline-invitations</summary><blockquote>**
 
   * --account-ids
   * --cli-input-json
@@ -118,7 +114,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-detector</summary>
+- **<details><summary>delete-detector</summary><blockquote>**
 
   * --detector-id
   * --cli-input-json
@@ -126,7 +122,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-filter</summary>
+- **<details><summary>delete-filter</summary><blockquote>**
 
   * --detector-id
   * --filter-name
@@ -135,7 +131,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-invitations</summary>
+- **<details><summary>delete-invitations</summary><blockquote>**
 
   * --account-ids
   * --cli-input-json
@@ -143,7 +139,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-ip-set</summary>
+- **<details><summary>delete-ip-set</summary><blockquote>**
 
   * --detector-id
   * --ip-set-id
@@ -152,7 +148,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-members</summary>
+- **<details><summary>delete-members</summary><blockquote>**
 
   * --detector-id
   * --account-ids
@@ -161,7 +157,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-publishing-destination</summary>
+- **<details><summary>delete-publishing-destination</summary><blockquote>**
 
   * --detector-id
   * --destination-id
@@ -170,7 +166,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-threat-intel-set</summary>
+- **<details><summary>delete-threat-intel-set</summary><blockquote>**
 
   * --detector-id
   * --threat-intel-set-id
@@ -179,7 +175,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-organization-configuration</summary>
+- **<details><summary>describe-organization-configuration</summary><blockquote>**
 
   * --detector-id
   * --cli-input-json
@@ -187,7 +183,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-publishing-destination</summary>
+- **<details><summary>describe-publishing-destination</summary><blockquote>**
 
   * --detector-id
   * --destination-id
@@ -196,7 +192,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-organization-admin-account</summary>
+- **<details><summary>disable-organization-admin-account</summary><blockquote>**
 
   * --admin-account-id
   * --cli-input-json
@@ -204,7 +200,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-from-master-account</summary>
+- **<details><summary>disassociate-from-master-account</summary><blockquote>**
 
   * --detector-id
   * --cli-input-json
@@ -212,7 +208,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-members</summary>
+- **<details><summary>disassociate-members</summary><blockquote>**
 
   * --detector-id
   * --account-ids
@@ -221,7 +217,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-organization-admin-account</summary>
+- **<details><summary>enable-organization-admin-account</summary><blockquote>**
 
   * --admin-account-id
   * --cli-input-json
@@ -229,7 +225,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>get-detector</summary>
+- **<details><summary>get-detector</summary><blockquote>**
 
   * --detector-id
   * --cli-input-json
@@ -237,7 +233,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>get-filter</summary>
+- **<details><summary>get-filter</summary><blockquote>**
 
   * --detector-id
   * --filter-name
@@ -246,7 +242,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>get-findings</summary>
+- **<details><summary>get-findings</summary><blockquote>**
 
   * --detector-id
   * --finding-ids
@@ -256,7 +252,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>get-findings-statistics</summary>
+- **<details><summary>get-findings-statistics</summary><blockquote>**
 
   * --detector-id
   * --finding-statistic-types
@@ -266,14 +262,14 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>get-invitations-count</summary>
+- **<details><summary>get-invitations-count</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-ip-set</summary>
+- **<details><summary>get-ip-set</summary><blockquote>**
 
   * --detector-id
   * --ip-set-id
@@ -282,7 +278,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>get-master-account</summary>
+- **<details><summary>get-master-account</summary><blockquote>**
 
   * --detector-id
   * --cli-input-json
@@ -290,16 +286,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>get-member-detectors</summary>
-
-  * --detector-id
-  * --account-ids
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>get-members</summary>
+- **<details><summary>get-member-detectors</summary><blockquote>**
 
   * --detector-id
   * --account-ids
@@ -308,7 +295,16 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>get-threat-intel-set</summary>
+- **<details><summary>get-members</summary><blockquote>**
+
+  * --detector-id
+  * --account-ids
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>get-threat-intel-set</summary><blockquote>**
 
   * --detector-id
   * --threat-intel-set-id
@@ -317,7 +313,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>get-usage-statistics</summary>
+- **<details><summary>get-usage-statistics</summary><blockquote>**
 
   * --detector-id
   * --usage-statistic-type
@@ -330,12 +326,12 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>invite-members</summary>
+- **<details><summary>invite-members</summary><blockquote>**
 
   * --detector-id
   * --account-ids
@@ -347,7 +343,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>list-detectors</summary>
+- **<details><summary>list-detectors</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -357,7 +353,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>list-filters</summary>
+- **<details><summary>list-filters</summary><blockquote>**
 
   * --detector-id
   * --cli-input-json
@@ -368,7 +364,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>list-findings</summary>
+- **<details><summary>list-findings</summary><blockquote>**
 
   * --detector-id
   * --finding-criteria
@@ -381,7 +377,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>list-invitations</summary>
+- **<details><summary>list-invitations</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -391,7 +387,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>list-ip-sets</summary>
+- **<details><summary>list-ip-sets</summary><blockquote>**
 
   * --detector-id
   * --cli-input-json
@@ -402,7 +398,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>list-members</summary>
+- **<details><summary>list-members</summary><blockquote>**
 
   * --detector-id
   * --only-associated
@@ -414,7 +410,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>list-organization-admin-accounts</summary>
+- **<details><summary>list-organization-admin-accounts</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -424,7 +420,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>list-publishing-destinations</summary>
+- **<details><summary>list-publishing-destinations</summary><blockquote>**
 
   * --detector-id
   * --max-results
@@ -434,7 +430,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -442,7 +438,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>list-threat-intel-sets</summary>
+- **<details><summary>list-threat-intel-sets</summary><blockquote>**
 
   * --detector-id
   * --cli-input-json
@@ -453,7 +449,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>start-monitoring-members</summary>
+- **<details><summary>start-monitoring-members</summary><blockquote>**
 
   * --detector-id
   * --account-ids
@@ -462,7 +458,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-monitoring-members</summary>
+- **<details><summary>stop-monitoring-members</summary><blockquote>**
 
   * --detector-id
   * --account-ids
@@ -471,7 +467,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -480,7 +476,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>unarchive-findings</summary>
+- **<details><summary>unarchive-findings</summary><blockquote>**
 
   * --detector-id
   * --finding-ids
@@ -489,7 +485,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -498,7 +494,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>update-detector</summary>
+- **<details><summary>update-detector</summary><blockquote>**
 
   * --detector-id
   * --enable
@@ -510,7 +506,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>update-filter</summary>
+- **<details><summary>update-filter</summary><blockquote>**
 
   * --detector-id
   * --filter-name
@@ -523,7 +519,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>update-findings-feedback</summary>
+- **<details><summary>update-findings-feedback</summary><blockquote>**
 
   * --detector-id
   * --finding-ids
@@ -534,7 +530,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>update-ip-set</summary>
+- **<details><summary>update-ip-set</summary><blockquote>**
 
   * --detector-id
   * --ip-set-id
@@ -547,7 +543,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>update-member-detectors</summary>
+- **<details><summary>update-member-detectors</summary><blockquote>**
 
   * --detector-id
   * --account-ids
@@ -557,7 +553,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>update-organization-configuration</summary>
+- **<details><summary>update-organization-configuration</summary><blockquote>**
 
   * --detector-id
   * --auto-enable
@@ -568,7 +564,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>update-publishing-destination</summary>
+- **<details><summary>update-publishing-destination</summary><blockquote>**
 
   * --detector-id
   * --destination-id
@@ -578,7 +574,7 @@ guardduty
   * --generate-cli-skeleton
 
 
-- <details><summary>update-threat-intel-set</summary>
+- **<details><summary>update-threat-intel-set</summary><blockquote>**
 
   * --detector-id
   * --threat-intel-set-id
@@ -591,5 +587,63 @@ guardduty
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

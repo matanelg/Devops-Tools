@@ -1,10 +1,6 @@
-<details>
+<details><summary>route53</summary><blockquote>
 
-<summary>
-route53
-</summary>
-
-- <details><summary>activate-key-signing-key</summary>
+- **<details><summary>activate-key-signing-key</summary><blockquote>**
 
   * --hosted-zone-id
   * --name
@@ -13,7 +9,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-vpc-with-hosted-zone</summary>
+- **<details><summary>associate-vpc-with-hosted-zone</summary><blockquote>**
 
   * --hosted-zone-id
   * --vpc
@@ -23,7 +19,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>change-resource-record-sets</summary>
+- **<details><summary>change-resource-record-sets</summary><blockquote>**
 
   * --hosted-zone-id
   * --change-batch
@@ -32,7 +28,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>change-tags-for-resource</summary>
+- **<details><summary>change-tags-for-resource</summary><blockquote>**
 
   * --resource-type
   * --resource-id
@@ -43,7 +39,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>create-health-check</summary>
+- **<details><summary>create-health-check</summary><blockquote>**
 
   * --caller-reference
   * --health-check-config
@@ -52,7 +48,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>create-hosted-zone</summary>
+- **<details><summary>create-hosted-zone</summary><blockquote>**
 
   * --name
   * --vpc
@@ -64,7 +60,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>create-key-signing-key</summary>
+- **<details><summary>create-key-signing-key</summary><blockquote>**
 
   * --caller-reference
   * --hosted-zone-id
@@ -76,7 +72,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>create-query-logging-config</summary>
+- **<details><summary>create-query-logging-config</summary><blockquote>**
 
   * --hosted-zone-id
   * --cloud-watch-logs-log-group-arn
@@ -85,7 +81,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>create-reusable-delegation-set</summary>
+- **<details><summary>create-reusable-delegation-set</summary><blockquote>**
 
   * --caller-reference
   * --hosted-zone-id
@@ -94,7 +90,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>create-traffic-policy</summary>
+- **<details><summary>create-traffic-policy</summary><blockquote>**
 
   * --name
   * --document
@@ -104,7 +100,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>create-traffic-policy-instance</summary>
+- **<details><summary>create-traffic-policy-instance</summary><blockquote>**
 
   * --hosted-zone-id
   * --name
@@ -116,7 +112,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>create-traffic-policy-version</summary>
+- **<details><summary>create-traffic-policy-version</summary><blockquote>**
 
   * --id
   * --document
@@ -126,7 +122,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>create-vpc-association-authorization</summary>
+- **<details><summary>create-vpc-association-authorization</summary><blockquote>**
 
   * --hosted-zone-id
   * --vpc
@@ -135,7 +131,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>deactivate-key-signing-key</summary>
+- **<details><summary>deactivate-key-signing-key</summary><blockquote>**
 
   * --hosted-zone-id
   * --name
@@ -144,7 +140,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-health-check</summary>
+- **<details><summary>delete-health-check</summary><blockquote>**
 
   * --health-check-id
   * --cli-input-json
@@ -152,7 +148,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-hosted-zone</summary>
+- **<details><summary>delete-hosted-zone</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -160,7 +156,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-key-signing-key</summary>
+- **<details><summary>delete-key-signing-key</summary><blockquote>**
 
   * --hosted-zone-id
   * --name
@@ -169,7 +165,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-query-logging-config</summary>
+- **<details><summary>delete-query-logging-config</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -177,7 +173,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-reusable-delegation-set</summary>
+- **<details><summary>delete-reusable-delegation-set</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -185,7 +181,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-traffic-policy</summary>
+- **<details><summary>delete-traffic-policy</summary><blockquote>**
 
   * --id
   * --traffic-policy-version
@@ -194,7 +190,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-traffic-policy-instance</summary>
+- **<details><summary>delete-traffic-policy-instance</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -202,7 +198,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-vpc-association-authorization</summary>
+- **<details><summary>delete-vpc-association-authorization</summary><blockquote>**
 
   * --hosted-zone-id
   * --vpc
@@ -211,7 +207,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-hosted-zone-dnssec</summary>
+- **<details><summary>disable-hosted-zone-dnssec</summary><blockquote>**
 
   * --hosted-zone-id
   * --cli-input-json
@@ -219,7 +215,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-vpc-from-hosted-zone</summary>
+- **<details><summary>disassociate-vpc-from-hosted-zone</summary><blockquote>**
 
   * --hosted-zone-id
   * --vpc
@@ -229,7 +225,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-hosted-zone-dnssec</summary>
+- **<details><summary>enable-hosted-zone-dnssec</summary><blockquote>**
 
   * --hosted-zone-id
   * --cli-input-json
@@ -237,7 +233,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>get-account-limit</summary>
+- **<details><summary>get-account-limit</summary><blockquote>**
 
   * --type
   * --cli-input-json
@@ -245,7 +241,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>get-change</summary>
+- **<details><summary>get-change</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -253,14 +249,14 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>get-checker-ip-ranges</summary>
+- **<details><summary>get-checker-ip-ranges</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-dnssec</summary>
+- **<details><summary>get-dnssec</summary><blockquote>**
 
   * --hosted-zone-id
   * --cli-input-json
@@ -268,7 +264,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>get-geo-location</summary>
+- **<details><summary>get-geo-location</summary><blockquote>**
 
   * --continent-code
   * --country-code
@@ -278,7 +274,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>get-health-check</summary>
+- **<details><summary>get-health-check</summary><blockquote>**
 
   * --health-check-id
   * --cli-input-json
@@ -286,14 +282,14 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>get-health-check-count</summary>
+- **<details><summary>get-health-check-count</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-health-check-last-failure-reason</summary>
+- **<details><summary>get-health-check-last-failure-reason</summary><blockquote>**
 
   * --health-check-id
   * --cli-input-json
@@ -301,7 +297,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>get-health-check-status</summary>
+- **<details><summary>get-health-check-status</summary><blockquote>**
 
   * --health-check-id
   * --cli-input-json
@@ -309,7 +305,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>get-hosted-zone</summary>
+- **<details><summary>get-hosted-zone</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -317,14 +313,14 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>get-hosted-zone-count</summary>
+- **<details><summary>get-hosted-zone-count</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-hosted-zone-limit</summary>
+- **<details><summary>get-hosted-zone-limit</summary><blockquote>**
 
   * --type
   * --hosted-zone-id
@@ -333,7 +329,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>get-query-logging-config</summary>
+- **<details><summary>get-query-logging-config</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -341,7 +337,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>get-reusable-delegation-set</summary>
+- **<details><summary>get-reusable-delegation-set</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -349,7 +345,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>get-reusable-delegation-set-limit</summary>
+- **<details><summary>get-reusable-delegation-set-limit</summary><blockquote>**
 
   * --type
   * --delegation-set-id
@@ -358,7 +354,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>get-traffic-policy</summary>
+- **<details><summary>get-traffic-policy</summary><blockquote>**
 
   * --id
   * --traffic-policy-version
@@ -367,7 +363,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>get-traffic-policy-instance</summary>
+- **<details><summary>get-traffic-policy-instance</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -375,19 +371,19 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>get-traffic-policy-instance-count</summary>
+- **<details><summary>get-traffic-policy-instance-count</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-geo-locations</summary>
+- **<details><summary>list-geo-locations</summary><blockquote>**
 
   * --start-continent-code
   * --start-country-code
@@ -398,7 +394,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>list-health-checks</summary>
+- **<details><summary>list-health-checks</summary><blockquote>**
 
   * --max-items
   * --cli-input-json
@@ -408,7 +404,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>list-hosted-zones</summary>
+- **<details><summary>list-hosted-zones</summary><blockquote>**
 
   * --max-items
   * --delegation-set-id
@@ -419,7 +415,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>list-hosted-zones-by-name</summary>
+- **<details><summary>list-hosted-zones-by-name</summary><blockquote>**
 
   * --dns-name
   * --hosted-zone-id
@@ -429,7 +425,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>list-hosted-zones-by-vpc</summary>
+- **<details><summary>list-hosted-zones-by-vpc</summary><blockquote>**
 
   * --vpc-id
   * --vpc-region
@@ -440,7 +436,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>list-query-logging-configs</summary>
+- **<details><summary>list-query-logging-configs</summary><blockquote>**
 
   * --hosted-zone-id
   * --cli-input-json
@@ -451,7 +447,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resource-record-sets</summary>
+- **<details><summary>list-resource-record-sets</summary><blockquote>**
 
   * --hosted-zone-id
   * --max-items
@@ -462,7 +458,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>list-reusable-delegation-sets</summary>
+- **<details><summary>list-reusable-delegation-sets</summary><blockquote>**
 
   * --marker
   * --max-items
@@ -471,7 +467,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-type
   * --resource-id
@@ -480,7 +476,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resources</summary>
+- **<details><summary>list-tags-for-resources</summary><blockquote>**
 
   * --resource-type
   * --resource-ids
@@ -489,7 +485,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>list-traffic-policies</summary>
+- **<details><summary>list-traffic-policies</summary><blockquote>**
 
   * --traffic-policy-id-marker
   * --max-items
@@ -498,7 +494,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>list-traffic-policy-instances</summary>
+- **<details><summary>list-traffic-policy-instances</summary><blockquote>**
 
   * --hosted-zone-id-marker
   * --traffic-policy-instance-name-marker
@@ -509,7 +505,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>list-traffic-policy-instances-by-hosted-zone</summary>
+- **<details><summary>list-traffic-policy-instances-by-hosted-zone</summary><blockquote>**
 
   * --hosted-zone-id
   * --traffic-policy-instance-name-marker
@@ -520,7 +516,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>list-traffic-policy-instances-by-policy</summary>
+- **<details><summary>list-traffic-policy-instances-by-policy</summary><blockquote>**
 
   * --traffic-policy-id
   * --traffic-policy-version
@@ -533,7 +529,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>list-traffic-policy-versions</summary>
+- **<details><summary>list-traffic-policy-versions</summary><blockquote>**
 
   * --id
   * --traffic-policy-version-marker
@@ -543,7 +539,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>list-vpc-association-authorizations</summary>
+- **<details><summary>list-vpc-association-authorizations</summary><blockquote>**
 
   * --hosted-zone-id
   * --max-results
@@ -554,7 +550,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>test-dns-answer</summary>
+- **<details><summary>test-dns-answer</summary><blockquote>**
 
   * --hosted-zone-id
   * --record-name
@@ -567,7 +563,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>update-health-check</summary>
+- **<details><summary>update-health-check</summary><blockquote>**
 
   * --health-check-id
   * --health-check-version
@@ -594,7 +590,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>update-hosted-zone-comment</summary>
+- **<details><summary>update-hosted-zone-comment</summary><blockquote>**
 
   * --id
   * --comment
@@ -603,7 +599,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>update-traffic-policy-comment</summary>
+- **<details><summary>update-traffic-policy-comment</summary><blockquote>**
 
   * --id
   * --comment
@@ -613,7 +609,7 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>update-traffic-policy-instance</summary>
+- **<details><summary>update-traffic-policy-instance</summary><blockquote>**
 
   * --id
   * --ttl
@@ -624,10 +620,75 @@ route53
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

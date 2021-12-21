@@ -1,10 +1,6 @@
-<details>
+<details><summary>opsworks</summary><blockquote>
 
-<summary>
-opsworks
-</summary>
-
-- <details><summary>assign-instance</summary>
+- **<details><summary>assign-instance</summary><blockquote>**
 
   * --instance-id
   * --layer-ids
@@ -13,7 +9,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>assign-volume</summary>
+- **<details><summary>assign-volume</summary><blockquote>**
 
   * --volume-id
   * --instance-id
@@ -22,7 +18,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-elastic-ip</summary>
+- **<details><summary>associate-elastic-ip</summary><blockquote>**
 
   * --elastic-ip
   * --instance-id
@@ -31,7 +27,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-elastic-load-balancer</summary>
+- **<details><summary>attach-elastic-load-balancer</summary><blockquote>**
 
   * --elastic-load-balancer-name
   * --layer-id
@@ -40,7 +36,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>clone-stack</summary>
+- **<details><summary>clone-stack</summary><blockquote>**
 
   * --source-stack-id
   * --name
@@ -72,7 +68,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>create-app</summary>
+- **<details><summary>create-app</summary><blockquote>**
 
   * --stack-id
   * --shortname
@@ -92,7 +88,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>create-deployment</summary>
+- **<details><summary>create-deployment</summary><blockquote>**
 
   * --stack-id
   * --app-id
@@ -106,7 +102,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>create-instance</summary>
+- **<details><summary>create-instance</summary><blockquote>**
 
   * --stack-id
   * --layer-ids
@@ -133,7 +129,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>create-layer</summary>
+- **<details><summary>create-layer</summary><blockquote>**
 
   * --stack-id
   * --type
@@ -163,7 +159,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>create-stack</summary>
+- **<details><summary>create-stack</summary><blockquote>**
 
   * --name
   * --vpc-id
@@ -191,7 +187,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>create-user-profile</summary>
+- **<details><summary>create-user-profile</summary><blockquote>**
 
   * --iam-user-arn
   * --ssh-username
@@ -203,7 +199,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-app</summary>
+- **<details><summary>delete-app</summary><blockquote>**
 
   * --app-id
   * --cli-input-json
@@ -211,7 +207,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-instance</summary>
+- **<details><summary>delete-instance</summary><blockquote>**
 
   * --instance-id
   * --delete-elastic-ip
@@ -223,7 +219,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-layer</summary>
+- **<details><summary>delete-layer</summary><blockquote>**
 
   * --layer-id
   * --cli-input-json
@@ -231,7 +227,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-stack</summary>
+- **<details><summary>delete-stack</summary><blockquote>**
 
   * --stack-id
   * --cli-input-json
@@ -239,7 +235,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user-profile</summary>
+- **<details><summary>delete-user-profile</summary><blockquote>**
 
   * --iam-user-arn
   * --cli-input-json
@@ -247,7 +243,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-ecs-cluster</summary>
+- **<details><summary>deregister-ecs-cluster</summary><blockquote>**
 
   * --ecs-cluster-arn
   * --cli-input-json
@@ -255,7 +251,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-elastic-ip</summary>
+- **<details><summary>deregister-elastic-ip</summary><blockquote>**
 
   * --elastic-ip
   * --cli-input-json
@@ -263,7 +259,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-instance</summary>
+- **<details><summary>deregister-instance</summary><blockquote>**
 
   * --instance-id
   * --cli-input-json
@@ -271,7 +267,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-rds-db-instance</summary>
+- **<details><summary>deregister-rds-db-instance</summary><blockquote>**
 
   * --rds-db-instance-arn
   * --cli-input-json
@@ -279,7 +275,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-volume</summary>
+- **<details><summary>deregister-volume</summary><blockquote>**
 
   * --volume-id
   * --cli-input-json
@@ -287,7 +283,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-agent-versions</summary>
+- **<details><summary>describe-agent-versions</summary><blockquote>**
 
   * --stack-id
   * --configuration-manager
@@ -296,7 +292,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-apps</summary>
+- **<details><summary>describe-apps</summary><blockquote>**
 
   * --stack-id
   * --app-ids
@@ -305,7 +301,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-commands</summary>
+- **<details><summary>describe-commands</summary><blockquote>**
 
   * --deployment-id
   * --instance-id
@@ -315,7 +311,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-deployments</summary>
+- **<details><summary>describe-deployments</summary><blockquote>**
 
   * --stack-id
   * --app-id
@@ -325,7 +321,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-ecs-clusters</summary>
+- **<details><summary>describe-ecs-clusters</summary><blockquote>**
 
   * --ecs-cluster-arns
   * --stack-id
@@ -337,7 +333,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-elastic-ips</summary>
+- **<details><summary>describe-elastic-ips</summary><blockquote>**
 
   * --instance-id
   * --stack-id
@@ -347,7 +343,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-elastic-load-balancers</summary>
+- **<details><summary>describe-elastic-load-balancers</summary><blockquote>**
 
   * --stack-id
   * --layer-ids
@@ -356,7 +352,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instances</summary>
+- **<details><summary>describe-instances</summary><blockquote>**
 
   * --stack-id
   * --layer-id
@@ -366,7 +362,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-layers</summary>
+- **<details><summary>describe-layers</summary><blockquote>**
 
   * --stack-id
   * --layer-ids
@@ -375,7 +371,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-load-based-auto-scaling</summary>
+- **<details><summary>describe-load-based-auto-scaling</summary><blockquote>**
 
   * --layer-ids
   * --cli-input-json
@@ -383,21 +379,21 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-my-user-profile</summary>
+- **<details><summary>describe-my-user-profile</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-operating-systems</summary>
+- **<details><summary>describe-operating-systems</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-permissions</summary>
+- **<details><summary>describe-permissions</summary><blockquote>**
 
   * --iam-user-arn
   * --stack-id
@@ -406,7 +402,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-raid-arrays</summary>
+- **<details><summary>describe-raid-arrays</summary><blockquote>**
 
   * --instance-id
   * --stack-id
@@ -416,7 +412,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-rds-db-instances</summary>
+- **<details><summary>describe-rds-db-instances</summary><blockquote>**
 
   * --stack-id
   * --rds-db-instance-arns
@@ -425,7 +421,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-service-errors</summary>
+- **<details><summary>describe-service-errors</summary><blockquote>**
 
   * --stack-id
   * --instance-id
@@ -435,7 +431,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stack-provisioning-parameters</summary>
+- **<details><summary>describe-stack-provisioning-parameters</summary><blockquote>**
 
   * --stack-id
   * --cli-input-json
@@ -443,7 +439,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stacks</summary>
+- **<details><summary>describe-stacks</summary><blockquote>**
 
   * --stack-ids
   * --cli-input-json
@@ -451,7 +447,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stack-summary</summary>
+- **<details><summary>describe-stack-summary</summary><blockquote>**
 
   * --stack-id
   * --cli-input-json
@@ -459,7 +455,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-time-based-auto-scaling</summary>
+- **<details><summary>describe-time-based-auto-scaling</summary><blockquote>**
 
   * --instance-ids
   * --cli-input-json
@@ -467,7 +463,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-user-profiles</summary>
+- **<details><summary>describe-user-profiles</summary><blockquote>**
 
   * --iam-user-arns
   * --cli-input-json
@@ -475,7 +471,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-volumes</summary>
+- **<details><summary>describe-volumes</summary><blockquote>**
 
   * --instance-id
   * --stack-id
@@ -486,7 +482,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-elastic-load-balancer</summary>
+- **<details><summary>detach-elastic-load-balancer</summary><blockquote>**
 
   * --elastic-load-balancer-name
   * --layer-id
@@ -495,7 +491,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-elastic-ip</summary>
+- **<details><summary>disassociate-elastic-ip</summary><blockquote>**
 
   * --elastic-ip
   * --cli-input-json
@@ -503,7 +499,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>get-hostname-suggestion</summary>
+- **<details><summary>get-hostname-suggestion</summary><blockquote>**
 
   * --layer-id
   * --cli-input-json
@@ -511,7 +507,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>grant-access</summary>
+- **<details><summary>grant-access</summary><blockquote>**
 
   * --instance-id
   * --valid-for-in-minutes
@@ -520,12 +516,12 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-tags</summary>
+- **<details><summary>list-tags</summary><blockquote>**
 
   * --resource-arn
   * --max-results
@@ -535,7 +531,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>reboot-instance</summary>
+- **<details><summary>reboot-instance</summary><blockquote>**
 
   * --instance-id
   * --cli-input-json
@@ -543,7 +539,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>register</summary>
+- **<details><summary>register</summary><blockquote>**
 
   * --stack-id
   * --infrastructure-class
@@ -557,7 +553,7 @@ opsworks
   * --use-instance-profile
 
 
-- <details><summary>register-ecs-cluster</summary>
+- **<details><summary>register-ecs-cluster</summary><blockquote>**
 
   * --ecs-cluster-arn
   * --stack-id
@@ -566,7 +562,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>register-elastic-ip</summary>
+- **<details><summary>register-elastic-ip</summary><blockquote>**
 
   * --elastic-ip
   * --stack-id
@@ -575,7 +571,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>register-instance</summary>
+- **<details><summary>register-instance</summary><blockquote>**
 
   * --stack-id
   * --hostname
@@ -589,7 +585,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>register-rds-db-instance</summary>
+- **<details><summary>register-rds-db-instance</summary><blockquote>**
 
   * --stack-id
   * --rds-db-instance-arn
@@ -600,7 +596,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>register-volume</summary>
+- **<details><summary>register-volume</summary><blockquote>**
 
   * --ec2-volume-id
   * --stack-id
@@ -609,7 +605,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>set-load-based-auto-scaling</summary>
+- **<details><summary>set-load-based-auto-scaling</summary><blockquote>**
 
   * --layer-id
   * --enable
@@ -621,7 +617,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>set-permission</summary>
+- **<details><summary>set-permission</summary><blockquote>**
 
   * --stack-id
   * --iam-user-arn
@@ -635,7 +631,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>set-time-based-auto-scaling</summary>
+- **<details><summary>set-time-based-auto-scaling</summary><blockquote>**
 
   * --instance-id
   * --auto-scaling-schedule
@@ -644,7 +640,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>start-instance</summary>
+- **<details><summary>start-instance</summary><blockquote>**
 
   * --instance-id
   * --cli-input-json
@@ -652,7 +648,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>start-stack</summary>
+- **<details><summary>start-stack</summary><blockquote>**
 
   * --stack-id
   * --cli-input-json
@@ -660,7 +656,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-instance</summary>
+- **<details><summary>stop-instance</summary><blockquote>**
 
   * --instance-id
   * --force
@@ -670,7 +666,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-stack</summary>
+- **<details><summary>stop-stack</summary><blockquote>**
 
   * --stack-id
   * --cli-input-json
@@ -678,7 +674,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -687,7 +683,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>unassign-instance</summary>
+- **<details><summary>unassign-instance</summary><blockquote>**
 
   * --instance-id
   * --cli-input-json
@@ -695,7 +691,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>unassign-volume</summary>
+- **<details><summary>unassign-volume</summary><blockquote>**
 
   * --volume-id
   * --cli-input-json
@@ -703,7 +699,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -712,7 +708,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>update-app</summary>
+- **<details><summary>update-app</summary><blockquote>**
 
   * --app-id
   * --name
@@ -731,7 +727,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>update-elastic-ip</summary>
+- **<details><summary>update-elastic-ip</summary><blockquote>**
 
   * --elastic-ip
   * --name
@@ -740,7 +736,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>update-instance</summary>
+- **<details><summary>update-instance</summary><blockquote>**
 
   * --instance-id
   * --layer-ids
@@ -761,7 +757,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>update-layer</summary>
+- **<details><summary>update-layer</summary><blockquote>**
 
   * --layer-id
   * --name
@@ -790,7 +786,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>update-my-user-profile</summary>
+- **<details><summary>update-my-user-profile</summary><blockquote>**
 
   * --ssh-public-key
   * --cli-input-json
@@ -798,7 +794,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>update-rds-db-instance</summary>
+- **<details><summary>update-rds-db-instance</summary><blockquote>**
 
   * --rds-db-instance-arn
   * --db-user
@@ -808,7 +804,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>update-stack</summary>
+- **<details><summary>update-stack</summary><blockquote>**
 
   * --stack-id
   * --name
@@ -835,7 +831,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>update-user-profile</summary>
+- **<details><summary>update-user-profile</summary><blockquote>**
 
   * --iam-user-arn
   * --ssh-username
@@ -847,7 +843,7 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>update-volume</summary>
+- **<details><summary>update-volume</summary><blockquote>**
 
   * --volume-id
   * --name
@@ -857,10 +853,86 @@ opsworks
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

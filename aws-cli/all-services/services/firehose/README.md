@@ -1,10 +1,6 @@
-<details>
+<details><summary>firehose</summary><blockquote>
 
-<summary>
-firehose
-</summary>
-
-- <details><summary>create-delivery-stream</summary>
+- **<details><summary>create-delivery-stream</summary><blockquote>**
 
   * --delivery-stream-name
   * --delivery-stream-type
@@ -22,7 +18,7 @@ firehose
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-delivery-stream</summary>
+- **<details><summary>delete-delivery-stream</summary><blockquote>**
 
   * --delivery-stream-name
   * --allow-force-delete
@@ -32,7 +28,7 @@ firehose
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-delivery-stream</summary>
+- **<details><summary>describe-delivery-stream</summary><blockquote>**
 
   * --delivery-stream-name
   * --limit
@@ -42,12 +38,12 @@ firehose
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-delivery-streams</summary>
+- **<details><summary>list-delivery-streams</summary><blockquote>**
 
   * --limit
   * --delivery-stream-type
@@ -57,7 +53,7 @@ firehose
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-delivery-stream</summary>
+- **<details><summary>list-tags-for-delivery-stream</summary><blockquote>**
 
   * --delivery-stream-name
   * --exclusive-start-tag-key
@@ -67,7 +63,7 @@ firehose
   * --generate-cli-skeleton
 
 
-- <details><summary>put-record</summary>
+- **<details><summary>put-record</summary><blockquote>**
 
   * --delivery-stream-name
   * --record
@@ -76,7 +72,7 @@ firehose
   * --generate-cli-skeleton
 
 
-- <details><summary>put-record-batch</summary>
+- **<details><summary>put-record-batch</summary><blockquote>**
 
   * --delivery-stream-name
   * --records
@@ -85,7 +81,7 @@ firehose
   * --generate-cli-skeleton
 
 
-- <details><summary>start-delivery-stream-encryption</summary>
+- **<details><summary>start-delivery-stream-encryption</summary><blockquote>**
 
   * --delivery-stream-name
   * --delivery-stream-encryption-configuration-input
@@ -94,7 +90,7 @@ firehose
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-delivery-stream-encryption</summary>
+- **<details><summary>stop-delivery-stream-encryption</summary><blockquote>**
 
   * --delivery-stream-name
   * --cli-input-json
@@ -102,7 +98,7 @@ firehose
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-delivery-stream</summary>
+- **<details><summary>tag-delivery-stream</summary><blockquote>**
 
   * --delivery-stream-name
   * --tags
@@ -111,7 +107,7 @@ firehose
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-delivery-stream</summary>
+- **<details><summary>untag-delivery-stream</summary><blockquote>**
 
   * --delivery-stream-name
   * --tag-keys
@@ -120,7 +116,7 @@ firehose
   * --generate-cli-skeleton
 
 
-- <details><summary>update-destination</summary>
+- **<details><summary>update-destination</summary><blockquote>**
 
   * --delivery-stream-name
   * --current-delivery-stream-version-id
@@ -136,5 +132,17 @@ firehose
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

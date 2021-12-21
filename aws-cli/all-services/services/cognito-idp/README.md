@@ -1,10 +1,6 @@
-<details>
+<details><summary>cognito-idp</summary><blockquote>
 
-<summary>
-cognito-idp
-</summary>
-
-- <details><summary>add-custom-attributes</summary>
+- **<details><summary>add-custom-attributes</summary><blockquote>**
 
   * --user-pool-id
   * --custom-attributes
@@ -13,7 +9,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-add-user-to-group</summary>
+- **<details><summary>admin-add-user-to-group</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -23,7 +19,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-confirm-sign-up</summary>
+- **<details><summary>admin-confirm-sign-up</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -33,7 +29,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-create-user</summary>
+- **<details><summary>admin-create-user</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -50,7 +46,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-delete-user</summary>
+- **<details><summary>admin-delete-user</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -59,7 +55,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-delete-user-attributes</summary>
+- **<details><summary>admin-delete-user-attributes</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -69,7 +65,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-disable-provider-for-user</summary>
+- **<details><summary>admin-disable-provider-for-user</summary><blockquote>**
 
   * --user-pool-id
   * --user
@@ -78,7 +74,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-disable-user</summary>
+- **<details><summary>admin-disable-user</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -87,7 +83,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-enable-user</summary>
+- **<details><summary>admin-enable-user</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -96,7 +92,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-forget-device</summary>
+- **<details><summary>admin-forget-device</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -106,7 +102,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-get-device</summary>
+- **<details><summary>admin-get-device</summary><blockquote>**
 
   * --device-key
   * --user-pool-id
@@ -116,7 +112,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-get-user</summary>
+- **<details><summary>admin-get-user</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -125,7 +121,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-initiate-auth</summary>
+- **<details><summary>admin-initiate-auth</summary><blockquote>**
 
   * --user-pool-id
   * --client-id
@@ -139,7 +135,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-link-provider-for-user</summary>
+- **<details><summary>admin-link-provider-for-user</summary><blockquote>**
 
   * --user-pool-id
   * --destination-user
@@ -149,7 +145,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-list-devices</summary>
+- **<details><summary>admin-list-devices</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -160,7 +156,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-list-groups-for-user</summary>
+- **<details><summary>admin-list-groups-for-user</summary><blockquote>**
 
   * --username
   * --user-pool-id
@@ -172,7 +168,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-list-user-auth-events</summary>
+- **<details><summary>admin-list-user-auth-events</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -184,7 +180,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-remove-user-from-group</summary>
+- **<details><summary>admin-remove-user-from-group</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -194,7 +190,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-reset-user-password</summary>
+- **<details><summary>admin-reset-user-password</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -204,7 +200,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-respond-to-auth-challenge</summary>
+- **<details><summary>admin-respond-to-auth-challenge</summary><blockquote>**
 
   * --user-pool-id
   * --client-id
@@ -219,7 +215,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-set-user-mfa-preference</summary>
+- **<details><summary>admin-set-user-mfa-preference</summary><blockquote>**
 
   * --sms-mfa-settings
   * --software-token-mfa-settings
@@ -230,7 +226,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-set-user-password</summary>
+- **<details><summary>admin-set-user-password</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -242,7 +238,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-set-user-settings</summary>
+- **<details><summary>admin-set-user-settings</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -252,7 +248,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-update-auth-event-feedback</summary>
+- **<details><summary>admin-update-auth-event-feedback</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -263,7 +259,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-update-device-status</summary>
+- **<details><summary>admin-update-device-status</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -274,7 +270,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-update-user-attributes</summary>
+- **<details><summary>admin-update-user-attributes</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -285,7 +281,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>admin-user-global-sign-out</summary>
+- **<details><summary>admin-user-global-sign-out</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -294,7 +290,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-software-token</summary>
+- **<details><summary>associate-software-token</summary><blockquote>**
 
   * --access-token
   * --session
@@ -303,7 +299,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>change-password</summary>
+- **<details><summary>change-password</summary><blockquote>**
 
   * --previous-password
   * --proposed-password
@@ -313,7 +309,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>confirm-device</summary>
+- **<details><summary>confirm-device</summary><blockquote>**
 
   * --access-token
   * --device-key
@@ -324,7 +320,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>confirm-forgot-password</summary>
+- **<details><summary>confirm-forgot-password</summary><blockquote>**
 
   * --client-id
   * --secret-hash
@@ -339,7 +335,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>confirm-sign-up</summary>
+- **<details><summary>confirm-sign-up</summary><blockquote>**
 
   * --client-id
   * --secret-hash
@@ -355,7 +351,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>create-group</summary>
+- **<details><summary>create-group</summary><blockquote>**
 
   * --group-name
   * --user-pool-id
@@ -367,7 +363,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>create-identity-provider</summary>
+- **<details><summary>create-identity-provider</summary><blockquote>**
 
   * --user-pool-id
   * --provider-name
@@ -380,7 +376,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>create-resource-server</summary>
+- **<details><summary>create-resource-server</summary><blockquote>**
 
   * --user-pool-id
   * --identifier
@@ -391,7 +387,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>create-user-import-job</summary>
+- **<details><summary>create-user-import-job</summary><blockquote>**
 
   * --job-name
   * --user-pool-id
@@ -401,7 +397,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>create-user-pool</summary>
+- **<details><summary>create-user-pool</summary><blockquote>**
 
   * --pool-name
   * --policies
@@ -429,7 +425,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>create-user-pool-client</summary>
+- **<details><summary>create-user-pool-client</summary><blockquote>**
 
   * --user-pool-id
   * --client-name
@@ -459,7 +455,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>create-user-pool-domain</summary>
+- **<details><summary>create-user-pool-domain</summary><blockquote>**
 
   * --domain
   * --user-pool-id
@@ -469,7 +465,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-group</summary>
+- **<details><summary>delete-group</summary><blockquote>**
 
   * --group-name
   * --user-pool-id
@@ -478,7 +474,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-identity-provider</summary>
+- **<details><summary>delete-identity-provider</summary><blockquote>**
 
   * --user-pool-id
   * --provider-name
@@ -487,7 +483,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-resource-server</summary>
+- **<details><summary>delete-resource-server</summary><blockquote>**
 
   * --user-pool-id
   * --identifier
@@ -496,7 +492,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user</summary>
+- **<details><summary>delete-user</summary><blockquote>**
 
   * --access-token
   * --cli-input-json
@@ -504,7 +500,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user-attributes</summary>
+- **<details><summary>delete-user-attributes</summary><blockquote>**
 
   * --user-attribute-names
   * --access-token
@@ -513,7 +509,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user-pool</summary>
+- **<details><summary>delete-user-pool</summary><blockquote>**
 
   * --user-pool-id
   * --cli-input-json
@@ -521,7 +517,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user-pool-client</summary>
+- **<details><summary>delete-user-pool-client</summary><blockquote>**
 
   * --user-pool-id
   * --client-id
@@ -530,7 +526,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user-pool-domain</summary>
+- **<details><summary>delete-user-pool-domain</summary><blockquote>**
 
   * --domain
   * --user-pool-id
@@ -539,7 +535,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-identity-provider</summary>
+- **<details><summary>describe-identity-provider</summary><blockquote>**
 
   * --user-pool-id
   * --provider-name
@@ -548,7 +544,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-resource-server</summary>
+- **<details><summary>describe-resource-server</summary><blockquote>**
 
   * --user-pool-id
   * --identifier
@@ -557,7 +553,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-risk-configuration</summary>
+- **<details><summary>describe-risk-configuration</summary><blockquote>**
 
   * --user-pool-id
   * --client-id
@@ -566,7 +562,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-user-import-job</summary>
+- **<details><summary>describe-user-import-job</summary><blockquote>**
 
   * --user-pool-id
   * --job-id
@@ -575,7 +571,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-user-pool</summary>
+- **<details><summary>describe-user-pool</summary><blockquote>**
 
   * --user-pool-id
   * --cli-input-json
@@ -583,7 +579,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-user-pool-client</summary>
+- **<details><summary>describe-user-pool-client</summary><blockquote>**
 
   * --user-pool-id
   * --client-id
@@ -592,7 +588,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-user-pool-domain</summary>
+- **<details><summary>describe-user-pool-domain</summary><blockquote>**
 
   * --domain
   * --cli-input-json
@@ -600,7 +596,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>forget-device</summary>
+- **<details><summary>forget-device</summary><blockquote>**
 
   * --access-token
   * --device-key
@@ -609,7 +605,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>forgot-password</summary>
+- **<details><summary>forgot-password</summary><blockquote>**
 
   * --client-id
   * --secret-hash
@@ -622,7 +618,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>get-csv-header</summary>
+- **<details><summary>get-csv-header</summary><blockquote>**
 
   * --user-pool-id
   * --cli-input-json
@@ -630,7 +626,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>get-device</summary>
+- **<details><summary>get-device</summary><blockquote>**
 
   * --device-key
   * --access-token
@@ -639,7 +635,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>get-group</summary>
+- **<details><summary>get-group</summary><blockquote>**
 
   * --group-name
   * --user-pool-id
@@ -648,7 +644,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>get-identity-provider-by-identifier</summary>
+- **<details><summary>get-identity-provider-by-identifier</summary><blockquote>**
 
   * --user-pool-id
   * --idp-identifier
@@ -657,7 +653,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>get-signing-certificate</summary>
+- **<details><summary>get-signing-certificate</summary><blockquote>**
 
   * --user-pool-id
   * --cli-input-json
@@ -665,7 +661,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>get-ui-customization</summary>
+- **<details><summary>get-ui-customization</summary><blockquote>**
 
   * --user-pool-id
   * --client-id
@@ -674,7 +670,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>get-user</summary>
+- **<details><summary>get-user</summary><blockquote>**
 
   * --access-token
   * --cli-input-json
@@ -682,7 +678,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>get-user-attribute-verification-code</summary>
+- **<details><summary>get-user-attribute-verification-code</summary><blockquote>**
 
   * --access-token
   * --attribute-name
@@ -692,7 +688,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>get-user-pool-mfa-config</summary>
+- **<details><summary>get-user-pool-mfa-config</summary><blockquote>**
 
   * --user-pool-id
   * --cli-input-json
@@ -700,7 +696,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>global-sign-out</summary>
+- **<details><summary>global-sign-out</summary><blockquote>**
 
   * --access-token
   * --cli-input-json
@@ -708,12 +704,12 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>initiate-auth</summary>
+- **<details><summary>initiate-auth</summary><blockquote>**
 
   * --auth-flow
   * --auth-parameters
@@ -726,7 +722,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>list-devices</summary>
+- **<details><summary>list-devices</summary><blockquote>**
 
   * --access-token
   * --limit
@@ -736,7 +732,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>list-groups</summary>
+- **<details><summary>list-groups</summary><blockquote>**
 
   * --user-pool-id
   * --cli-input-json
@@ -747,7 +743,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>list-identity-providers</summary>
+- **<details><summary>list-identity-providers</summary><blockquote>**
 
   * --user-pool-id
   * --cli-input-json
@@ -758,7 +754,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resource-servers</summary>
+- **<details><summary>list-resource-servers</summary><blockquote>**
 
   * --user-pool-id
   * --cli-input-json
@@ -769,7 +765,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -777,7 +773,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>list-user-import-jobs</summary>
+- **<details><summary>list-user-import-jobs</summary><blockquote>**
 
   * --user-pool-id
   * --max-results
@@ -787,7 +783,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>list-user-pool-clients</summary>
+- **<details><summary>list-user-pool-clients</summary><blockquote>**
 
   * --user-pool-id
   * --cli-input-json
@@ -798,7 +794,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>list-user-pools</summary>
+- **<details><summary>list-user-pools</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -808,7 +804,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>list-users</summary>
+- **<details><summary>list-users</summary><blockquote>**
 
   * --user-pool-id
   * --attributes-to-get
@@ -821,7 +817,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>list-users-in-group</summary>
+- **<details><summary>list-users-in-group</summary><blockquote>**
 
   * --user-pool-id
   * --group-name
@@ -833,7 +829,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>resend-confirmation-code</summary>
+- **<details><summary>resend-confirmation-code</summary><blockquote>**
 
   * --client-id
   * --secret-hash
@@ -846,7 +842,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>respond-to-auth-challenge</summary>
+- **<details><summary>respond-to-auth-challenge</summary><blockquote>**
 
   * --client-id
   * --challenge-name
@@ -860,7 +856,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>revoke-token</summary>
+- **<details><summary>revoke-token</summary><blockquote>**
 
   * --token
   * --client-id
@@ -870,7 +866,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>set-risk-configuration</summary>
+- **<details><summary>set-risk-configuration</summary><blockquote>**
 
   * --user-pool-id
   * --client-id
@@ -882,7 +878,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>set-ui-customization</summary>
+- **<details><summary>set-ui-customization</summary><blockquote>**
 
   * --user-pool-id
   * --client-id
@@ -893,7 +889,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>set-user-mfa-preference</summary>
+- **<details><summary>set-user-mfa-preference</summary><blockquote>**
 
   * --sms-mfa-settings
   * --software-token-mfa-settings
@@ -903,7 +899,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>set-user-pool-mfa-config</summary>
+- **<details><summary>set-user-pool-mfa-config</summary><blockquote>**
 
   * --user-pool-id
   * --sms-mfa-configuration
@@ -914,7 +910,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>set-user-settings</summary>
+- **<details><summary>set-user-settings</summary><blockquote>**
 
   * --access-token
   * --mfa-options
@@ -923,7 +919,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>sign-up</summary>
+- **<details><summary>sign-up</summary><blockquote>**
 
   * --client-id
   * --secret-hash
@@ -939,7 +935,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>start-user-import-job</summary>
+- **<details><summary>start-user-import-job</summary><blockquote>**
 
   * --user-pool-id
   * --job-id
@@ -948,7 +944,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-user-import-job</summary>
+- **<details><summary>stop-user-import-job</summary><blockquote>**
 
   * --user-pool-id
   * --job-id
@@ -957,7 +953,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -966,7 +962,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -975,7 +971,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>update-auth-event-feedback</summary>
+- **<details><summary>update-auth-event-feedback</summary><blockquote>**
 
   * --user-pool-id
   * --username
@@ -987,7 +983,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>update-device-status</summary>
+- **<details><summary>update-device-status</summary><blockquote>**
 
   * --access-token
   * --device-key
@@ -997,7 +993,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>update-group</summary>
+- **<details><summary>update-group</summary><blockquote>**
 
   * --group-name
   * --user-pool-id
@@ -1009,7 +1005,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>update-identity-provider</summary>
+- **<details><summary>update-identity-provider</summary><blockquote>**
 
   * --user-pool-id
   * --provider-name
@@ -1021,7 +1017,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>update-resource-server</summary>
+- **<details><summary>update-resource-server</summary><blockquote>**
 
   * --user-pool-id
   * --identifier
@@ -1032,7 +1028,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>update-user-attributes</summary>
+- **<details><summary>update-user-attributes</summary><blockquote>**
 
   * --user-attributes
   * --access-token
@@ -1042,7 +1038,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>update-user-pool</summary>
+- **<details><summary>update-user-pool</summary><blockquote>**
 
   * --user-pool-id
   * --policies
@@ -1066,7 +1062,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>update-user-pool-client</summary>
+- **<details><summary>update-user-pool-client</summary><blockquote>**
 
   * --user-pool-id
   * --client-id
@@ -1095,7 +1091,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>update-user-pool-domain</summary>
+- **<details><summary>update-user-pool-domain</summary><blockquote>**
 
   * --domain
   * --user-pool-id
@@ -1105,7 +1101,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>verify-software-token</summary>
+- **<details><summary>verify-software-token</summary><blockquote>**
 
   * --access-token
   * --session
@@ -1116,7 +1112,7 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-- <details><summary>verify-user-attribute</summary>
+- **<details><summary>verify-user-attribute</summary><blockquote>**
 
   * --access-token
   * --attribute-name
@@ -1126,5 +1122,106 @@ cognito-idp
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

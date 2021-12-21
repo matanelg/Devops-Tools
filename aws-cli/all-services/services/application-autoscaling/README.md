@@ -1,10 +1,6 @@
-<details>
+<details><summary>application-autoscaling</summary><blockquote>
 
-<summary>
-application-autoscaling
-</summary>
-
-- <details><summary>delete-scaling-policy</summary>
+- **<details><summary>delete-scaling-policy</summary><blockquote>**
 
   * --policy-name
   * --service-namespace
@@ -15,7 +11,7 @@ application-autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-scheduled-action</summary>
+- **<details><summary>delete-scheduled-action</summary><blockquote>**
 
   * --service-namespace
   * --scheduled-action-name
@@ -26,7 +22,7 @@ application-autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-scalable-target</summary>
+- **<details><summary>deregister-scalable-target</summary><blockquote>**
 
   * --service-namespace
   * --resource-id
@@ -36,7 +32,7 @@ application-autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-scalable-targets</summary>
+- **<details><summary>describe-scalable-targets</summary><blockquote>**
 
   * --service-namespace
   * --resource-ids
@@ -49,7 +45,7 @@ application-autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-scaling-activities</summary>
+- **<details><summary>describe-scaling-activities</summary><blockquote>**
 
   * --service-namespace
   * --resource-id
@@ -62,7 +58,7 @@ application-autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-scaling-policies</summary>
+- **<details><summary>describe-scaling-policies</summary><blockquote>**
 
   * --policy-names
   * --service-namespace
@@ -76,7 +72,7 @@ application-autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-scheduled-actions</summary>
+- **<details><summary>describe-scheduled-actions</summary><blockquote>**
 
   * --scheduled-action-names
   * --service-namespace
@@ -90,12 +86,12 @@ application-autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>put-scaling-policy</summary>
+- **<details><summary>put-scaling-policy</summary><blockquote>**
 
   * --policy-name
   * --service-namespace
@@ -109,7 +105,7 @@ application-autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>put-scheduled-action</summary>
+- **<details><summary>put-scheduled-action</summary><blockquote>**
 
   * --service-namespace
   * --schedule
@@ -125,7 +121,7 @@ application-autoscaling
   * --generate-cli-skeleton
 
 
-- <details><summary>register-scalable-target</summary>
+- **<details><summary>register-scalable-target</summary><blockquote>**
 
   * --service-namespace
   * --resource-id
@@ -139,5 +135,15 @@ application-autoscaling
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

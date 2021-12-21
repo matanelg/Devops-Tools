@@ -1,10 +1,6 @@
-<details>
+<details><summary>elastic-inference</summary><blockquote>
 
-<summary>
-elastic-inference
-</summary>
-
-- <details><summary>describe-accelerator-offerings</summary>
+- **<details><summary>describe-accelerator-offerings</summary><blockquote>**
 
   * --location-type
   * --accelerator-types
@@ -13,7 +9,7 @@ elastic-inference
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-accelerators</summary>
+- **<details><summary>describe-accelerators</summary><blockquote>**
 
   * --accelerator-ids
   * --filters
@@ -25,19 +21,19 @@ elastic-inference
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-accelerator-types</summary>
+- **<details><summary>describe-accelerator-types</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -45,7 +41,7 @@ elastic-inference
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -54,7 +50,7 @@ elastic-inference
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -63,5 +59,11 @@ elastic-inference
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

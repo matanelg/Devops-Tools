@@ -1,10 +1,6 @@
-<details>
+<details><summary>transcribe</summary><blockquote>
 
-<summary>
-transcribe
-</summary>
-
-- <details><summary>create-language-model</summary>
+- **<details><summary>create-language-model</summary><blockquote>**
 
   * --language-code
   * --base-model-name
@@ -15,7 +11,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>create-medical-vocabulary</summary>
+- **<details><summary>create-medical-vocabulary</summary><blockquote>**
 
   * --vocabulary-name
   * --language-code
@@ -25,7 +21,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>create-vocabulary</summary>
+- **<details><summary>create-vocabulary</summary><blockquote>**
 
   * --vocabulary-name
   * --language-code
@@ -36,7 +32,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>create-vocabulary-filter</summary>
+- **<details><summary>create-vocabulary-filter</summary><blockquote>**
 
   * --vocabulary-filter-name
   * --language-code
@@ -47,7 +43,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-language-model</summary>
+- **<details><summary>delete-language-model</summary><blockquote>**
 
   * --model-name
   * --cli-input-json
@@ -55,7 +51,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-medical-transcription-job</summary>
+- **<details><summary>delete-medical-transcription-job</summary><blockquote>**
 
   * --medical-transcription-job-name
   * --cli-input-json
@@ -63,7 +59,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-medical-vocabulary</summary>
+- **<details><summary>delete-medical-vocabulary</summary><blockquote>**
 
   * --vocabulary-name
   * --cli-input-json
@@ -71,7 +67,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-transcription-job</summary>
+- **<details><summary>delete-transcription-job</summary><blockquote>**
 
   * --transcription-job-name
   * --cli-input-json
@@ -79,7 +75,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-vocabulary</summary>
+- **<details><summary>delete-vocabulary</summary><blockquote>**
 
   * --vocabulary-name
   * --cli-input-json
@@ -87,7 +83,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-vocabulary-filter</summary>
+- **<details><summary>delete-vocabulary-filter</summary><blockquote>**
 
   * --vocabulary-filter-name
   * --cli-input-json
@@ -95,7 +91,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-language-model</summary>
+- **<details><summary>describe-language-model</summary><blockquote>**
 
   * --model-name
   * --cli-input-json
@@ -103,7 +99,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>get-medical-transcription-job</summary>
+- **<details><summary>get-medical-transcription-job</summary><blockquote>**
 
   * --medical-transcription-job-name
   * --cli-input-json
@@ -111,7 +107,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>get-medical-vocabulary</summary>
+- **<details><summary>get-medical-vocabulary</summary><blockquote>**
 
   * --vocabulary-name
   * --cli-input-json
@@ -119,7 +115,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>get-transcription-job</summary>
+- **<details><summary>get-transcription-job</summary><blockquote>**
 
   * --transcription-job-name
   * --cli-input-json
@@ -127,7 +123,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>get-vocabulary</summary>
+- **<details><summary>get-vocabulary</summary><blockquote>**
 
   * --vocabulary-name
   * --cli-input-json
@@ -135,7 +131,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>get-vocabulary-filter</summary>
+- **<details><summary>get-vocabulary-filter</summary><blockquote>**
 
   * --vocabulary-filter-name
   * --cli-input-json
@@ -143,12 +139,12 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-language-models</summary>
+- **<details><summary>list-language-models</summary><blockquote>**
 
   * --status-equals
   * --name-contains
@@ -159,7 +155,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>list-medical-transcription-jobs</summary>
+- **<details><summary>list-medical-transcription-jobs</summary><blockquote>**
 
   * --status
   * --job-name-contains
@@ -170,7 +166,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>list-medical-vocabularies</summary>
+- **<details><summary>list-medical-vocabularies</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -181,7 +177,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>list-transcription-jobs</summary>
+- **<details><summary>list-transcription-jobs</summary><blockquote>**
 
   * --status
   * --job-name-contains
@@ -192,7 +188,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>list-vocabularies</summary>
+- **<details><summary>list-vocabularies</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -203,7 +199,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>list-vocabulary-filters</summary>
+- **<details><summary>list-vocabulary-filters</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -213,7 +209,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>start-medical-transcription-job</summary>
+- **<details><summary>start-medical-transcription-job</summary><blockquote>**
 
   * --medical-transcription-job-name
   * --language-code
@@ -232,7 +228,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>start-transcription-job</summary>
+- **<details><summary>start-transcription-job</summary><blockquote>**
 
   * --transcription-job-name
   * --language-code
@@ -254,7 +250,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>update-medical-vocabulary</summary>
+- **<details><summary>update-medical-vocabulary</summary><blockquote>**
 
   * --vocabulary-name
   * --language-code
@@ -264,7 +260,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>update-vocabulary</summary>
+- **<details><summary>update-vocabulary</summary><blockquote>**
 
   * --vocabulary-name
   * --language-code
@@ -275,7 +271,7 @@ transcribe
   * --generate-cli-skeleton
 
 
-- <details><summary>update-vocabulary-filter</summary>
+- **<details><summary>update-vocabulary-filter</summary><blockquote>**
 
   * --vocabulary-filter-name
   * --words
@@ -285,5 +281,32 @@ transcribe
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>waf-regional</summary><blockquote>
 
-<summary>
-waf-regional
-</summary>
-
-- <details><summary>associate-web-acl</summary>
+- **<details><summary>associate-web-acl</summary><blockquote>**
 
   * --web-acl-id
   * --resource-arn
@@ -13,7 +9,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>create-byte-match-set</summary>
+- **<details><summary>create-byte-match-set</summary><blockquote>**
 
   * --name
   * --change-token
@@ -22,7 +18,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>create-geo-match-set</summary>
+- **<details><summary>create-geo-match-set</summary><blockquote>**
 
   * --name
   * --change-token
@@ -31,7 +27,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>create-ip-set</summary>
+- **<details><summary>create-ip-set</summary><blockquote>**
 
   * --name
   * --change-token
@@ -40,7 +36,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>create-rate-based-rule</summary>
+- **<details><summary>create-rate-based-rule</summary><blockquote>**
 
   * --name
   * --metric-name
@@ -53,7 +49,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>create-regex-match-set</summary>
+- **<details><summary>create-regex-match-set</summary><blockquote>**
 
   * --name
   * --change-token
@@ -62,7 +58,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>create-regex-pattern-set</summary>
+- **<details><summary>create-regex-pattern-set</summary><blockquote>**
 
   * --name
   * --change-token
@@ -71,18 +67,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>create-rule</summary>
-
-  * --name
-  * --metric-name
-  * --change-token
-  * --tags
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>create-rule-group</summary>
+- **<details><summary>create-rule</summary><blockquote>**
 
   * --name
   * --metric-name
@@ -93,7 +78,18 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>create-size-constraint-set</summary>
+- **<details><summary>create-rule-group</summary><blockquote>**
+
+  * --name
+  * --metric-name
+  * --change-token
+  * --tags
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>create-size-constraint-set</summary><blockquote>**
 
   * --name
   * --change-token
@@ -102,7 +98,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>create-sql-injection-match-set</summary>
+- **<details><summary>create-sql-injection-match-set</summary><blockquote>**
 
   * --name
   * --change-token
@@ -111,7 +107,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>create-web-acl</summary>
+- **<details><summary>create-web-acl</summary><blockquote>**
 
   * --name
   * --metric-name
@@ -123,7 +119,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>create-web-acl-migration-stack</summary>
+- **<details><summary>create-web-acl-migration-stack</summary><blockquote>**
 
   * --web-acl-id
   * --s3-bucket-name
@@ -134,7 +130,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>create-xss-match-set</summary>
+- **<details><summary>create-xss-match-set</summary><blockquote>**
 
   * --name
   * --change-token
@@ -143,7 +139,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-byte-match-set</summary>
+- **<details><summary>delete-byte-match-set</summary><blockquote>**
 
   * --byte-match-set-id
   * --change-token
@@ -152,7 +148,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-geo-match-set</summary>
+- **<details><summary>delete-geo-match-set</summary><blockquote>**
 
   * --geo-match-set-id
   * --change-token
@@ -161,7 +157,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-ip-set</summary>
+- **<details><summary>delete-ip-set</summary><blockquote>**
 
   * --ip-set-id
   * --change-token
@@ -170,7 +166,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-logging-configuration</summary>
+- **<details><summary>delete-logging-configuration</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -178,7 +174,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-permission-policy</summary>
+- **<details><summary>delete-permission-policy</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -186,7 +182,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-rate-based-rule</summary>
+- **<details><summary>delete-rate-based-rule</summary><blockquote>**
 
   * --rule-id
   * --change-token
@@ -195,7 +191,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-regex-match-set</summary>
+- **<details><summary>delete-regex-match-set</summary><blockquote>**
 
   * --regex-match-set-id
   * --change-token
@@ -204,7 +200,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-regex-pattern-set</summary>
+- **<details><summary>delete-regex-pattern-set</summary><blockquote>**
 
   * --regex-pattern-set-id
   * --change-token
@@ -213,7 +209,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-rule</summary>
+- **<details><summary>delete-rule</summary><blockquote>**
 
   * --rule-id
   * --change-token
@@ -222,7 +218,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-rule-group</summary>
+- **<details><summary>delete-rule-group</summary><blockquote>**
 
   * --rule-group-id
   * --change-token
@@ -231,7 +227,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-size-constraint-set</summary>
+- **<details><summary>delete-size-constraint-set</summary><blockquote>**
 
   * --size-constraint-set-id
   * --change-token
@@ -240,7 +236,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-sql-injection-match-set</summary>
+- **<details><summary>delete-sql-injection-match-set</summary><blockquote>**
 
   * --sql-injection-match-set-id
   * --change-token
@@ -249,7 +245,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-web-acl</summary>
+- **<details><summary>delete-web-acl</summary><blockquote>**
 
   * --web-acl-id
   * --change-token
@@ -258,7 +254,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-xss-match-set</summary>
+- **<details><summary>delete-xss-match-set</summary><blockquote>**
 
   * --xss-match-set-id
   * --change-token
@@ -267,7 +263,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-web-acl</summary>
+- **<details><summary>disassociate-web-acl</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -275,7 +271,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>get-byte-match-set</summary>
+- **<details><summary>get-byte-match-set</summary><blockquote>**
 
   * --byte-match-set-id
   * --cli-input-json
@@ -283,14 +279,14 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>get-change-token</summary>
+- **<details><summary>get-change-token</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-change-token-status</summary>
+- **<details><summary>get-change-token-status</summary><blockquote>**
 
   * --change-token
   * --cli-input-json
@@ -298,7 +294,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>get-geo-match-set</summary>
+- **<details><summary>get-geo-match-set</summary><blockquote>**
 
   * --geo-match-set-id
   * --cli-input-json
@@ -306,7 +302,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>get-ip-set</summary>
+- **<details><summary>get-ip-set</summary><blockquote>**
 
   * --ip-set-id
   * --cli-input-json
@@ -314,7 +310,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>get-logging-configuration</summary>
+- **<details><summary>get-logging-configuration</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -322,7 +318,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>get-permission-policy</summary>
+- **<details><summary>get-permission-policy</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -330,7 +326,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>get-rate-based-rule</summary>
+- **<details><summary>get-rate-based-rule</summary><blockquote>**
 
   * --rule-id
   * --cli-input-json
@@ -338,7 +334,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>get-rate-based-rule-managed-keys</summary>
+- **<details><summary>get-rate-based-rule-managed-keys</summary><blockquote>**
 
   * --rule-id
   * --next-marker
@@ -347,7 +343,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>get-regex-match-set</summary>
+- **<details><summary>get-regex-match-set</summary><blockquote>**
 
   * --regex-match-set-id
   * --cli-input-json
@@ -355,7 +351,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>get-regex-pattern-set</summary>
+- **<details><summary>get-regex-pattern-set</summary><blockquote>**
 
   * --regex-pattern-set-id
   * --cli-input-json
@@ -363,7 +359,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>get-rule</summary>
+- **<details><summary>get-rule</summary><blockquote>**
 
   * --rule-id
   * --cli-input-json
@@ -371,7 +367,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>get-rule-group</summary>
+- **<details><summary>get-rule-group</summary><blockquote>**
 
   * --rule-group-id
   * --cli-input-json
@@ -379,7 +375,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>get-sampled-requests</summary>
+- **<details><summary>get-sampled-requests</summary><blockquote>**
 
   * --web-acl-id
   * --rule-id
@@ -390,7 +386,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>get-size-constraint-set</summary>
+- **<details><summary>get-size-constraint-set</summary><blockquote>**
 
   * --size-constraint-set-id
   * --cli-input-json
@@ -398,7 +394,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>get-sql-injection-match-set</summary>
+- **<details><summary>get-sql-injection-match-set</summary><blockquote>**
 
   * --sql-injection-match-set-id
   * --cli-input-json
@@ -406,7 +402,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>get-web-acl</summary>
+- **<details><summary>get-web-acl</summary><blockquote>**
 
   * --web-acl-id
   * --cli-input-json
@@ -414,7 +410,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>get-web-acl-for-resource</summary>
+- **<details><summary>get-web-acl-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -422,7 +418,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>get-xss-match-set</summary>
+- **<details><summary>get-xss-match-set</summary><blockquote>**
 
   * --xss-match-set-id
   * --cli-input-json
@@ -430,12 +426,12 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-activated-rules-in-rule-group</summary>
+- **<details><summary>list-activated-rules-in-rule-group</summary><blockquote>**
 
   * --rule-group-id
   * --next-marker
@@ -445,7 +441,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>list-byte-match-sets</summary>
+- **<details><summary>list-byte-match-sets</summary><blockquote>**
 
   * --next-marker
   * --limit
@@ -454,7 +450,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>list-geo-match-sets</summary>
+- **<details><summary>list-geo-match-sets</summary><blockquote>**
 
   * --next-marker
   * --limit
@@ -463,7 +459,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>list-ip-sets</summary>
+- **<details><summary>list-ip-sets</summary><blockquote>**
 
   * --next-marker
   * --limit
@@ -472,7 +468,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>list-logging-configurations</summary>
+- **<details><summary>list-logging-configurations</summary><blockquote>**
 
   * --next-marker
   * --limit
@@ -481,7 +477,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>list-rate-based-rules</summary>
+- **<details><summary>list-rate-based-rules</summary><blockquote>**
 
   * --next-marker
   * --limit
@@ -490,7 +486,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>list-regex-match-sets</summary>
+- **<details><summary>list-regex-match-sets</summary><blockquote>**
 
   * --next-marker
   * --limit
@@ -499,7 +495,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>list-regex-pattern-sets</summary>
+- **<details><summary>list-regex-pattern-sets</summary><blockquote>**
 
   * --next-marker
   * --limit
@@ -508,7 +504,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resources-for-web-acl</summary>
+- **<details><summary>list-resources-for-web-acl</summary><blockquote>**
 
   * --web-acl-id
   * --resource-type
@@ -517,7 +513,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>list-rule-groups</summary>
+- **<details><summary>list-rule-groups</summary><blockquote>**
 
   * --next-marker
   * --limit
@@ -526,7 +522,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>list-rules</summary>
+- **<details><summary>list-rules</summary><blockquote>**
 
   * --next-marker
   * --limit
@@ -535,7 +531,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>list-size-constraint-sets</summary>
+- **<details><summary>list-size-constraint-sets</summary><blockquote>**
 
   * --next-marker
   * --limit
@@ -544,7 +540,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>list-sql-injection-match-sets</summary>
+- **<details><summary>list-sql-injection-match-sets</summary><blockquote>**
 
   * --next-marker
   * --limit
@@ -553,7 +549,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>list-subscribed-rule-groups</summary>
+- **<details><summary>list-subscribed-rule-groups</summary><blockquote>**
 
   * --next-marker
   * --limit
@@ -562,7 +558,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --next-marker
   * --limit
@@ -572,7 +568,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>list-web-acls</summary>
+- **<details><summary>list-web-acls</summary><blockquote>**
 
   * --next-marker
   * --limit
@@ -581,7 +577,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>list-xss-match-sets</summary>
+- **<details><summary>list-xss-match-sets</summary><blockquote>**
 
   * --next-marker
   * --limit
@@ -590,7 +586,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>put-logging-configuration</summary>
+- **<details><summary>put-logging-configuration</summary><blockquote>**
 
   * --logging-configuration
   * --cli-input-json
@@ -598,7 +594,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>put-permission-policy</summary>
+- **<details><summary>put-permission-policy</summary><blockquote>**
 
   * --resource-arn
   * --policy
@@ -607,7 +603,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -616,7 +612,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -625,7 +621,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>update-byte-match-set</summary>
+- **<details><summary>update-byte-match-set</summary><blockquote>**
 
   * --byte-match-set-id
   * --change-token
@@ -635,7 +631,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>update-geo-match-set</summary>
+- **<details><summary>update-geo-match-set</summary><blockquote>**
 
   * --geo-match-set-id
   * --change-token
@@ -645,7 +641,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>update-ip-set</summary>
+- **<details><summary>update-ip-set</summary><blockquote>**
 
   * --ip-set-id
   * --change-token
@@ -655,7 +651,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>update-rate-based-rule</summary>
+- **<details><summary>update-rate-based-rule</summary><blockquote>**
 
   * --rule-id
   * --change-token
@@ -666,7 +662,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>update-regex-match-set</summary>
+- **<details><summary>update-regex-match-set</summary><blockquote>**
 
   * --regex-match-set-id
   * --updates
@@ -676,7 +672,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>update-regex-pattern-set</summary>
+- **<details><summary>update-regex-pattern-set</summary><blockquote>**
 
   * --regex-pattern-set-id
   * --updates
@@ -686,7 +682,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>update-rule</summary>
+- **<details><summary>update-rule</summary><blockquote>**
 
   * --rule-id
   * --change-token
@@ -696,7 +692,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>update-rule-group</summary>
+- **<details><summary>update-rule-group</summary><blockquote>**
 
   * --rule-group-id
   * --updates
@@ -706,7 +702,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>update-size-constraint-set</summary>
+- **<details><summary>update-size-constraint-set</summary><blockquote>**
 
   * --size-constraint-set-id
   * --change-token
@@ -716,7 +712,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>update-sql-injection-match-set</summary>
+- **<details><summary>update-sql-injection-match-set</summary><blockquote>**
 
   * --sql-injection-match-set-id
   * --change-token
@@ -726,7 +722,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>update-web-acl</summary>
+- **<details><summary>update-web-acl</summary><blockquote>**
 
   * --web-acl-id
   * --change-token
@@ -737,7 +733,7 @@ waf-regional
   * --generate-cli-skeleton
 
 
-- <details><summary>update-xss-match-set</summary>
+- **<details><summary>update-xss-match-set</summary><blockquote>**
 
   * --xss-match-set-id
   * --change-token
@@ -747,5 +743,86 @@ waf-regional
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

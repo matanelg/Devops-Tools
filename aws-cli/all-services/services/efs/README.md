@@ -1,10 +1,6 @@
-<details>
+<details><summary>efs</summary><blockquote>
 
-<summary>
-efs
-</summary>
-
-- <details><summary>create-access-point</summary>
+- **<details><summary>create-access-point</summary><blockquote>**
 
   * --client-token
   * --tags
@@ -16,7 +12,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>create-file-system</summary>
+- **<details><summary>create-file-system</summary><blockquote>**
 
   * --creation-token
   * --performance-mode
@@ -34,7 +30,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>create-mount-target</summary>
+- **<details><summary>create-mount-target</summary><blockquote>**
 
   * --file-system-id
   * --subnet-id
@@ -45,7 +41,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-access-point</summary>
+- **<details><summary>delete-access-point</summary><blockquote>**
 
   * --access-point-id
   * --cli-input-json
@@ -53,7 +49,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-file-system</summary>
+- **<details><summary>delete-file-system</summary><blockquote>**
 
   * --file-system-id
   * --cli-input-json
@@ -61,7 +57,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-file-system-policy</summary>
+- **<details><summary>delete-file-system-policy</summary><blockquote>**
 
   * --file-system-id
   * --cli-input-json
@@ -69,7 +65,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-mount-target</summary>
+- **<details><summary>delete-mount-target</summary><blockquote>**
 
   * --mount-target-id
   * --cli-input-json
@@ -77,7 +73,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-access-points</summary>
+- **<details><summary>describe-access-points</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -88,7 +84,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-account-preferences</summary>
+- **<details><summary>describe-account-preferences</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -97,7 +93,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-backup-policy</summary>
+- **<details><summary>describe-backup-policy</summary><blockquote>**
 
   * --file-system-id
   * --cli-input-json
@@ -105,7 +101,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-file-system-policy</summary>
+- **<details><summary>describe-file-system-policy</summary><blockquote>**
 
   * --file-system-id
   * --cli-input-json
@@ -113,7 +109,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-file-systems</summary>
+- **<details><summary>describe-file-systems</summary><blockquote>**
 
   * --max-items
   * --creation-token
@@ -125,7 +121,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-lifecycle-configuration</summary>
+- **<details><summary>describe-lifecycle-configuration</summary><blockquote>**
 
   * --file-system-id
   * --cli-input-json
@@ -133,7 +129,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-mount-targets</summary>
+- **<details><summary>describe-mount-targets</summary><blockquote>**
 
   * --max-items
   * --file-system-id
@@ -146,7 +142,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-mount-target-security-groups</summary>
+- **<details><summary>describe-mount-target-security-groups</summary><blockquote>**
 
   * --mount-target-id
   * --cli-input-json
@@ -154,12 +150,12 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-id
   * --max-results
@@ -169,7 +165,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-mount-target-security-groups</summary>
+- **<details><summary>modify-mount-target-security-groups</summary><blockquote>**
 
   * --mount-target-id
   * --security-groups
@@ -178,7 +174,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>put-account-preferences</summary>
+- **<details><summary>put-account-preferences</summary><blockquote>**
 
   * --resource-id-type
   * --cli-input-json
@@ -186,7 +182,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>put-backup-policy</summary>
+- **<details><summary>put-backup-policy</summary><blockquote>**
 
   * --file-system-id
   * --backup-policy
@@ -195,7 +191,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>put-file-system-policy</summary>
+- **<details><summary>put-file-system-policy</summary><blockquote>**
 
   * --file-system-id
   * --policy
@@ -206,7 +202,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>put-lifecycle-configuration</summary>
+- **<details><summary>put-lifecycle-configuration</summary><blockquote>**
 
   * --file-system-id
   * --lifecycle-policies
@@ -215,7 +211,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-id
   * --tags
@@ -224,7 +220,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-id
   * --tag-keys
@@ -233,7 +229,7 @@ efs
   * --generate-cli-skeleton
 
 
-- <details><summary>update-file-system</summary>
+- **<details><summary>update-file-system</summary><blockquote>**
 
   * --file-system-id
   * --throughput-mode
@@ -243,5 +239,29 @@ efs
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

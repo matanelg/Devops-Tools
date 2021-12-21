@@ -1,10 +1,6 @@
-<details>
+<details><summary>iotdeviceadvisor</summary><blockquote>
 
-<summary>
-iotdeviceadvisor
-</summary>
-
-- <details><summary>create-suite-definition</summary>
+- **<details><summary>create-suite-definition</summary><blockquote>**
 
   * --suite-definition-configuration
   * --tags
@@ -13,7 +9,7 @@ iotdeviceadvisor
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-suite-definition</summary>
+- **<details><summary>delete-suite-definition</summary><blockquote>**
 
   * --suite-definition-id
   * --cli-input-json
@@ -21,7 +17,7 @@ iotdeviceadvisor
   * --generate-cli-skeleton
 
 
-- <details><summary>get-suite-definition</summary>
+- **<details><summary>get-suite-definition</summary><blockquote>**
 
   * --suite-definition-id
   * --suite-definition-version
@@ -30,7 +26,7 @@ iotdeviceadvisor
   * --generate-cli-skeleton
 
 
-- <details><summary>get-suite-run</summary>
+- **<details><summary>get-suite-run</summary><blockquote>**
 
   * --suite-definition-id
   * --suite-run-id
@@ -39,7 +35,7 @@ iotdeviceadvisor
   * --generate-cli-skeleton
 
 
-- <details><summary>get-suite-run-report</summary>
+- **<details><summary>get-suite-run-report</summary><blockquote>**
 
   * --suite-definition-id
   * --suite-run-id
@@ -48,12 +44,12 @@ iotdeviceadvisor
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-suite-definitions</summary>
+- **<details><summary>list-suite-definitions</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -62,7 +58,7 @@ iotdeviceadvisor
   * --generate-cli-skeleton
 
 
-- <details><summary>list-suite-runs</summary>
+- **<details><summary>list-suite-runs</summary><blockquote>**
 
   * --suite-definition-id
   * --suite-definition-version
@@ -73,7 +69,7 @@ iotdeviceadvisor
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -81,7 +77,7 @@ iotdeviceadvisor
   * --generate-cli-skeleton
 
 
-- <details><summary>start-suite-run</summary>
+- **<details><summary>start-suite-run</summary><blockquote>**
 
   * --suite-definition-id
   * --suite-definition-version
@@ -92,7 +88,7 @@ iotdeviceadvisor
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-suite-run</summary>
+- **<details><summary>stop-suite-run</summary><blockquote>**
 
   * --suite-definition-id
   * --suite-run-id
@@ -101,7 +97,7 @@ iotdeviceadvisor
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -110,7 +106,7 @@ iotdeviceadvisor
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -119,7 +115,7 @@ iotdeviceadvisor
   * --generate-cli-skeleton
 
 
-- <details><summary>update-suite-definition</summary>
+- **<details><summary>update-suite-definition</summary><blockquote>**
 
   * --suite-definition-id
   * --suite-definition-configuration
@@ -128,5 +124,18 @@ iotdeviceadvisor
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

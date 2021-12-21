@@ -1,10 +1,6 @@
-<details>
+<details><summary>pricing</summary><blockquote>
 
-<summary>
-pricing
-</summary>
-
-- <details><summary>describe-services</summary>
+- **<details><summary>describe-services</summary><blockquote>**
 
   * --service-code
   * --format-version
@@ -16,7 +12,7 @@ pricing
   * --generate-cli-skeleton
 
 
-- <details><summary>get-attribute-values</summary>
+- **<details><summary>get-attribute-values</summary><blockquote>**
 
   * --service-code
   * --attribute-name
@@ -28,7 +24,7 @@ pricing
   * --generate-cli-skeleton
 
 
-- <details><summary>get-products</summary>
+- **<details><summary>get-products</summary><blockquote>**
 
   * --service-code
   * --filters
@@ -41,10 +37,13 @@ pricing
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

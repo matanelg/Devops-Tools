@@ -1,10 +1,6 @@
-<details>
+<details><summary>lookoutequipment</summary><blockquote>
 
-<summary>
-lookoutequipment
-</summary>
-
-- <details><summary>create-dataset</summary>
+- **<details><summary>create-dataset</summary><blockquote>**
 
   * --dataset-name
   * --dataset-schema
@@ -16,7 +12,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>create-inference-scheduler</summary>
+- **<details><summary>create-inference-scheduler</summary><blockquote>**
 
   * --model-name
   * --inference-scheduler-name
@@ -33,7 +29,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>create-model</summary>
+- **<details><summary>create-model</summary><blockquote>**
 
   * --model-name
   * --dataset-name
@@ -53,7 +49,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-dataset</summary>
+- **<details><summary>delete-dataset</summary><blockquote>**
 
   * --dataset-name
   * --cli-input-json
@@ -61,7 +57,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-inference-scheduler</summary>
+- **<details><summary>delete-inference-scheduler</summary><blockquote>**
 
   * --inference-scheduler-name
   * --cli-input-json
@@ -69,7 +65,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-model</summary>
+- **<details><summary>delete-model</summary><blockquote>**
 
   * --model-name
   * --cli-input-json
@@ -77,7 +73,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-data-ingestion-job</summary>
+- **<details><summary>describe-data-ingestion-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -85,7 +81,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-dataset</summary>
+- **<details><summary>describe-dataset</summary><blockquote>**
 
   * --dataset-name
   * --cli-input-json
@@ -93,7 +89,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-inference-scheduler</summary>
+- **<details><summary>describe-inference-scheduler</summary><blockquote>**
 
   * --inference-scheduler-name
   * --cli-input-json
@@ -101,7 +97,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-model</summary>
+- **<details><summary>describe-model</summary><blockquote>**
 
   * --model-name
   * --cli-input-json
@@ -109,12 +105,12 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-data-ingestion-jobs</summary>
+- **<details><summary>list-data-ingestion-jobs</summary><blockquote>**
 
   * --dataset-name
   * --next-token
@@ -125,7 +121,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>list-datasets</summary>
+- **<details><summary>list-datasets</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -135,7 +131,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>list-inference-executions</summary>
+- **<details><summary>list-inference-executions</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -148,7 +144,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>list-inference-schedulers</summary>
+- **<details><summary>list-inference-schedulers</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -159,7 +155,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>list-models</summary>
+- **<details><summary>list-models</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -171,7 +167,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -179,7 +175,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>start-data-ingestion-job</summary>
+- **<details><summary>start-data-ingestion-job</summary><blockquote>**
 
   * --dataset-name
   * --ingestion-input-configuration
@@ -190,7 +186,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>start-inference-scheduler</summary>
+- **<details><summary>start-inference-scheduler</summary><blockquote>**
 
   * --inference-scheduler-name
   * --cli-input-json
@@ -198,7 +194,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-inference-scheduler</summary>
+- **<details><summary>stop-inference-scheduler</summary><blockquote>**
 
   * --inference-scheduler-name
   * --cli-input-json
@@ -206,7 +202,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -215,7 +211,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -224,7 +220,7 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-- <details><summary>update-inference-scheduler</summary>
+- **<details><summary>update-inference-scheduler</summary><blockquote>**
 
   * --inference-scheduler-name
   * --data-delay-offset-in-minutes
@@ -237,5 +233,27 @@ lookoutequipment
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

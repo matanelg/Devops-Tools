@@ -1,10 +1,6 @@
-<details>
+<details><summary>elbv2</summary><blockquote>
 
-<summary>
-elbv2
-</summary>
-
-- <details><summary>add-listener-certificates</summary>
+- **<details><summary>add-listener-certificates</summary><blockquote>**
 
   * --listener-arn
   * --certificates
@@ -13,7 +9,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>add-tags</summary>
+- **<details><summary>add-tags</summary><blockquote>**
 
   * --resource-arns
   * --tags
@@ -22,7 +18,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-listener</summary>
+- **<details><summary>create-listener</summary><blockquote>**
 
   * --load-balancer-arn
   * --protocol
@@ -37,7 +33,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-load-balancer</summary>
+- **<details><summary>create-load-balancer</summary><blockquote>**
 
   * --name
   * --subnets
@@ -53,7 +49,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-rule</summary>
+- **<details><summary>create-rule</summary><blockquote>**
 
   * --listener-arn
   * --conditions
@@ -65,7 +61,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-target-group</summary>
+- **<details><summary>create-target-group</summary><blockquote>**
 
   * --name
   * --protocol
@@ -89,7 +85,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-listener</summary>
+- **<details><summary>delete-listener</summary><blockquote>**
 
   * --listener-arn
   * --cli-input-json
@@ -97,7 +93,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-load-balancer</summary>
+- **<details><summary>delete-load-balancer</summary><blockquote>**
 
   * --load-balancer-arn
   * --cli-input-json
@@ -105,7 +101,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-rule</summary>
+- **<details><summary>delete-rule</summary><blockquote>**
 
   * --rule-arn
   * --cli-input-json
@@ -113,7 +109,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-target-group</summary>
+- **<details><summary>delete-target-group</summary><blockquote>**
 
   * --target-group-arn
   * --cli-input-json
@@ -121,7 +117,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-targets</summary>
+- **<details><summary>deregister-targets</summary><blockquote>**
 
   * --target-group-arn
   * --targets
@@ -130,7 +126,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-account-limits</summary>
+- **<details><summary>describe-account-limits</summary><blockquote>**
 
   * --page-size
   * --cli-input-json
@@ -140,7 +136,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-listener-certificates</summary>
+- **<details><summary>describe-listener-certificates</summary><blockquote>**
 
   * --listener-arn
   * --page-size
@@ -151,7 +147,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-listeners</summary>
+- **<details><summary>describe-listeners</summary><blockquote>**
 
   * --load-balancer-arn
   * --listener-arns
@@ -163,7 +159,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-load-balancer-attributes</summary>
+- **<details><summary>describe-load-balancer-attributes</summary><blockquote>**
 
   * --load-balancer-arn
   * --cli-input-json
@@ -171,7 +167,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-load-balancers</summary>
+- **<details><summary>describe-load-balancers</summary><blockquote>**
 
   * --load-balancer-arns
   * --names
@@ -183,7 +179,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-rules</summary>
+- **<details><summary>describe-rules</summary><blockquote>**
 
   * --listener-arn
   * --rule-arns
@@ -195,7 +191,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-ssl-policies</summary>
+- **<details><summary>describe-ssl-policies</summary><blockquote>**
 
   * --names
   * --page-size
@@ -206,7 +202,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-tags</summary>
+- **<details><summary>describe-tags</summary><blockquote>**
 
   * --resource-arns
   * --cli-input-json
@@ -214,7 +210,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-target-group-attributes</summary>
+- **<details><summary>describe-target-group-attributes</summary><blockquote>**
 
   * --target-group-arn
   * --cli-input-json
@@ -222,7 +218,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-target-groups</summary>
+- **<details><summary>describe-target-groups</summary><blockquote>**
 
   * --load-balancer-arn
   * --target-group-arns
@@ -235,7 +231,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-target-health</summary>
+- **<details><summary>describe-target-health</summary><blockquote>**
 
   * --target-group-arn
   * --targets
@@ -244,12 +240,12 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>modify-listener</summary>
+- **<details><summary>modify-listener</summary><blockquote>**
 
   * --listener-arn
   * --port
@@ -263,7 +259,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-load-balancer-attributes</summary>
+- **<details><summary>modify-load-balancer-attributes</summary><blockquote>**
 
   * --load-balancer-arn
   * --attributes
@@ -272,7 +268,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-rule</summary>
+- **<details><summary>modify-rule</summary><blockquote>**
 
   * --rule-arn
   * --conditions
@@ -282,7 +278,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-target-group</summary>
+- **<details><summary>modify-target-group</summary><blockquote>**
 
   * --target-group-arn
   * --health-check-protocol
@@ -300,7 +296,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-target-group-attributes</summary>
+- **<details><summary>modify-target-group-attributes</summary><blockquote>**
 
   * --target-group-arn
   * --attributes
@@ -309,7 +305,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>register-targets</summary>
+- **<details><summary>register-targets</summary><blockquote>**
 
   * --target-group-arn
   * --targets
@@ -318,7 +314,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-listener-certificates</summary>
+- **<details><summary>remove-listener-certificates</summary><blockquote>**
 
   * --listener-arn
   * --certificates
@@ -327,7 +323,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-tags</summary>
+- **<details><summary>remove-tags</summary><blockquote>**
 
   * --resource-arns
   * --tag-keys
@@ -336,7 +332,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>set-ip-address-type</summary>
+- **<details><summary>set-ip-address-type</summary><blockquote>**
 
   * --load-balancer-arn
   * --ip-address-type
@@ -345,7 +341,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>set-rule-priorities</summary>
+- **<details><summary>set-rule-priorities</summary><blockquote>**
 
   * --rule-priorities
   * --cli-input-json
@@ -353,7 +349,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>set-security-groups</summary>
+- **<details><summary>set-security-groups</summary><blockquote>**
 
   * --load-balancer-arn
   * --security-groups
@@ -362,7 +358,7 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>set-subnets</summary>
+- **<details><summary>set-subnets</summary><blockquote>**
 
   * --load-balancer-arn
   * --subnets
@@ -373,10 +369,45 @@ elbv2
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>worklink</summary><blockquote>
 
-<summary>
-worklink
-</summary>
-
-- <details><summary>associate-domain</summary>
+- **<details><summary>associate-domain</summary><blockquote>**
 
   * --fleet-arn
   * --domain-name
@@ -15,7 +11,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-website-authorization-provider</summary>
+- **<details><summary>associate-website-authorization-provider</summary><blockquote>**
 
   * --fleet-arn
   * --authorization-provider-type
@@ -25,7 +21,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-website-certificate-authority</summary>
+- **<details><summary>associate-website-certificate-authority</summary><blockquote>**
 
   * --fleet-arn
   * --certificate
@@ -35,7 +31,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>create-fleet</summary>
+- **<details><summary>create-fleet</summary><blockquote>**
 
   * --fleet-name
   * --display-name
@@ -47,7 +43,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-fleet</summary>
+- **<details><summary>delete-fleet</summary><blockquote>**
 
   * --fleet-arn
   * --cli-input-json
@@ -55,7 +51,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-audit-stream-configuration</summary>
+- **<details><summary>describe-audit-stream-configuration</summary><blockquote>**
 
   * --fleet-arn
   * --cli-input-json
@@ -63,7 +59,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-company-network-configuration</summary>
+- **<details><summary>describe-company-network-configuration</summary><blockquote>**
 
   * --fleet-arn
   * --cli-input-json
@@ -71,7 +67,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-device</summary>
+- **<details><summary>describe-device</summary><blockquote>**
 
   * --fleet-arn
   * --device-id
@@ -80,7 +76,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-device-policy-configuration</summary>
+- **<details><summary>describe-device-policy-configuration</summary><blockquote>**
 
   * --fleet-arn
   * --cli-input-json
@@ -88,7 +84,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-domain</summary>
+- **<details><summary>describe-domain</summary><blockquote>**
 
   * --fleet-arn
   * --domain-name
@@ -97,7 +93,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fleet-metadata</summary>
+- **<details><summary>describe-fleet-metadata</summary><blockquote>**
 
   * --fleet-arn
   * --cli-input-json
@@ -105,7 +101,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-identity-provider-configuration</summary>
+- **<details><summary>describe-identity-provider-configuration</summary><blockquote>**
 
   * --fleet-arn
   * --cli-input-json
@@ -113,7 +109,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-website-certificate-authority</summary>
+- **<details><summary>describe-website-certificate-authority</summary><blockquote>**
 
   * --fleet-arn
   * --website-ca-id
@@ -122,7 +118,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-domain</summary>
+- **<details><summary>disassociate-domain</summary><blockquote>**
 
   * --fleet-arn
   * --domain-name
@@ -131,7 +127,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-website-authorization-provider</summary>
+- **<details><summary>disassociate-website-authorization-provider</summary><blockquote>**
 
   * --fleet-arn
   * --authorization-provider-id
@@ -140,7 +136,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-website-certificate-authority</summary>
+- **<details><summary>disassociate-website-certificate-authority</summary><blockquote>**
 
   * --fleet-arn
   * --website-ca-id
@@ -149,12 +145,12 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-devices</summary>
+- **<details><summary>list-devices</summary><blockquote>**
 
   * --fleet-arn
   * --next-token
@@ -164,7 +160,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>list-domains</summary>
+- **<details><summary>list-domains</summary><blockquote>**
 
   * --fleet-arn
   * --next-token
@@ -174,7 +170,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>list-fleets</summary>
+- **<details><summary>list-fleets</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -183,7 +179,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -191,7 +187,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>list-website-authorization-providers</summary>
+- **<details><summary>list-website-authorization-providers</summary><blockquote>**
 
   * --fleet-arn
   * --next-token
@@ -201,7 +197,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>list-website-certificate-authorities</summary>
+- **<details><summary>list-website-certificate-authorities</summary><blockquote>**
 
   * --fleet-arn
   * --max-results
@@ -211,7 +207,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-domain-access</summary>
+- **<details><summary>restore-domain-access</summary><blockquote>**
 
   * --fleet-arn
   * --domain-name
@@ -220,7 +216,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>revoke-domain-access</summary>
+- **<details><summary>revoke-domain-access</summary><blockquote>**
 
   * --fleet-arn
   * --domain-name
@@ -229,7 +225,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>sign-out-user</summary>
+- **<details><summary>sign-out-user</summary><blockquote>**
 
   * --fleet-arn
   * --username
@@ -238,7 +234,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -247,7 +243,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -256,7 +252,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>update-audit-stream-configuration</summary>
+- **<details><summary>update-audit-stream-configuration</summary><blockquote>**
 
   * --fleet-arn
   * --audit-stream-arn
@@ -265,7 +261,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>update-company-network-configuration</summary>
+- **<details><summary>update-company-network-configuration</summary><blockquote>**
 
   * --fleet-arn
   * --vpc-id
@@ -276,7 +272,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>update-device-policy-configuration</summary>
+- **<details><summary>update-device-policy-configuration</summary><blockquote>**
 
   * --fleet-arn
   * --device-ca-certificate
@@ -285,7 +281,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>update-domain-metadata</summary>
+- **<details><summary>update-domain-metadata</summary><blockquote>**
 
   * --fleet-arn
   * --domain-name
@@ -295,7 +291,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>update-fleet-metadata</summary>
+- **<details><summary>update-fleet-metadata</summary><blockquote>**
 
   * --fleet-arn
   * --display-name
@@ -306,7 +302,7 @@ worklink
   * --generate-cli-skeleton
 
 
-- <details><summary>update-identity-provider-configuration</summary>
+- **<details><summary>update-identity-provider-configuration</summary><blockquote>**
 
   * --fleet-arn
   * --identity-provider-type
@@ -316,5 +312,38 @@ worklink
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

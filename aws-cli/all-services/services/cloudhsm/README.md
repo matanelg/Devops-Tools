@@ -1,10 +1,6 @@
-<details>
+<details><summary>cloudhsm</summary><blockquote>
 
-<summary>
-cloudhsm
-</summary>
-
-- <details><summary>add-tags-to-resource</summary>
+- **<details><summary>add-tags-to-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-list
@@ -13,7 +9,7 @@ cloudhsm
   * --generate-cli-skeleton
 
 
-- <details><summary>create-hapg</summary>
+- **<details><summary>create-hapg</summary><blockquote>**
 
   * --label
   * --cli-input-json
@@ -21,7 +17,7 @@ cloudhsm
   * --generate-cli-skeleton
 
 
-- <details><summary>create-hsm</summary>
+- **<details><summary>create-hsm</summary><blockquote>**
 
   * --subnet-id
   * --ssh-key
@@ -36,7 +32,7 @@ cloudhsm
   * --generate-cli-skeleton
 
 
-- <details><summary>create-luna-client</summary>
+- **<details><summary>create-luna-client</summary><blockquote>**
 
   * --label
   * --certificate
@@ -45,7 +41,7 @@ cloudhsm
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-hapg</summary>
+- **<details><summary>delete-hapg</summary><blockquote>**
 
   * --hapg-arn
   * --cli-input-json
@@ -53,7 +49,7 @@ cloudhsm
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-hsm</summary>
+- **<details><summary>delete-hsm</summary><blockquote>**
 
   * --hsm-arn
   * --cli-input-json
@@ -61,7 +57,7 @@ cloudhsm
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-luna-client</summary>
+- **<details><summary>delete-luna-client</summary><blockquote>**
 
   * --client-arn
   * --cli-input-json
@@ -69,7 +65,7 @@ cloudhsm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-hapg</summary>
+- **<details><summary>describe-hapg</summary><blockquote>**
 
   * --hapg-arn
   * --cli-input-json
@@ -77,7 +73,7 @@ cloudhsm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-hsm</summary>
+- **<details><summary>describe-hsm</summary><blockquote>**
 
   * --hsm-arn
   * --hsm-serial-number
@@ -86,7 +82,7 @@ cloudhsm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-luna-client</summary>
+- **<details><summary>describe-luna-client</summary><blockquote>**
 
   * --client-arn
   * --certificate-fingerprint
@@ -95,7 +91,7 @@ cloudhsm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-config</summary>
+- **<details><summary>get-config</summary><blockquote>**
 
   * --client-arn
   * --client-version
@@ -105,28 +101,19 @@ cloudhsm
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-available-zones</summary>
+- **<details><summary>list-available-zones</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>list-hapgs</summary>
-
-  * --cli-input-json
-  * --cli-input-yaml
-  * --starting-token
-  * --max-items
-  * --generate-cli-skeleton
-
-
-- <details><summary>list-hsms</summary>
+- **<details><summary>list-hapgs</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -135,7 +122,7 @@ cloudhsm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-luna-clients</summary>
+- **<details><summary>list-hsms</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -144,7 +131,16 @@ cloudhsm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-luna-clients</summary><blockquote>**
+
+  * --cli-input-json
+  * --cli-input-yaml
+  * --starting-token
+  * --max-items
+  * --generate-cli-skeleton
+
+
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -152,7 +148,7 @@ cloudhsm
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-hapg</summary>
+- **<details><summary>modify-hapg</summary><blockquote>**
 
   * --hapg-arn
   * --label
@@ -162,7 +158,7 @@ cloudhsm
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-hsm</summary>
+- **<details><summary>modify-hsm</summary><blockquote>**
 
   * --hsm-arn
   * --subnet-id
@@ -175,7 +171,7 @@ cloudhsm
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-luna-client</summary>
+- **<details><summary>modify-luna-client</summary><blockquote>**
 
   * --client-arn
   * --certificate
@@ -184,7 +180,7 @@ cloudhsm
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-tags-from-resource</summary>
+- **<details><summary>remove-tags-from-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-key-list
@@ -193,5 +189,25 @@ cloudhsm
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

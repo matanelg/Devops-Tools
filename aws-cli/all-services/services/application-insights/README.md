@@ -1,10 +1,6 @@
-<details>
+<details><summary>application-insights</summary><blockquote>
 
-<summary>
-application-insights
-</summary>
-
-- <details><summary>create-application</summary>
+- **<details><summary>create-application</summary><blockquote>**
 
   * --resource-group-name
   * --ops-center-enabled
@@ -18,7 +14,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>create-component</summary>
+- **<details><summary>create-component</summary><blockquote>**
 
   * --resource-group-name
   * --component-name
@@ -28,7 +24,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>create-log-pattern</summary>
+- **<details><summary>create-log-pattern</summary><blockquote>**
 
   * --resource-group-name
   * --pattern-set-name
@@ -40,7 +36,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application</summary>
+- **<details><summary>delete-application</summary><blockquote>**
 
   * --resource-group-name
   * --cli-input-json
@@ -48,7 +44,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-component</summary>
+- **<details><summary>delete-component</summary><blockquote>**
 
   * --resource-group-name
   * --component-name
@@ -57,7 +53,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-log-pattern</summary>
+- **<details><summary>delete-log-pattern</summary><blockquote>**
 
   * --resource-group-name
   * --pattern-set-name
@@ -67,7 +63,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-application</summary>
+- **<details><summary>describe-application</summary><blockquote>**
 
   * --resource-group-name
   * --cli-input-json
@@ -75,16 +71,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-component</summary>
-
-  * --resource-group-name
-  * --component-name
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>describe-component-configuration</summary>
+- **<details><summary>describe-component</summary><blockquote>**
 
   * --resource-group-name
   * --component-name
@@ -93,7 +80,16 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-component-configuration-recommendation</summary>
+- **<details><summary>describe-component-configuration</summary><blockquote>**
+
+  * --resource-group-name
+  * --component-name
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>describe-component-configuration-recommendation</summary><blockquote>**
 
   * --resource-group-name
   * --component-name
@@ -103,7 +99,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-log-pattern</summary>
+- **<details><summary>describe-log-pattern</summary><blockquote>**
 
   * --resource-group-name
   * --pattern-set-name
@@ -113,7 +109,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-observation</summary>
+- **<details><summary>describe-observation</summary><blockquote>**
 
   * --observation-id
   * --cli-input-json
@@ -121,7 +117,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-problem</summary>
+- **<details><summary>describe-problem</summary><blockquote>**
 
   * --problem-id
   * --cli-input-json
@@ -129,7 +125,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-problem-observations</summary>
+- **<details><summary>describe-problem-observations</summary><blockquote>**
 
   * --problem-id
   * --cli-input-json
@@ -137,12 +133,12 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-applications</summary>
+- **<details><summary>list-applications</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -151,7 +147,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>list-components</summary>
+- **<details><summary>list-components</summary><blockquote>**
 
   * --resource-group-name
   * --max-results
@@ -161,7 +157,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>list-configuration-history</summary>
+- **<details><summary>list-configuration-history</summary><blockquote>**
 
   * --resource-group-name
   * --start-time
@@ -174,7 +170,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>list-log-patterns</summary>
+- **<details><summary>list-log-patterns</summary><blockquote>**
 
   * --resource-group-name
   * --pattern-set-name
@@ -185,7 +181,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>list-log-pattern-sets</summary>
+- **<details><summary>list-log-pattern-sets</summary><blockquote>**
 
   * --resource-group-name
   * --max-results
@@ -195,7 +191,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>list-problems</summary>
+- **<details><summary>list-problems</summary><blockquote>**
 
   * --resource-group-name
   * --start-time
@@ -207,7 +203,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -215,7 +211,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -224,7 +220,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -233,7 +229,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>update-application</summary>
+- **<details><summary>update-application</summary><blockquote>**
 
   * --resource-group-name
   * --ops-center-enabled
@@ -248,7 +244,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>update-component</summary>
+- **<details><summary>update-component</summary><blockquote>**
 
   * --resource-group-name
   * --component-name
@@ -259,7 +255,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>update-component-configuration</summary>
+- **<details><summary>update-component-configuration</summary><blockquote>**
 
   * --resource-group-name
   * --component-name
@@ -272,7 +268,7 @@ application-insights
   * --generate-cli-skeleton
 
 
-- <details><summary>update-log-pattern</summary>
+- **<details><summary>update-log-pattern</summary><blockquote>**
 
   * --resource-group-name
   * --pattern-set-name
@@ -284,5 +280,32 @@ application-insights
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

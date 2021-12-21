@@ -1,10 +1,6 @@
-<details>
+<details><summary>codestar</summary><blockquote>
 
-<summary>
-codestar
-</summary>
-
-- <details><summary>associate-team-member</summary>
+- **<details><summary>associate-team-member</summary><blockquote>**
 
   * --project-id
   * --client-request-token
@@ -17,7 +13,7 @@ codestar
   * --generate-cli-skeleton
 
 
-- <details><summary>create-project</summary>
+- **<details><summary>create-project</summary><blockquote>**
 
   * --name
   * --id
@@ -31,7 +27,7 @@ codestar
   * --generate-cli-skeleton
 
 
-- <details><summary>create-user-profile</summary>
+- **<details><summary>create-user-profile</summary><blockquote>**
 
   * --user-arn
   * --display-name
@@ -42,7 +38,7 @@ codestar
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-project</summary>
+- **<details><summary>delete-project</summary><blockquote>**
 
   * --id
   * --client-request-token
@@ -53,7 +49,7 @@ codestar
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user-profile</summary>
+- **<details><summary>delete-user-profile</summary><blockquote>**
 
   * --user-arn
   * --cli-input-json
@@ -61,7 +57,7 @@ codestar
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-project</summary>
+- **<details><summary>describe-project</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -69,7 +65,7 @@ codestar
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-user-profile</summary>
+- **<details><summary>describe-user-profile</summary><blockquote>**
 
   * --user-arn
   * --cli-input-json
@@ -77,7 +73,7 @@ codestar
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-team-member</summary>
+- **<details><summary>disassociate-team-member</summary><blockquote>**
 
   * --project-id
   * --user-arn
@@ -86,12 +82,12 @@ codestar
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-projects</summary>
+- **<details><summary>list-projects</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -101,7 +97,7 @@ codestar
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resources</summary>
+- **<details><summary>list-resources</summary><blockquote>**
 
   * --project-id
   * --cli-input-json
@@ -112,7 +108,7 @@ codestar
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-project</summary>
+- **<details><summary>list-tags-for-project</summary><blockquote>**
 
   * --id
   * --next-token
@@ -122,7 +118,7 @@ codestar
   * --generate-cli-skeleton
 
 
-- <details><summary>list-team-members</summary>
+- **<details><summary>list-team-members</summary><blockquote>**
 
   * --project-id
   * --cli-input-json
@@ -133,7 +129,7 @@ codestar
   * --generate-cli-skeleton
 
 
-- <details><summary>list-user-profiles</summary>
+- **<details><summary>list-user-profiles</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -143,7 +139,7 @@ codestar
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-project</summary>
+- **<details><summary>tag-project</summary><blockquote>**
 
   * --id
   * --tags
@@ -152,7 +148,7 @@ codestar
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-project</summary>
+- **<details><summary>untag-project</summary><blockquote>**
 
   * --id
   * --tags
@@ -161,7 +157,7 @@ codestar
   * --generate-cli-skeleton
 
 
-- <details><summary>update-project</summary>
+- **<details><summary>update-project</summary><blockquote>**
 
   * --id
   * --name
@@ -171,7 +167,7 @@ codestar
   * --generate-cli-skeleton
 
 
-- <details><summary>update-team-member</summary>
+- **<details><summary>update-team-member</summary><blockquote>**
 
   * --project-id
   * --user-arn
@@ -183,7 +179,7 @@ codestar
   * --generate-cli-skeleton
 
 
-- <details><summary>update-user-profile</summary>
+- **<details><summary>update-user-profile</summary><blockquote>**
 
   * --user-arn
   * --display-name
@@ -194,5 +190,23 @@ codestar
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

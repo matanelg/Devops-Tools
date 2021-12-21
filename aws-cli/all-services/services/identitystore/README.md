@@ -1,10 +1,6 @@
-<details>
+<details><summary>identitystore</summary><blockquote>
 
-<summary>
-identitystore
-</summary>
-
-- <details><summary>describe-group</summary>
+- **<details><summary>describe-group</summary><blockquote>**
 
   * --identity-store-id
   * --group-id
@@ -13,7 +9,7 @@ identitystore
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-user</summary>
+- **<details><summary>describe-user</summary><blockquote>**
 
   * --identity-store-id
   * --user-id
@@ -22,12 +18,12 @@ identitystore
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-groups</summary>
+- **<details><summary>list-groups</summary><blockquote>**
 
   * --identity-store-id
   * --max-results
@@ -38,7 +34,7 @@ identitystore
   * --generate-cli-skeleton
 
 
-- <details><summary>list-users</summary>
+- **<details><summary>list-users</summary><blockquote>**
 
   * --identity-store-id
   * --max-results
@@ -49,5 +45,9 @@ identitystore
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

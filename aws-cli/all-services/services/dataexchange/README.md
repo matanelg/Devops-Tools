@@ -1,10 +1,6 @@
-<details>
+<details><summary>dataexchange</summary><blockquote>
 
-<summary>
-dataexchange
-</summary>
-
-- <details><summary>cancel-job</summary>
+- **<details><summary>cancel-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -12,7 +8,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>create-data-set</summary>
+- **<details><summary>create-data-set</summary><blockquote>**
 
   * --asset-type
   * --description
@@ -23,7 +19,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>create-job</summary>
+- **<details><summary>create-job</summary><blockquote>**
 
   * --details
   * --type
@@ -32,7 +28,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>create-revision</summary>
+- **<details><summary>create-revision</summary><blockquote>**
 
   * --comment
   * --data-set-id
@@ -42,7 +38,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-asset</summary>
+- **<details><summary>delete-asset</summary><blockquote>**
 
   * --asset-id
   * --data-set-id
@@ -52,7 +48,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-data-set</summary>
+- **<details><summary>delete-data-set</summary><blockquote>**
 
   * --data-set-id
   * --cli-input-json
@@ -60,7 +56,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-revision</summary>
+- **<details><summary>delete-revision</summary><blockquote>**
 
   * --data-set-id
   * --revision-id
@@ -69,7 +65,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>get-asset</summary>
+- **<details><summary>get-asset</summary><blockquote>**
 
   * --asset-id
   * --data-set-id
@@ -79,7 +75,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>get-data-set</summary>
+- **<details><summary>get-data-set</summary><blockquote>**
 
   * --data-set-id
   * --cli-input-json
@@ -87,7 +83,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>get-job</summary>
+- **<details><summary>get-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -95,7 +91,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>get-revision</summary>
+- **<details><summary>get-revision</summary><blockquote>**
 
   * --data-set-id
   * --revision-id
@@ -104,12 +100,12 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-data-set-revisions</summary>
+- **<details><summary>list-data-set-revisions</summary><blockquote>**
 
   * --data-set-id
   * --cli-input-json
@@ -120,7 +116,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>list-data-sets</summary>
+- **<details><summary>list-data-sets</summary><blockquote>**
 
   * --origin
   * --cli-input-json
@@ -131,7 +127,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>list-jobs</summary>
+- **<details><summary>list-jobs</summary><blockquote>**
 
   * --data-set-id
   * --revision-id
@@ -143,7 +139,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>list-revision-assets</summary>
+- **<details><summary>list-revision-assets</summary><blockquote>**
 
   * --data-set-id
   * --revision-id
@@ -155,7 +151,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -163,7 +159,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>start-job</summary>
+- **<details><summary>start-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -171,7 +167,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -180,7 +176,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -189,7 +185,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>update-asset</summary>
+- **<details><summary>update-asset</summary><blockquote>**
 
   * --asset-id
   * --data-set-id
@@ -200,7 +196,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>update-data-set</summary>
+- **<details><summary>update-data-set</summary><blockquote>**
 
   * --data-set-id
   * --description
@@ -210,7 +206,7 @@ dataexchange
   * --generate-cli-skeleton
 
 
-- <details><summary>update-revision</summary>
+- **<details><summary>update-revision</summary><blockquote>**
 
   * --comment
   * --data-set-id
@@ -222,5 +218,27 @@ dataexchange
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

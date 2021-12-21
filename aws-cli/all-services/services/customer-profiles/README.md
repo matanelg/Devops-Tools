@@ -1,10 +1,6 @@
-<details>
+<details><summary>customer-profiles</summary><blockquote>
 
-<summary>
-customer-profiles
-</summary>
-
-- <details><summary>add-profile-key</summary>
+- **<details><summary>add-profile-key</summary><blockquote>**
 
   * --profile-id
   * --key-name
@@ -15,7 +11,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>create-domain</summary>
+- **<details><summary>create-domain</summary><blockquote>**
 
   * --domain-name
   * --default-expiration-days
@@ -28,7 +24,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>create-profile</summary>
+- **<details><summary>create-profile</summary><blockquote>**
 
   * --domain-name
   * --account-number
@@ -57,7 +53,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-domain</summary>
+- **<details><summary>delete-domain</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -65,7 +61,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-integration</summary>
+- **<details><summary>delete-integration</summary><blockquote>**
 
   * --domain-name
   * --uri
@@ -74,7 +70,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-profile</summary>
+- **<details><summary>delete-profile</summary><blockquote>**
 
   * --profile-id
   * --domain-name
@@ -83,7 +79,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-profile-key</summary>
+- **<details><summary>delete-profile-key</summary><blockquote>**
 
   * --profile-id
   * --key-name
@@ -94,7 +90,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-profile-object</summary>
+- **<details><summary>delete-profile-object</summary><blockquote>**
 
   * --profile-id
   * --profile-object-unique-key
@@ -105,7 +101,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-profile-object-type</summary>
+- **<details><summary>delete-profile-object-type</summary><blockquote>**
 
   * --domain-name
   * --object-type-name
@@ -114,7 +110,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>get-domain</summary>
+- **<details><summary>get-domain</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -122,7 +118,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>get-integration</summary>
+- **<details><summary>get-integration</summary><blockquote>**
 
   * --domain-name
   * --uri
@@ -131,7 +127,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>get-matches</summary>
+- **<details><summary>get-matches</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -141,7 +137,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>get-profile-object-type</summary>
+- **<details><summary>get-profile-object-type</summary><blockquote>**
 
   * --domain-name
   * --object-type-name
@@ -150,7 +146,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>get-profile-object-type-template</summary>
+- **<details><summary>get-profile-object-type-template</summary><blockquote>**
 
   * --template-id
   * --cli-input-json
@@ -158,12 +154,12 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-account-integrations</summary>
+- **<details><summary>list-account-integrations</summary><blockquote>**
 
   * --uri
   * --next-token
@@ -173,7 +169,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>list-domains</summary>
+- **<details><summary>list-domains</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -182,7 +178,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>list-integrations</summary>
+- **<details><summary>list-integrations</summary><blockquote>**
 
   * --domain-name
   * --next-token
@@ -192,7 +188,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>list-profile-objects</summary>
+- **<details><summary>list-profile-objects</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -204,7 +200,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>list-profile-object-types</summary>
+- **<details><summary>list-profile-object-types</summary><blockquote>**
 
   * --domain-name
   * --next-token
@@ -214,7 +210,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>list-profile-object-type-templates</summary>
+- **<details><summary>list-profile-object-type-templates</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -223,7 +219,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -231,7 +227,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>merge-profiles</summary>
+- **<details><summary>merge-profiles</summary><blockquote>**
 
   * --domain-name
   * --main-profile-id
@@ -242,7 +238,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>put-integration</summary>
+- **<details><summary>put-integration</summary><blockquote>**
 
   * --domain-name
   * --uri
@@ -254,7 +250,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>put-profile-object</summary>
+- **<details><summary>put-profile-object</summary><blockquote>**
 
   * --object-type-name
   * --object
@@ -264,7 +260,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>put-profile-object-type</summary>
+- **<details><summary>put-profile-object-type</summary><blockquote>**
 
   * --domain-name
   * --object-type-name
@@ -282,7 +278,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>search-profiles</summary>
+- **<details><summary>search-profiles</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -294,7 +290,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -303,7 +299,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -312,7 +308,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>update-domain</summary>
+- **<details><summary>update-domain</summary><blockquote>**
 
   * --domain-name
   * --default-expiration-days
@@ -325,7 +321,7 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-- <details><summary>update-profile</summary>
+- **<details><summary>update-profile</summary><blockquote>**
 
   * --domain-name
   * --profile-id
@@ -355,5 +351,35 @@ customer-profiles
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

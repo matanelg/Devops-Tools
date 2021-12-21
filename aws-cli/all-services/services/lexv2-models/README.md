@@ -1,10 +1,6 @@
-<details>
+<details><summary>lexv2-models</summary><blockquote>
 
-<summary>
-lexv2-models
-</summary>
-
-- <details><summary>build-bot-locale</summary>
+- **<details><summary>build-bot-locale</summary><blockquote>**
 
   * --bot-id
   * --bot-version
@@ -14,7 +10,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>create-bot</summary>
+- **<details><summary>create-bot</summary><blockquote>**
 
   * --bot-name
   * --description
@@ -28,7 +24,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>create-bot-alias</summary>
+- **<details><summary>create-bot-alias</summary><blockquote>**
 
   * --bot-alias-name
   * --description
@@ -43,7 +39,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>create-bot-locale</summary>
+- **<details><summary>create-bot-locale</summary><blockquote>**
 
   * --bot-id
   * --bot-version
@@ -56,7 +52,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>create-bot-version</summary>
+- **<details><summary>create-bot-version</summary><blockquote>**
 
   * --bot-id
   * --description
@@ -66,7 +62,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>create-export</summary>
+- **<details><summary>create-export</summary><blockquote>**
 
   * --resource-specification
   * --file-format
@@ -76,7 +72,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>create-intent</summary>
+- **<details><summary>create-intent</summary><blockquote>**
 
   * --intent-name
   * --description
@@ -97,7 +93,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>create-resource-policy</summary>
+- **<details><summary>create-resource-policy</summary><blockquote>**
 
   * --resource-arn
   * --policy
@@ -106,7 +102,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>create-resource-policy-statement</summary>
+- **<details><summary>create-resource-policy-statement</summary><blockquote>**
 
   * --resource-arn
   * --statement-id
@@ -120,7 +116,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>create-slot</summary>
+- **<details><summary>create-slot</summary><blockquote>**
 
   * --slot-name
   * --description
@@ -137,7 +133,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>create-slot-type</summary>
+- **<details><summary>create-slot-type</summary><blockquote>**
 
   * --slot-type-name
   * --description
@@ -152,14 +148,14 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>create-upload-url</summary>
+- **<details><summary>create-upload-url</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bot</summary>
+- **<details><summary>delete-bot</summary><blockquote>**
 
   * --bot-id
   * --skip-resource-in-use-check
@@ -169,7 +165,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bot-alias</summary>
+- **<details><summary>delete-bot-alias</summary><blockquote>**
 
   * --bot-alias-id
   * --bot-id
@@ -180,7 +176,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bot-locale</summary>
+- **<details><summary>delete-bot-locale</summary><blockquote>**
 
   * --bot-id
   * --bot-version
@@ -190,7 +186,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bot-version</summary>
+- **<details><summary>delete-bot-version</summary><blockquote>**
 
   * --bot-id
   * --bot-version
@@ -201,7 +197,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-export</summary>
+- **<details><summary>delete-export</summary><blockquote>**
 
   * --export-id
   * --cli-input-json
@@ -209,7 +205,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-import</summary>
+- **<details><summary>delete-import</summary><blockquote>**
 
   * --import-id
   * --cli-input-json
@@ -217,7 +213,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-intent</summary>
+- **<details><summary>delete-intent</summary><blockquote>**
 
   * --intent-id
   * --bot-id
@@ -228,7 +224,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-resource-policy</summary>
+- **<details><summary>delete-resource-policy</summary><blockquote>**
 
   * --resource-arn
   * --expected-revision-id
@@ -237,7 +233,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-resource-policy-statement</summary>
+- **<details><summary>delete-resource-policy-statement</summary><blockquote>**
 
   * --resource-arn
   * --statement-id
@@ -247,7 +243,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-slot</summary>
+- **<details><summary>delete-slot</summary><blockquote>**
 
   * --slot-id
   * --bot-id
@@ -259,7 +255,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-slot-type</summary>
+- **<details><summary>delete-slot-type</summary><blockquote>**
 
   * --slot-type-id
   * --bot-id
@@ -272,7 +268,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-bot</summary>
+- **<details><summary>describe-bot</summary><blockquote>**
 
   * --bot-id
   * --cli-input-json
@@ -280,7 +276,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-bot-alias</summary>
+- **<details><summary>describe-bot-alias</summary><blockquote>**
 
   * --bot-alias-id
   * --bot-id
@@ -289,7 +285,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-bot-locale</summary>
+- **<details><summary>describe-bot-locale</summary><blockquote>**
 
   * --bot-id
   * --bot-version
@@ -299,7 +295,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-bot-version</summary>
+- **<details><summary>describe-bot-version</summary><blockquote>**
 
   * --bot-id
   * --bot-version
@@ -308,7 +304,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-export</summary>
+- **<details><summary>describe-export</summary><blockquote>**
 
   * --export-id
   * --cli-input-json
@@ -316,7 +312,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-import</summary>
+- **<details><summary>describe-import</summary><blockquote>**
 
   * --import-id
   * --cli-input-json
@@ -324,7 +320,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-intent</summary>
+- **<details><summary>describe-intent</summary><blockquote>**
 
   * --intent-id
   * --bot-id
@@ -335,7 +331,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-resource-policy</summary>
+- **<details><summary>describe-resource-policy</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -343,7 +339,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-slot</summary>
+- **<details><summary>describe-slot</summary><blockquote>**
 
   * --slot-id
   * --bot-id
@@ -355,7 +351,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-slot-type</summary>
+- **<details><summary>describe-slot-type</summary><blockquote>**
 
   * --slot-type-id
   * --bot-id
@@ -366,12 +362,12 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-bot-aliases</summary>
+- **<details><summary>list-bot-aliases</summary><blockquote>**
 
   * --bot-id
   * --max-results
@@ -381,7 +377,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>list-bot-locales</summary>
+- **<details><summary>list-bot-locales</summary><blockquote>**
 
   * --bot-id
   * --bot-version
@@ -394,7 +390,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>list-bots</summary>
+- **<details><summary>list-bots</summary><blockquote>**
 
   * --sort-by
   * --filters
@@ -405,7 +401,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>list-bot-versions</summary>
+- **<details><summary>list-bot-versions</summary><blockquote>**
 
   * --bot-id
   * --sort-by
@@ -416,7 +412,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>list-built-in-intents</summary>
+- **<details><summary>list-built-in-intents</summary><blockquote>**
 
   * --locale-id
   * --sort-by
@@ -427,7 +423,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>list-built-in-slot-types</summary>
+- **<details><summary>list-built-in-slot-types</summary><blockquote>**
 
   * --locale-id
   * --sort-by
@@ -438,7 +434,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>list-exports</summary>
+- **<details><summary>list-exports</summary><blockquote>**
 
   * --bot-id
   * --bot-version
@@ -451,7 +447,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>list-imports</summary>
+- **<details><summary>list-imports</summary><blockquote>**
 
   * --bot-id
   * --bot-version
@@ -464,7 +460,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>list-intents</summary>
+- **<details><summary>list-intents</summary><blockquote>**
 
   * --bot-id
   * --bot-version
@@ -478,7 +474,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>list-slots</summary>
+- **<details><summary>list-slots</summary><blockquote>**
 
   * --bot-id
   * --bot-version
@@ -493,7 +489,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>list-slot-types</summary>
+- **<details><summary>list-slot-types</summary><blockquote>**
 
   * --bot-id
   * --bot-version
@@ -507,7 +503,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -515,7 +511,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>start-import</summary>
+- **<details><summary>start-import</summary><blockquote>**
 
   * --import-id
   * --resource-specification
@@ -526,7 +522,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -535,7 +531,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -544,7 +540,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>update-bot</summary>
+- **<details><summary>update-bot</summary><blockquote>**
 
   * --bot-id
   * --bot-name
@@ -557,7 +553,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>update-bot-alias</summary>
+- **<details><summary>update-bot-alias</summary><blockquote>**
 
   * --bot-alias-id
   * --bot-alias-name
@@ -572,7 +568,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>update-bot-locale</summary>
+- **<details><summary>update-bot-locale</summary><blockquote>**
 
   * --bot-id
   * --bot-version
@@ -585,7 +581,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>update-export</summary>
+- **<details><summary>update-export</summary><blockquote>**
 
   * --export-id
   * --file-password
@@ -594,7 +590,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>update-intent</summary>
+- **<details><summary>update-intent</summary><blockquote>**
 
   * --intent-id
   * --intent-name
@@ -617,7 +613,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>update-resource-policy</summary>
+- **<details><summary>update-resource-policy</summary><blockquote>**
 
   * --resource-arn
   * --policy
@@ -627,7 +623,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>update-slot</summary>
+- **<details><summary>update-slot</summary><blockquote>**
 
   * --slot-id
   * --slot-name
@@ -645,7 +641,7 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-- <details><summary>update-slot-type</summary>
+- **<details><summary>update-slot-type</summary><blockquote>**
 
   * --slot-type-id
   * --slot-type-name
@@ -661,5 +657,61 @@ lexv2-models
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

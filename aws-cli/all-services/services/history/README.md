@@ -1,20 +1,17 @@
-<details>
+<details><summary>history</summary><blockquote>
 
-<summary>
-history
-</summary>
-
-- <details><summary>list</summary>
+- **<details><summary>list</summary><blockquote>**
 
   * 
 
 
-- <details><summary>show</summary>
+- **<details><summary>show</summary><blockquote>**
 
   * --include
   * --exclude
   * --format
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

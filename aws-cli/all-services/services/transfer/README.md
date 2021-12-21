@@ -1,10 +1,6 @@
-<details>
+<details><summary>transfer</summary><blockquote>
 
-<summary>
-transfer
-</summary>
-
-- <details><summary>create-access</summary>
+- **<details><summary>create-access</summary><blockquote>**
 
   * --home-directory
   * --home-directory-type
@@ -19,7 +15,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>create-server</summary>
+- **<details><summary>create-server</summary><blockquote>**
 
   * --certificate
   * --domain
@@ -37,7 +33,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>create-user</summary>
+- **<details><summary>create-user</summary><blockquote>**
 
   * --home-directory
   * --home-directory-type
@@ -54,7 +50,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-access</summary>
+- **<details><summary>delete-access</summary><blockquote>**
 
   * --server-id
   * --external-id
@@ -63,7 +59,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-server</summary>
+- **<details><summary>delete-server</summary><blockquote>**
 
   * --server-id
   * --cli-input-json
@@ -71,7 +67,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-ssh-public-key</summary>
+- **<details><summary>delete-ssh-public-key</summary><blockquote>**
 
   * --server-id
   * --ssh-public-key-id
@@ -81,7 +77,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user</summary>
+- **<details><summary>delete-user</summary><blockquote>**
 
   * --server-id
   * --user-name
@@ -90,7 +86,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-access</summary>
+- **<details><summary>describe-access</summary><blockquote>**
 
   * --server-id
   * --external-id
@@ -99,7 +95,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-security-policy</summary>
+- **<details><summary>describe-security-policy</summary><blockquote>**
 
   * --security-policy-name
   * --cli-input-json
@@ -107,7 +103,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-server</summary>
+- **<details><summary>describe-server</summary><blockquote>**
 
   * --server-id
   * --cli-input-json
@@ -115,7 +111,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-user</summary>
+- **<details><summary>describe-user</summary><blockquote>**
 
   * --server-id
   * --user-name
@@ -124,12 +120,12 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>import-ssh-public-key</summary>
+- **<details><summary>import-ssh-public-key</summary><blockquote>**
 
   * --server-id
   * --ssh-public-key-body
@@ -139,7 +135,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-accesses</summary>
+- **<details><summary>list-accesses</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -149,7 +145,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-security-policies</summary>
+- **<details><summary>list-security-policies</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -158,7 +154,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-servers</summary>
+- **<details><summary>list-servers</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -168,7 +164,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --arn
   * --max-results
@@ -178,7 +174,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>list-users</summary>
+- **<details><summary>list-users</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -188,7 +184,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>start-server</summary>
+- **<details><summary>start-server</summary><blockquote>**
 
   * --server-id
   * --cli-input-json
@@ -196,7 +192,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-server</summary>
+- **<details><summary>stop-server</summary><blockquote>**
 
   * --server-id
   * --cli-input-json
@@ -204,7 +200,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --arn
   * --tags
@@ -213,7 +209,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>test-identity-provider</summary>
+- **<details><summary>test-identity-provider</summary><blockquote>**
 
   * --server-id
   * --server-protocol
@@ -225,7 +221,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --arn
   * --tag-keys
@@ -234,7 +230,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>update-access</summary>
+- **<details><summary>update-access</summary><blockquote>**
 
   * --home-directory
   * --home-directory-type
@@ -249,7 +245,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>update-server</summary>
+- **<details><summary>update-server</summary><blockquote>**
 
   * --certificate
   * --protocol-details
@@ -266,7 +262,7 @@ transfer
   * --generate-cli-skeleton
 
 
-- <details><summary>update-user</summary>
+- **<details><summary>update-user</summary><blockquote>**
 
   * --home-directory
   * --home-directory-type
@@ -281,5 +277,30 @@ transfer
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

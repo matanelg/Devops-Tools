@@ -1,8 +1,3 @@
-<details>
+<details><summary>cli-dev</summary><blockquote>
 
-<summary>
-cli-dev
-</summary>
-
-</details>
-
+</blockquote></details>

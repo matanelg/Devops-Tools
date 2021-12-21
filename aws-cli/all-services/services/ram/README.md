@@ -1,10 +1,6 @@
-<details>
+<details><summary>ram</summary><blockquote>
 
-<summary>
-ram
-</summary>
-
-- <details><summary>accept-resource-share-invitation</summary>
+- **<details><summary>accept-resource-share-invitation</summary><blockquote>**
 
   * --resource-share-invitation-arn
   * --client-token
@@ -13,7 +9,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-resource-share</summary>
+- **<details><summary>associate-resource-share</summary><blockquote>**
 
   * --resource-share-arn
   * --resource-arns
@@ -24,7 +20,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-resource-share-permission</summary>
+- **<details><summary>associate-resource-share-permission</summary><blockquote>**
 
   * --resource-share-arn
   * --permission-arn
@@ -37,7 +33,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>create-resource-share</summary>
+- **<details><summary>create-resource-share</summary><blockquote>**
 
   * --name
   * --resource-arns
@@ -52,7 +48,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-resource-share</summary>
+- **<details><summary>delete-resource-share</summary><blockquote>**
 
   * --resource-share-arn
   * --client-token
@@ -61,7 +57,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-resource-share</summary>
+- **<details><summary>disassociate-resource-share</summary><blockquote>**
 
   * --resource-share-arn
   * --resource-arns
@@ -72,7 +68,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-resource-share-permission</summary>
+- **<details><summary>disassociate-resource-share-permission</summary><blockquote>**
 
   * --resource-share-arn
   * --permission-arn
@@ -82,14 +78,14 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-sharing-with-aws-organization</summary>
+- **<details><summary>enable-sharing-with-aws-organization</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-permission</summary>
+- **<details><summary>get-permission</summary><blockquote>**
 
   * --permission-arn
   * --permission-version
@@ -98,7 +94,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resource-policies</summary>
+- **<details><summary>get-resource-policies</summary><blockquote>**
 
   * --resource-arns
   * --principal
@@ -110,7 +106,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resource-share-associations</summary>
+- **<details><summary>get-resource-share-associations</summary><blockquote>**
 
   * --association-type
   * --resource-share-arns
@@ -125,7 +121,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resource-share-invitations</summary>
+- **<details><summary>get-resource-share-invitations</summary><blockquote>**
 
   * --resource-share-invitation-arns
   * --resource-share-arns
@@ -137,7 +133,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resource-shares</summary>
+- **<details><summary>get-resource-shares</summary><blockquote>**
 
   * --resource-share-arns
   * --resource-share-status
@@ -153,12 +149,12 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-pending-invitation-resources</summary>
+- **<details><summary>list-pending-invitation-resources</summary><blockquote>**
 
   * --resource-share-invitation-arn
   * --next-token
@@ -168,7 +164,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>list-permissions</summary>
+- **<details><summary>list-permissions</summary><blockquote>**
 
   * --resource-type
   * --next-token
@@ -178,7 +174,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>list-principals</summary>
+- **<details><summary>list-principals</summary><blockquote>**
 
   * --resource-owner
   * --resource-arn
@@ -193,7 +189,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resources</summary>
+- **<details><summary>list-resources</summary><blockquote>**
 
   * --resource-owner
   * --principal
@@ -208,7 +204,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resource-share-permissions</summary>
+- **<details><summary>list-resource-share-permissions</summary><blockquote>**
 
   * --resource-share-arn
   * --next-token
@@ -218,7 +214,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resource-types</summary>
+- **<details><summary>list-resource-types</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -227,7 +223,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>promote-resource-share-created-from-policy</summary>
+- **<details><summary>promote-resource-share-created-from-policy</summary><blockquote>**
 
   * --resource-share-arn
   * --cli-input-json
@@ -235,7 +231,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>reject-resource-share-invitation</summary>
+- **<details><summary>reject-resource-share-invitation</summary><blockquote>**
 
   * --resource-share-invitation-arn
   * --client-token
@@ -244,7 +240,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-share-arn
   * --tags
@@ -253,7 +249,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-share-arn
   * --tag-keys
@@ -262,7 +258,7 @@ ram
   * --generate-cli-skeleton
 
 
-- <details><summary>update-resource-share</summary>
+- **<details><summary>update-resource-share</summary><blockquote>**
 
   * --resource-share-arn
   * --name
@@ -274,5 +270,29 @@ ram
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

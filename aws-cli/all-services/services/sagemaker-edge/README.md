@@ -1,10 +1,6 @@
-<details>
+<details><summary>sagemaker-edge</summary><blockquote>
 
-<summary>
-sagemaker-edge
-</summary>
-
-- <details><summary>get-device-registration</summary>
+- **<details><summary>get-device-registration</summary><blockquote>**
 
   * --device-name
   * --device-fleet-name
@@ -13,12 +9,12 @@ sagemaker-edge
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>send-heartbeat</summary>
+- **<details><summary>send-heartbeat</summary><blockquote>**
 
   * --agent-metrics
   * --models
@@ -30,5 +26,7 @@ sagemaker-edge
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>personalize-runtime</summary><blockquote>
 
-<summary>
-personalize-runtime
-</summary>
-
-- <details><summary>get-personalized-ranking</summary>
+- **<details><summary>get-personalized-ranking</summary><blockquote>**
 
   * --campaign-arn
   * --input-list
@@ -17,7 +13,7 @@ personalize-runtime
   * --generate-cli-skeleton
 
 
-- <details><summary>get-recommendations</summary>
+- **<details><summary>get-recommendations</summary><blockquote>**
 
   * --campaign-arn
   * --item-id
@@ -31,10 +27,12 @@ personalize-runtime
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

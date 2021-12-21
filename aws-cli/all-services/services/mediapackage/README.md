@@ -1,10 +1,6 @@
-<details>
+<details><summary>mediapackage</summary><blockquote>
 
-<summary>
-mediapackage
-</summary>
-
-- <details><summary>configure-logs</summary>
+- **<details><summary>configure-logs</summary><blockquote>**
 
   * --egress-access-logs
   * --id
@@ -14,7 +10,7 @@ mediapackage
   * --generate-cli-skeleton
 
 
-- <details><summary>create-channel</summary>
+- **<details><summary>create-channel</summary><blockquote>**
 
   * --description
   * --id
@@ -24,7 +20,7 @@ mediapackage
   * --generate-cli-skeleton
 
 
-- <details><summary>create-harvest-job</summary>
+- **<details><summary>create-harvest-job</summary><blockquote>**
 
   * --end-time
   * --id
@@ -36,7 +32,7 @@ mediapackage
   * --generate-cli-skeleton
 
 
-- <details><summary>create-origin-endpoint</summary>
+- **<details><summary>create-origin-endpoint</summary><blockquote>**
 
   * --authorization
   * --channel-id
@@ -57,7 +53,7 @@ mediapackage
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-channel</summary>
+- **<details><summary>delete-channel</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -65,7 +61,7 @@ mediapackage
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-origin-endpoint</summary>
+- **<details><summary>delete-origin-endpoint</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -73,7 +69,7 @@ mediapackage
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-channel</summary>
+- **<details><summary>describe-channel</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -81,7 +77,7 @@ mediapackage
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-harvest-job</summary>
+- **<details><summary>describe-harvest-job</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -89,7 +85,7 @@ mediapackage
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-origin-endpoint</summary>
+- **<details><summary>describe-origin-endpoint</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -97,12 +93,12 @@ mediapackage
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-channels</summary>
+- **<details><summary>list-channels</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -112,7 +108,7 @@ mediapackage
   * --generate-cli-skeleton
 
 
-- <details><summary>list-harvest-jobs</summary>
+- **<details><summary>list-harvest-jobs</summary><blockquote>**
 
   * --include-channel-id
   * --include-status
@@ -124,7 +120,7 @@ mediapackage
   * --generate-cli-skeleton
 
 
-- <details><summary>list-origin-endpoints</summary>
+- **<details><summary>list-origin-endpoints</summary><blockquote>**
 
   * --channel-id
   * --cli-input-json
@@ -135,7 +131,7 @@ mediapackage
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -143,7 +139,7 @@ mediapackage
   * --generate-cli-skeleton
 
 
-- <details><summary>rotate-ingest-endpoint-credentials</summary>
+- **<details><summary>rotate-ingest-endpoint-credentials</summary><blockquote>**
 
   * --id
   * --ingest-endpoint-id
@@ -152,7 +148,7 @@ mediapackage
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -161,7 +157,7 @@ mediapackage
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -170,7 +166,7 @@ mediapackage
   * --generate-cli-skeleton
 
 
-- <details><summary>update-channel</summary>
+- **<details><summary>update-channel</summary><blockquote>**
 
   * --description
   * --id
@@ -179,7 +175,7 @@ mediapackage
   * --generate-cli-skeleton
 
 
-- <details><summary>update-origin-endpoint</summary>
+- **<details><summary>update-origin-endpoint</summary><blockquote>**
 
   * --authorization
   * --cmaf-package
@@ -198,5 +194,23 @@ mediapackage
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

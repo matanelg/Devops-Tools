@@ -1,10 +1,6 @@
-<details>
+<details><summary>pinpoint</summary><blockquote>
 
-<summary>
-pinpoint
-</summary>
-
-- <details><summary>create-app</summary>
+- **<details><summary>create-app</summary><blockquote>**
 
   * --create-application-request
   * --cli-input-json
@@ -12,7 +8,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>create-campaign</summary>
+- **<details><summary>create-campaign</summary><blockquote>**
 
   * --application-id
   * --write-campaign-request
@@ -21,7 +17,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>create-email-template</summary>
+- **<details><summary>create-email-template</summary><blockquote>**
 
   * --email-template-request
   * --template-name
@@ -30,7 +26,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>create-export-job</summary>
+- **<details><summary>create-export-job</summary><blockquote>**
 
   * --application-id
   * --export-job-request
@@ -39,7 +35,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>create-import-job</summary>
+- **<details><summary>create-import-job</summary><blockquote>**
 
   * --application-id
   * --import-job-request
@@ -48,7 +44,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>create-journey</summary>
+- **<details><summary>create-journey</summary><blockquote>**
 
   * --application-id
   * --write-journey-request
@@ -57,7 +53,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>create-push-template</summary>
+- **<details><summary>create-push-template</summary><blockquote>**
 
   * --push-notification-template-request
   * --template-name
@@ -66,7 +62,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>create-recommender-configuration</summary>
+- **<details><summary>create-recommender-configuration</summary><blockquote>**
 
   * --create-recommender-configuration
   * --cli-input-json
@@ -74,7 +70,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>create-segment</summary>
+- **<details><summary>create-segment</summary><blockquote>**
 
   * --application-id
   * --write-segment-request
@@ -83,7 +79,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>create-sms-template</summary>
+- **<details><summary>create-sms-template</summary><blockquote>**
 
   * --sms-template-request
   * --template-name
@@ -92,7 +88,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>create-voice-template</summary>
+- **<details><summary>create-voice-template</summary><blockquote>**
 
   * --template-name
   * --voice-template-request
@@ -101,7 +97,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-adm-channel</summary>
+- **<details><summary>delete-adm-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -109,7 +105,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-apns-channel</summary>
+- **<details><summary>delete-apns-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -117,7 +113,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-apns-sandbox-channel</summary>
+- **<details><summary>delete-apns-sandbox-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -125,7 +121,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-apns-voip-channel</summary>
+- **<details><summary>delete-apns-voip-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -133,7 +129,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-apns-voip-sandbox-channel</summary>
+- **<details><summary>delete-apns-voip-sandbox-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -141,7 +137,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-app</summary>
+- **<details><summary>delete-app</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -149,7 +145,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-baidu-channel</summary>
+- **<details><summary>delete-baidu-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -157,7 +153,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-campaign</summary>
+- **<details><summary>delete-campaign</summary><blockquote>**
 
   * --application-id
   * --campaign-id
@@ -166,7 +162,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-email-channel</summary>
+- **<details><summary>delete-email-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -174,7 +170,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-email-template</summary>
+- **<details><summary>delete-email-template</summary><blockquote>**
 
   * --template-name
   * --template-version
@@ -183,7 +179,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-endpoint</summary>
+- **<details><summary>delete-endpoint</summary><blockquote>**
 
   * --application-id
   * --endpoint-id
@@ -192,7 +188,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-event-stream</summary>
+- **<details><summary>delete-event-stream</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -200,7 +196,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-gcm-channel</summary>
+- **<details><summary>delete-gcm-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -208,7 +204,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-journey</summary>
+- **<details><summary>delete-journey</summary><blockquote>**
 
   * --application-id
   * --journey-id
@@ -217,7 +213,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-push-template</summary>
+- **<details><summary>delete-push-template</summary><blockquote>**
 
   * --template-name
   * --template-version
@@ -226,7 +222,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-recommender-configuration</summary>
+- **<details><summary>delete-recommender-configuration</summary><blockquote>**
 
   * --recommender-id
   * --cli-input-json
@@ -234,7 +230,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-segment</summary>
+- **<details><summary>delete-segment</summary><blockquote>**
 
   * --application-id
   * --segment-id
@@ -243,7 +239,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-sms-channel</summary>
+- **<details><summary>delete-sms-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -251,7 +247,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-sms-template</summary>
+- **<details><summary>delete-sms-template</summary><blockquote>**
 
   * --template-name
   * --template-version
@@ -260,7 +256,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user-endpoints</summary>
+- **<details><summary>delete-user-endpoints</summary><blockquote>**
 
   * --application-id
   * --user-id
@@ -269,7 +265,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-voice-channel</summary>
+- **<details><summary>delete-voice-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -277,7 +273,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-voice-template</summary>
+- **<details><summary>delete-voice-template</summary><blockquote>**
 
   * --template-name
   * --template-version
@@ -286,7 +282,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-adm-channel</summary>
+- **<details><summary>get-adm-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -294,7 +290,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-apns-channel</summary>
+- **<details><summary>get-apns-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -302,7 +298,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-apns-sandbox-channel</summary>
+- **<details><summary>get-apns-sandbox-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -310,7 +306,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-apns-voip-channel</summary>
+- **<details><summary>get-apns-voip-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -318,7 +314,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-apns-voip-sandbox-channel</summary>
+- **<details><summary>get-apns-voip-sandbox-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -326,7 +322,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-app</summary>
+- **<details><summary>get-app</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -334,7 +330,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-application-date-range-kpi</summary>
+- **<details><summary>get-application-date-range-kpi</summary><blockquote>**
 
   * --application-id
   * --end-time
@@ -347,7 +343,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-application-settings</summary>
+- **<details><summary>get-application-settings</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -355,7 +351,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-apps</summary>
+- **<details><summary>get-apps</summary><blockquote>**
 
   * --page-size
   * --token
@@ -364,7 +360,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-baidu-channel</summary>
+- **<details><summary>get-baidu-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -372,7 +368,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-campaign</summary>
+- **<details><summary>get-campaign</summary><blockquote>**
 
   * --application-id
   * --campaign-id
@@ -381,7 +377,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-campaign-activities</summary>
+- **<details><summary>get-campaign-activities</summary><blockquote>**
 
   * --application-id
   * --campaign-id
@@ -392,7 +388,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-campaign-date-range-kpi</summary>
+- **<details><summary>get-campaign-date-range-kpi</summary><blockquote>**
 
   * --application-id
   * --campaign-id
@@ -406,7 +402,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-campaigns</summary>
+- **<details><summary>get-campaigns</summary><blockquote>**
 
   * --application-id
   * --page-size
@@ -416,7 +412,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-campaign-version</summary>
+- **<details><summary>get-campaign-version</summary><blockquote>**
 
   * --application-id
   * --campaign-id
@@ -426,7 +422,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-campaign-versions</summary>
+- **<details><summary>get-campaign-versions</summary><blockquote>**
 
   * --application-id
   * --campaign-id
@@ -437,7 +433,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-channels</summary>
+- **<details><summary>get-channels</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -445,7 +441,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-email-channel</summary>
+- **<details><summary>get-email-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -453,7 +449,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-email-template</summary>
+- **<details><summary>get-email-template</summary><blockquote>**
 
   * --template-name
   * --template-version
@@ -462,7 +458,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-endpoint</summary>
+- **<details><summary>get-endpoint</summary><blockquote>**
 
   * --application-id
   * --endpoint-id
@@ -471,7 +467,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-event-stream</summary>
+- **<details><summary>get-event-stream</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -479,7 +475,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-export-job</summary>
+- **<details><summary>get-export-job</summary><blockquote>**
 
   * --application-id
   * --job-id
@@ -488,7 +484,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-export-jobs</summary>
+- **<details><summary>get-export-jobs</summary><blockquote>**
 
   * --application-id
   * --page-size
@@ -498,7 +494,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-gcm-channel</summary>
+- **<details><summary>get-gcm-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -506,7 +502,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-import-job</summary>
+- **<details><summary>get-import-job</summary><blockquote>**
 
   * --application-id
   * --job-id
@@ -515,7 +511,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-import-jobs</summary>
+- **<details><summary>get-import-jobs</summary><blockquote>**
 
   * --application-id
   * --page-size
@@ -525,7 +521,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-journey</summary>
+- **<details><summary>get-journey</summary><blockquote>**
 
   * --application-id
   * --journey-id
@@ -534,7 +530,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-journey-date-range-kpi</summary>
+- **<details><summary>get-journey-date-range-kpi</summary><blockquote>**
 
   * --application-id
   * --end-time
@@ -548,7 +544,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-journey-execution-activity-metrics</summary>
+- **<details><summary>get-journey-execution-activity-metrics</summary><blockquote>**
 
   * --application-id
   * --journey-activity-id
@@ -560,7 +556,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-journey-execution-metrics</summary>
+- **<details><summary>get-journey-execution-metrics</summary><blockquote>**
 
   * --application-id
   * --journey-id
@@ -571,7 +567,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-push-template</summary>
+- **<details><summary>get-push-template</summary><blockquote>**
 
   * --template-name
   * --template-version
@@ -580,7 +576,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-recommender-configuration</summary>
+- **<details><summary>get-recommender-configuration</summary><blockquote>**
 
   * --recommender-id
   * --cli-input-json
@@ -588,7 +584,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-recommender-configurations</summary>
+- **<details><summary>get-recommender-configurations</summary><blockquote>**
 
   * --page-size
   * --token
@@ -597,7 +593,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-segment</summary>
+- **<details><summary>get-segment</summary><blockquote>**
 
   * --application-id
   * --segment-id
@@ -606,18 +602,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-segment-export-jobs</summary>
-
-  * --application-id
-  * --page-size
-  * --segment-id
-  * --token
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>get-segment-import-jobs</summary>
+- **<details><summary>get-segment-export-jobs</summary><blockquote>**
 
   * --application-id
   * --page-size
@@ -628,7 +613,18 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-segments</summary>
+- **<details><summary>get-segment-import-jobs</summary><blockquote>**
+
+  * --application-id
+  * --page-size
+  * --segment-id
+  * --token
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>get-segments</summary><blockquote>**
 
   * --application-id
   * --page-size
@@ -638,7 +634,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-segment-version</summary>
+- **<details><summary>get-segment-version</summary><blockquote>**
 
   * --application-id
   * --segment-id
@@ -648,7 +644,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-segment-versions</summary>
+- **<details><summary>get-segment-versions</summary><blockquote>**
 
   * --application-id
   * --page-size
@@ -659,7 +655,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-sms-channel</summary>
+- **<details><summary>get-sms-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -667,7 +663,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-sms-template</summary>
+- **<details><summary>get-sms-template</summary><blockquote>**
 
   * --template-name
   * --template-version
@@ -676,7 +672,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-user-endpoints</summary>
+- **<details><summary>get-user-endpoints</summary><blockquote>**
 
   * --application-id
   * --user-id
@@ -685,7 +681,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-voice-channel</summary>
+- **<details><summary>get-voice-channel</summary><blockquote>**
 
   * --application-id
   * --cli-input-json
@@ -693,7 +689,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>get-voice-template</summary>
+- **<details><summary>get-voice-template</summary><blockquote>**
 
   * --template-name
   * --template-version
@@ -702,12 +698,12 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-journeys</summary>
+- **<details><summary>list-journeys</summary><blockquote>**
 
   * --application-id
   * --page-size
@@ -717,7 +713,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -725,7 +721,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>list-templates</summary>
+- **<details><summary>list-templates</summary><blockquote>**
 
   * --next-token
   * --page-size
@@ -736,7 +732,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>list-template-versions</summary>
+- **<details><summary>list-template-versions</summary><blockquote>**
 
   * --next-token
   * --page-size
@@ -747,7 +743,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>phone-number-validate</summary>
+- **<details><summary>phone-number-validate</summary><blockquote>**
 
   * --number-validate-request
   * --cli-input-json
@@ -755,7 +751,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>put-events</summary>
+- **<details><summary>put-events</summary><blockquote>**
 
   * --application-id
   * --events-request
@@ -764,7 +760,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>put-event-stream</summary>
+- **<details><summary>put-event-stream</summary><blockquote>**
 
   * --application-id
   * --write-event-stream
@@ -773,7 +769,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-attributes</summary>
+- **<details><summary>remove-attributes</summary><blockquote>**
 
   * --application-id
   * --attribute-type
@@ -783,7 +779,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>send-messages</summary>
+- **<details><summary>send-messages</summary><blockquote>**
 
   * --application-id
   * --message-request
@@ -792,7 +788,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>send-users-messages</summary>
+- **<details><summary>send-users-messages</summary><blockquote>**
 
   * --application-id
   * --send-users-message-request
@@ -801,7 +797,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags-model
@@ -810,7 +806,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -819,7 +815,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-adm-channel</summary>
+- **<details><summary>update-adm-channel</summary><blockquote>**
 
   * --adm-channel-request
   * --application-id
@@ -828,7 +824,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-apns-channel</summary>
+- **<details><summary>update-apns-channel</summary><blockquote>**
 
   * --apns-channel-request
   * --application-id
@@ -837,7 +833,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-apns-sandbox-channel</summary>
+- **<details><summary>update-apns-sandbox-channel</summary><blockquote>**
 
   * --apns-sandbox-channel-request
   * --application-id
@@ -846,7 +842,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-apns-voip-channel</summary>
+- **<details><summary>update-apns-voip-channel</summary><blockquote>**
 
   * --apns-voip-channel-request
   * --application-id
@@ -855,7 +851,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-apns-voip-sandbox-channel</summary>
+- **<details><summary>update-apns-voip-sandbox-channel</summary><blockquote>**
 
   * --apns-voip-sandbox-channel-request
   * --application-id
@@ -864,7 +860,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-application-settings</summary>
+- **<details><summary>update-application-settings</summary><blockquote>**
 
   * --application-id
   * --write-application-settings-request
@@ -873,7 +869,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-baidu-channel</summary>
+- **<details><summary>update-baidu-channel</summary><blockquote>**
 
   * --application-id
   * --baidu-channel-request
@@ -882,7 +878,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-campaign</summary>
+- **<details><summary>update-campaign</summary><blockquote>**
 
   * --application-id
   * --campaign-id
@@ -892,7 +888,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-email-channel</summary>
+- **<details><summary>update-email-channel</summary><blockquote>**
 
   * --application-id
   * --email-channel-request
@@ -901,7 +897,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-email-template</summary>
+- **<details><summary>update-email-template</summary><blockquote>**
 
   * --create-new-version
   * --no-create-new-version
@@ -913,7 +909,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-endpoint</summary>
+- **<details><summary>update-endpoint</summary><blockquote>**
 
   * --application-id
   * --endpoint-id
@@ -923,7 +919,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-endpoints-batch</summary>
+- **<details><summary>update-endpoints-batch</summary><blockquote>**
 
   * --application-id
   * --endpoint-batch-request
@@ -932,7 +928,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-gcm-channel</summary>
+- **<details><summary>update-gcm-channel</summary><blockquote>**
 
   * --application-id
   * --gcm-channel-request
@@ -941,7 +937,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-journey</summary>
+- **<details><summary>update-journey</summary><blockquote>**
 
   * --application-id
   * --journey-id
@@ -951,7 +947,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-journey-state</summary>
+- **<details><summary>update-journey-state</summary><blockquote>**
 
   * --application-id
   * --journey-id
@@ -961,7 +957,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-push-template</summary>
+- **<details><summary>update-push-template</summary><blockquote>**
 
   * --create-new-version
   * --no-create-new-version
@@ -973,7 +969,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-recommender-configuration</summary>
+- **<details><summary>update-recommender-configuration</summary><blockquote>**
 
   * --recommender-id
   * --update-recommender-configuration
@@ -982,7 +978,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-segment</summary>
+- **<details><summary>update-segment</summary><blockquote>**
 
   * --application-id
   * --segment-id
@@ -992,7 +988,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-sms-channel</summary>
+- **<details><summary>update-sms-channel</summary><blockquote>**
 
   * --application-id
   * --sms-channel-request
@@ -1001,7 +997,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-sms-template</summary>
+- **<details><summary>update-sms-template</summary><blockquote>**
 
   * --create-new-version
   * --no-create-new-version
@@ -1013,7 +1009,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-template-active-version</summary>
+- **<details><summary>update-template-active-version</summary><blockquote>**
 
   * --template-active-version-request
   * --template-name
@@ -1023,7 +1019,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-voice-channel</summary>
+- **<details><summary>update-voice-channel</summary><blockquote>**
 
   * --application-id
   * --voice-channel-request
@@ -1032,7 +1028,7 @@ pinpoint
   * --generate-cli-skeleton
 
 
-- <details><summary>update-voice-template</summary>
+- **<details><summary>update-voice-template</summary><blockquote>**
 
   * --create-new-version
   * --no-create-new-version
@@ -1044,5 +1040,117 @@ pinpoint
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>sso-admin</summary><blockquote>
 
-<summary>
-sso-admin
-</summary>
-
-- <details><summary>attach-managed-policy-to-permission-set</summary>
+- **<details><summary>attach-managed-policy-to-permission-set</summary><blockquote>**
 
   * --instance-arn
   * --permission-set-arn
@@ -14,7 +10,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>create-account-assignment</summary>
+- **<details><summary>create-account-assignment</summary><blockquote>**
 
   * --instance-arn
   * --target-id
@@ -27,7 +23,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>create-instance-access-control-attribute-configuration</summary>
+- **<details><summary>create-instance-access-control-attribute-configuration</summary><blockquote>**
 
   * --instance-arn
   * --instance-access-control-attribute-configuration
@@ -36,7 +32,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>create-permission-set</summary>
+- **<details><summary>create-permission-set</summary><blockquote>**
 
   * --name
   * --description
@@ -49,7 +45,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-account-assignment</summary>
+- **<details><summary>delete-account-assignment</summary><blockquote>**
 
   * --instance-arn
   * --target-id
@@ -62,7 +58,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-inline-policy-from-permission-set</summary>
+- **<details><summary>delete-inline-policy-from-permission-set</summary><blockquote>**
 
   * --instance-arn
   * --permission-set-arn
@@ -71,7 +67,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-instance-access-control-attribute-configuration</summary>
+- **<details><summary>delete-instance-access-control-attribute-configuration</summary><blockquote>**
 
   * --instance-arn
   * --cli-input-json
@@ -79,7 +75,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-permission-set</summary>
+- **<details><summary>delete-permission-set</summary><blockquote>**
 
   * --instance-arn
   * --permission-set-arn
@@ -88,7 +84,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-account-assignment-creation-status</summary>
+- **<details><summary>describe-account-assignment-creation-status</summary><blockquote>**
 
   * --instance-arn
   * --account-assignment-creation-request-id
@@ -97,7 +93,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-account-assignment-deletion-status</summary>
+- **<details><summary>describe-account-assignment-deletion-status</summary><blockquote>**
 
   * --instance-arn
   * --account-assignment-deletion-request-id
@@ -106,7 +102,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instance-access-control-attribute-configuration</summary>
+- **<details><summary>describe-instance-access-control-attribute-configuration</summary><blockquote>**
 
   * --instance-arn
   * --cli-input-json
@@ -114,7 +110,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-permission-set</summary>
+- **<details><summary>describe-permission-set</summary><blockquote>**
 
   * --instance-arn
   * --permission-set-arn
@@ -123,7 +119,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-permission-set-provisioning-status</summary>
+- **<details><summary>describe-permission-set-provisioning-status</summary><blockquote>**
 
   * --instance-arn
   * --provision-permission-set-request-id
@@ -132,7 +128,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-managed-policy-from-permission-set</summary>
+- **<details><summary>detach-managed-policy-from-permission-set</summary><blockquote>**
 
   * --instance-arn
   * --permission-set-arn
@@ -142,7 +138,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>get-inline-policy-for-permission-set</summary>
+- **<details><summary>get-inline-policy-for-permission-set</summary><blockquote>**
 
   * --instance-arn
   * --permission-set-arn
@@ -151,12 +147,12 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-account-assignment-creation-status</summary>
+- **<details><summary>list-account-assignment-creation-status</summary><blockquote>**
 
   * --instance-arn
   * --filter
@@ -168,7 +164,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>list-account-assignment-deletion-status</summary>
+- **<details><summary>list-account-assignment-deletion-status</summary><blockquote>**
 
   * --instance-arn
   * --filter
@@ -180,7 +176,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>list-account-assignments</summary>
+- **<details><summary>list-account-assignments</summary><blockquote>**
 
   * --instance-arn
   * --account-id
@@ -193,7 +189,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>list-accounts-for-provisioned-permission-set</summary>
+- **<details><summary>list-accounts-for-provisioned-permission-set</summary><blockquote>**
 
   * --instance-arn
   * --permission-set-arn
@@ -206,7 +202,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>list-instances</summary>
+- **<details><summary>list-instances</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -216,7 +212,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>list-managed-policies-in-permission-set</summary>
+- **<details><summary>list-managed-policies-in-permission-set</summary><blockquote>**
 
   * --instance-arn
   * --permission-set-arn
@@ -228,7 +224,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>list-permission-set-provisioning-status</summary>
+- **<details><summary>list-permission-set-provisioning-status</summary><blockquote>**
 
   * --instance-arn
   * --filter
@@ -240,7 +236,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>list-permission-sets</summary>
+- **<details><summary>list-permission-sets</summary><blockquote>**
 
   * --instance-arn
   * --cli-input-json
@@ -251,7 +247,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>list-permission-sets-provisioned-to-account</summary>
+- **<details><summary>list-permission-sets-provisioned-to-account</summary><blockquote>**
 
   * --instance-arn
   * --account-id
@@ -264,7 +260,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --instance-arn
   * --resource-arn
@@ -275,7 +271,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>provision-permission-set</summary>
+- **<details><summary>provision-permission-set</summary><blockquote>**
 
   * --instance-arn
   * --permission-set-arn
@@ -286,7 +282,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>put-inline-policy-to-permission-set</summary>
+- **<details><summary>put-inline-policy-to-permission-set</summary><blockquote>**
 
   * --instance-arn
   * --permission-set-arn
@@ -296,7 +292,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --instance-arn
   * --resource-arn
@@ -306,7 +302,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --instance-arn
   * --resource-arn
@@ -316,7 +312,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>update-instance-access-control-attribute-configuration</summary>
+- **<details><summary>update-instance-access-control-attribute-configuration</summary><blockquote>**
 
   * --instance-arn
   * --instance-access-control-attribute-configuration
@@ -325,7 +321,7 @@ sso-admin
   * --generate-cli-skeleton
 
 
-- <details><summary>update-permission-set</summary>
+- **<details><summary>update-permission-set</summary><blockquote>**
 
   * --instance-arn
   * --permission-set-arn
@@ -337,5 +333,36 @@ sso-admin
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

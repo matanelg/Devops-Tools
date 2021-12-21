@@ -1,10 +1,6 @@
-<details>
+<details><summary>honeycode</summary><blockquote>
 
-<summary>
-honeycode
-</summary>
-
-- <details><summary>batch-create-table-rows</summary>
+- **<details><summary>batch-create-table-rows</summary><blockquote>**
 
   * --workbook-id
   * --table-id
@@ -15,7 +11,7 @@ honeycode
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-delete-table-rows</summary>
+- **<details><summary>batch-delete-table-rows</summary><blockquote>**
 
   * --workbook-id
   * --table-id
@@ -26,7 +22,7 @@ honeycode
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-update-table-rows</summary>
+- **<details><summary>batch-update-table-rows</summary><blockquote>**
 
   * --workbook-id
   * --table-id
@@ -37,7 +33,7 @@ honeycode
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-upsert-table-rows</summary>
+- **<details><summary>batch-upsert-table-rows</summary><blockquote>**
 
   * --workbook-id
   * --table-id
@@ -48,7 +44,7 @@ honeycode
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-table-data-import-job</summary>
+- **<details><summary>describe-table-data-import-job</summary><blockquote>**
 
   * --workbook-id
   * --table-id
@@ -58,7 +54,7 @@ honeycode
   * --generate-cli-skeleton
 
 
-- <details><summary>get-screen-data</summary>
+- **<details><summary>get-screen-data</summary><blockquote>**
 
   * --workbook-id
   * --app-id
@@ -71,12 +67,12 @@ honeycode
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>invoke-screen-automation</summary>
+- **<details><summary>invoke-screen-automation</summary><blockquote>**
 
   * --workbook-id
   * --app-id
@@ -90,7 +86,7 @@ honeycode
   * --generate-cli-skeleton
 
 
-- <details><summary>list-table-columns</summary>
+- **<details><summary>list-table-columns</summary><blockquote>**
 
   * --workbook-id
   * --table-id
@@ -101,7 +97,7 @@ honeycode
   * --generate-cli-skeleton
 
 
-- <details><summary>list-table-rows</summary>
+- **<details><summary>list-table-rows</summary><blockquote>**
 
   * --workbook-id
   * --table-id
@@ -114,7 +110,7 @@ honeycode
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tables</summary>
+- **<details><summary>list-tables</summary><blockquote>**
 
   * --workbook-id
   * --cli-input-json
@@ -125,7 +121,7 @@ honeycode
   * --generate-cli-skeleton
 
 
-- <details><summary>query-table-rows</summary>
+- **<details><summary>query-table-rows</summary><blockquote>**
 
   * --workbook-id
   * --table-id
@@ -138,7 +134,7 @@ honeycode
   * --generate-cli-skeleton
 
 
-- <details><summary>start-table-data-import-job</summary>
+- **<details><summary>start-table-data-import-job</summary><blockquote>**
 
   * --workbook-id
   * --data-source
@@ -151,5 +147,17 @@ honeycode
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

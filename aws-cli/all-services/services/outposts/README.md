@@ -1,10 +1,6 @@
-<details>
+<details><summary>outposts</summary><blockquote>
 
-<summary>
-outposts
-</summary>
-
-- <details><summary>create-outpost</summary>
+- **<details><summary>create-outpost</summary><blockquote>**
 
   * --name
   * --description
@@ -17,7 +13,7 @@ outposts
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-outpost</summary>
+- **<details><summary>delete-outpost</summary><blockquote>**
 
   * --outpost-id
   * --cli-input-json
@@ -25,7 +21,7 @@ outposts
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-site</summary>
+- **<details><summary>delete-site</summary><blockquote>**
 
   * --site-id
   * --cli-input-json
@@ -33,7 +29,7 @@ outposts
   * --generate-cli-skeleton
 
 
-- <details><summary>get-outpost</summary>
+- **<details><summary>get-outpost</summary><blockquote>**
 
   * --outpost-id
   * --cli-input-json
@@ -41,7 +37,7 @@ outposts
   * --generate-cli-skeleton
 
 
-- <details><summary>get-outpost-instance-types</summary>
+- **<details><summary>get-outpost-instance-types</summary><blockquote>**
 
   * --outpost-id
   * --next-token
@@ -51,12 +47,12 @@ outposts
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-outposts</summary>
+- **<details><summary>list-outposts</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -68,7 +64,7 @@ outposts
   * --generate-cli-skeleton
 
 
-- <details><summary>list-sites</summary>
+- **<details><summary>list-sites</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -77,7 +73,7 @@ outposts
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -85,7 +81,7 @@ outposts
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -94,7 +90,7 @@ outposts
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -103,5 +99,15 @@ outposts
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

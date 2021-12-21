@@ -1,10 +1,6 @@
-<details>
+<details><summary>gamelift</summary><blockquote>
 
-<summary>
-gamelift
-</summary>
-
-- <details><summary>accept-match</summary>
+- **<details><summary>accept-match</summary><blockquote>**
 
   * --ticket-id
   * --player-ids
@@ -14,7 +10,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>claim-game-server</summary>
+- **<details><summary>claim-game-server</summary><blockquote>**
 
   * --game-server-group-name
   * --game-server-id
@@ -24,7 +20,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-alias</summary>
+- **<details><summary>create-alias</summary><blockquote>**
 
   * --name
   * --description
@@ -35,7 +31,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-build</summary>
+- **<details><summary>create-build</summary><blockquote>**
 
   * --name
   * --storage-location
@@ -47,7 +43,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-fleet</summary>
+- **<details><summary>create-fleet</summary><blockquote>**
 
   * --name
   * --description
@@ -74,7 +70,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-fleet-locations</summary>
+- **<details><summary>create-fleet-locations</summary><blockquote>**
 
   * --fleet-id
   * --locations
@@ -83,7 +79,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-game-server-group</summary>
+- **<details><summary>create-game-server-group</summary><blockquote>**
 
   * --game-server-group-name
   * --role-arn
@@ -101,7 +97,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-game-session</summary>
+- **<details><summary>create-game-session</summary><blockquote>**
 
   * --fleet-id
   * --alias-id
@@ -118,7 +114,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-game-session-queue</summary>
+- **<details><summary>create-game-session-queue</summary><blockquote>**
 
   * --name
   * --timeout-in-seconds
@@ -134,7 +130,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-matchmaking-configuration</summary>
+- **<details><summary>create-matchmaking-configuration</summary><blockquote>**
 
   * --name
   * --description
@@ -157,7 +153,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-matchmaking-rule-set</summary>
+- **<details><summary>create-matchmaking-rule-set</summary><blockquote>**
 
   * --name
   * --rule-set-body
@@ -167,7 +163,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-player-session</summary>
+- **<details><summary>create-player-session</summary><blockquote>**
 
   * --game-session-id
   * --player-id
@@ -177,7 +173,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-player-sessions</summary>
+- **<details><summary>create-player-sessions</summary><blockquote>**
 
   * --game-session-id
   * --player-ids
@@ -187,7 +183,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-script</summary>
+- **<details><summary>create-script</summary><blockquote>**
 
   * --name
   * --storage-location
@@ -199,7 +195,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-vpc-peering-authorization</summary>
+- **<details><summary>create-vpc-peering-authorization</summary><blockquote>**
 
   * --game-lift-aws-account-id
   * --peer-vpc-id
@@ -208,7 +204,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>create-vpc-peering-connection</summary>
+- **<details><summary>create-vpc-peering-connection</summary><blockquote>**
 
   * --fleet-id
   * --peer-vpc-aws-account-id
@@ -218,7 +214,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-alias</summary>
+- **<details><summary>delete-alias</summary><blockquote>**
 
   * --alias-id
   * --cli-input-json
@@ -226,7 +222,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-build</summary>
+- **<details><summary>delete-build</summary><blockquote>**
 
   * --build-id
   * --cli-input-json
@@ -234,7 +230,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-fleet</summary>
+- **<details><summary>delete-fleet</summary><blockquote>**
 
   * --fleet-id
   * --cli-input-json
@@ -242,7 +238,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-fleet-locations</summary>
+- **<details><summary>delete-fleet-locations</summary><blockquote>**
 
   * --fleet-id
   * --locations
@@ -251,7 +247,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-game-server-group</summary>
+- **<details><summary>delete-game-server-group</summary><blockquote>**
 
   * --game-server-group-name
   * --delete-option
@@ -260,7 +256,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-game-session-queue</summary>
+- **<details><summary>delete-game-session-queue</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -268,7 +264,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-matchmaking-configuration</summary>
+- **<details><summary>delete-matchmaking-configuration</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -276,7 +272,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-matchmaking-rule-set</summary>
+- **<details><summary>delete-matchmaking-rule-set</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -284,7 +280,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-scaling-policy</summary>
+- **<details><summary>delete-scaling-policy</summary><blockquote>**
 
   * --name
   * --fleet-id
@@ -293,7 +289,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-script</summary>
+- **<details><summary>delete-script</summary><blockquote>**
 
   * --script-id
   * --cli-input-json
@@ -301,7 +297,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-vpc-peering-authorization</summary>
+- **<details><summary>delete-vpc-peering-authorization</summary><blockquote>**
 
   * --game-lift-aws-account-id
   * --peer-vpc-id
@@ -310,7 +306,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-vpc-peering-connection</summary>
+- **<details><summary>delete-vpc-peering-connection</summary><blockquote>**
 
   * --fleet-id
   * --vpc-peering-connection-id
@@ -319,7 +315,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-game-server</summary>
+- **<details><summary>deregister-game-server</summary><blockquote>**
 
   * --game-server-group-name
   * --game-server-id
@@ -328,7 +324,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-alias</summary>
+- **<details><summary>describe-alias</summary><blockquote>**
 
   * --alias-id
   * --cli-input-json
@@ -336,7 +332,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-build</summary>
+- **<details><summary>describe-build</summary><blockquote>**
 
   * --build-id
   * --cli-input-json
@@ -344,7 +340,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-ec2-instance-limits</summary>
+- **<details><summary>describe-ec2-instance-limits</summary><blockquote>**
 
   * --ec2-instance-type
   * --location
@@ -353,7 +349,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fleet-attributes</summary>
+- **<details><summary>describe-fleet-attributes</summary><blockquote>**
 
   * --fleet-ids
   * --cli-input-json
@@ -364,7 +360,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fleet-capacity</summary>
+- **<details><summary>describe-fleet-capacity</summary><blockquote>**
 
   * --fleet-ids
   * --cli-input-json
@@ -375,7 +371,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fleet-events</summary>
+- **<details><summary>describe-fleet-events</summary><blockquote>**
 
   * --fleet-id
   * --start-time
@@ -388,7 +384,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fleet-location-attributes</summary>
+- **<details><summary>describe-fleet-location-attributes</summary><blockquote>**
 
   * --fleet-id
   * --locations
@@ -399,7 +395,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fleet-location-capacity</summary>
+- **<details><summary>describe-fleet-location-capacity</summary><blockquote>**
 
   * --fleet-id
   * --location
@@ -408,7 +404,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fleet-location-utilization</summary>
+- **<details><summary>describe-fleet-location-utilization</summary><blockquote>**
 
   * --fleet-id
   * --location
@@ -417,7 +413,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fleet-port-settings</summary>
+- **<details><summary>describe-fleet-port-settings</summary><blockquote>**
 
   * --fleet-id
   * --location
@@ -426,7 +422,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fleet-utilization</summary>
+- **<details><summary>describe-fleet-utilization</summary><blockquote>**
 
   * --fleet-ids
   * --cli-input-json
@@ -437,7 +433,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-game-server</summary>
+- **<details><summary>describe-game-server</summary><blockquote>**
 
   * --game-server-group-name
   * --game-server-id
@@ -446,7 +442,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-game-server-group</summary>
+- **<details><summary>describe-game-server-group</summary><blockquote>**
 
   * --game-server-group-name
   * --cli-input-json
@@ -454,7 +450,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-game-server-instances</summary>
+- **<details><summary>describe-game-server-instances</summary><blockquote>**
 
   * --game-server-group-name
   * --instance-ids
@@ -466,7 +462,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-game-session-details</summary>
+- **<details><summary>describe-game-session-details</summary><blockquote>**
 
   * --fleet-id
   * --game-session-id
@@ -481,7 +477,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-game-session-placement</summary>
+- **<details><summary>describe-game-session-placement</summary><blockquote>**
 
   * --placement-id
   * --cli-input-json
@@ -489,7 +485,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-game-session-queues</summary>
+- **<details><summary>describe-game-session-queues</summary><blockquote>**
 
   * --names
   * --cli-input-json
@@ -500,7 +496,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-game-sessions</summary>
+- **<details><summary>describe-game-sessions</summary><blockquote>**
 
   * --fleet-id
   * --game-session-id
@@ -515,7 +511,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instances</summary>
+- **<details><summary>describe-instances</summary><blockquote>**
 
   * --fleet-id
   * --instance-id
@@ -528,7 +524,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-matchmaking</summary>
+- **<details><summary>describe-matchmaking</summary><blockquote>**
 
   * --ticket-ids
   * --cli-input-json
@@ -536,7 +532,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-matchmaking-configurations</summary>
+- **<details><summary>describe-matchmaking-configurations</summary><blockquote>**
 
   * --names
   * --rule-set-name
@@ -548,7 +544,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-matchmaking-rule-sets</summary>
+- **<details><summary>describe-matchmaking-rule-sets</summary><blockquote>**
 
   * --names
   * --cli-input-json
@@ -559,7 +555,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-player-sessions</summary>
+- **<details><summary>describe-player-sessions</summary><blockquote>**
 
   * --game-session-id
   * --player-id
@@ -573,7 +569,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-runtime-configuration</summary>
+- **<details><summary>describe-runtime-configuration</summary><blockquote>**
 
   * --fleet-id
   * --cli-input-json
@@ -581,7 +577,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-scaling-policies</summary>
+- **<details><summary>describe-scaling-policies</summary><blockquote>**
 
   * --fleet-id
   * --status-filter
@@ -594,7 +590,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-script</summary>
+- **<details><summary>describe-script</summary><blockquote>**
 
   * --script-id
   * --cli-input-json
@@ -602,14 +598,14 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-vpc-peering-authorizations</summary>
+- **<details><summary>describe-vpc-peering-authorizations</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-vpc-peering-connections</summary>
+- **<details><summary>describe-vpc-peering-connections</summary><blockquote>**
 
   * --fleet-id
   * --cli-input-json
@@ -617,13 +613,13 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>get-game-session-log</summary>
+- **<details><summary>get-game-session-log</summary><blockquote>**
 
   * --game-session-id
   * --save-as
 
 
-- <details><summary>get-game-session-log-url</summary>
+- **<details><summary>get-game-session-log-url</summary><blockquote>**
 
   * --game-session-id
   * --cli-input-json
@@ -631,7 +627,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>get-instance-access</summary>
+- **<details><summary>get-instance-access</summary><blockquote>**
 
   * --fleet-id
   * --instance-id
@@ -640,12 +636,12 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-aliases</summary>
+- **<details><summary>list-aliases</summary><blockquote>**
 
   * --routing-strategy-type
   * --name
@@ -657,7 +653,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>list-builds</summary>
+- **<details><summary>list-builds</summary><blockquote>**
 
   * --status
   * --cli-input-json
@@ -668,7 +664,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>list-fleets</summary>
+- **<details><summary>list-fleets</summary><blockquote>**
 
   * --build-id
   * --script-id
@@ -680,7 +676,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>list-game-server-groups</summary>
+- **<details><summary>list-game-server-groups</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -690,7 +686,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>list-game-servers</summary>
+- **<details><summary>list-game-servers</summary><blockquote>**
 
   * --game-server-group-name
   * --sort-order
@@ -702,7 +698,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>list-scripts</summary>
+- **<details><summary>list-scripts</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -712,7 +708,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -720,7 +716,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>put-scaling-policy</summary>
+- **<details><summary>put-scaling-policy</summary><blockquote>**
 
   * --name
   * --fleet-id
@@ -737,7 +733,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>register-game-server</summary>
+- **<details><summary>register-game-server</summary><blockquote>**
 
   * --game-server-group-name
   * --game-server-id
@@ -749,7 +745,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>request-upload-credentials</summary>
+- **<details><summary>request-upload-credentials</summary><blockquote>**
 
   * --build-id
   * --cli-input-json
@@ -757,7 +753,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>resolve-alias</summary>
+- **<details><summary>resolve-alias</summary><blockquote>**
 
   * --alias-id
   * --cli-input-json
@@ -765,7 +761,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>resume-game-server-group</summary>
+- **<details><summary>resume-game-server-group</summary><blockquote>**
 
   * --game-server-group-name
   * --resume-actions
@@ -774,7 +770,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>search-game-sessions</summary>
+- **<details><summary>search-game-sessions</summary><blockquote>**
 
   * --fleet-id
   * --alias-id
@@ -789,7 +785,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>start-fleet-actions</summary>
+- **<details><summary>start-fleet-actions</summary><blockquote>**
 
   * --fleet-id
   * --actions
@@ -799,7 +795,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>start-game-session-placement</summary>
+- **<details><summary>start-game-session-placement</summary><blockquote>**
 
   * --placement-id
   * --game-session-queue-name
@@ -814,7 +810,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>start-match-backfill</summary>
+- **<details><summary>start-match-backfill</summary><blockquote>**
 
   * --ticket-id
   * --configuration-name
@@ -825,7 +821,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>start-matchmaking</summary>
+- **<details><summary>start-matchmaking</summary><blockquote>**
 
   * --ticket-id
   * --configuration-name
@@ -835,7 +831,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-fleet-actions</summary>
+- **<details><summary>stop-fleet-actions</summary><blockquote>**
 
   * --fleet-id
   * --actions
@@ -845,7 +841,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-game-session-placement</summary>
+- **<details><summary>stop-game-session-placement</summary><blockquote>**
 
   * --placement-id
   * --cli-input-json
@@ -853,7 +849,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-matchmaking</summary>
+- **<details><summary>stop-matchmaking</summary><blockquote>**
 
   * --ticket-id
   * --cli-input-json
@@ -861,7 +857,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>suspend-game-server-group</summary>
+- **<details><summary>suspend-game-server-group</summary><blockquote>**
 
   * --game-server-group-name
   * --suspend-actions
@@ -870,7 +866,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -879,7 +875,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -888,7 +884,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>update-alias</summary>
+- **<details><summary>update-alias</summary><blockquote>**
 
   * --alias-id
   * --name
@@ -899,7 +895,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>update-build</summary>
+- **<details><summary>update-build</summary><blockquote>**
 
   * --build-id
   * --name
@@ -909,7 +905,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>update-fleet-attributes</summary>
+- **<details><summary>update-fleet-attributes</summary><blockquote>**
 
   * --fleet-id
   * --name
@@ -922,7 +918,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>update-fleet-capacity</summary>
+- **<details><summary>update-fleet-capacity</summary><blockquote>**
 
   * --fleet-id
   * --desired-instances
@@ -934,7 +930,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>update-fleet-port-settings</summary>
+- **<details><summary>update-fleet-port-settings</summary><blockquote>**
 
   * --fleet-id
   * --inbound-permission-authorizations
@@ -944,7 +940,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>update-game-server</summary>
+- **<details><summary>update-game-server</summary><blockquote>**
 
   * --game-server-group-name
   * --game-server-id
@@ -956,7 +952,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>update-game-server-group</summary>
+- **<details><summary>update-game-server-group</summary><blockquote>**
 
   * --game-server-group-name
   * --role-arn
@@ -968,7 +964,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>update-game-session</summary>
+- **<details><summary>update-game-session</summary><blockquote>**
 
   * --game-session-id
   * --maximum-player-session-count
@@ -980,7 +976,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>update-game-session-queue</summary>
+- **<details><summary>update-game-session-queue</summary><blockquote>**
 
   * --name
   * --timeout-in-seconds
@@ -995,7 +991,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>update-matchmaking-configuration</summary>
+- **<details><summary>update-matchmaking-configuration</summary><blockquote>**
 
   * --name
   * --description
@@ -1017,7 +1013,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>update-runtime-configuration</summary>
+- **<details><summary>update-runtime-configuration</summary><blockquote>**
 
   * --fleet-id
   * --runtime-configuration
@@ -1026,7 +1022,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>update-script</summary>
+- **<details><summary>update-script</summary><blockquote>**
 
   * --script-id
   * --name
@@ -1038,7 +1034,7 @@ gamelift
   * --generate-cli-skeleton
 
 
-- <details><summary>upload-build</summary>
+- **<details><summary>upload-build</summary><blockquote>**
 
   * --name
   * --build-version
@@ -1046,7 +1042,7 @@ gamelift
   * --operating-system
 
 
-- <details><summary>validate-matchmaking-rule-set</summary>
+- **<details><summary>validate-matchmaking-rule-set</summary><blockquote>**
 
   * --rule-set-body
   * --cli-input-json
@@ -1054,5 +1050,102 @@ gamelift
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

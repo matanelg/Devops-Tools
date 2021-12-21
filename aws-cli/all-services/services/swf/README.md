@@ -1,10 +1,6 @@
-<details>
+<details><summary>swf</summary><blockquote>
 
-<summary>
-swf
-</summary>
-
-- <details><summary>count-closed-workflow-executions</summary>
+- **<details><summary>count-closed-workflow-executions</summary><blockquote>**
 
   * --domain
   * --start-time-filter
@@ -18,7 +14,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>count-open-workflow-executions</summary>
+- **<details><summary>count-open-workflow-executions</summary><blockquote>**
 
   * --domain
   * --start-time-filter
@@ -30,7 +26,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>count-pending-activity-tasks</summary>
+- **<details><summary>count-pending-activity-tasks</summary><blockquote>**
 
   * --domain
   * --task-list
@@ -39,7 +35,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>count-pending-decision-tasks</summary>
+- **<details><summary>count-pending-decision-tasks</summary><blockquote>**
 
   * --domain
   * --task-list
@@ -48,7 +44,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>deprecate-activity-type</summary>
+- **<details><summary>deprecate-activity-type</summary><blockquote>**
 
   * --domain
   * --activity-type
@@ -57,7 +53,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>deprecate-domain</summary>
+- **<details><summary>deprecate-domain</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -65,7 +61,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>deprecate-workflow-type</summary>
+- **<details><summary>deprecate-workflow-type</summary><blockquote>**
 
   * --domain
   * --workflow-type
@@ -74,7 +70,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-activity-type</summary>
+- **<details><summary>describe-activity-type</summary><blockquote>**
 
   * --domain
   * --activity-type
@@ -83,7 +79,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-domain</summary>
+- **<details><summary>describe-domain</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -91,7 +87,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-workflow-execution</summary>
+- **<details><summary>describe-workflow-execution</summary><blockquote>**
 
   * --domain
   * --execution
@@ -100,7 +96,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-workflow-type</summary>
+- **<details><summary>describe-workflow-type</summary><blockquote>**
 
   * --domain
   * --workflow-type
@@ -109,7 +105,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>get-workflow-execution-history</summary>
+- **<details><summary>get-workflow-execution-history</summary><blockquote>**
 
   * --domain
   * --execution
@@ -123,12 +119,12 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-activity-types</summary>
+- **<details><summary>list-activity-types</summary><blockquote>**
 
   * --domain
   * --name
@@ -143,7 +139,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>list-closed-workflow-executions</summary>
+- **<details><summary>list-closed-workflow-executions</summary><blockquote>**
 
   * --domain
   * --start-time-filter
@@ -162,7 +158,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>list-domains</summary>
+- **<details><summary>list-domains</summary><blockquote>**
 
   * --registration-status
   * --reverse-order
@@ -175,7 +171,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>list-open-workflow-executions</summary>
+- **<details><summary>list-open-workflow-executions</summary><blockquote>**
 
   * --domain
   * --start-time-filter
@@ -192,7 +188,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -200,7 +196,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>list-workflow-types</summary>
+- **<details><summary>list-workflow-types</summary><blockquote>**
 
   * --domain
   * --name
@@ -215,7 +211,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>poll-for-activity-task</summary>
+- **<details><summary>poll-for-activity-task</summary><blockquote>**
 
   * --domain
   * --task-list
@@ -225,7 +221,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>poll-for-decision-task</summary>
+- **<details><summary>poll-for-decision-task</summary><blockquote>**
 
   * --domain
   * --task-list
@@ -240,7 +236,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>record-activity-task-heartbeat</summary>
+- **<details><summary>record-activity-task-heartbeat</summary><blockquote>**
 
   * --task-token
   * --details
@@ -249,7 +245,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>register-activity-type</summary>
+- **<details><summary>register-activity-type</summary><blockquote>**
 
   * --domain
   * --name
@@ -266,7 +262,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>register-domain</summary>
+- **<details><summary>register-domain</summary><blockquote>**
 
   * --name
   * --description
@@ -277,7 +273,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>register-workflow-type</summary>
+- **<details><summary>register-workflow-type</summary><blockquote>**
 
   * --domain
   * --name
@@ -294,7 +290,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>request-cancel-workflow-execution</summary>
+- **<details><summary>request-cancel-workflow-execution</summary><blockquote>**
 
   * --domain
   * --workflow-id
@@ -304,7 +300,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>respond-activity-task-canceled</summary>
+- **<details><summary>respond-activity-task-canceled</summary><blockquote>**
 
   * --task-token
   * --details
@@ -313,7 +309,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>respond-activity-task-completed</summary>
+- **<details><summary>respond-activity-task-completed</summary><blockquote>**
 
   * --task-token
   * --result
@@ -322,7 +318,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>respond-activity-task-failed</summary>
+- **<details><summary>respond-activity-task-failed</summary><blockquote>**
 
   * --task-token
   * --reason
@@ -332,7 +328,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>respond-decision-task-completed</summary>
+- **<details><summary>respond-decision-task-completed</summary><blockquote>**
 
   * --task-token
   * --decisions
@@ -342,7 +338,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>signal-workflow-execution</summary>
+- **<details><summary>signal-workflow-execution</summary><blockquote>**
 
   * --domain
   * --workflow-id
@@ -354,7 +350,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>start-workflow-execution</summary>
+- **<details><summary>start-workflow-execution</summary><blockquote>**
 
   * --domain
   * --workflow-id
@@ -372,7 +368,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -381,7 +377,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>terminate-workflow-execution</summary>
+- **<details><summary>terminate-workflow-execution</summary><blockquote>**
 
   * --domain
   * --workflow-id
@@ -394,7 +390,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>undeprecate-activity-type</summary>
+- **<details><summary>undeprecate-activity-type</summary><blockquote>**
 
   * --domain
   * --activity-type
@@ -403,7 +399,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>undeprecate-domain</summary>
+- **<details><summary>undeprecate-domain</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -411,7 +407,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>undeprecate-workflow-type</summary>
+- **<details><summary>undeprecate-workflow-type</summary><blockquote>**
 
   * --domain
   * --workflow-type
@@ -420,7 +416,7 @@ swf
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -429,5 +425,42 @@ swf
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

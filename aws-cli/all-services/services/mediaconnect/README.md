@@ -1,10 +1,6 @@
-<details>
+<details><summary>mediaconnect</summary><blockquote>
 
-<summary>
-mediaconnect
-</summary>
-
-- <details><summary>add-flow-media-streams</summary>
+- **<details><summary>add-flow-media-streams</summary><blockquote>**
 
   * --flow-arn
   * --media-streams
@@ -13,7 +9,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>add-flow-outputs</summary>
+- **<details><summary>add-flow-outputs</summary><blockquote>**
 
   * --flow-arn
   * --outputs
@@ -22,7 +18,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>add-flow-sources</summary>
+- **<details><summary>add-flow-sources</summary><blockquote>**
 
   * --flow-arn
   * --sources
@@ -31,7 +27,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>add-flow-vpc-interfaces</summary>
+- **<details><summary>add-flow-vpc-interfaces</summary><blockquote>**
 
   * --flow-arn
   * --vpc-interfaces
@@ -40,7 +36,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>create-flow</summary>
+- **<details><summary>create-flow</summary><blockquote>**
 
   * --availability-zone
   * --entitlements
@@ -56,7 +52,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-flow</summary>
+- **<details><summary>delete-flow</summary><blockquote>**
 
   * --flow-arn
   * --cli-input-json
@@ -64,7 +60,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-flow</summary>
+- **<details><summary>describe-flow</summary><blockquote>**
 
   * --flow-arn
   * --cli-input-json
@@ -72,7 +68,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-offering</summary>
+- **<details><summary>describe-offering</summary><blockquote>**
 
   * --offering-arn
   * --cli-input-json
@@ -80,7 +76,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-reservation</summary>
+- **<details><summary>describe-reservation</summary><blockquote>**
 
   * --reservation-arn
   * --cli-input-json
@@ -88,7 +84,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>grant-flow-entitlements</summary>
+- **<details><summary>grant-flow-entitlements</summary><blockquote>**
 
   * --entitlements
   * --flow-arn
@@ -97,12 +93,12 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-entitlements</summary>
+- **<details><summary>list-entitlements</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -112,7 +108,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>list-flows</summary>
+- **<details><summary>list-flows</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -122,7 +118,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>list-offerings</summary>
+- **<details><summary>list-offerings</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -132,7 +128,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>list-reservations</summary>
+- **<details><summary>list-reservations</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -142,7 +138,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -150,7 +146,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>purchase-offering</summary>
+- **<details><summary>purchase-offering</summary><blockquote>**
 
   * --offering-arn
   * --reservation-name
@@ -160,7 +156,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-flow-media-stream</summary>
+- **<details><summary>remove-flow-media-stream</summary><blockquote>**
 
   * --flow-arn
   * --media-stream-name
@@ -169,7 +165,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-flow-output</summary>
+- **<details><summary>remove-flow-output</summary><blockquote>**
 
   * --flow-arn
   * --output-arn
@@ -178,7 +174,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-flow-source</summary>
+- **<details><summary>remove-flow-source</summary><blockquote>**
 
   * --flow-arn
   * --source-arn
@@ -187,7 +183,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-flow-vpc-interface</summary>
+- **<details><summary>remove-flow-vpc-interface</summary><blockquote>**
 
   * --flow-arn
   * --vpc-interface-name
@@ -196,7 +192,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>revoke-flow-entitlement</summary>
+- **<details><summary>revoke-flow-entitlement</summary><blockquote>**
 
   * --entitlement-arn
   * --flow-arn
@@ -205,7 +201,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>start-flow</summary>
+- **<details><summary>start-flow</summary><blockquote>**
 
   * --flow-arn
   * --cli-input-json
@@ -213,7 +209,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-flow</summary>
+- **<details><summary>stop-flow</summary><blockquote>**
 
   * --flow-arn
   * --cli-input-json
@@ -221,7 +217,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -230,7 +226,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -239,7 +235,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>update-flow</summary>
+- **<details><summary>update-flow</summary><blockquote>**
 
   * --flow-arn
   * --source-failover-config
@@ -248,7 +244,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>update-flow-entitlement</summary>
+- **<details><summary>update-flow-entitlement</summary><blockquote>**
 
   * --description
   * --encryption
@@ -261,7 +257,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>update-flow-media-stream</summary>
+- **<details><summary>update-flow-media-stream</summary><blockquote>**
 
   * --attributes
   * --clock-rate
@@ -275,7 +271,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>update-flow-output</summary>
+- **<details><summary>update-flow-output</summary><blockquote>**
 
   * --cidr-allow-list
   * --description
@@ -297,7 +293,7 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>update-flow-source</summary>
+- **<details><summary>update-flow-source</summary><blockquote>**
 
   * --decryption
   * --description
@@ -319,10 +315,41 @@ mediaconnect
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

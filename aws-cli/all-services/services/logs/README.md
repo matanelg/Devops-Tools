@@ -1,10 +1,6 @@
-<details>
+<details><summary>logs</summary><blockquote>
 
-<summary>
-logs
-</summary>
-
-- <details><summary>associate-kms-key</summary>
+- **<details><summary>associate-kms-key</summary><blockquote>**
 
   * --log-group-name
   * --kms-key-id
@@ -13,7 +9,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-export-task</summary>
+- **<details><summary>cancel-export-task</summary><blockquote>**
 
   * --task-id
   * --cli-input-json
@@ -21,7 +17,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>create-export-task</summary>
+- **<details><summary>create-export-task</summary><blockquote>**
 
   * --task-name
   * --log-group-name
@@ -35,7 +31,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>create-log-group</summary>
+- **<details><summary>create-log-group</summary><blockquote>**
 
   * --log-group-name
   * --kms-key-id
@@ -45,7 +41,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>create-log-stream</summary>
+- **<details><summary>create-log-stream</summary><blockquote>**
 
   * --log-group-name
   * --log-stream-name
@@ -54,7 +50,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-destination</summary>
+- **<details><summary>delete-destination</summary><blockquote>**
 
   * --destination-name
   * --cli-input-json
@@ -62,7 +58,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-log-group</summary>
+- **<details><summary>delete-log-group</summary><blockquote>**
 
   * --log-group-name
   * --cli-input-json
@@ -70,7 +66,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-log-stream</summary>
+- **<details><summary>delete-log-stream</summary><blockquote>**
 
   * --log-group-name
   * --log-stream-name
@@ -79,7 +75,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-metric-filter</summary>
+- **<details><summary>delete-metric-filter</summary><blockquote>**
 
   * --log-group-name
   * --filter-name
@@ -88,7 +84,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-query-definition</summary>
+- **<details><summary>delete-query-definition</summary><blockquote>**
 
   * --query-definition-id
   * --cli-input-json
@@ -96,7 +92,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-resource-policy</summary>
+- **<details><summary>delete-resource-policy</summary><blockquote>**
 
   * --policy-name
   * --cli-input-json
@@ -104,7 +100,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-retention-policy</summary>
+- **<details><summary>delete-retention-policy</summary><blockquote>**
 
   * --log-group-name
   * --cli-input-json
@@ -112,7 +108,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-subscription-filter</summary>
+- **<details><summary>delete-subscription-filter</summary><blockquote>**
 
   * --log-group-name
   * --filter-name
@@ -121,7 +117,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-destinations</summary>
+- **<details><summary>describe-destinations</summary><blockquote>**
 
   * --destination-name-prefix
   * --cli-input-json
@@ -132,7 +128,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-export-tasks</summary>
+- **<details><summary>describe-export-tasks</summary><blockquote>**
 
   * --task-id
   * --status-code
@@ -144,7 +140,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-log-groups</summary>
+- **<details><summary>describe-log-groups</summary><blockquote>**
 
   * --log-group-name-prefix
   * --cli-input-json
@@ -155,7 +151,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-log-streams</summary>
+- **<details><summary>describe-log-streams</summary><blockquote>**
 
   * --log-group-name
   * --log-stream-name-prefix
@@ -170,7 +166,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-metric-filters</summary>
+- **<details><summary>describe-metric-filters</summary><blockquote>**
 
   * --log-group-name
   * --filter-name-prefix
@@ -184,7 +180,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-queries</summary>
+- **<details><summary>describe-queries</summary><blockquote>**
 
   * --log-group-name
   * --status
@@ -196,7 +192,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-query-definitions</summary>
+- **<details><summary>describe-query-definitions</summary><blockquote>**
 
   * --query-definition-name-prefix
   * --max-results
@@ -206,7 +202,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-resource-policies</summary>
+- **<details><summary>describe-resource-policies</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -216,7 +212,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-subscription-filters</summary>
+- **<details><summary>describe-subscription-filters</summary><blockquote>**
 
   * --log-group-name
   * --filter-name-prefix
@@ -228,7 +224,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-kms-key</summary>
+- **<details><summary>disassociate-kms-key</summary><blockquote>**
 
   * --log-group-name
   * --cli-input-json
@@ -236,7 +232,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>filter-log-events</summary>
+- **<details><summary>filter-log-events</summary><blockquote>**
 
   * --log-group-name
   * --log-stream-names
@@ -254,7 +250,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>get-log-events</summary>
+- **<details><summary>get-log-events</summary><blockquote>**
 
   * --log-group-name
   * --log-stream-name
@@ -269,7 +265,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>get-log-group-fields</summary>
+- **<details><summary>get-log-group-fields</summary><blockquote>**
 
   * --log-group-name
   * --time
@@ -278,7 +274,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>get-log-record</summary>
+- **<details><summary>get-log-record</summary><blockquote>**
 
   * --log-record-pointer
   * --cli-input-json
@@ -286,7 +282,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>get-query-results</summary>
+- **<details><summary>get-query-results</summary><blockquote>**
 
   * --query-id
   * --cli-input-json
@@ -294,12 +290,12 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-tags-log-group</summary>
+- **<details><summary>list-tags-log-group</summary><blockquote>**
 
   * --log-group-name
   * --cli-input-json
@@ -307,7 +303,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>put-destination</summary>
+- **<details><summary>put-destination</summary><blockquote>**
 
   * --destination-name
   * --target-arn
@@ -317,7 +313,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>put-destination-policy</summary>
+- **<details><summary>put-destination-policy</summary><blockquote>**
 
   * --destination-name
   * --access-policy
@@ -326,7 +322,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>put-log-events</summary>
+- **<details><summary>put-log-events</summary><blockquote>**
 
   * --log-group-name
   * --log-stream-name
@@ -337,7 +333,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>put-metric-filter</summary>
+- **<details><summary>put-metric-filter</summary><blockquote>**
 
   * --log-group-name
   * --filter-name
@@ -348,7 +344,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>put-query-definition</summary>
+- **<details><summary>put-query-definition</summary><blockquote>**
 
   * --name
   * --query-definition-id
@@ -359,7 +355,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>put-resource-policy</summary>
+- **<details><summary>put-resource-policy</summary><blockquote>**
 
   * --policy-name
   * --policy-document
@@ -368,7 +364,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>put-retention-policy</summary>
+- **<details><summary>put-retention-policy</summary><blockquote>**
 
   * --log-group-name
   * --retention-in-days
@@ -377,7 +373,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>put-subscription-filter</summary>
+- **<details><summary>put-subscription-filter</summary><blockquote>**
 
   * --log-group-name
   * --filter-name
@@ -390,7 +386,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>start-query</summary>
+- **<details><summary>start-query</summary><blockquote>**
 
   * --log-group-name
   * --log-group-names
@@ -403,7 +399,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-query</summary>
+- **<details><summary>stop-query</summary><blockquote>**
 
   * --query-id
   * --cli-input-json
@@ -411,7 +407,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-log-group</summary>
+- **<details><summary>tag-log-group</summary><blockquote>**
 
   * --log-group-name
   * --tags
@@ -420,7 +416,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>tail</summary>
+- **<details><summary>tail</summary><blockquote>**
 
   * --since
   * --follow
@@ -428,7 +424,7 @@ logs
   * --filter-pattern
 
 
-- <details><summary>test-metric-filter</summary>
+- **<details><summary>test-metric-filter</summary><blockquote>**
 
   * --filter-pattern
   * --log-event-messages
@@ -437,7 +433,7 @@ logs
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-log-group</summary>
+- **<details><summary>untag-log-group</summary><blockquote>**
 
   * --log-group-name
   * --tags
@@ -446,5 +442,48 @@ logs
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

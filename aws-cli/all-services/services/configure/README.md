@@ -1,46 +1,48 @@
-<details>
+<details><summary>configure</summary><blockquote>
 
-<summary>
-configure
-</summary>
-
-- <details><summary>add-model</summary>
+- **<details><summary>add-model</summary><blockquote>**
 
   * --service-model
   * --service-name
 
 
-- <details><summary>get</summary>
+- **<details><summary>get</summary><blockquote>**
 
   * 
 
 
-- <details><summary>import</summary>
+- **<details><summary>import</summary><blockquote>**
 
   * --csv
   * --skip-invalid
   * --profile-prefix
 
 
-- <details><summary>list</summary>
+- **<details><summary>list</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-profiles</summary>
+- **<details><summary>list-profiles</summary><blockquote>**
 
   * 
 
 
-- <details><summary>set</summary>
+- **<details><summary>set</summary><blockquote>**
 
   * 
 
 
-- <details><summary>sso</summary>
+- **<details><summary>sso</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

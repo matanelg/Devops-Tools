@@ -1,10 +1,6 @@
-<details>
+<details><summary>medialive</summary><blockquote>
 
-<summary>
-medialive
-</summary>
-
-- <details><summary>accept-input-device-transfer</summary>
+- **<details><summary>accept-input-device-transfer</summary><blockquote>**
 
   * --input-device-id
   * --cli-input-json
@@ -12,7 +8,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-delete</summary>
+- **<details><summary>batch-delete</summary><blockquote>**
 
   * --channel-ids
   * --input-ids
@@ -23,7 +19,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-start</summary>
+- **<details><summary>batch-start</summary><blockquote>**
 
   * --channel-ids
   * --multiplex-ids
@@ -32,7 +28,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-stop</summary>
+- **<details><summary>batch-stop</summary><blockquote>**
 
   * --channel-ids
   * --multiplex-ids
@@ -41,7 +37,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-update-schedule</summary>
+- **<details><summary>batch-update-schedule</summary><blockquote>**
 
   * --channel-id
   * --creates
@@ -51,7 +47,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-input-device-transfer</summary>
+- **<details><summary>cancel-input-device-transfer</summary><blockquote>**
 
   * --input-device-id
   * --cli-input-json
@@ -59,7 +55,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>create-channel</summary>
+- **<details><summary>create-channel</summary><blockquote>**
 
   * --cdi-input-specification
   * --channel-class
@@ -79,7 +75,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>create-input</summary>
+- **<details><summary>create-input</summary><blockquote>**
 
   * --destinations
   * --input-devices
@@ -97,7 +93,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>create-input-security-group</summary>
+- **<details><summary>create-input-security-group</summary><blockquote>**
 
   * --tags
   * --whitelist-rules
@@ -106,7 +102,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>create-multiplex</summary>
+- **<details><summary>create-multiplex</summary><blockquote>**
 
   * --availability-zones
   * --multiplex-settings
@@ -118,7 +114,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>create-multiplex-program</summary>
+- **<details><summary>create-multiplex-program</summary><blockquote>**
 
   * --multiplex-id
   * --multiplex-program-settings
@@ -129,7 +125,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>create-partner-input</summary>
+- **<details><summary>create-partner-input</summary><blockquote>**
 
   * --input-id
   * --request-id
@@ -139,7 +135,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>create-tags</summary>
+- **<details><summary>create-tags</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -148,7 +144,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-channel</summary>
+- **<details><summary>delete-channel</summary><blockquote>**
 
   * --channel-id
   * --cli-input-json
@@ -156,7 +152,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-input</summary>
+- **<details><summary>delete-input</summary><blockquote>**
 
   * --input-id
   * --cli-input-json
@@ -164,7 +160,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-input-security-group</summary>
+- **<details><summary>delete-input-security-group</summary><blockquote>**
 
   * --input-security-group-id
   * --cli-input-json
@@ -172,7 +168,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-multiplex</summary>
+- **<details><summary>delete-multiplex</summary><blockquote>**
 
   * --multiplex-id
   * --cli-input-json
@@ -180,7 +176,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-multiplex-program</summary>
+- **<details><summary>delete-multiplex-program</summary><blockquote>**
 
   * --multiplex-id
   * --program-name
@@ -189,7 +185,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-reservation</summary>
+- **<details><summary>delete-reservation</summary><blockquote>**
 
   * --reservation-id
   * --cli-input-json
@@ -197,7 +193,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-schedule</summary>
+- **<details><summary>delete-schedule</summary><blockquote>**
 
   * --channel-id
   * --cli-input-json
@@ -205,7 +201,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-tags</summary>
+- **<details><summary>delete-tags</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -214,7 +210,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-channel</summary>
+- **<details><summary>describe-channel</summary><blockquote>**
 
   * --channel-id
   * --cli-input-json
@@ -222,7 +218,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-input</summary>
+- **<details><summary>describe-input</summary><blockquote>**
 
   * --input-id
   * --cli-input-json
@@ -230,7 +226,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-input-device</summary>
+- **<details><summary>describe-input-device</summary><blockquote>**
 
   * --input-device-id
   * --cli-input-json
@@ -238,13 +234,13 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-input-device-thumbnail</summary>
+- **<details><summary>describe-input-device-thumbnail</summary><blockquote>**
 
   * --input-device-id
   * --accept
 
 
-- <details><summary>describe-input-security-group</summary>
+- **<details><summary>describe-input-security-group</summary><blockquote>**
 
   * --input-security-group-id
   * --cli-input-json
@@ -252,7 +248,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-multiplex</summary>
+- **<details><summary>describe-multiplex</summary><blockquote>**
 
   * --multiplex-id
   * --cli-input-json
@@ -260,7 +256,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-multiplex-program</summary>
+- **<details><summary>describe-multiplex-program</summary><blockquote>**
 
   * --multiplex-id
   * --program-name
@@ -269,7 +265,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-offering</summary>
+- **<details><summary>describe-offering</summary><blockquote>**
 
   * --offering-id
   * --cli-input-json
@@ -277,7 +273,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-reservation</summary>
+- **<details><summary>describe-reservation</summary><blockquote>**
 
   * --reservation-id
   * --cli-input-json
@@ -285,7 +281,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-schedule</summary>
+- **<details><summary>describe-schedule</summary><blockquote>**
 
   * --channel-id
   * --cli-input-json
@@ -296,12 +292,12 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-channels</summary>
+- **<details><summary>list-channels</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -311,7 +307,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>list-input-devices</summary>
+- **<details><summary>list-input-devices</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -321,7 +317,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>list-input-device-transfers</summary>
+- **<details><summary>list-input-device-transfers</summary><blockquote>**
 
   * --transfer-type
   * --cli-input-json
@@ -332,7 +328,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>list-inputs</summary>
+- **<details><summary>list-inputs</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -342,7 +338,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>list-input-security-groups</summary>
+- **<details><summary>list-input-security-groups</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -352,7 +348,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>list-multiplexes</summary>
+- **<details><summary>list-multiplexes</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -362,7 +358,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>list-multiplex-programs</summary>
+- **<details><summary>list-multiplex-programs</summary><blockquote>**
 
   * --multiplex-id
   * --cli-input-json
@@ -373,7 +369,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>list-offerings</summary>
+- **<details><summary>list-offerings</summary><blockquote>**
 
   * --channel-class
   * --channel-configuration
@@ -393,7 +389,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>list-reservations</summary>
+- **<details><summary>list-reservations</summary><blockquote>**
 
   * --channel-class
   * --codec
@@ -411,7 +407,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -419,7 +415,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>purchase-offering</summary>
+- **<details><summary>purchase-offering</summary><blockquote>**
 
   * --count
   * --name
@@ -432,7 +428,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>reject-input-device-transfer</summary>
+- **<details><summary>reject-input-device-transfer</summary><blockquote>**
 
   * --input-device-id
   * --cli-input-json
@@ -440,7 +436,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>start-channel</summary>
+- **<details><summary>start-channel</summary><blockquote>**
 
   * --channel-id
   * --cli-input-json
@@ -448,7 +444,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>start-multiplex</summary>
+- **<details><summary>start-multiplex</summary><blockquote>**
 
   * --multiplex-id
   * --cli-input-json
@@ -456,7 +452,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-channel</summary>
+- **<details><summary>stop-channel</summary><blockquote>**
 
   * --channel-id
   * --cli-input-json
@@ -464,7 +460,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-multiplex</summary>
+- **<details><summary>stop-multiplex</summary><blockquote>**
 
   * --multiplex-id
   * --cli-input-json
@@ -472,7 +468,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>transfer-input-device</summary>
+- **<details><summary>transfer-input-device</summary><blockquote>**
 
   * --input-device-id
   * --target-customer-id
@@ -483,7 +479,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>update-channel</summary>
+- **<details><summary>update-channel</summary><blockquote>**
 
   * --cdi-input-specification
   * --channel-id
@@ -499,7 +495,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>update-channel-class</summary>
+- **<details><summary>update-channel-class</summary><blockquote>**
 
   * --channel-class
   * --channel-id
@@ -509,7 +505,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>update-input</summary>
+- **<details><summary>update-input</summary><blockquote>**
 
   * --destinations
   * --input-devices
@@ -524,7 +520,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>update-input-device</summary>
+- **<details><summary>update-input-device</summary><blockquote>**
 
   * --hd-device-settings
   * --input-device-id
@@ -535,7 +531,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>update-input-security-group</summary>
+- **<details><summary>update-input-security-group</summary><blockquote>**
 
   * --input-security-group-id
   * --tags
@@ -545,7 +541,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>update-multiplex</summary>
+- **<details><summary>update-multiplex</summary><blockquote>**
 
   * --multiplex-id
   * --multiplex-settings
@@ -555,7 +551,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>update-multiplex-program</summary>
+- **<details><summary>update-multiplex-program</summary><blockquote>**
 
   * --multiplex-id
   * --multiplex-program-settings
@@ -565,7 +561,7 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>update-reservation</summary>
+- **<details><summary>update-reservation</summary><blockquote>**
 
   * --name
   * --reservation-id
@@ -574,10 +570,67 @@ medialive
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

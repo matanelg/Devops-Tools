@@ -1,10 +1,6 @@
-<details>
+<details><summary>forecast</summary><blockquote>
 
-<summary>
-forecast
-</summary>
-
-- <details><summary>create-dataset</summary>
+- **<details><summary>create-dataset</summary><blockquote>**
 
   * --dataset-name
   * --domain
@@ -18,7 +14,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>create-dataset-group</summary>
+- **<details><summary>create-dataset-group</summary><blockquote>**
 
   * --dataset-group-name
   * --domain
@@ -29,7 +25,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>create-dataset-import-job</summary>
+- **<details><summary>create-dataset-import-job</summary><blockquote>**
 
   * --dataset-import-job-name
   * --dataset-arn
@@ -45,7 +41,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>create-forecast</summary>
+- **<details><summary>create-forecast</summary><blockquote>**
 
   * --forecast-name
   * --predictor-arn
@@ -56,7 +52,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>create-forecast-export-job</summary>
+- **<details><summary>create-forecast-export-job</summary><blockquote>**
 
   * --forecast-export-job-name
   * --forecast-arn
@@ -67,7 +63,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>create-predictor</summary>
+- **<details><summary>create-predictor</summary><blockquote>**
 
   * --predictor-name
   * --algorithm-arn
@@ -90,7 +86,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>create-predictor-backtest-export-job</summary>
+- **<details><summary>create-predictor-backtest-export-job</summary><blockquote>**
 
   * --predictor-backtest-export-job-name
   * --predictor-arn
@@ -101,7 +97,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-dataset</summary>
+- **<details><summary>delete-dataset</summary><blockquote>**
 
   * --dataset-arn
   * --cli-input-json
@@ -109,7 +105,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-dataset-group</summary>
+- **<details><summary>delete-dataset-group</summary><blockquote>**
 
   * --dataset-group-arn
   * --cli-input-json
@@ -117,7 +113,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-dataset-import-job</summary>
+- **<details><summary>delete-dataset-import-job</summary><blockquote>**
 
   * --dataset-import-job-arn
   * --cli-input-json
@@ -125,7 +121,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-forecast</summary>
+- **<details><summary>delete-forecast</summary><blockquote>**
 
   * --forecast-arn
   * --cli-input-json
@@ -133,7 +129,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-forecast-export-job</summary>
+- **<details><summary>delete-forecast-export-job</summary><blockquote>**
 
   * --forecast-export-job-arn
   * --cli-input-json
@@ -141,7 +137,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-predictor</summary>
+- **<details><summary>delete-predictor</summary><blockquote>**
 
   * --predictor-arn
   * --cli-input-json
@@ -149,7 +145,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-predictor-backtest-export-job</summary>
+- **<details><summary>delete-predictor-backtest-export-job</summary><blockquote>**
 
   * --predictor-backtest-export-job-arn
   * --cli-input-json
@@ -157,7 +153,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-resource-tree</summary>
+- **<details><summary>delete-resource-tree</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -165,7 +161,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-dataset</summary>
+- **<details><summary>describe-dataset</summary><blockquote>**
 
   * --dataset-arn
   * --cli-input-json
@@ -173,7 +169,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-dataset-group</summary>
+- **<details><summary>describe-dataset-group</summary><blockquote>**
 
   * --dataset-group-arn
   * --cli-input-json
@@ -181,7 +177,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-dataset-import-job</summary>
+- **<details><summary>describe-dataset-import-job</summary><blockquote>**
 
   * --dataset-import-job-arn
   * --cli-input-json
@@ -189,7 +185,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-forecast</summary>
+- **<details><summary>describe-forecast</summary><blockquote>**
 
   * --forecast-arn
   * --cli-input-json
@@ -197,7 +193,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-forecast-export-job</summary>
+- **<details><summary>describe-forecast-export-job</summary><blockquote>**
 
   * --forecast-export-job-arn
   * --cli-input-json
@@ -205,7 +201,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-predictor</summary>
+- **<details><summary>describe-predictor</summary><blockquote>**
 
   * --predictor-arn
   * --cli-input-json
@@ -213,7 +209,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-predictor-backtest-export-job</summary>
+- **<details><summary>describe-predictor-backtest-export-job</summary><blockquote>**
 
   * --predictor-backtest-export-job-arn
   * --cli-input-json
@@ -221,7 +217,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>get-accuracy-metrics</summary>
+- **<details><summary>get-accuracy-metrics</summary><blockquote>**
 
   * --predictor-arn
   * --cli-input-json
@@ -229,12 +225,12 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-dataset-groups</summary>
+- **<details><summary>list-dataset-groups</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -244,7 +240,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>list-dataset-import-jobs</summary>
+- **<details><summary>list-dataset-import-jobs</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -255,7 +251,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>list-datasets</summary>
+- **<details><summary>list-datasets</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -265,7 +261,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>list-forecast-export-jobs</summary>
+- **<details><summary>list-forecast-export-jobs</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -276,7 +272,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>list-forecasts</summary>
+- **<details><summary>list-forecasts</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -287,7 +283,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>list-predictor-backtest-export-jobs</summary>
+- **<details><summary>list-predictor-backtest-export-jobs</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -298,7 +294,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>list-predictors</summary>
+- **<details><summary>list-predictors</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -309,7 +305,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -317,7 +313,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-resource</summary>
+- **<details><summary>stop-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -325,7 +321,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -334,7 +330,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -343,7 +339,7 @@ forecast
   * --generate-cli-skeleton
 
 
-- <details><summary>update-dataset-group</summary>
+- **<details><summary>update-dataset-group</summary><blockquote>**
 
   * --dataset-group-arn
   * --dataset-arns
@@ -352,5 +348,40 @@ forecast
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

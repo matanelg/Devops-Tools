@@ -1,10 +1,6 @@
-<details>
+<details><summary>alexaforbusiness</summary><blockquote>
 
-<summary>
-alexaforbusiness
-</summary>
-
-- <details><summary>approve-skill</summary>
+- **<details><summary>approve-skill</summary><blockquote>**
 
   * --skill-id
   * --cli-input-json
@@ -12,7 +8,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-contact-with-address-book</summary>
+- **<details><summary>associate-contact-with-address-book</summary><blockquote>**
 
   * --contact-arn
   * --address-book-arn
@@ -21,7 +17,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-device-with-network-profile</summary>
+- **<details><summary>associate-device-with-network-profile</summary><blockquote>**
 
   * --device-arn
   * --network-profile-arn
@@ -30,7 +26,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-device-with-room</summary>
+- **<details><summary>associate-device-with-room</summary><blockquote>**
 
   * --device-arn
   * --room-arn
@@ -39,7 +35,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-skill-group-with-room</summary>
+- **<details><summary>associate-skill-group-with-room</summary><blockquote>**
 
   * --skill-group-arn
   * --room-arn
@@ -48,7 +44,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-skill-with-skill-group</summary>
+- **<details><summary>associate-skill-with-skill-group</summary><blockquote>**
 
   * --skill-group-arn
   * --skill-id
@@ -57,7 +53,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-skill-with-users</summary>
+- **<details><summary>associate-skill-with-users</summary><blockquote>**
 
   * --skill-id
   * --cli-input-json
@@ -65,7 +61,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>create-address-book</summary>
+- **<details><summary>create-address-book</summary><blockquote>**
 
   * --name
   * --description
@@ -76,7 +72,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>create-business-report-schedule</summary>
+- **<details><summary>create-business-report-schedule</summary><blockquote>**
 
   * --schedule-name
   * --s3-bucket-name
@@ -91,7 +87,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>create-conference-provider</summary>
+- **<details><summary>create-conference-provider</summary><blockquote>**
 
   * --conference-provider-name
   * --conference-provider-type
@@ -105,7 +101,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>create-contact</summary>
+- **<details><summary>create-contact</summary><blockquote>**
 
   * --display-name
   * --first-name
@@ -120,7 +116,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>create-gateway-group</summary>
+- **<details><summary>create-gateway-group</summary><blockquote>**
 
   * --name
   * --description
@@ -131,7 +127,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>create-network-profile</summary>
+- **<details><summary>create-network-profile</summary><blockquote>**
 
   * --network-profile-name
   * --description
@@ -149,7 +145,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>create-profile</summary>
+- **<details><summary>create-profile</summary><blockquote>**
 
   * --profile-name
   * --timezone
@@ -173,7 +169,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>create-room</summary>
+- **<details><summary>create-room</summary><blockquote>**
 
   * --room-name
   * --description
@@ -186,7 +182,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>create-skill-group</summary>
+- **<details><summary>create-skill-group</summary><blockquote>**
 
   * --skill-group-name
   * --description
@@ -197,7 +193,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>create-user</summary>
+- **<details><summary>create-user</summary><blockquote>**
 
   * --user-id
   * --first-name
@@ -210,7 +206,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-address-book</summary>
+- **<details><summary>delete-address-book</summary><blockquote>**
 
   * --address-book-arn
   * --cli-input-json
@@ -218,7 +214,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-business-report-schedule</summary>
+- **<details><summary>delete-business-report-schedule</summary><blockquote>**
 
   * --schedule-arn
   * --cli-input-json
@@ -226,7 +222,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-conference-provider</summary>
+- **<details><summary>delete-conference-provider</summary><blockquote>**
 
   * --conference-provider-arn
   * --cli-input-json
@@ -234,7 +230,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-contact</summary>
+- **<details><summary>delete-contact</summary><blockquote>**
 
   * --contact-arn
   * --cli-input-json
@@ -242,7 +238,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-device</summary>
+- **<details><summary>delete-device</summary><blockquote>**
 
   * --device-arn
   * --cli-input-json
@@ -250,7 +246,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-device-usage-data</summary>
+- **<details><summary>delete-device-usage-data</summary><blockquote>**
 
   * --device-arn
   * --device-usage-type
@@ -259,7 +255,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-gateway-group</summary>
+- **<details><summary>delete-gateway-group</summary><blockquote>**
 
   * --gateway-group-arn
   * --cli-input-json
@@ -267,7 +263,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-network-profile</summary>
+- **<details><summary>delete-network-profile</summary><blockquote>**
 
   * --network-profile-arn
   * --cli-input-json
@@ -275,7 +271,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-profile</summary>
+- **<details><summary>delete-profile</summary><blockquote>**
 
   * --profile-arn
   * --cli-input-json
@@ -283,7 +279,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-room</summary>
+- **<details><summary>delete-room</summary><blockquote>**
 
   * --room-arn
   * --cli-input-json
@@ -291,7 +287,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-room-skill-parameter</summary>
+- **<details><summary>delete-room-skill-parameter</summary><blockquote>**
 
   * --room-arn
   * --skill-id
@@ -301,7 +297,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-skill-authorization</summary>
+- **<details><summary>delete-skill-authorization</summary><blockquote>**
 
   * --skill-id
   * --room-arn
@@ -310,7 +306,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-skill-group</summary>
+- **<details><summary>delete-skill-group</summary><blockquote>**
 
   * --skill-group-arn
   * --cli-input-json
@@ -318,7 +314,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user</summary>
+- **<details><summary>delete-user</summary><blockquote>**
 
   * --user-arn
   * --enrollment-id
@@ -327,7 +323,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-contact-from-address-book</summary>
+- **<details><summary>disassociate-contact-from-address-book</summary><blockquote>**
 
   * --contact-arn
   * --address-book-arn
@@ -336,7 +332,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-device-from-room</summary>
+- **<details><summary>disassociate-device-from-room</summary><blockquote>**
 
   * --device-arn
   * --cli-input-json
@@ -344,7 +340,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-skill-from-skill-group</summary>
+- **<details><summary>disassociate-skill-from-skill-group</summary><blockquote>**
 
   * --skill-group-arn
   * --skill-id
@@ -353,7 +349,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-skill-from-users</summary>
+- **<details><summary>disassociate-skill-from-users</summary><blockquote>**
 
   * --skill-id
   * --cli-input-json
@@ -361,7 +357,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-skill-group-from-room</summary>
+- **<details><summary>disassociate-skill-group-from-room</summary><blockquote>**
 
   * --skill-group-arn
   * --room-arn
@@ -370,7 +366,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>forget-smart-home-appliances</summary>
+- **<details><summary>forget-smart-home-appliances</summary><blockquote>**
 
   * --room-arn
   * --cli-input-json
@@ -378,7 +374,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>get-address-book</summary>
+- **<details><summary>get-address-book</summary><blockquote>**
 
   * --address-book-arn
   * --cli-input-json
@@ -386,14 +382,14 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>get-conference-preference</summary>
+- **<details><summary>get-conference-preference</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-conference-provider</summary>
+- **<details><summary>get-conference-provider</summary><blockquote>**
 
   * --conference-provider-arn
   * --cli-input-json
@@ -401,7 +397,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>get-contact</summary>
+- **<details><summary>get-contact</summary><blockquote>**
 
   * --contact-arn
   * --cli-input-json
@@ -409,7 +405,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>get-device</summary>
+- **<details><summary>get-device</summary><blockquote>**
 
   * --device-arn
   * --cli-input-json
@@ -417,7 +413,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>get-gateway</summary>
+- **<details><summary>get-gateway</summary><blockquote>**
 
   * --gateway-arn
   * --cli-input-json
@@ -425,7 +421,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>get-gateway-group</summary>
+- **<details><summary>get-gateway-group</summary><blockquote>**
 
   * --gateway-group-arn
   * --cli-input-json
@@ -433,14 +429,14 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>get-invitation-configuration</summary>
+- **<details><summary>get-invitation-configuration</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-network-profile</summary>
+- **<details><summary>get-network-profile</summary><blockquote>**
 
   * --network-profile-arn
   * --cli-input-json
@@ -448,7 +444,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>get-profile</summary>
+- **<details><summary>get-profile</summary><blockquote>**
 
   * --profile-arn
   * --cli-input-json
@@ -456,7 +452,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>get-room</summary>
+- **<details><summary>get-room</summary><blockquote>**
 
   * --room-arn
   * --cli-input-json
@@ -464,7 +460,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>get-room-skill-parameter</summary>
+- **<details><summary>get-room-skill-parameter</summary><blockquote>**
 
   * --room-arn
   * --skill-id
@@ -474,7 +470,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>get-skill-group</summary>
+- **<details><summary>get-skill-group</summary><blockquote>**
 
   * --skill-group-arn
   * --cli-input-json
@@ -482,12 +478,12 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-business-report-schedules</summary>
+- **<details><summary>list-business-report-schedules</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -497,7 +493,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>list-conference-providers</summary>
+- **<details><summary>list-conference-providers</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -507,7 +503,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>list-device-events</summary>
+- **<details><summary>list-device-events</summary><blockquote>**
 
   * --device-arn
   * --event-type
@@ -519,7 +515,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>list-gateway-groups</summary>
+- **<details><summary>list-gateway-groups</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -528,7 +524,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>list-gateways</summary>
+- **<details><summary>list-gateways</summary><blockquote>**
 
   * --gateway-group-arn
   * --next-token
@@ -538,7 +534,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>list-skills</summary>
+- **<details><summary>list-skills</summary><blockquote>**
 
   * --skill-group-arn
   * --enablement-type
@@ -551,7 +547,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>list-skills-store-categories</summary>
+- **<details><summary>list-skills-store-categories</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -561,7 +557,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>list-skills-store-skills-by-category</summary>
+- **<details><summary>list-skills-store-skills-by-category</summary><blockquote>**
 
   * --category-id
   * --cli-input-json
@@ -572,7 +568,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>list-smart-home-appliances</summary>
+- **<details><summary>list-smart-home-appliances</summary><blockquote>**
 
   * --room-arn
   * --cli-input-json
@@ -583,7 +579,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags</summary>
+- **<details><summary>list-tags</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -594,7 +590,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>put-conference-preference</summary>
+- **<details><summary>put-conference-preference</summary><blockquote>**
 
   * --conference-preference
   * --cli-input-json
@@ -602,7 +598,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>put-invitation-configuration</summary>
+- **<details><summary>put-invitation-configuration</summary><blockquote>**
 
   * --organization-name
   * --contact-email
@@ -612,7 +608,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>put-room-skill-parameter</summary>
+- **<details><summary>put-room-skill-parameter</summary><blockquote>**
 
   * --room-arn
   * --skill-id
@@ -622,7 +618,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>put-skill-authorization</summary>
+- **<details><summary>put-skill-authorization</summary><blockquote>**
 
   * --authorization-result
   * --skill-id
@@ -632,7 +628,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>register-avs-device</summary>
+- **<details><summary>register-avs-device</summary><blockquote>**
 
   * --client-id
   * --user-code
@@ -646,7 +642,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>reject-skill</summary>
+- **<details><summary>reject-skill</summary><blockquote>**
 
   * --skill-id
   * --cli-input-json
@@ -654,7 +650,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>resolve-room</summary>
+- **<details><summary>resolve-room</summary><blockquote>**
 
   * --user-id
   * --skill-id
@@ -663,7 +659,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>revoke-invitation</summary>
+- **<details><summary>revoke-invitation</summary><blockquote>**
 
   * --user-arn
   * --enrollment-id
@@ -672,7 +668,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>search-address-books</summary>
+- **<details><summary>search-address-books</summary><blockquote>**
 
   * --filters
   * --sort-criteria
@@ -683,7 +679,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>search-contacts</summary>
+- **<details><summary>search-contacts</summary><blockquote>**
 
   * --filters
   * --sort-criteria
@@ -694,7 +690,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>search-devices</summary>
+- **<details><summary>search-devices</summary><blockquote>**
 
   * --filters
   * --sort-criteria
@@ -706,7 +702,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>search-network-profiles</summary>
+- **<details><summary>search-network-profiles</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -717,7 +713,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>search-profiles</summary>
+- **<details><summary>search-profiles</summary><blockquote>**
 
   * --filters
   * --sort-criteria
@@ -729,7 +725,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>search-rooms</summary>
+- **<details><summary>search-rooms</summary><blockquote>**
 
   * --filters
   * --sort-criteria
@@ -741,7 +737,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>search-skill-groups</summary>
+- **<details><summary>search-skill-groups</summary><blockquote>**
 
   * --filters
   * --sort-criteria
@@ -753,7 +749,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>search-users</summary>
+- **<details><summary>search-users</summary><blockquote>**
 
   * --filters
   * --sort-criteria
@@ -765,7 +761,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>send-announcement</summary>
+- **<details><summary>send-announcement</summary><blockquote>**
 
   * --room-filters
   * --content
@@ -776,7 +772,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>send-invitation</summary>
+- **<details><summary>send-invitation</summary><blockquote>**
 
   * --user-arn
   * --cli-input-json
@@ -784,7 +780,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>start-device-sync</summary>
+- **<details><summary>start-device-sync</summary><blockquote>**
 
   * --room-arn
   * --device-arn
@@ -794,7 +790,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>start-smart-home-appliance-discovery</summary>
+- **<details><summary>start-smart-home-appliance-discovery</summary><blockquote>**
 
   * --room-arn
   * --cli-input-json
@@ -802,7 +798,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --arn
   * --tags
@@ -811,7 +807,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --arn
   * --tag-keys
@@ -820,7 +816,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>update-address-book</summary>
+- **<details><summary>update-address-book</summary><blockquote>**
 
   * --address-book-arn
   * --name
@@ -830,7 +826,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>update-business-report-schedule</summary>
+- **<details><summary>update-business-report-schedule</summary><blockquote>**
 
   * --schedule-arn
   * --s3-bucket-name
@@ -843,7 +839,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>update-conference-provider</summary>
+- **<details><summary>update-conference-provider</summary><blockquote>**
 
   * --conference-provider-arn
   * --conference-provider-type
@@ -855,7 +851,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>update-contact</summary>
+- **<details><summary>update-contact</summary><blockquote>**
 
   * --contact-arn
   * --display-name
@@ -869,7 +865,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>update-device</summary>
+- **<details><summary>update-device</summary><blockquote>**
 
   * --device-arn
   * --device-name
@@ -878,7 +874,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>update-gateway</summary>
+- **<details><summary>update-gateway</summary><blockquote>**
 
   * --gateway-arn
   * --name
@@ -889,7 +885,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>update-gateway-group</summary>
+- **<details><summary>update-gateway-group</summary><blockquote>**
 
   * --gateway-group-arn
   * --name
@@ -899,7 +895,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>update-network-profile</summary>
+- **<details><summary>update-network-profile</summary><blockquote>**
 
   * --network-profile-arn
   * --network-profile-name
@@ -913,7 +909,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>update-profile</summary>
+- **<details><summary>update-profile</summary><blockquote>**
 
   * --profile-arn
   * --profile-name
@@ -938,7 +934,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>update-room</summary>
+- **<details><summary>update-room</summary><blockquote>**
 
   * --room-arn
   * --room-name
@@ -950,7 +946,7 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-- <details><summary>update-skill-group</summary>
+- **<details><summary>update-skill-group</summary><blockquote>**
 
   * --skill-group-arn
   * --skill-group-name
@@ -960,5 +956,98 @@ alexaforbusiness
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

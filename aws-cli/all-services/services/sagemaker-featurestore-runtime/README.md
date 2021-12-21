@@ -1,10 +1,6 @@
-<details>
+<details><summary>sagemaker-featurestore-runtime</summary><blockquote>
 
-<summary>
-sagemaker-featurestore-runtime
-</summary>
-
-- <details><summary>batch-get-record</summary>
+- **<details><summary>batch-get-record</summary><blockquote>**
 
   * --identifiers
   * --cli-input-json
@@ -12,7 +8,7 @@ sagemaker-featurestore-runtime
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-record</summary>
+- **<details><summary>delete-record</summary><blockquote>**
 
   * --feature-group-name
   * --record-identifier-value-as-string
@@ -22,7 +18,7 @@ sagemaker-featurestore-runtime
   * --generate-cli-skeleton
 
 
-- <details><summary>get-record</summary>
+- **<details><summary>get-record</summary><blockquote>**
 
   * --feature-group-name
   * --record-identifier-value-as-string
@@ -32,12 +28,12 @@ sagemaker-featurestore-runtime
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>put-record</summary>
+- **<details><summary>put-record</summary><blockquote>**
 
   * --feature-group-name
   * --record
@@ -46,5 +42,9 @@ sagemaker-featurestore-runtime
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>migrationhub-config</summary><blockquote>
 
-<summary>
-migrationhub-config
-</summary>
-
-- <details><summary>create-home-region-control</summary>
+- **<details><summary>create-home-region-control</summary><blockquote>**
 
   * --home-region
   * --target
@@ -15,7 +11,7 @@ migrationhub-config
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-home-region-controls</summary>
+- **<details><summary>describe-home-region-controls</summary><blockquote>**
 
   * --control-id
   * --home-region
@@ -27,17 +23,20 @@ migrationhub-config
   * --generate-cli-skeleton
 
 
-- <details><summary>get-home-region</summary>
+- **<details><summary>get-home-region</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

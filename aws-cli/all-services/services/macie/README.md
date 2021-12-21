@@ -1,10 +1,6 @@
-<details>
+<details><summary>macie</summary><blockquote>
 
-<summary>
-macie
-</summary>
-
-- <details><summary>associate-member-account</summary>
+- **<details><summary>associate-member-account</summary><blockquote>**
 
   * --member-account-id
   * --cli-input-json
@@ -12,7 +8,7 @@ macie
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-s3-resources</summary>
+- **<details><summary>associate-s3-resources</summary><blockquote>**
 
   * --member-account-id
   * --s3-resources
@@ -21,7 +17,7 @@ macie
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-member-account</summary>
+- **<details><summary>disassociate-member-account</summary><blockquote>**
 
   * --member-account-id
   * --cli-input-json
@@ -29,7 +25,7 @@ macie
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-s3-resources</summary>
+- **<details><summary>disassociate-s3-resources</summary><blockquote>**
 
   * --member-account-id
   * --associated-s3-resources
@@ -38,12 +34,12 @@ macie
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-member-accounts</summary>
+- **<details><summary>list-member-accounts</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -53,7 +49,7 @@ macie
   * --generate-cli-skeleton
 
 
-- <details><summary>list-s3-resources</summary>
+- **<details><summary>list-s3-resources</summary><blockquote>**
 
   * --member-account-id
   * --cli-input-json
@@ -64,7 +60,7 @@ macie
   * --generate-cli-skeleton
 
 
-- <details><summary>update-s3-resources</summary>
+- **<details><summary>update-s3-resources</summary><blockquote>**
 
   * --member-account-id
   * --s3-resources-update
@@ -73,5 +69,12 @@ macie
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

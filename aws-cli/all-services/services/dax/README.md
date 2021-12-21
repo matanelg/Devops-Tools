@@ -1,10 +1,6 @@
-<details>
+<details><summary>dax</summary><blockquote>
 
-<summary>
-dax
-</summary>
-
-- <details><summary>create-cluster</summary>
+- **<details><summary>create-cluster</summary><blockquote>**
 
   * --cluster-name
   * --node-type
@@ -25,7 +21,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>create-parameter-group</summary>
+- **<details><summary>create-parameter-group</summary><blockquote>**
 
   * --parameter-group-name
   * --description
@@ -34,7 +30,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>create-subnet-group</summary>
+- **<details><summary>create-subnet-group</summary><blockquote>**
 
   * --subnet-group-name
   * --description
@@ -44,7 +40,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>decrease-replication-factor</summary>
+- **<details><summary>decrease-replication-factor</summary><blockquote>**
 
   * --cluster-name
   * --new-replication-factor
@@ -55,7 +51,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-cluster</summary>
+- **<details><summary>delete-cluster</summary><blockquote>**
 
   * --cluster-name
   * --cli-input-json
@@ -63,7 +59,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-parameter-group</summary>
+- **<details><summary>delete-parameter-group</summary><blockquote>**
 
   * --parameter-group-name
   * --cli-input-json
@@ -71,7 +67,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-subnet-group</summary>
+- **<details><summary>delete-subnet-group</summary><blockquote>**
 
   * --subnet-group-name
   * --cli-input-json
@@ -79,7 +75,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-clusters</summary>
+- **<details><summary>describe-clusters</summary><blockquote>**
 
   * --cluster-names
   * --cli-input-json
@@ -90,7 +86,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-default-parameters</summary>
+- **<details><summary>describe-default-parameters</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -100,7 +96,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-events</summary>
+- **<details><summary>describe-events</summary><blockquote>**
 
   * --source-name
   * --source-type
@@ -115,7 +111,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-parameter-groups</summary>
+- **<details><summary>describe-parameter-groups</summary><blockquote>**
 
   * --parameter-group-names
   * --cli-input-json
@@ -126,7 +122,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-parameters</summary>
+- **<details><summary>describe-parameters</summary><blockquote>**
 
   * --parameter-group-name
   * --source
@@ -138,7 +134,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-subnet-groups</summary>
+- **<details><summary>describe-subnet-groups</summary><blockquote>**
 
   * --subnet-group-names
   * --cli-input-json
@@ -149,12 +145,12 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>increase-replication-factor</summary>
+- **<details><summary>increase-replication-factor</summary><blockquote>**
 
   * --cluster-name
   * --new-replication-factor
@@ -164,7 +160,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags</summary>
+- **<details><summary>list-tags</summary><blockquote>**
 
   * --resource-name
   * --cli-input-json
@@ -174,7 +170,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>reboot-node</summary>
+- **<details><summary>reboot-node</summary><blockquote>**
 
   * --cluster-name
   * --node-id
@@ -183,7 +179,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-name
   * --tags
@@ -192,7 +188,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-name
   * --tag-keys
@@ -201,7 +197,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>update-cluster</summary>
+- **<details><summary>update-cluster</summary><blockquote>**
 
   * --cluster-name
   * --description
@@ -215,7 +211,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>update-parameter-group</summary>
+- **<details><summary>update-parameter-group</summary><blockquote>**
 
   * --parameter-group-name
   * --parameter-name-values
@@ -224,7 +220,7 @@ dax
   * --generate-cli-skeleton
 
 
-- <details><summary>update-subnet-group</summary>
+- **<details><summary>update-subnet-group</summary><blockquote>**
 
   * --subnet-group-name
   * --description
@@ -234,5 +230,26 @@ dax
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

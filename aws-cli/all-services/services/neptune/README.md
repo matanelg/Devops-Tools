@@ -1,10 +1,6 @@
-<details>
+<details><summary>neptune</summary><blockquote>
 
-<summary>
-neptune
-</summary>
-
-- <details><summary>add-role-to-db-cluster</summary>
+- **<details><summary>add-role-to-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --role-arn
@@ -14,7 +10,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>add-source-identifier-to-subscription</summary>
+- **<details><summary>add-source-identifier-to-subscription</summary><blockquote>**
 
   * --subscription-name
   * --source-identifier
@@ -23,7 +19,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>add-tags-to-resource</summary>
+- **<details><summary>add-tags-to-resource</summary><blockquote>**
 
   * --resource-name
   * --tags
@@ -32,7 +28,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>apply-pending-maintenance-action</summary>
+- **<details><summary>apply-pending-maintenance-action</summary><blockquote>**
 
   * --resource-identifier
   * --apply-action
@@ -42,7 +38,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-db-cluster-parameter-group</summary>
+- **<details><summary>copy-db-cluster-parameter-group</summary><blockquote>**
 
   * --source-db-cluster-parameter-group-identifier
   * --target-db-cluster-parameter-group-identifier
@@ -53,7 +49,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-db-cluster-snapshot</summary>
+- **<details><summary>copy-db-cluster-snapshot</summary><blockquote>**
 
   * --source-db-cluster-snapshot-identifier
   * --target-db-cluster-snapshot-identifier
@@ -68,7 +64,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-db-parameter-group</summary>
+- **<details><summary>copy-db-parameter-group</summary><blockquote>**
 
   * --source-db-parameter-group-identifier
   * --target-db-parameter-group-identifier
@@ -79,7 +75,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-cluster</summary>
+- **<details><summary>create-db-cluster</summary><blockquote>**
 
   * --availability-zones
   * --backup-retention-period
@@ -116,7 +112,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-cluster-endpoint</summary>
+- **<details><summary>create-db-cluster-endpoint</summary><blockquote>**
 
   * --db-cluster-identifier
   * --db-cluster-endpoint-identifier
@@ -129,7 +125,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-cluster-parameter-group</summary>
+- **<details><summary>create-db-cluster-parameter-group</summary><blockquote>**
 
   * --db-cluster-parameter-group-name
   * --db-parameter-group-family
@@ -140,7 +136,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-cluster-snapshot</summary>
+- **<details><summary>create-db-cluster-snapshot</summary><blockquote>**
 
   * --db-cluster-snapshot-identifier
   * --db-cluster-identifier
@@ -150,7 +146,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-instance</summary>
+- **<details><summary>create-db-instance</summary><blockquote>**
 
   * --db-name
   * --db-instance-identifier
@@ -208,7 +204,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-parameter-group</summary>
+- **<details><summary>create-db-parameter-group</summary><blockquote>**
 
   * --db-parameter-group-name
   * --db-parameter-group-family
@@ -219,7 +215,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-subnet-group</summary>
+- **<details><summary>create-db-subnet-group</summary><blockquote>**
 
   * --db-subnet-group-name
   * --db-subnet-group-description
@@ -230,7 +226,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>create-event-subscription</summary>
+- **<details><summary>create-event-subscription</summary><blockquote>**
 
   * --subscription-name
   * --sns-topic-arn
@@ -245,7 +241,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-cluster</summary>
+- **<details><summary>delete-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --skip-final-snapshot
@@ -256,7 +252,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-cluster-endpoint</summary>
+- **<details><summary>delete-db-cluster-endpoint</summary><blockquote>**
 
   * --db-cluster-endpoint-identifier
   * --cli-input-json
@@ -264,7 +260,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-cluster-parameter-group</summary>
+- **<details><summary>delete-db-cluster-parameter-group</summary><blockquote>**
 
   * --db-cluster-parameter-group-name
   * --cli-input-json
@@ -272,7 +268,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-cluster-snapshot</summary>
+- **<details><summary>delete-db-cluster-snapshot</summary><blockquote>**
 
   * --db-cluster-snapshot-identifier
   * --cli-input-json
@@ -280,7 +276,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-instance</summary>
+- **<details><summary>delete-db-instance</summary><blockquote>**
 
   * --db-instance-identifier
   * --skip-final-snapshot
@@ -291,7 +287,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-parameter-group</summary>
+- **<details><summary>delete-db-parameter-group</summary><blockquote>**
 
   * --db-parameter-group-name
   * --cli-input-json
@@ -299,7 +295,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-subnet-group</summary>
+- **<details><summary>delete-db-subnet-group</summary><blockquote>**
 
   * --db-subnet-group-name
   * --cli-input-json
@@ -307,7 +303,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-event-subscription</summary>
+- **<details><summary>delete-event-subscription</summary><blockquote>**
 
   * --subscription-name
   * --cli-input-json
@@ -315,7 +311,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-cluster-endpoints</summary>
+- **<details><summary>describe-db-cluster-endpoints</summary><blockquote>**
 
   * --db-cluster-identifier
   * --db-cluster-endpoint-identifier
@@ -328,7 +324,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-cluster-parameter-groups</summary>
+- **<details><summary>describe-db-cluster-parameter-groups</summary><blockquote>**
 
   * --db-cluster-parameter-group-name
   * --filters
@@ -340,7 +336,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-cluster-parameters</summary>
+- **<details><summary>describe-db-cluster-parameters</summary><blockquote>**
 
   * --db-cluster-parameter-group-name
   * --source
@@ -353,7 +349,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-clusters</summary>
+- **<details><summary>describe-db-clusters</summary><blockquote>**
 
   * --db-cluster-identifier
   * --filters
@@ -365,7 +361,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-cluster-snapshot-attributes</summary>
+- **<details><summary>describe-db-cluster-snapshot-attributes</summary><blockquote>**
 
   * --db-cluster-snapshot-identifier
   * --cli-input-json
@@ -373,7 +369,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-cluster-snapshots</summary>
+- **<details><summary>describe-db-cluster-snapshots</summary><blockquote>**
 
   * --db-cluster-identifier
   * --db-cluster-snapshot-identifier
@@ -391,7 +387,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-engine-versions</summary>
+- **<details><summary>describe-db-engine-versions</summary><blockquote>**
 
   * --engine
   * --engine-version
@@ -411,7 +407,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-instances</summary>
+- **<details><summary>describe-db-instances</summary><blockquote>**
 
   * --db-instance-identifier
   * --filters
@@ -423,7 +419,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-parameter-groups</summary>
+- **<details><summary>describe-db-parameter-groups</summary><blockquote>**
 
   * --db-parameter-group-name
   * --filters
@@ -435,7 +431,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-parameters</summary>
+- **<details><summary>describe-db-parameters</summary><blockquote>**
 
   * --db-parameter-group-name
   * --source
@@ -448,7 +444,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-subnet-groups</summary>
+- **<details><summary>describe-db-subnet-groups</summary><blockquote>**
 
   * --db-subnet-group-name
   * --filters
@@ -460,7 +456,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-engine-default-cluster-parameters</summary>
+- **<details><summary>describe-engine-default-cluster-parameters</summary><blockquote>**
 
   * --db-parameter-group-family
   * --filters
@@ -471,7 +467,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-engine-default-parameters</summary>
+- **<details><summary>describe-engine-default-parameters</summary><blockquote>**
 
   * --db-parameter-group-family
   * --filters
@@ -483,7 +479,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-event-categories</summary>
+- **<details><summary>describe-event-categories</summary><blockquote>**
 
   * --source-type
   * --filters
@@ -492,7 +488,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-events</summary>
+- **<details><summary>describe-events</summary><blockquote>**
 
   * --source-identifier
   * --source-type
@@ -509,7 +505,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-event-subscriptions</summary>
+- **<details><summary>describe-event-subscriptions</summary><blockquote>**
 
   * --subscription-name
   * --filters
@@ -521,7 +517,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-orderable-db-instance-options</summary>
+- **<details><summary>describe-orderable-db-instance-options</summary><blockquote>**
 
   * --engine
   * --engine-version
@@ -538,7 +534,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-pending-maintenance-actions</summary>
+- **<details><summary>describe-pending-maintenance-actions</summary><blockquote>**
 
   * --resource-identifier
   * --filters
@@ -550,7 +546,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-valid-db-instance-modifications</summary>
+- **<details><summary>describe-valid-db-instance-modifications</summary><blockquote>**
 
   * --db-instance-identifier
   * --cli-input-json
@@ -558,7 +554,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>failover-db-cluster</summary>
+- **<details><summary>failover-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --target-db-instance-identifier
@@ -567,12 +563,12 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-name
   * --filters
@@ -581,7 +577,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-cluster</summary>
+- **<details><summary>modify-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --new-db-cluster-identifier
@@ -608,7 +604,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-cluster-endpoint</summary>
+- **<details><summary>modify-db-cluster-endpoint</summary><blockquote>**
 
   * --db-cluster-endpoint-identifier
   * --endpoint-type
@@ -619,7 +615,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-cluster-parameter-group</summary>
+- **<details><summary>modify-db-cluster-parameter-group</summary><blockquote>**
 
   * --db-cluster-parameter-group-name
   * --parameters
@@ -628,7 +624,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-cluster-snapshot-attribute</summary>
+- **<details><summary>modify-db-cluster-snapshot-attribute</summary><blockquote>**
 
   * --db-cluster-snapshot-identifier
   * --attribute-name
@@ -639,7 +635,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-instance</summary>
+- **<details><summary>modify-db-instance</summary><blockquote>**
 
   * --db-instance-identifier
   * --allocated-storage
@@ -692,7 +688,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-parameter-group</summary>
+- **<details><summary>modify-db-parameter-group</summary><blockquote>**
 
   * --db-parameter-group-name
   * --parameters
@@ -701,7 +697,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-subnet-group</summary>
+- **<details><summary>modify-db-subnet-group</summary><blockquote>**
 
   * --db-subnet-group-name
   * --db-subnet-group-description
@@ -711,7 +707,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-event-subscription</summary>
+- **<details><summary>modify-event-subscription</summary><blockquote>**
 
   * --subscription-name
   * --sns-topic-arn
@@ -724,7 +720,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>promote-read-replica-db-cluster</summary>
+- **<details><summary>promote-read-replica-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --cli-input-json
@@ -732,7 +728,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>reboot-db-instance</summary>
+- **<details><summary>reboot-db-instance</summary><blockquote>**
 
   * --db-instance-identifier
   * --force-failover
@@ -742,7 +738,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-role-from-db-cluster</summary>
+- **<details><summary>remove-role-from-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --role-arn
@@ -752,7 +748,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-source-identifier-from-subscription</summary>
+- **<details><summary>remove-source-identifier-from-subscription</summary><blockquote>**
 
   * --subscription-name
   * --source-identifier
@@ -761,7 +757,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-tags-from-resource</summary>
+- **<details><summary>remove-tags-from-resource</summary><blockquote>**
 
   * --resource-name
   * --tag-keys
@@ -770,7 +766,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-db-cluster-parameter-group</summary>
+- **<details><summary>reset-db-cluster-parameter-group</summary><blockquote>**
 
   * --db-cluster-parameter-group-name
   * --reset-all-parameters
@@ -781,7 +777,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-db-parameter-group</summary>
+- **<details><summary>reset-db-parameter-group</summary><blockquote>**
 
   * --db-parameter-group-name
   * --reset-all-parameters
@@ -792,7 +788,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-db-cluster-from-snapshot</summary>
+- **<details><summary>restore-db-cluster-from-snapshot</summary><blockquote>**
 
   * --availability-zones
   * --db-cluster-identifier
@@ -819,7 +815,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-db-cluster-to-point-in-time</summary>
+- **<details><summary>restore-db-cluster-to-point-in-time</summary><blockquote>**
 
   * --db-cluster-identifier
   * --restore-type
@@ -844,7 +840,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>start-db-cluster</summary>
+- **<details><summary>start-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --cli-input-json
@@ -852,7 +848,7 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-db-cluster</summary>
+- **<details><summary>stop-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --cli-input-json
@@ -860,10 +856,74 @@ neptune
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

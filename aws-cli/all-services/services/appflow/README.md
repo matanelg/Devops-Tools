@@ -1,10 +1,6 @@
-<details>
+<details><summary>appflow</summary><blockquote>
 
-<summary>
-appflow
-</summary>
-
-- <details><summary>create-connector-profile</summary>
+- **<details><summary>create-connector-profile</summary><blockquote>**
 
   * --connector-profile-name
   * --kms-arn
@@ -16,7 +12,7 @@ appflow
   * --generate-cli-skeleton
 
 
-- <details><summary>create-flow</summary>
+- **<details><summary>create-flow</summary><blockquote>**
 
   * --flow-name
   * --description
@@ -31,7 +27,7 @@ appflow
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-connector-profile</summary>
+- **<details><summary>delete-connector-profile</summary><blockquote>**
 
   * --connector-profile-name
   * --force-delete
@@ -41,7 +37,7 @@ appflow
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-flow</summary>
+- **<details><summary>delete-flow</summary><blockquote>**
 
   * --flow-name
   * --force-delete
@@ -51,7 +47,7 @@ appflow
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-connector-entity</summary>
+- **<details><summary>describe-connector-entity</summary><blockquote>**
 
   * --connector-entity-name
   * --connector-type
@@ -61,7 +57,7 @@ appflow
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-connector-profiles</summary>
+- **<details><summary>describe-connector-profiles</summary><blockquote>**
 
   * --connector-profile-names
   * --connector-type
@@ -72,7 +68,7 @@ appflow
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-connectors</summary>
+- **<details><summary>describe-connectors</summary><blockquote>**
 
   * --connector-types
   * --next-token
@@ -81,7 +77,7 @@ appflow
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-flow</summary>
+- **<details><summary>describe-flow</summary><blockquote>**
 
   * --flow-name
   * --cli-input-json
@@ -89,7 +85,7 @@ appflow
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-flow-execution-records</summary>
+- **<details><summary>describe-flow-execution-records</summary><blockquote>**
 
   * --flow-name
   * --max-results
@@ -99,12 +95,12 @@ appflow
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-connector-entities</summary>
+- **<details><summary>list-connector-entities</summary><blockquote>**
 
   * --connector-profile-name
   * --connector-type
@@ -114,7 +110,7 @@ appflow
   * --generate-cli-skeleton
 
 
-- <details><summary>list-flows</summary>
+- **<details><summary>list-flows</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -123,7 +119,7 @@ appflow
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -131,7 +127,7 @@ appflow
   * --generate-cli-skeleton
 
 
-- <details><summary>start-flow</summary>
+- **<details><summary>start-flow</summary><blockquote>**
 
   * --flow-name
   * --cli-input-json
@@ -139,7 +135,7 @@ appflow
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-flow</summary>
+- **<details><summary>stop-flow</summary><blockquote>**
 
   * --flow-name
   * --cli-input-json
@@ -147,7 +143,7 @@ appflow
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -156,7 +152,7 @@ appflow
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -165,7 +161,7 @@ appflow
   * --generate-cli-skeleton
 
 
-- <details><summary>update-connector-profile</summary>
+- **<details><summary>update-connector-profile</summary><blockquote>**
 
   * --connector-profile-name
   * --connection-mode
@@ -175,7 +171,7 @@ appflow
   * --generate-cli-skeleton
 
 
-- <details><summary>update-flow</summary>
+- **<details><summary>update-flow</summary><blockquote>**
 
   * --flow-name
   * --description
@@ -188,5 +184,23 @@ appflow
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

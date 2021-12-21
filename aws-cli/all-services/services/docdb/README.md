@@ -1,10 +1,6 @@
-<details>
+<details><summary>docdb</summary><blockquote>
 
-<summary>
-docdb
-</summary>
-
-- <details><summary>add-source-identifier-to-subscription</summary>
+- **<details><summary>add-source-identifier-to-subscription</summary><blockquote>**
 
   * --subscription-name
   * --source-identifier
@@ -13,7 +9,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>add-tags-to-resource</summary>
+- **<details><summary>add-tags-to-resource</summary><blockquote>**
 
   * --resource-name
   * --tags
@@ -22,7 +18,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>apply-pending-maintenance-action</summary>
+- **<details><summary>apply-pending-maintenance-action</summary><blockquote>**
 
   * --resource-identifier
   * --apply-action
@@ -32,7 +28,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-db-cluster-parameter-group</summary>
+- **<details><summary>copy-db-cluster-parameter-group</summary><blockquote>**
 
   * --source-db-cluster-parameter-group-identifier
   * --target-db-cluster-parameter-group-identifier
@@ -43,7 +39,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-db-cluster-snapshot</summary>
+- **<details><summary>copy-db-cluster-snapshot</summary><blockquote>**
 
   * --source-db-cluster-snapshot-identifier
   * --target-db-cluster-snapshot-identifier
@@ -58,7 +54,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-cluster</summary>
+- **<details><summary>create-db-cluster</summary><blockquote>**
 
   * --availability-zones
   * --backup-retention-period
@@ -88,7 +84,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-cluster-parameter-group</summary>
+- **<details><summary>create-db-cluster-parameter-group</summary><blockquote>**
 
   * --db-cluster-parameter-group-name
   * --db-parameter-group-family
@@ -99,7 +95,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-cluster-snapshot</summary>
+- **<details><summary>create-db-cluster-snapshot</summary><blockquote>**
 
   * --db-cluster-snapshot-identifier
   * --db-cluster-identifier
@@ -109,7 +105,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-instance</summary>
+- **<details><summary>create-db-instance</summary><blockquote>**
 
   * --db-instance-identifier
   * --db-instance-class
@@ -126,7 +122,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-subnet-group</summary>
+- **<details><summary>create-db-subnet-group</summary><blockquote>**
 
   * --db-subnet-group-name
   * --db-subnet-group-description
@@ -137,7 +133,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>create-event-subscription</summary>
+- **<details><summary>create-event-subscription</summary><blockquote>**
 
   * --subscription-name
   * --sns-topic-arn
@@ -152,7 +148,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>create-global-cluster</summary>
+- **<details><summary>create-global-cluster</summary><blockquote>**
 
   * --global-cluster-identifier
   * --source-db-cluster-identifier
@@ -168,7 +164,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-cluster</summary>
+- **<details><summary>delete-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --skip-final-snapshot
@@ -179,7 +175,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-cluster-parameter-group</summary>
+- **<details><summary>delete-db-cluster-parameter-group</summary><blockquote>**
 
   * --db-cluster-parameter-group-name
   * --cli-input-json
@@ -187,7 +183,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-cluster-snapshot</summary>
+- **<details><summary>delete-db-cluster-snapshot</summary><blockquote>**
 
   * --db-cluster-snapshot-identifier
   * --cli-input-json
@@ -195,7 +191,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-instance</summary>
+- **<details><summary>delete-db-instance</summary><blockquote>**
 
   * --db-instance-identifier
   * --cli-input-json
@@ -203,7 +199,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-subnet-group</summary>
+- **<details><summary>delete-db-subnet-group</summary><blockquote>**
 
   * --db-subnet-group-name
   * --cli-input-json
@@ -211,7 +207,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-event-subscription</summary>
+- **<details><summary>delete-event-subscription</summary><blockquote>**
 
   * --subscription-name
   * --cli-input-json
@@ -219,7 +215,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-global-cluster</summary>
+- **<details><summary>delete-global-cluster</summary><blockquote>**
 
   * --global-cluster-identifier
   * --cli-input-json
@@ -227,7 +223,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-certificates</summary>
+- **<details><summary>describe-certificates</summary><blockquote>**
 
   * --certificate-identifier
   * --filters
@@ -239,7 +235,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-cluster-parameter-groups</summary>
+- **<details><summary>describe-db-cluster-parameter-groups</summary><blockquote>**
 
   * --db-cluster-parameter-group-name
   * --filters
@@ -251,7 +247,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-cluster-parameters</summary>
+- **<details><summary>describe-db-cluster-parameters</summary><blockquote>**
 
   * --db-cluster-parameter-group-name
   * --source
@@ -264,7 +260,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-clusters</summary>
+- **<details><summary>describe-db-clusters</summary><blockquote>**
 
   * --db-cluster-identifier
   * --filters
@@ -276,7 +272,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-cluster-snapshot-attributes</summary>
+- **<details><summary>describe-db-cluster-snapshot-attributes</summary><blockquote>**
 
   * --db-cluster-snapshot-identifier
   * --cli-input-json
@@ -284,7 +280,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-cluster-snapshots</summary>
+- **<details><summary>describe-db-cluster-snapshots</summary><blockquote>**
 
   * --db-cluster-identifier
   * --db-cluster-snapshot-identifier
@@ -302,7 +298,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-engine-versions</summary>
+- **<details><summary>describe-db-engine-versions</summary><blockquote>**
 
   * --engine
   * --engine-version
@@ -322,7 +318,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-instances</summary>
+- **<details><summary>describe-db-instances</summary><blockquote>**
 
   * --db-instance-identifier
   * --filters
@@ -334,7 +330,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-subnet-groups</summary>
+- **<details><summary>describe-db-subnet-groups</summary><blockquote>**
 
   * --db-subnet-group-name
   * --filters
@@ -346,7 +342,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-engine-default-cluster-parameters</summary>
+- **<details><summary>describe-engine-default-cluster-parameters</summary><blockquote>**
 
   * --db-parameter-group-family
   * --filters
@@ -357,7 +353,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-event-categories</summary>
+- **<details><summary>describe-event-categories</summary><blockquote>**
 
   * --source-type
   * --filters
@@ -366,7 +362,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-events</summary>
+- **<details><summary>describe-events</summary><blockquote>**
 
   * --source-identifier
   * --source-type
@@ -383,7 +379,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-event-subscriptions</summary>
+- **<details><summary>describe-event-subscriptions</summary><blockquote>**
 
   * --subscription-name
   * --filters
@@ -395,7 +391,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-global-clusters</summary>
+- **<details><summary>describe-global-clusters</summary><blockquote>**
 
   * --global-cluster-identifier
   * --filters
@@ -407,7 +403,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-orderable-db-instance-options</summary>
+- **<details><summary>describe-orderable-db-instance-options</summary><blockquote>**
 
   * --engine
   * --engine-version
@@ -424,7 +420,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-pending-maintenance-actions</summary>
+- **<details><summary>describe-pending-maintenance-actions</summary><blockquote>**
 
   * --resource-identifier
   * --filters
@@ -436,7 +432,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>failover-db-cluster</summary>
+- **<details><summary>failover-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --target-db-instance-identifier
@@ -445,12 +441,12 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-name
   * --filters
@@ -459,7 +455,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-cluster</summary>
+- **<details><summary>modify-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --new-db-cluster-identifier
@@ -481,7 +477,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-cluster-parameter-group</summary>
+- **<details><summary>modify-db-cluster-parameter-group</summary><blockquote>**
 
   * --db-cluster-parameter-group-name
   * --parameters
@@ -490,7 +486,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-cluster-snapshot-attribute</summary>
+- **<details><summary>modify-db-cluster-snapshot-attribute</summary><blockquote>**
 
   * --db-cluster-snapshot-identifier
   * --attribute-name
@@ -501,7 +497,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-instance</summary>
+- **<details><summary>modify-db-instance</summary><blockquote>**
 
   * --db-instance-identifier
   * --db-instance-class
@@ -518,7 +514,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-subnet-group</summary>
+- **<details><summary>modify-db-subnet-group</summary><blockquote>**
 
   * --db-subnet-group-name
   * --db-subnet-group-description
@@ -528,7 +524,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-event-subscription</summary>
+- **<details><summary>modify-event-subscription</summary><blockquote>**
 
   * --subscription-name
   * --sns-topic-arn
@@ -541,7 +537,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-global-cluster</summary>
+- **<details><summary>modify-global-cluster</summary><blockquote>**
 
   * --global-cluster-identifier
   * --new-global-cluster-identifier
@@ -552,7 +548,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>reboot-db-instance</summary>
+- **<details><summary>reboot-db-instance</summary><blockquote>**
 
   * --db-instance-identifier
   * --force-failover
@@ -562,7 +558,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-from-global-cluster</summary>
+- **<details><summary>remove-from-global-cluster</summary><blockquote>**
 
   * --global-cluster-identifier
   * --db-cluster-identifier
@@ -571,7 +567,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-source-identifier-from-subscription</summary>
+- **<details><summary>remove-source-identifier-from-subscription</summary><blockquote>**
 
   * --subscription-name
   * --source-identifier
@@ -580,7 +576,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-tags-from-resource</summary>
+- **<details><summary>remove-tags-from-resource</summary><blockquote>**
 
   * --resource-name
   * --tag-keys
@@ -589,7 +585,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-db-cluster-parameter-group</summary>
+- **<details><summary>reset-db-cluster-parameter-group</summary><blockquote>**
 
   * --db-cluster-parameter-group-name
   * --reset-all-parameters
@@ -600,7 +596,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-db-cluster-from-snapshot</summary>
+- **<details><summary>restore-db-cluster-from-snapshot</summary><blockquote>**
 
   * --availability-zones
   * --db-cluster-identifier
@@ -620,7 +616,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-db-cluster-to-point-in-time</summary>
+- **<details><summary>restore-db-cluster-to-point-in-time</summary><blockquote>**
 
   * --db-cluster-identifier
   * --source-db-cluster-identifier
@@ -640,7 +636,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>start-db-cluster</summary>
+- **<details><summary>start-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --cli-input-json
@@ -648,7 +644,7 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-db-cluster</summary>
+- **<details><summary>stop-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --cli-input-json
@@ -656,10 +652,64 @@ docdb
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

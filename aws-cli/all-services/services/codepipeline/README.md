@@ -1,10 +1,6 @@
-<details>
+<details><summary>codepipeline</summary><blockquote>
 
-<summary>
-codepipeline
-</summary>
-
-- <details><summary>acknowledge-job</summary>
+- **<details><summary>acknowledge-job</summary><blockquote>**
 
   * --job-id
   * --nonce
@@ -13,7 +9,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>acknowledge-third-party-job</summary>
+- **<details><summary>acknowledge-third-party-job</summary><blockquote>**
 
   * --job-id
   * --nonce
@@ -23,7 +19,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>create-custom-action-type</summary>
+- **<details><summary>create-custom-action-type</summary><blockquote>**
 
   * --category
   * --provider
@@ -38,7 +34,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>create-pipeline</summary>
+- **<details><summary>create-pipeline</summary><blockquote>**
 
   * --pipeline
   * --tags
@@ -47,7 +43,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-custom-action-type</summary>
+- **<details><summary>delete-custom-action-type</summary><blockquote>**
 
   * --category
   * --provider
@@ -57,7 +53,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-pipeline</summary>
+- **<details><summary>delete-pipeline</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -65,7 +61,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-webhook</summary>
+- **<details><summary>delete-webhook</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -73,7 +69,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-webhook-with-third-party</summary>
+- **<details><summary>deregister-webhook-with-third-party</summary><blockquote>**
 
   * --webhook-name
   * --cli-input-json
@@ -81,7 +77,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-stage-transition</summary>
+- **<details><summary>disable-stage-transition</summary><blockquote>**
 
   * --pipeline-name
   * --stage-name
@@ -92,7 +88,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-stage-transition</summary>
+- **<details><summary>enable-stage-transition</summary><blockquote>**
 
   * --pipeline-name
   * --stage-name
@@ -102,7 +98,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>get-action-type</summary>
+- **<details><summary>get-action-type</summary><blockquote>**
 
   * --category
   * --owner
@@ -113,7 +109,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>get-job-details</summary>
+- **<details><summary>get-job-details</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -121,7 +117,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>get-pipeline</summary>
+- **<details><summary>get-pipeline</summary><blockquote>**
 
   * --name
   * --pipeline-version
@@ -130,7 +126,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>get-pipeline-execution</summary>
+- **<details><summary>get-pipeline-execution</summary><blockquote>**
 
   * --pipeline-name
   * --pipeline-execution-id
@@ -139,7 +135,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>get-pipeline-state</summary>
+- **<details><summary>get-pipeline-state</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -147,7 +143,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>get-third-party-job-details</summary>
+- **<details><summary>get-third-party-job-details</summary><blockquote>**
 
   * --job-id
   * --client-token
@@ -156,12 +152,12 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-action-executions</summary>
+- **<details><summary>list-action-executions</summary><blockquote>**
 
   * --pipeline-name
   * --filter
@@ -173,7 +169,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>list-action-types</summary>
+- **<details><summary>list-action-types</summary><blockquote>**
 
   * --action-owner-filter
   * --region-filter
@@ -184,7 +180,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>list-pipeline-executions</summary>
+- **<details><summary>list-pipeline-executions</summary><blockquote>**
 
   * --pipeline-name
   * --cli-input-json
@@ -195,7 +191,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>list-pipelines</summary>
+- **<details><summary>list-pipelines</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -205,7 +201,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -216,7 +212,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>list-webhooks</summary>
+- **<details><summary>list-webhooks</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -226,7 +222,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>poll-for-jobs</summary>
+- **<details><summary>poll-for-jobs</summary><blockquote>**
 
   * --action-type-id
   * --max-batch-size
@@ -236,7 +232,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>poll-for-third-party-jobs</summary>
+- **<details><summary>poll-for-third-party-jobs</summary><blockquote>**
 
   * --action-type-id
   * --max-batch-size
@@ -245,7 +241,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>put-action-revision</summary>
+- **<details><summary>put-action-revision</summary><blockquote>**
 
   * --pipeline-name
   * --stage-name
@@ -256,7 +252,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>put-approval-result</summary>
+- **<details><summary>put-approval-result</summary><blockquote>**
 
   * --pipeline-name
   * --stage-name
@@ -268,7 +264,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>put-job-failure-result</summary>
+- **<details><summary>put-job-failure-result</summary><blockquote>**
 
   * --job-id
   * --failure-details
@@ -277,7 +273,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>put-job-success-result</summary>
+- **<details><summary>put-job-success-result</summary><blockquote>**
 
   * --job-id
   * --current-revision
@@ -289,7 +285,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>put-third-party-job-failure-result</summary>
+- **<details><summary>put-third-party-job-failure-result</summary><blockquote>**
 
   * --job-id
   * --client-token
@@ -299,7 +295,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>put-third-party-job-success-result</summary>
+- **<details><summary>put-third-party-job-success-result</summary><blockquote>**
 
   * --job-id
   * --client-token
@@ -311,7 +307,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>put-webhook</summary>
+- **<details><summary>put-webhook</summary><blockquote>**
 
   * --webhook
   * --tags
@@ -320,7 +316,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>register-webhook-with-third-party</summary>
+- **<details><summary>register-webhook-with-third-party</summary><blockquote>**
 
   * --webhook-name
   * --cli-input-json
@@ -328,7 +324,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>retry-stage-execution</summary>
+- **<details><summary>retry-stage-execution</summary><blockquote>**
 
   * --pipeline-name
   * --stage-name
@@ -339,7 +335,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>start-pipeline-execution</summary>
+- **<details><summary>start-pipeline-execution</summary><blockquote>**
 
   * --name
   * --client-request-token
@@ -348,7 +344,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-pipeline-execution</summary>
+- **<details><summary>stop-pipeline-execution</summary><blockquote>**
 
   * --pipeline-name
   * --pipeline-execution-id
@@ -360,7 +356,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -369,7 +365,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -378,7 +374,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>update-action-type</summary>
+- **<details><summary>update-action-type</summary><blockquote>**
 
   * --action-type
   * --cli-input-json
@@ -386,7 +382,7 @@ codepipeline
   * --generate-cli-skeleton
 
 
-- <details><summary>update-pipeline</summary>
+- **<details><summary>update-pipeline</summary><blockquote>**
 
   * --pipeline
   * --cli-input-json
@@ -394,5 +390,44 @@ codepipeline
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

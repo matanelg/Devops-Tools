@@ -1,10 +1,6 @@
-<details>
+<details><summary>comprehendmedical</summary><blockquote>
 
-<summary>
-comprehendmedical
-</summary>
-
-- <details><summary>describe-entities-detection-v2-job</summary>
+- **<details><summary>describe-entities-detection-v2-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -12,7 +8,7 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-icd10-cm-inference-job</summary>
+- **<details><summary>describe-icd10-cm-inference-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -20,7 +16,7 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-phi-detection-job</summary>
+- **<details><summary>describe-phi-detection-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -28,7 +24,7 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-rx-norm-inference-job</summary>
+- **<details><summary>describe-rx-norm-inference-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -36,7 +32,7 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-entities-v2</summary>
+- **<details><summary>detect-entities-v2</summary><blockquote>**
 
   * --text
   * --cli-input-json
@@ -44,7 +40,7 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-phi</summary>
+- **<details><summary>detect-phi</summary><blockquote>**
 
   * --text
   * --cli-input-json
@@ -52,12 +48,12 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>infer-icd10-cm</summary>
+- **<details><summary>infer-icd10-cm</summary><blockquote>**
 
   * --text
   * --cli-input-json
@@ -65,7 +61,7 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>infer-rx-norm</summary>
+- **<details><summary>infer-rx-norm</summary><blockquote>**
 
   * --text
   * --cli-input-json
@@ -73,7 +69,7 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>list-entities-detection-v2-jobs</summary>
+- **<details><summary>list-entities-detection-v2-jobs</summary><blockquote>**
 
   * --filter
   * --next-token
@@ -83,7 +79,7 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>list-icd10-cm-inference-jobs</summary>
+- **<details><summary>list-icd10-cm-inference-jobs</summary><blockquote>**
 
   * --filter
   * --next-token
@@ -93,7 +89,7 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>list-phi-detection-jobs</summary>
+- **<details><summary>list-phi-detection-jobs</summary><blockquote>**
 
   * --filter
   * --next-token
@@ -103,7 +99,7 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>list-rx-norm-inference-jobs</summary>
+- **<details><summary>list-rx-norm-inference-jobs</summary><blockquote>**
 
   * --filter
   * --next-token
@@ -113,7 +109,7 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>start-entities-detection-v2-job</summary>
+- **<details><summary>start-entities-detection-v2-job</summary><blockquote>**
 
   * --input-data-config
   * --output-data-config
@@ -127,7 +123,7 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>start-icd10-cm-inference-job</summary>
+- **<details><summary>start-icd10-cm-inference-job</summary><blockquote>**
 
   * --input-data-config
   * --output-data-config
@@ -141,7 +137,7 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>start-phi-detection-job</summary>
+- **<details><summary>start-phi-detection-job</summary><blockquote>**
 
   * --input-data-config
   * --output-data-config
@@ -155,7 +151,7 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>start-rx-norm-inference-job</summary>
+- **<details><summary>start-rx-norm-inference-job</summary><blockquote>**
 
   * --input-data-config
   * --output-data-config
@@ -169,7 +165,7 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-entities-detection-v2-job</summary>
+- **<details><summary>stop-entities-detection-v2-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -177,7 +173,7 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-icd10-cm-inference-job</summary>
+- **<details><summary>stop-icd10-cm-inference-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -185,7 +181,7 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-phi-detection-job</summary>
+- **<details><summary>stop-phi-detection-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -193,7 +189,7 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-rx-norm-inference-job</summary>
+- **<details><summary>stop-rx-norm-inference-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -201,5 +197,25 @@ comprehendmedical
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

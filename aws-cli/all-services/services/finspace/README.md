@@ -1,10 +1,6 @@
-<details>
+<details><summary>finspace</summary><blockquote>
 
-<summary>
-finspace
-</summary>
-
-- <details><summary>create-environment</summary>
+- **<details><summary>create-environment</summary><blockquote>**
 
   * --name
   * --description
@@ -17,7 +13,7 @@ finspace
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-environment</summary>
+- **<details><summary>delete-environment</summary><blockquote>**
 
   * --environment-id
   * --cli-input-json
@@ -25,7 +21,7 @@ finspace
   * --generate-cli-skeleton
 
 
-- <details><summary>get-environment</summary>
+- **<details><summary>get-environment</summary><blockquote>**
 
   * --environment-id
   * --cli-input-json
@@ -33,12 +29,12 @@ finspace
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-environments</summary>
+- **<details><summary>list-environments</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -47,7 +43,7 @@ finspace
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -55,7 +51,7 @@ finspace
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -64,7 +60,7 @@ finspace
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -73,7 +69,7 @@ finspace
   * --generate-cli-skeleton
 
 
-- <details><summary>update-environment</summary>
+- **<details><summary>update-environment</summary><blockquote>**
 
   * --environment-id
   * --name
@@ -85,5 +81,13 @@ finspace
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

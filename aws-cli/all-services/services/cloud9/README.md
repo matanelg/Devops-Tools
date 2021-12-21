@@ -1,10 +1,6 @@
-<details>
+<details><summary>cloud9</summary><blockquote>
 
-<summary>
-cloud9
-</summary>
-
-- <details><summary>create-environment-ec2</summary>
+- **<details><summary>create-environment-ec2</summary><blockquote>**
 
   * --name
   * --description
@@ -21,7 +17,7 @@ cloud9
   * --generate-cli-skeleton
 
 
-- <details><summary>create-environment-membership</summary>
+- **<details><summary>create-environment-membership</summary><blockquote>**
 
   * --environment-id
   * --user-arn
@@ -31,7 +27,7 @@ cloud9
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-environment</summary>
+- **<details><summary>delete-environment</summary><blockquote>**
 
   * --environment-id
   * --cli-input-json
@@ -39,7 +35,7 @@ cloud9
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-environment-membership</summary>
+- **<details><summary>delete-environment-membership</summary><blockquote>**
 
   * --environment-id
   * --user-arn
@@ -48,7 +44,7 @@ cloud9
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-environment-memberships</summary>
+- **<details><summary>describe-environment-memberships</summary><blockquote>**
 
   * --user-arn
   * --environment-id
@@ -61,7 +57,7 @@ cloud9
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-environments</summary>
+- **<details><summary>describe-environments</summary><blockquote>**
 
   * --environment-ids
   * --cli-input-json
@@ -69,7 +65,7 @@ cloud9
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-environment-status</summary>
+- **<details><summary>describe-environment-status</summary><blockquote>**
 
   * --environment-id
   * --cli-input-json
@@ -77,12 +73,12 @@ cloud9
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-environments</summary>
+- **<details><summary>list-environments</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -92,7 +88,7 @@ cloud9
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -100,7 +96,7 @@ cloud9
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -109,7 +105,7 @@ cloud9
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -118,7 +114,7 @@ cloud9
   * --generate-cli-skeleton
 
 
-- <details><summary>update-environment</summary>
+- **<details><summary>update-environment</summary><blockquote>**
 
   * --environment-id
   * --name
@@ -128,7 +124,7 @@ cloud9
   * --generate-cli-skeleton
 
 
-- <details><summary>update-environment-membership</summary>
+- **<details><summary>update-environment-membership</summary><blockquote>**
 
   * --environment-id
   * --user-arn
@@ -138,5 +134,18 @@ cloud9
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

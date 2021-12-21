@@ -1,10 +1,6 @@
-<details>
+<details><summary>braket</summary><blockquote>
 
-<summary>
-braket
-</summary>
-
-- <details><summary>cancel-quantum-task</summary>
+- **<details><summary>cancel-quantum-task</summary><blockquote>**
 
   * --client-token
   * --quantum-task-arn
@@ -13,7 +9,7 @@ braket
   * --generate-cli-skeleton
 
 
-- <details><summary>create-quantum-task</summary>
+- **<details><summary>create-quantum-task</summary><blockquote>**
 
   * --action
   * --client-token
@@ -28,7 +24,7 @@ braket
   * --generate-cli-skeleton
 
 
-- <details><summary>get-device</summary>
+- **<details><summary>get-device</summary><blockquote>**
 
   * --device-arn
   * --cli-input-json
@@ -36,7 +32,7 @@ braket
   * --generate-cli-skeleton
 
 
-- <details><summary>get-quantum-task</summary>
+- **<details><summary>get-quantum-task</summary><blockquote>**
 
   * --quantum-task-arn
   * --cli-input-json
@@ -44,12 +40,12 @@ braket
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -57,7 +53,7 @@ braket
   * --generate-cli-skeleton
 
 
-- <details><summary>search-devices</summary>
+- **<details><summary>search-devices</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -68,7 +64,7 @@ braket
   * --generate-cli-skeleton
 
 
-- <details><summary>search-quantum-tasks</summary>
+- **<details><summary>search-quantum-tasks</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -79,7 +75,7 @@ braket
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -88,7 +84,7 @@ braket
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -97,5 +93,14 @@ braket
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

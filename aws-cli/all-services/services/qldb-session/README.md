@@ -1,15 +1,11 @@
-<details>
+<details><summary>qldb-session</summary><blockquote>
 
-<summary>
-qldb-session
-</summary>
-
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>send-command</summary>
+- **<details><summary>send-command</summary><blockquote>**
 
   * --session-token
   * --start-session
@@ -24,5 +20,6 @@ qldb-session
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

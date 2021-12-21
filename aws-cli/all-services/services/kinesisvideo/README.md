@@ -1,10 +1,6 @@
-<details>
+<details><summary>kinesisvideo</summary><blockquote>
 
-<summary>
-kinesisvideo
-</summary>
-
-- <details><summary>create-signaling-channel</summary>
+- **<details><summary>create-signaling-channel</summary><blockquote>**
 
   * --channel-name
   * --channel-type
@@ -15,7 +11,7 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-- <details><summary>create-stream</summary>
+- **<details><summary>create-stream</summary><blockquote>**
 
   * --device-name
   * --stream-name
@@ -28,7 +24,7 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-signaling-channel</summary>
+- **<details><summary>delete-signaling-channel</summary><blockquote>**
 
   * --channel-arn
   * --current-version
@@ -37,7 +33,7 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-stream</summary>
+- **<details><summary>delete-stream</summary><blockquote>**
 
   * --stream-arn
   * --current-version
@@ -46,7 +42,7 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-signaling-channel</summary>
+- **<details><summary>describe-signaling-channel</summary><blockquote>**
 
   * --channel-name
   * --channel-arn
@@ -55,7 +51,7 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stream</summary>
+- **<details><summary>describe-stream</summary><blockquote>**
 
   * --stream-name
   * --stream-arn
@@ -64,7 +60,7 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-- <details><summary>get-data-endpoint</summary>
+- **<details><summary>get-data-endpoint</summary><blockquote>**
 
   * --stream-name
   * --stream-arn
@@ -74,7 +70,7 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-- <details><summary>get-signaling-channel-endpoint</summary>
+- **<details><summary>get-signaling-channel-endpoint</summary><blockquote>**
 
   * --channel-arn
   * --single-master-channel-endpoint-configuration
@@ -83,12 +79,12 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-signaling-channels</summary>
+- **<details><summary>list-signaling-channels</summary><blockquote>**
 
   * --channel-name-condition
   * --cli-input-json
@@ -99,7 +95,7 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-- <details><summary>list-streams</summary>
+- **<details><summary>list-streams</summary><blockquote>**
 
   * --stream-name-condition
   * --cli-input-json
@@ -110,7 +106,7 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --next-token
   * --resource-arn
@@ -119,7 +115,7 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-stream</summary>
+- **<details><summary>list-tags-for-stream</summary><blockquote>**
 
   * --next-token
   * --stream-arn
@@ -129,7 +125,7 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -138,7 +134,7 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-stream</summary>
+- **<details><summary>tag-stream</summary><blockquote>**
 
   * --stream-arn
   * --stream-name
@@ -148,7 +144,7 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-key-list
@@ -157,7 +153,7 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-stream</summary>
+- **<details><summary>untag-stream</summary><blockquote>**
 
   * --stream-arn
   * --stream-name
@@ -167,7 +163,7 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-- <details><summary>update-data-retention</summary>
+- **<details><summary>update-data-retention</summary><blockquote>**
 
   * --stream-name
   * --stream-arn
@@ -179,7 +175,7 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-- <details><summary>update-signaling-channel</summary>
+- **<details><summary>update-signaling-channel</summary><blockquote>**
 
   * --channel-arn
   * --current-version
@@ -189,7 +185,7 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-- <details><summary>update-stream</summary>
+- **<details><summary>update-stream</summary><blockquote>**
 
   * --stream-name
   * --stream-arn
@@ -201,5 +197,24 @@ kinesisvideo
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>kinesisanalyticsv2</summary><blockquote>
 
-<summary>
-kinesisanalyticsv2
-</summary>
-
-- <details><summary>add-application-cloud-watch-logging-option</summary>
+- **<details><summary>add-application-cloud-watch-logging-option</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -15,7 +11,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>add-application-input</summary>
+- **<details><summary>add-application-input</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -25,7 +21,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>add-application-input-processing-configuration</summary>
+- **<details><summary>add-application-input-processing-configuration</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -36,7 +32,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>add-application-output</summary>
+- **<details><summary>add-application-output</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -46,7 +42,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>add-application-reference-data-source</summary>
+- **<details><summary>add-application-reference-data-source</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -56,7 +52,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>add-application-vpc-configuration</summary>
+- **<details><summary>add-application-vpc-configuration</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -67,7 +63,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-application</summary>
+- **<details><summary>create-application</summary><blockquote>**
 
   * --application-name
   * --application-description
@@ -82,7 +78,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-application-presigned-url</summary>
+- **<details><summary>create-application-presigned-url</summary><blockquote>**
 
   * --application-name
   * --url-type
@@ -92,7 +88,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-application-snapshot</summary>
+- **<details><summary>create-application-snapshot</summary><blockquote>**
 
   * --application-name
   * --snapshot-name
@@ -101,7 +97,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application</summary>
+- **<details><summary>delete-application</summary><blockquote>**
 
   * --application-name
   * --create-timestamp
@@ -110,7 +106,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application-cloud-watch-logging-option</summary>
+- **<details><summary>delete-application-cloud-watch-logging-option</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -121,7 +117,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application-input-processing-configuration</summary>
+- **<details><summary>delete-application-input-processing-configuration</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -131,7 +127,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application-output</summary>
+- **<details><summary>delete-application-output</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -141,7 +137,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application-reference-data-source</summary>
+- **<details><summary>delete-application-reference-data-source</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -151,7 +147,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application-snapshot</summary>
+- **<details><summary>delete-application-snapshot</summary><blockquote>**
 
   * --application-name
   * --snapshot-name
@@ -161,7 +157,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application-vpc-configuration</summary>
+- **<details><summary>delete-application-vpc-configuration</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -172,7 +168,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-application</summary>
+- **<details><summary>describe-application</summary><blockquote>**
 
   * --application-name
   * --include-additional-details
@@ -182,7 +178,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-application-snapshot</summary>
+- **<details><summary>describe-application-snapshot</summary><blockquote>**
 
   * --application-name
   * --snapshot-name
@@ -191,7 +187,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-application-version</summary>
+- **<details><summary>describe-application-version</summary><blockquote>**
 
   * --application-name
   * --application-version-id
@@ -200,7 +196,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>discover-input-schema</summary>
+- **<details><summary>discover-input-schema</summary><blockquote>**
 
   * --resource-arn
   * --service-execution-role
@@ -212,12 +208,12 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-applications</summary>
+- **<details><summary>list-applications</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -227,7 +223,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-application-snapshots</summary>
+- **<details><summary>list-application-snapshots</summary><blockquote>**
 
   * --application-name
   * --cli-input-json
@@ -238,7 +234,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-application-versions</summary>
+- **<details><summary>list-application-versions</summary><blockquote>**
 
   * --application-name
   * --limit
@@ -248,7 +244,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -256,7 +252,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>rollback-application</summary>
+- **<details><summary>rollback-application</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -265,7 +261,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>start-application</summary>
+- **<details><summary>start-application</summary><blockquote>**
 
   * --application-name
   * --run-configuration
@@ -274,7 +270,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-application</summary>
+- **<details><summary>stop-application</summary><blockquote>**
 
   * --application-name
   * --force
@@ -284,7 +280,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -293,7 +289,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -302,7 +298,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-application</summary>
+- **<details><summary>update-application</summary><blockquote>**
 
   * --application-name
   * --current-application-version-id
@@ -316,7 +312,7 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-application-maintenance-configuration</summary>
+- **<details><summary>update-application-maintenance-configuration</summary><blockquote>**
 
   * --application-name
   * --application-maintenance-configuration-update
@@ -325,5 +321,36 @@ kinesisanalyticsv2
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

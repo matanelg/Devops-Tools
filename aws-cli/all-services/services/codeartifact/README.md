@@ -1,10 +1,6 @@
-<details>
+<details><summary>codeartifact</summary><blockquote>
 
-<summary>
-codeartifact
-</summary>
-
-- <details><summary>associate-external-connection</summary>
+- **<details><summary>associate-external-connection</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -15,7 +11,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-package-versions</summary>
+- **<details><summary>copy-package-versions</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -35,7 +31,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>create-domain</summary>
+- **<details><summary>create-domain</summary><blockquote>**
 
   * --domain
   * --encryption-key
@@ -45,7 +41,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>create-repository</summary>
+- **<details><summary>create-repository</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -58,7 +54,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-domain</summary>
+- **<details><summary>delete-domain</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -67,7 +63,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-domain-permissions-policy</summary>
+- **<details><summary>delete-domain-permissions-policy</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -77,7 +73,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-package-versions</summary>
+- **<details><summary>delete-package-versions</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -92,7 +88,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-repository</summary>
+- **<details><summary>delete-repository</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -102,7 +98,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-repository-permissions-policy</summary>
+- **<details><summary>delete-repository-permissions-policy</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -113,7 +109,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-domain</summary>
+- **<details><summary>describe-domain</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -122,7 +118,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-package-version</summary>
+- **<details><summary>describe-package-version</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -136,7 +132,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-repository</summary>
+- **<details><summary>describe-repository</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -146,7 +142,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-external-connection</summary>
+- **<details><summary>disassociate-external-connection</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -157,7 +153,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>dispose-package-versions</summary>
+- **<details><summary>dispose-package-versions</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -173,7 +169,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>get-authorization-token</summary>
+- **<details><summary>get-authorization-token</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -183,7 +179,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>get-domain-permissions-policy</summary>
+- **<details><summary>get-domain-permissions-policy</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -192,7 +188,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>get-package-version-asset</summary>
+- **<details><summary>get-package-version-asset</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -205,7 +201,7 @@ codeartifact
   * --package-version-revision
 
 
-- <details><summary>get-package-version-readme</summary>
+- **<details><summary>get-package-version-readme</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -219,7 +215,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>get-repository-endpoint</summary>
+- **<details><summary>get-repository-endpoint</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -230,7 +226,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>get-repository-permissions-policy</summary>
+- **<details><summary>get-repository-permissions-policy</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -240,12 +236,12 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-domains</summary>
+- **<details><summary>list-domains</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -255,7 +251,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>list-packages</summary>
+- **<details><summary>list-packages</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -271,7 +267,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>list-package-version-assets</summary>
+- **<details><summary>list-package-version-assets</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -288,7 +284,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>list-package-version-dependencies</summary>
+- **<details><summary>list-package-version-dependencies</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -303,7 +299,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>list-package-versions</summary>
+- **<details><summary>list-package-versions</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -321,7 +317,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>list-repositories</summary>
+- **<details><summary>list-repositories</summary><blockquote>**
 
   * --repository-prefix
   * --cli-input-json
@@ -332,7 +328,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>list-repositories-in-domain</summary>
+- **<details><summary>list-repositories-in-domain</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -346,7 +342,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -354,7 +350,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>login</summary>
+- **<details><summary>login</summary><blockquote>**
 
   * --tool
   * --domain
@@ -365,7 +361,7 @@ codeartifact
   * --dry-run
 
 
-- <details><summary>put-domain-permissions-policy</summary>
+- **<details><summary>put-domain-permissions-policy</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -376,7 +372,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>put-repository-permissions-policy</summary>
+- **<details><summary>put-repository-permissions-policy</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -388,7 +384,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -397,7 +393,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -406,7 +402,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>update-package-versions-status</summary>
+- **<details><summary>update-package-versions-status</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -423,7 +419,7 @@ codeartifact
   * --generate-cli-skeleton
 
 
-- <details><summary>update-repository</summary>
+- **<details><summary>update-repository</summary><blockquote>**
 
   * --domain
   * --domain-owner
@@ -435,5 +431,40 @@ codeartifact
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,15 +1,11 @@
-<details>
+<details><summary>cloudsearchdomain</summary><blockquote>
 
-<summary>
-cloudsearchdomain
-</summary>
-
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>search</summary>
+- **<details><summary>search</summary><blockquote>**
 
   * --cursor
   * --expr
@@ -31,7 +27,7 @@ cloudsearchdomain
   * --generate-cli-skeleton
 
 
-- <details><summary>suggest</summary>
+- **<details><summary>suggest</summary><blockquote>**
 
   * --suggester
   * --size
@@ -41,7 +37,7 @@ cloudsearchdomain
   * --generate-cli-skeleton
 
 
-- <details><summary>upload-documents</summary>
+- **<details><summary>upload-documents</summary><blockquote>**
 
   * --documents
   * --content-type
@@ -50,5 +46,8 @@ cloudsearchdomain
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

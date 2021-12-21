@@ -1,10 +1,6 @@
-<details>
+<details><summary>resource-groups</summary><blockquote>
 
-<summary>
-resource-groups
-</summary>
-
-- <details><summary>create-group</summary>
+- **<details><summary>create-group</summary><blockquote>**
 
   * --name
   * --description
@@ -16,7 +12,7 @@ resource-groups
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-group</summary>
+- **<details><summary>delete-group</summary><blockquote>**
 
   * --group-name
   * --group
@@ -25,7 +21,7 @@ resource-groups
   * --generate-cli-skeleton
 
 
-- <details><summary>get-group</summary>
+- **<details><summary>get-group</summary><blockquote>**
 
   * --group-name
   * --group
@@ -34,7 +30,7 @@ resource-groups
   * --generate-cli-skeleton
 
 
-- <details><summary>get-group-configuration</summary>
+- **<details><summary>get-group-configuration</summary><blockquote>**
 
   * --group
   * --cli-input-json
@@ -42,7 +38,7 @@ resource-groups
   * --generate-cli-skeleton
 
 
-- <details><summary>get-group-query</summary>
+- **<details><summary>get-group-query</summary><blockquote>**
 
   * --group-name
   * --group
@@ -51,7 +47,7 @@ resource-groups
   * --generate-cli-skeleton
 
 
-- <details><summary>get-tags</summary>
+- **<details><summary>get-tags</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -59,7 +55,7 @@ resource-groups
   * --generate-cli-skeleton
 
 
-- <details><summary>group-resources</summary>
+- **<details><summary>group-resources</summary><blockquote>**
 
   * --group
   * --resource-arns
@@ -68,12 +64,12 @@ resource-groups
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-group-resources</summary>
+- **<details><summary>list-group-resources</summary><blockquote>**
 
   * --group-name
   * --group
@@ -86,7 +82,7 @@ resource-groups
   * --generate-cli-skeleton
 
 
-- <details><summary>list-groups</summary>
+- **<details><summary>list-groups</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -97,7 +93,7 @@ resource-groups
   * --generate-cli-skeleton
 
 
-- <details><summary>put-group-configuration</summary>
+- **<details><summary>put-group-configuration</summary><blockquote>**
 
   * --group
   * --configuration
@@ -106,7 +102,7 @@ resource-groups
   * --generate-cli-skeleton
 
 
-- <details><summary>search-resources</summary>
+- **<details><summary>search-resources</summary><blockquote>**
 
   * --resource-query
   * --cli-input-json
@@ -117,7 +113,7 @@ resource-groups
   * --generate-cli-skeleton
 
 
-- <details><summary>tag</summary>
+- **<details><summary>tag</summary><blockquote>**
 
   * --arn
   * --tags
@@ -126,7 +122,7 @@ resource-groups
   * --generate-cli-skeleton
 
 
-- <details><summary>ungroup-resources</summary>
+- **<details><summary>ungroup-resources</summary><blockquote>**
 
   * --group
   * --resource-arns
@@ -135,7 +131,7 @@ resource-groups
   * --generate-cli-skeleton
 
 
-- <details><summary>untag</summary>
+- **<details><summary>untag</summary><blockquote>**
 
   * --arn
   * --keys
@@ -144,7 +140,7 @@ resource-groups
   * --generate-cli-skeleton
 
 
-- <details><summary>update-group</summary>
+- **<details><summary>update-group</summary><blockquote>**
 
   * --group-name
   * --group
@@ -154,7 +150,7 @@ resource-groups
   * --generate-cli-skeleton
 
 
-- <details><summary>update-group-query</summary>
+- **<details><summary>update-group-query</summary><blockquote>**
 
   * --group-name
   * --group
@@ -164,5 +160,21 @@ resource-groups
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>securityhub</summary><blockquote>
 
-<summary>
-securityhub
-</summary>
-
-- <details><summary>accept-administrator-invitation</summary>
+- **<details><summary>accept-administrator-invitation</summary><blockquote>**
 
   * --administrator-id
   * --invitation-id
@@ -13,7 +9,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-disable-standards</summary>
+- **<details><summary>batch-disable-standards</summary><blockquote>**
 
   * --standards-subscription-arns
   * --cli-input-json
@@ -21,7 +17,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-enable-standards</summary>
+- **<details><summary>batch-enable-standards</summary><blockquote>**
 
   * --standards-subscription-requests
   * --cli-input-json
@@ -29,7 +25,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-import-findings</summary>
+- **<details><summary>batch-import-findings</summary><blockquote>**
 
   * --findings
   * --cli-input-json
@@ -37,7 +33,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-update-findings</summary>
+- **<details><summary>batch-update-findings</summary><blockquote>**
 
   * --finding-identifiers
   * --note
@@ -54,7 +50,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>create-action-target</summary>
+- **<details><summary>create-action-target</summary><blockquote>**
 
   * --name
   * --description
@@ -64,7 +60,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>create-insight</summary>
+- **<details><summary>create-insight</summary><blockquote>**
 
   * --name
   * --filters
@@ -74,7 +70,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>create-members</summary>
+- **<details><summary>create-members</summary><blockquote>**
 
   * --account-details
   * --cli-input-json
@@ -82,7 +78,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>decline-invitations</summary>
+- **<details><summary>decline-invitations</summary><blockquote>**
 
   * --account-ids
   * --cli-input-json
@@ -90,7 +86,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-action-target</summary>
+- **<details><summary>delete-action-target</summary><blockquote>**
 
   * --action-target-arn
   * --cli-input-json
@@ -98,7 +94,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-insight</summary>
+- **<details><summary>delete-insight</summary><blockquote>**
 
   * --insight-arn
   * --cli-input-json
@@ -106,7 +102,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-invitations</summary>
+- **<details><summary>delete-invitations</summary><blockquote>**
 
   * --account-ids
   * --cli-input-json
@@ -114,7 +110,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-members</summary>
+- **<details><summary>delete-members</summary><blockquote>**
 
   * --account-ids
   * --cli-input-json
@@ -122,7 +118,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-action-targets</summary>
+- **<details><summary>describe-action-targets</summary><blockquote>**
 
   * --action-target-arns
   * --next-token
@@ -132,7 +128,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-hub</summary>
+- **<details><summary>describe-hub</summary><blockquote>**
 
   * --hub-arn
   * --cli-input-json
@@ -140,14 +136,14 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-organization-configuration</summary>
+- **<details><summary>describe-organization-configuration</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-products</summary>
+- **<details><summary>describe-products</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -157,7 +153,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-standards</summary>
+- **<details><summary>describe-standards</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -166,7 +162,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-standards-controls</summary>
+- **<details><summary>describe-standards-controls</summary><blockquote>**
 
   * --standards-subscription-arn
   * --next-token
@@ -176,7 +172,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-import-findings-for-product</summary>
+- **<details><summary>disable-import-findings-for-product</summary><blockquote>**
 
   * --product-subscription-arn
   * --cli-input-json
@@ -184,7 +180,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-organization-admin-account</summary>
+- **<details><summary>disable-organization-admin-account</summary><blockquote>**
 
   * --admin-account-id
   * --cli-input-json
@@ -192,21 +188,21 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-security-hub</summary>
+- **<details><summary>disable-security-hub</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-from-administrator-account</summary>
+- **<details><summary>disassociate-from-administrator-account</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-members</summary>
+- **<details><summary>disassociate-members</summary><blockquote>**
 
   * --account-ids
   * --cli-input-json
@@ -214,7 +210,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-import-findings-for-product</summary>
+- **<details><summary>enable-import-findings-for-product</summary><blockquote>**
 
   * --product-arn
   * --cli-input-json
@@ -222,7 +218,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-organization-admin-account</summary>
+- **<details><summary>enable-organization-admin-account</summary><blockquote>**
 
   * --admin-account-id
   * --cli-input-json
@@ -230,7 +226,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-security-hub</summary>
+- **<details><summary>enable-security-hub</summary><blockquote>**
 
   * --tags
   * --enable-default-standards
@@ -240,14 +236,14 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>get-administrator-account</summary>
+- **<details><summary>get-administrator-account</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-enabled-standards</summary>
+- **<details><summary>get-enabled-standards</summary><blockquote>**
 
   * --standards-subscription-arns
   * --cli-input-json
@@ -258,7 +254,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>get-findings</summary>
+- **<details><summary>get-findings</summary><blockquote>**
 
   * --filters
   * --sort-criteria
@@ -270,7 +266,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>get-insight-results</summary>
+- **<details><summary>get-insight-results</summary><blockquote>**
 
   * --insight-arn
   * --cli-input-json
@@ -278,7 +274,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>get-insights</summary>
+- **<details><summary>get-insights</summary><blockquote>**
 
   * --insight-arns
   * --cli-input-json
@@ -289,14 +285,14 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>get-invitations-count</summary>
+- **<details><summary>get-invitations-count</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-members</summary>
+- **<details><summary>get-members</summary><blockquote>**
 
   * --account-ids
   * --cli-input-json
@@ -304,12 +300,12 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>invite-members</summary>
+- **<details><summary>invite-members</summary><blockquote>**
 
   * --account-ids
   * --cli-input-json
@@ -317,7 +313,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>list-enabled-products-for-import</summary>
+- **<details><summary>list-enabled-products-for-import</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -327,7 +323,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>list-invitations</summary>
+- **<details><summary>list-invitations</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -337,7 +333,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>list-members</summary>
+- **<details><summary>list-members</summary><blockquote>**
 
   * --only-associated
   * --no-only-associated
@@ -349,7 +345,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>list-organization-admin-accounts</summary>
+- **<details><summary>list-organization-admin-accounts</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -358,7 +354,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -366,7 +362,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -375,7 +371,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -384,7 +380,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>update-action-target</summary>
+- **<details><summary>update-action-target</summary><blockquote>**
 
   * --action-target-arn
   * --name
@@ -394,7 +390,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>update-findings</summary>
+- **<details><summary>update-findings</summary><blockquote>**
 
   * --filters
   * --note
@@ -404,7 +400,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>update-insight</summary>
+- **<details><summary>update-insight</summary><blockquote>**
 
   * --insight-arn
   * --name
@@ -415,7 +411,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>update-organization-configuration</summary>
+- **<details><summary>update-organization-configuration</summary><blockquote>**
 
   * --auto-enable
   * --no-auto-enable
@@ -424,7 +420,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>update-security-hub-configuration</summary>
+- **<details><summary>update-security-hub-configuration</summary><blockquote>**
 
   * --auto-enable-controls
   * --no-auto-enable-controls
@@ -433,7 +429,7 @@ securityhub
   * --generate-cli-skeleton
 
 
-- <details><summary>update-standards-control</summary>
+- **<details><summary>update-standards-control</summary><blockquote>**
 
   * --standards-control-arn
   * --control-status
@@ -443,5 +439,53 @@ securityhub
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

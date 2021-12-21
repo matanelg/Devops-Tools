@@ -1,10 +1,6 @@
-<details>
+<details><summary>license-manager</summary><blockquote>
 
-<summary>
-license-manager
-</summary>
-
-- <details><summary>accept-grant</summary>
+- **<details><summary>accept-grant</summary><blockquote>**
 
   * --grant-arn
   * --cli-input-json
@@ -12,7 +8,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>check-in-license</summary>
+- **<details><summary>check-in-license</summary><blockquote>**
 
   * --license-consumption-token
   * --beneficiary
@@ -21,7 +17,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>checkout-borrow-license</summary>
+- **<details><summary>checkout-borrow-license</summary><blockquote>**
 
   * --license-arn
   * --entitlements
@@ -34,7 +30,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>checkout-license</summary>
+- **<details><summary>checkout-license</summary><blockquote>**
 
   * --product-sku
   * --checkout-type
@@ -48,7 +44,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>create-grant</summary>
+- **<details><summary>create-grant</summary><blockquote>**
 
   * --client-token
   * --grant-name
@@ -61,7 +57,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>create-grant-version</summary>
+- **<details><summary>create-grant-version</summary><blockquote>**
 
   * --client-token
   * --grant-arn
@@ -75,7 +71,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>create-license</summary>
+- **<details><summary>create-license</summary><blockquote>**
 
   * --license-name
   * --product-name
@@ -93,7 +89,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>create-license-configuration</summary>
+- **<details><summary>create-license-configuration</summary><blockquote>**
 
   * --name
   * --description
@@ -111,7 +107,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>create-license-manager-report-generator</summary>
+- **<details><summary>create-license-manager-report-generator</summary><blockquote>**
 
   * --report-generator-name
   * --type
@@ -125,7 +121,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>create-license-version</summary>
+- **<details><summary>create-license-version</summary><blockquote>**
 
   * --license-arn
   * --license-name
@@ -144,7 +140,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>create-token</summary>
+- **<details><summary>create-token</summary><blockquote>**
 
   * --license-arn
   * --role-arns
@@ -156,7 +152,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-grant</summary>
+- **<details><summary>delete-grant</summary><blockquote>**
 
   * --grant-arn
   * --status-reason
@@ -166,7 +162,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-license</summary>
+- **<details><summary>delete-license</summary><blockquote>**
 
   * --license-arn
   * --source-version
@@ -175,7 +171,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-license-configuration</summary>
+- **<details><summary>delete-license-configuration</summary><blockquote>**
 
   * --license-configuration-arn
   * --cli-input-json
@@ -183,7 +179,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-license-manager-report-generator</summary>
+- **<details><summary>delete-license-manager-report-generator</summary><blockquote>**
 
   * --license-manager-report-generator-arn
   * --cli-input-json
@@ -191,7 +187,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-token</summary>
+- **<details><summary>delete-token</summary><blockquote>**
 
   * --token-id
   * --cli-input-json
@@ -199,7 +195,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>extend-license-consumption</summary>
+- **<details><summary>extend-license-consumption</summary><blockquote>**
 
   * --license-consumption-token
   * --dry-run
@@ -209,7 +205,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-access-token</summary>
+- **<details><summary>get-access-token</summary><blockquote>**
 
   * --token
   * --token-properties
@@ -218,7 +214,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-grant</summary>
+- **<details><summary>get-grant</summary><blockquote>**
 
   * --grant-arn
   * --grant-version
@@ -227,7 +223,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-license</summary>
+- **<details><summary>get-license</summary><blockquote>**
 
   * --license-arn
   * --license-version
@@ -236,7 +232,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-license-configuration</summary>
+- **<details><summary>get-license-configuration</summary><blockquote>**
 
   * --license-configuration-arn
   * --cli-input-json
@@ -244,7 +240,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-license-manager-report-generator</summary>
+- **<details><summary>get-license-manager-report-generator</summary><blockquote>**
 
   * --license-manager-report-generator-arn
   * --cli-input-json
@@ -252,7 +248,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-license-usage</summary>
+- **<details><summary>get-license-usage</summary><blockquote>**
 
   * --license-arn
   * --cli-input-json
@@ -260,19 +256,19 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-service-settings</summary>
+- **<details><summary>get-service-settings</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-associations-for-license-configuration</summary>
+- **<details><summary>list-associations-for-license-configuration</summary><blockquote>**
 
   * --license-configuration-arn
   * --cli-input-json
@@ -283,7 +279,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-distributed-grants</summary>
+- **<details><summary>list-distributed-grants</summary><blockquote>**
 
   * --grant-arns
   * --filters
@@ -294,7 +290,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-failures-for-license-configuration-operations</summary>
+- **<details><summary>list-failures-for-license-configuration-operations</summary><blockquote>**
 
   * --license-configuration-arn
   * --max-results
@@ -304,7 +300,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-license-configurations</summary>
+- **<details><summary>list-license-configurations</summary><blockquote>**
 
   * --license-configuration-arns
   * --filters
@@ -316,7 +312,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-license-manager-report-generators</summary>
+- **<details><summary>list-license-manager-report-generators</summary><blockquote>**
 
   * --filters
   * --next-token
@@ -326,7 +322,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-licenses</summary>
+- **<details><summary>list-licenses</summary><blockquote>**
 
   * --license-arns
   * --filters
@@ -337,7 +333,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-license-specifications-for-resource</summary>
+- **<details><summary>list-license-specifications-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -348,7 +344,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-license-versions</summary>
+- **<details><summary>list-license-versions</summary><blockquote>**
 
   * --license-arn
   * --next-token
@@ -358,7 +354,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-received-grants</summary>
+- **<details><summary>list-received-grants</summary><blockquote>**
 
   * --grant-arns
   * --filters
@@ -369,7 +365,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-received-licenses</summary>
+- **<details><summary>list-received-licenses</summary><blockquote>**
 
   * --license-arns
   * --filters
@@ -380,7 +376,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resource-inventory</summary>
+- **<details><summary>list-resource-inventory</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -391,7 +387,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -399,7 +395,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tokens</summary>
+- **<details><summary>list-tokens</summary><blockquote>**
 
   * --token-ids
   * --filters
@@ -410,7 +406,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-usage-for-license-configuration</summary>
+- **<details><summary>list-usage-for-license-configuration</summary><blockquote>**
 
   * --license-configuration-arn
   * --filters
@@ -422,7 +418,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>reject-grant</summary>
+- **<details><summary>reject-grant</summary><blockquote>**
 
   * --grant-arn
   * --cli-input-json
@@ -430,7 +426,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -439,7 +435,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -448,7 +444,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>update-license-configuration</summary>
+- **<details><summary>update-license-configuration</summary><blockquote>**
 
   * --license-configuration-arn
   * --license-configuration-status
@@ -466,7 +462,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>update-license-manager-report-generator</summary>
+- **<details><summary>update-license-manager-report-generator</summary><blockquote>**
 
   * --license-manager-report-generator-arn
   * --report-generator-name
@@ -480,7 +476,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>update-license-specifications-for-resource</summary>
+- **<details><summary>update-license-specifications-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --add-license-specifications
@@ -490,7 +486,7 @@ license-manager
   * --generate-cli-skeleton
 
 
-- <details><summary>update-service-settings</summary>
+- **<details><summary>update-service-settings</summary><blockquote>**
 
   * --s3-bucket-arn
   * --sns-topic-arn
@@ -502,5 +498,50 @@ license-manager
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

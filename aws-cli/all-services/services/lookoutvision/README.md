@@ -1,10 +1,6 @@
-<details>
+<details><summary>lookoutvision</summary><blockquote>
 
-<summary>
-lookoutvision
-</summary>
-
-- <details><summary>create-dataset</summary>
+- **<details><summary>create-dataset</summary><blockquote>**
 
   * --project-name
   * --dataset-type
@@ -15,7 +11,7 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-- <details><summary>create-model</summary>
+- **<details><summary>create-model</summary><blockquote>**
 
   * --project-name
   * --description
@@ -28,7 +24,7 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-- <details><summary>create-project</summary>
+- **<details><summary>create-project</summary><blockquote>**
 
   * --project-name
   * --client-token
@@ -37,7 +33,7 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-dataset</summary>
+- **<details><summary>delete-dataset</summary><blockquote>**
 
   * --project-name
   * --dataset-type
@@ -47,7 +43,7 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-model</summary>
+- **<details><summary>delete-model</summary><blockquote>**
 
   * --project-name
   * --model-version
@@ -57,7 +53,7 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-project</summary>
+- **<details><summary>delete-project</summary><blockquote>**
 
   * --project-name
   * --client-token
@@ -66,7 +62,7 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-dataset</summary>
+- **<details><summary>describe-dataset</summary><blockquote>**
 
   * --project-name
   * --dataset-type
@@ -75,7 +71,7 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-model</summary>
+- **<details><summary>describe-model</summary><blockquote>**
 
   * --project-name
   * --model-version
@@ -84,7 +80,7 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-project</summary>
+- **<details><summary>describe-project</summary><blockquote>**
 
   * --project-name
   * --cli-input-json
@@ -92,7 +88,7 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-anomalies</summary>
+- **<details><summary>detect-anomalies</summary><blockquote>**
 
   * --project-name
   * --model-version
@@ -103,12 +99,12 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-dataset-entries</summary>
+- **<details><summary>list-dataset-entries</summary><blockquote>**
 
   * --project-name
   * --dataset-type
@@ -126,7 +122,7 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-- <details><summary>list-models</summary>
+- **<details><summary>list-models</summary><blockquote>**
 
   * --project-name
   * --cli-input-json
@@ -137,7 +133,7 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-- <details><summary>list-projects</summary>
+- **<details><summary>list-projects</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -147,7 +143,7 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -155,7 +151,7 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-- <details><summary>start-model</summary>
+- **<details><summary>start-model</summary><blockquote>**
 
   * --project-name
   * --model-version
@@ -166,7 +162,7 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-model</summary>
+- **<details><summary>stop-model</summary><blockquote>**
 
   * --project-name
   * --model-version
@@ -176,7 +172,7 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -185,7 +181,7 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -194,7 +190,7 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-- <details><summary>update-dataset-entries</summary>
+- **<details><summary>update-dataset-entries</summary><blockquote>**
 
   * --project-name
   * --dataset-type
@@ -205,5 +201,24 @@ lookoutvision
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

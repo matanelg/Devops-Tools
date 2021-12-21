@@ -1,10 +1,6 @@
-<details>
+<details><summary>location</summary><blockquote>
 
-<summary>
-location
-</summary>
-
-- <details><summary>associate-tracker-consumer</summary>
+- **<details><summary>associate-tracker-consumer</summary><blockquote>**
 
   * --consumer-arn
   * --tracker-name
@@ -13,7 +9,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-delete-device-position-history</summary>
+- **<details><summary>batch-delete-device-position-history</summary><blockquote>**
 
   * --device-ids
   * --tracker-name
@@ -22,7 +18,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-delete-geofence</summary>
+- **<details><summary>batch-delete-geofence</summary><blockquote>**
 
   * --collection-name
   * --geofence-ids
@@ -31,7 +27,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-evaluate-geofences</summary>
+- **<details><summary>batch-evaluate-geofences</summary><blockquote>**
 
   * --collection-name
   * --device-position-updates
@@ -40,7 +36,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-device-position</summary>
+- **<details><summary>batch-get-device-position</summary><blockquote>**
 
   * --device-ids
   * --tracker-name
@@ -49,7 +45,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-put-geofence</summary>
+- **<details><summary>batch-put-geofence</summary><blockquote>**
 
   * --collection-name
   * --entries
@@ -58,7 +54,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-update-device-position</summary>
+- **<details><summary>batch-update-device-position</summary><blockquote>**
 
   * --tracker-name
   * --updates
@@ -67,7 +63,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>calculate-route</summary>
+- **<details><summary>calculate-route</summary><blockquote>**
 
   * --calculator-name
   * --car-mode-options
@@ -87,7 +83,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>create-geofence-collection</summary>
+- **<details><summary>create-geofence-collection</summary><blockquote>**
 
   * --collection-name
   * --description
@@ -100,7 +96,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>create-map</summary>
+- **<details><summary>create-map</summary><blockquote>**
 
   * --configuration
   * --description
@@ -112,7 +108,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>create-place-index</summary>
+- **<details><summary>create-place-index</summary><blockquote>**
 
   * --data-source
   * --data-source-configuration
@@ -125,7 +121,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>create-route-calculator</summary>
+- **<details><summary>create-route-calculator</summary><blockquote>**
 
   * --calculator-name
   * --data-source
@@ -137,7 +133,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>create-tracker</summary>
+- **<details><summary>create-tracker</summary><blockquote>**
 
   * --description
   * --kms-key-id
@@ -150,7 +146,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-geofence-collection</summary>
+- **<details><summary>delete-geofence-collection</summary><blockquote>**
 
   * --collection-name
   * --cli-input-json
@@ -158,7 +154,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-map</summary>
+- **<details><summary>delete-map</summary><blockquote>**
 
   * --map-name
   * --cli-input-json
@@ -166,7 +162,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-place-index</summary>
+- **<details><summary>delete-place-index</summary><blockquote>**
 
   * --index-name
   * --cli-input-json
@@ -174,7 +170,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-route-calculator</summary>
+- **<details><summary>delete-route-calculator</summary><blockquote>**
 
   * --calculator-name
   * --cli-input-json
@@ -182,7 +178,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-tracker</summary>
+- **<details><summary>delete-tracker</summary><blockquote>**
 
   * --tracker-name
   * --cli-input-json
@@ -190,7 +186,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-geofence-collection</summary>
+- **<details><summary>describe-geofence-collection</summary><blockquote>**
 
   * --collection-name
   * --cli-input-json
@@ -198,7 +194,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-map</summary>
+- **<details><summary>describe-map</summary><blockquote>**
 
   * --map-name
   * --cli-input-json
@@ -206,7 +202,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-place-index</summary>
+- **<details><summary>describe-place-index</summary><blockquote>**
 
   * --index-name
   * --cli-input-json
@@ -214,7 +210,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-route-calculator</summary>
+- **<details><summary>describe-route-calculator</summary><blockquote>**
 
   * --calculator-name
   * --cli-input-json
@@ -222,7 +218,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-tracker</summary>
+- **<details><summary>describe-tracker</summary><blockquote>**
 
   * --tracker-name
   * --cli-input-json
@@ -230,7 +226,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-tracker-consumer</summary>
+- **<details><summary>disassociate-tracker-consumer</summary><blockquote>**
 
   * --consumer-arn
   * --tracker-name
@@ -239,7 +235,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>get-device-position</summary>
+- **<details><summary>get-device-position</summary><blockquote>**
 
   * --device-id
   * --tracker-name
@@ -248,7 +244,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>get-device-position-history</summary>
+- **<details><summary>get-device-position-history</summary><blockquote>**
 
   * --device-id
   * --end-time-exclusive
@@ -261,7 +257,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>get-geofence</summary>
+- **<details><summary>get-geofence</summary><blockquote>**
 
   * --collection-name
   * --geofence-id
@@ -270,25 +266,25 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>get-map-glyphs</summary>
+- **<details><summary>get-map-glyphs</summary><blockquote>**
 
   * --font-stack
   * --font-unicode-range
   * --map-name
 
 
-- <details><summary>get-map-sprites</summary>
+- **<details><summary>get-map-sprites</summary><blockquote>**
 
   * --file-name
   * --map-name
 
 
-- <details><summary>get-map-style-descriptor</summary>
+- **<details><summary>get-map-style-descriptor</summary><blockquote>**
 
   * --map-name
 
 
-- <details><summary>get-map-tile</summary>
+- **<details><summary>get-map-tile</summary><blockquote>**
 
   * --map-name
   * --x
@@ -296,12 +292,12 @@ location
   * --z
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-device-positions</summary>
+- **<details><summary>list-device-positions</summary><blockquote>**
 
   * --tracker-name
   * --cli-input-json
@@ -312,7 +308,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>list-geofence-collections</summary>
+- **<details><summary>list-geofence-collections</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -322,7 +318,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>list-geofences</summary>
+- **<details><summary>list-geofences</summary><blockquote>**
 
   * --collection-name
   * --cli-input-json
@@ -332,7 +328,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>list-maps</summary>
+- **<details><summary>list-maps</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -342,7 +338,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>list-place-indexes</summary>
+- **<details><summary>list-place-indexes</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -352,7 +348,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>list-route-calculators</summary>
+- **<details><summary>list-route-calculators</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -362,7 +358,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -370,7 +366,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tracker-consumers</summary>
+- **<details><summary>list-tracker-consumers</summary><blockquote>**
 
   * --tracker-name
   * --cli-input-json
@@ -381,7 +377,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>list-trackers</summary>
+- **<details><summary>list-trackers</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -391,7 +387,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>put-geofence</summary>
+- **<details><summary>put-geofence</summary><blockquote>**
 
   * --collection-name
   * --geofence-id
@@ -401,7 +397,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>search-place-index-for-position</summary>
+- **<details><summary>search-place-index-for-position</summary><blockquote>**
 
   * --index-name
   * --max-results
@@ -411,7 +407,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>search-place-index-for-text</summary>
+- **<details><summary>search-place-index-for-text</summary><blockquote>**
 
   * --bias-position
   * --filter-b-box
@@ -424,7 +420,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -433,7 +429,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -442,7 +438,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>update-geofence-collection</summary>
+- **<details><summary>update-geofence-collection</summary><blockquote>**
 
   * --collection-name
   * --description
@@ -453,7 +449,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>update-map</summary>
+- **<details><summary>update-map</summary><blockquote>**
 
   * --description
   * --map-name
@@ -463,7 +459,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>update-place-index</summary>
+- **<details><summary>update-place-index</summary><blockquote>**
 
   * --data-source-configuration
   * --description
@@ -474,7 +470,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>update-route-calculator</summary>
+- **<details><summary>update-route-calculator</summary><blockquote>**
 
   * --calculator-name
   * --description
@@ -484,7 +480,7 @@ location
   * --generate-cli-skeleton
 
 
-- <details><summary>update-tracker</summary>
+- **<details><summary>update-tracker</summary><blockquote>**
 
   * --description
   * --pricing-plan
@@ -495,5 +491,55 @@ location
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

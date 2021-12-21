@@ -1,10 +1,6 @@
-<details>
+<details><summary>cloudwatch</summary><blockquote>
 
-<summary>
-cloudwatch
-</summary>
-
-- <details><summary>delete-alarms</summary>
+- **<details><summary>delete-alarms</summary><blockquote>**
 
   * --alarm-names
   * --cli-input-json
@@ -12,7 +8,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-anomaly-detector</summary>
+- **<details><summary>delete-anomaly-detector</summary><blockquote>**
 
   * --namespace
   * --metric-name
@@ -23,7 +19,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-dashboards</summary>
+- **<details><summary>delete-dashboards</summary><blockquote>**
 
   * --dashboard-names
   * --cli-input-json
@@ -31,7 +27,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-insight-rules</summary>
+- **<details><summary>delete-insight-rules</summary><blockquote>**
 
   * --rule-names
   * --cli-input-json
@@ -39,7 +35,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-metric-stream</summary>
+- **<details><summary>delete-metric-stream</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -47,7 +43,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-alarm-history</summary>
+- **<details><summary>describe-alarm-history</summary><blockquote>**
 
   * --alarm-name
   * --alarm-types
@@ -63,7 +59,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-alarms</summary>
+- **<details><summary>describe-alarms</summary><blockquote>**
 
   * --alarm-names
   * --alarm-name-prefix
@@ -80,7 +76,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-alarms-for-metric</summary>
+- **<details><summary>describe-alarms-for-metric</summary><blockquote>**
 
   * --metric-name
   * --namespace
@@ -94,7 +90,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-anomaly-detectors</summary>
+- **<details><summary>describe-anomaly-detectors</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -106,7 +102,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-insight-rules</summary>
+- **<details><summary>describe-insight-rules</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -115,7 +111,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-alarm-actions</summary>
+- **<details><summary>disable-alarm-actions</summary><blockquote>**
 
   * --alarm-names
   * --cli-input-json
@@ -123,7 +119,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-insight-rules</summary>
+- **<details><summary>disable-insight-rules</summary><blockquote>**
 
   * --rule-names
   * --cli-input-json
@@ -131,7 +127,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-alarm-actions</summary>
+- **<details><summary>enable-alarm-actions</summary><blockquote>**
 
   * --alarm-names
   * --cli-input-json
@@ -139,7 +135,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-insight-rules</summary>
+- **<details><summary>enable-insight-rules</summary><blockquote>**
 
   * --rule-names
   * --cli-input-json
@@ -147,7 +143,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>get-dashboard</summary>
+- **<details><summary>get-dashboard</summary><blockquote>**
 
   * --dashboard-name
   * --cli-input-json
@@ -155,7 +151,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>get-insight-rule-report</summary>
+- **<details><summary>get-insight-rule-report</summary><blockquote>**
 
   * --rule-name
   * --start-time
@@ -169,7 +165,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>get-metric-data</summary>
+- **<details><summary>get-metric-data</summary><blockquote>**
 
   * --metric-data-queries
   * --start-time
@@ -184,7 +180,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>get-metric-statistics</summary>
+- **<details><summary>get-metric-statistics</summary><blockquote>**
 
   * --namespace
   * --metric-name
@@ -200,7 +196,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>get-metric-stream</summary>
+- **<details><summary>get-metric-stream</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -208,7 +204,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>get-metric-widget-image</summary>
+- **<details><summary>get-metric-widget-image</summary><blockquote>**
 
   * --metric-widget
   * --output-format
@@ -217,12 +213,12 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-dashboards</summary>
+- **<details><summary>list-dashboards</summary><blockquote>**
 
   * --dashboard-name-prefix
   * --cli-input-json
@@ -232,7 +228,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>list-metrics</summary>
+- **<details><summary>list-metrics</summary><blockquote>**
 
   * --namespace
   * --metric-name
@@ -245,7 +241,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>list-metric-streams</summary>
+- **<details><summary>list-metric-streams</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -254,7 +250,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -262,7 +258,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>put-anomaly-detector</summary>
+- **<details><summary>put-anomaly-detector</summary><blockquote>**
 
   * --namespace
   * --metric-name
@@ -274,7 +270,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>put-composite-alarm</summary>
+- **<details><summary>put-composite-alarm</summary><blockquote>**
 
   * --actions-enabled
   * --no-actions-enabled
@@ -290,7 +286,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>put-dashboard</summary>
+- **<details><summary>put-dashboard</summary><blockquote>**
 
   * --dashboard-name
   * --dashboard-body
@@ -299,7 +295,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>put-insight-rule</summary>
+- **<details><summary>put-insight-rule</summary><blockquote>**
 
   * --rule-name
   * --rule-state
@@ -310,7 +306,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>put-metric-alarm</summary>
+- **<details><summary>put-metric-alarm</summary><blockquote>**
 
   * --alarm-name
   * --alarm-description
@@ -340,7 +336,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>put-metric-data</summary>
+- **<details><summary>put-metric-data</summary><blockquote>**
 
   * --namespace
   * --metric-data
@@ -356,7 +352,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>put-metric-stream</summary>
+- **<details><summary>put-metric-stream</summary><blockquote>**
 
   * --name
   * --include-filters
@@ -370,7 +366,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>set-alarm-state</summary>
+- **<details><summary>set-alarm-state</summary><blockquote>**
 
   * --alarm-name
   * --state-value
@@ -381,7 +377,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>start-metric-streams</summary>
+- **<details><summary>start-metric-streams</summary><blockquote>**
 
   * --names
   * --cli-input-json
@@ -389,7 +385,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-metric-streams</summary>
+- **<details><summary>stop-metric-streams</summary><blockquote>**
 
   * --names
   * --cli-input-json
@@ -397,7 +393,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -406,7 +402,7 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -415,10 +411,47 @@ cloudwatch
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

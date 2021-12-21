@@ -1,10 +1,6 @@
-<details>
+<details><summary>opsworks-cm</summary><blockquote>
 
-<summary>
-opsworks-cm
-</summary>
-
-- <details><summary>associate-node</summary>
+- **<details><summary>associate-node</summary><blockquote>**
 
   * --server-name
   * --node-name
@@ -14,7 +10,7 @@ opsworks-cm
   * --generate-cli-skeleton
 
 
-- <details><summary>create-backup</summary>
+- **<details><summary>create-backup</summary><blockquote>**
 
   * --server-name
   * --description
@@ -24,7 +20,7 @@ opsworks-cm
   * --generate-cli-skeleton
 
 
-- <details><summary>create-server</summary>
+- **<details><summary>create-server</summary><blockquote>**
 
   * --associate-public-ip-address
   * --no-associate-public-ip-address
@@ -54,7 +50,7 @@ opsworks-cm
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-backup</summary>
+- **<details><summary>delete-backup</summary><blockquote>**
 
   * --backup-id
   * --cli-input-json
@@ -62,7 +58,7 @@ opsworks-cm
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-server</summary>
+- **<details><summary>delete-server</summary><blockquote>**
 
   * --server-name
   * --cli-input-json
@@ -70,14 +66,14 @@ opsworks-cm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-account-attributes</summary>
+- **<details><summary>describe-account-attributes</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-backups</summary>
+- **<details><summary>describe-backups</summary><blockquote>**
 
   * --backup-id
   * --server-name
@@ -89,7 +85,7 @@ opsworks-cm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-events</summary>
+- **<details><summary>describe-events</summary><blockquote>**
 
   * --server-name
   * --cli-input-json
@@ -100,7 +96,7 @@ opsworks-cm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-node-association-status</summary>
+- **<details><summary>describe-node-association-status</summary><blockquote>**
 
   * --node-association-status-token
   * --server-name
@@ -109,7 +105,7 @@ opsworks-cm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-servers</summary>
+- **<details><summary>describe-servers</summary><blockquote>**
 
   * --server-name
   * --cli-input-json
@@ -120,7 +116,7 @@ opsworks-cm
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-node</summary>
+- **<details><summary>disassociate-node</summary><blockquote>**
 
   * --server-name
   * --node-name
@@ -130,7 +126,7 @@ opsworks-cm
   * --generate-cli-skeleton
 
 
-- <details><summary>export-server-engine-attribute</summary>
+- **<details><summary>export-server-engine-attribute</summary><blockquote>**
 
   * --export-attribute-name
   * --server-name
@@ -140,12 +136,12 @@ opsworks-cm
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -156,7 +152,7 @@ opsworks-cm
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-server</summary>
+- **<details><summary>restore-server</summary><blockquote>**
 
   * --backup-id
   * --server-name
@@ -167,7 +163,7 @@ opsworks-cm
   * --generate-cli-skeleton
 
 
-- <details><summary>start-maintenance</summary>
+- **<details><summary>start-maintenance</summary><blockquote>**
 
   * --server-name
   * --engine-attributes
@@ -176,7 +172,7 @@ opsworks-cm
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -185,7 +181,7 @@ opsworks-cm
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -194,7 +190,7 @@ opsworks-cm
   * --generate-cli-skeleton
 
 
-- <details><summary>update-server</summary>
+- **<details><summary>update-server</summary><blockquote>**
 
   * --disable-automated-backup
   * --no-disable-automated-backup
@@ -207,7 +203,7 @@ opsworks-cm
   * --generate-cli-skeleton
 
 
-- <details><summary>update-server-engine-attributes</summary>
+- **<details><summary>update-server-engine-attributes</summary><blockquote>**
 
   * --server-name
   * --attribute-name
@@ -217,10 +213,30 @@ opsworks-cm
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

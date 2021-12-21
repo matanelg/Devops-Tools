@@ -1,15 +1,11 @@
-<details>
+<details><summary>personalize-events</summary><blockquote>
 
-<summary>
-personalize-events
-</summary>
-
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>put-events</summary>
+- **<details><summary>put-events</summary><blockquote>**
 
   * --tracking-id
   * --user-id
@@ -20,7 +16,7 @@ personalize-events
   * --generate-cli-skeleton
 
 
-- <details><summary>put-items</summary>
+- **<details><summary>put-items</summary><blockquote>**
 
   * --dataset-arn
   * --items
@@ -29,7 +25,7 @@ personalize-events
   * --generate-cli-skeleton
 
 
-- <details><summary>put-users</summary>
+- **<details><summary>put-users</summary><blockquote>**
 
   * --dataset-arn
   * --users
@@ -38,5 +34,8 @@ personalize-events
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

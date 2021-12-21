@@ -1,10 +1,6 @@
-<details>
+<details><summary>xray</summary><blockquote>
 
-<summary>
-xray
-</summary>
-
-- <details><summary>batch-get-traces</summary>
+- **<details><summary>batch-get-traces</summary><blockquote>**
 
   * --trace-ids
   * --cli-input-json
@@ -14,7 +10,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>create-group</summary>
+- **<details><summary>create-group</summary><blockquote>**
 
   * --group-name
   * --filter-expression
@@ -25,7 +21,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>create-sampling-rule</summary>
+- **<details><summary>create-sampling-rule</summary><blockquote>**
 
   * --sampling-rule
   * --tags
@@ -34,7 +30,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-group</summary>
+- **<details><summary>delete-group</summary><blockquote>**
 
   * --group-name
   * --group-arn
@@ -43,7 +39,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-sampling-rule</summary>
+- **<details><summary>delete-sampling-rule</summary><blockquote>**
 
   * --rule-name
   * --rule-arn
@@ -52,14 +48,14 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>get-encryption-config</summary>
+- **<details><summary>get-encryption-config</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-group</summary>
+- **<details><summary>get-group</summary><blockquote>**
 
   * --group-name
   * --group-arn
@@ -68,7 +64,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>get-groups</summary>
+- **<details><summary>get-groups</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -77,7 +73,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>get-insight</summary>
+- **<details><summary>get-insight</summary><blockquote>**
 
   * --insight-id
   * --cli-input-json
@@ -85,7 +81,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>get-insight-events</summary>
+- **<details><summary>get-insight-events</summary><blockquote>**
 
   * --insight-id
   * --max-results
@@ -95,7 +91,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>get-insight-impact-graph</summary>
+- **<details><summary>get-insight-impact-graph</summary><blockquote>**
 
   * --insight-id
   * --start-time
@@ -106,7 +102,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>get-insight-summaries</summary>
+- **<details><summary>get-insight-summaries</summary><blockquote>**
 
   * --states
   * --group-arn
@@ -120,7 +116,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>get-sampling-rules</summary>
+- **<details><summary>get-sampling-rules</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -129,7 +125,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>get-sampling-statistic-summaries</summary>
+- **<details><summary>get-sampling-statistic-summaries</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -138,7 +134,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>get-sampling-targets</summary>
+- **<details><summary>get-sampling-targets</summary><blockquote>**
 
   * --sampling-statistics-documents
   * --cli-input-json
@@ -146,7 +142,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>get-service-graph</summary>
+- **<details><summary>get-service-graph</summary><blockquote>**
 
   * --start-time
   * --end-time
@@ -159,7 +155,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>get-time-series-service-statistics</summary>
+- **<details><summary>get-time-series-service-statistics</summary><blockquote>**
 
   * --start-time
   * --end-time
@@ -176,7 +172,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>get-trace-graph</summary>
+- **<details><summary>get-trace-graph</summary><blockquote>**
 
   * --trace-ids
   * --cli-input-json
@@ -186,7 +182,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>get-trace-summaries</summary>
+- **<details><summary>get-trace-summaries</summary><blockquote>**
 
   * --start-time
   * --end-time
@@ -202,12 +198,12 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --next-token
@@ -216,7 +212,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>put-encryption-config</summary>
+- **<details><summary>put-encryption-config</summary><blockquote>**
 
   * --key-id
   * --type
@@ -225,7 +221,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>put-telemetry-records</summary>
+- **<details><summary>put-telemetry-records</summary><blockquote>**
 
   * --telemetry-records
   * --ec2-instance-id
@@ -236,7 +232,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>put-trace-segments</summary>
+- **<details><summary>put-trace-segments</summary><blockquote>**
 
   * --trace-segment-documents
   * --cli-input-json
@@ -244,7 +240,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -253,7 +249,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -262,7 +258,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>update-group</summary>
+- **<details><summary>update-group</summary><blockquote>**
 
   * --group-name
   * --group-arn
@@ -273,7 +269,7 @@ xray
   * --generate-cli-skeleton
 
 
-- <details><summary>update-sampling-rule</summary>
+- **<details><summary>update-sampling-rule</summary><blockquote>**
 
   * --sampling-rule-update
   * --cli-input-json
@@ -281,5 +277,32 @@ xray
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

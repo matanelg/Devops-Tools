@@ -1,10 +1,6 @@
-<details>
+<details><summary>wellarchitected</summary><blockquote>
 
-<summary>
-wellarchitected
-</summary>
-
-- <details><summary>associate-lenses</summary>
+- **<details><summary>associate-lenses</summary><blockquote>**
 
   * --workload-id
   * --lens-aliases
@@ -13,7 +9,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>create-milestone</summary>
+- **<details><summary>create-milestone</summary><blockquote>**
 
   * --workload-id
   * --milestone-name
@@ -23,7 +19,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>create-workload</summary>
+- **<details><summary>create-workload</summary><blockquote>**
 
   * --workload-name
   * --description
@@ -45,7 +41,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>create-workload-share</summary>
+- **<details><summary>create-workload-share</summary><blockquote>**
 
   * --workload-id
   * --shared-with
@@ -56,7 +52,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-workload</summary>
+- **<details><summary>delete-workload</summary><blockquote>**
 
   * --workload-id
   * --client-request-token
@@ -65,7 +61,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-workload-share</summary>
+- **<details><summary>delete-workload-share</summary><blockquote>**
 
   * --share-id
   * --workload-id
@@ -75,7 +71,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-lenses</summary>
+- **<details><summary>disassociate-lenses</summary><blockquote>**
 
   * --workload-id
   * --lens-aliases
@@ -84,7 +80,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>get-answer</summary>
+- **<details><summary>get-answer</summary><blockquote>**
 
   * --workload-id
   * --lens-alias
@@ -95,7 +91,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>get-lens-review</summary>
+- **<details><summary>get-lens-review</summary><blockquote>**
 
   * --workload-id
   * --lens-alias
@@ -105,7 +101,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>get-lens-review-report</summary>
+- **<details><summary>get-lens-review-report</summary><blockquote>**
 
   * --workload-id
   * --lens-alias
@@ -115,7 +111,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>get-lens-version-difference</summary>
+- **<details><summary>get-lens-version-difference</summary><blockquote>**
 
   * --lens-alias
   * --base-lens-version
@@ -124,7 +120,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>get-milestone</summary>
+- **<details><summary>get-milestone</summary><blockquote>**
 
   * --workload-id
   * --milestone-number
@@ -133,7 +129,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>get-workload</summary>
+- **<details><summary>get-workload</summary><blockquote>**
 
   * --workload-id
   * --cli-input-json
@@ -141,12 +137,12 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-answers</summary>
+- **<details><summary>list-answers</summary><blockquote>**
 
   * --workload-id
   * --lens-alias
@@ -159,7 +155,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>list-lenses</summary>
+- **<details><summary>list-lenses</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -168,7 +164,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>list-lens-review-improvements</summary>
+- **<details><summary>list-lens-review-improvements</summary><blockquote>**
 
   * --workload-id
   * --lens-alias
@@ -181,7 +177,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>list-lens-reviews</summary>
+- **<details><summary>list-lens-reviews</summary><blockquote>**
 
   * --workload-id
   * --milestone-number
@@ -192,7 +188,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>list-milestones</summary>
+- **<details><summary>list-milestones</summary><blockquote>**
 
   * --workload-id
   * --next-token
@@ -202,7 +198,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>list-notifications</summary>
+- **<details><summary>list-notifications</summary><blockquote>**
 
   * --workload-id
   * --next-token
@@ -212,7 +208,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>list-share-invitations</summary>
+- **<details><summary>list-share-invitations</summary><blockquote>**
 
   * --workload-name-prefix
   * --next-token
@@ -222,7 +218,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --workload-arn
   * --cli-input-json
@@ -230,7 +226,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>list-workloads</summary>
+- **<details><summary>list-workloads</summary><blockquote>**
 
   * --workload-name-prefix
   * --next-token
@@ -240,7 +236,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>list-workload-shares</summary>
+- **<details><summary>list-workload-shares</summary><blockquote>**
 
   * --workload-id
   * --shared-with-prefix
@@ -251,7 +247,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --workload-arn
   * --tags
@@ -260,7 +256,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --workload-arn
   * --tag-keys
@@ -269,7 +265,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>update-answer</summary>
+- **<details><summary>update-answer</summary><blockquote>**
 
   * --workload-id
   * --lens-alias
@@ -285,7 +281,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>update-lens-review</summary>
+- **<details><summary>update-lens-review</summary><blockquote>**
 
   * --workload-id
   * --lens-alias
@@ -296,7 +292,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>update-share-invitation</summary>
+- **<details><summary>update-share-invitation</summary><blockquote>**
 
   * --share-invitation-id
   * --share-invitation-action
@@ -305,7 +301,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>update-workload</summary>
+- **<details><summary>update-workload</summary><blockquote>**
 
   * --workload-id
   * --workload-name
@@ -328,7 +324,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>update-workload-share</summary>
+- **<details><summary>update-workload-share</summary><blockquote>**
 
   * --share-id
   * --workload-id
@@ -338,7 +334,7 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-- <details><summary>upgrade-lens-review</summary>
+- **<details><summary>upgrade-lens-review</summary><blockquote>**
 
   * --workload-id
   * --lens-alias
@@ -349,5 +345,36 @@ wellarchitected
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>elastictranscoder</summary><blockquote>
 
-<summary>
-elastictranscoder
-</summary>
-
-- <details><summary>cancel-job</summary>
+- **<details><summary>cancel-job</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -12,7 +8,7 @@ elastictranscoder
   * --generate-cli-skeleton
 
 
-- <details><summary>create-job</summary>
+- **<details><summary>create-job</summary><blockquote>**
 
   * --pipeline-id
   * --input
@@ -27,7 +23,7 @@ elastictranscoder
   * --generate-cli-skeleton
 
 
-- <details><summary>create-pipeline</summary>
+- **<details><summary>create-pipeline</summary><blockquote>**
 
   * --name
   * --input-bucket
@@ -42,7 +38,7 @@ elastictranscoder
   * --generate-cli-skeleton
 
 
-- <details><summary>create-preset</summary>
+- **<details><summary>create-preset</summary><blockquote>**
 
   * --name
   * --description
@@ -55,7 +51,7 @@ elastictranscoder
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-pipeline</summary>
+- **<details><summary>delete-pipeline</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -63,7 +59,7 @@ elastictranscoder
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-preset</summary>
+- **<details><summary>delete-preset</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -71,12 +67,12 @@ elastictranscoder
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-jobs-by-pipeline</summary>
+- **<details><summary>list-jobs-by-pipeline</summary><blockquote>**
 
   * --pipeline-id
   * --ascending
@@ -87,7 +83,7 @@ elastictranscoder
   * --generate-cli-skeleton
 
 
-- <details><summary>list-jobs-by-status</summary>
+- **<details><summary>list-jobs-by-status</summary><blockquote>**
 
   * --status
   * --ascending
@@ -98,7 +94,7 @@ elastictranscoder
   * --generate-cli-skeleton
 
 
-- <details><summary>list-pipelines</summary>
+- **<details><summary>list-pipelines</summary><blockquote>**
 
   * --ascending
   * --cli-input-json
@@ -108,7 +104,7 @@ elastictranscoder
   * --generate-cli-skeleton
 
 
-- <details><summary>list-presets</summary>
+- **<details><summary>list-presets</summary><blockquote>**
 
   * --ascending
   * --cli-input-json
@@ -118,7 +114,7 @@ elastictranscoder
   * --generate-cli-skeleton
 
 
-- <details><summary>read-job</summary>
+- **<details><summary>read-job</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -126,7 +122,7 @@ elastictranscoder
   * --generate-cli-skeleton
 
 
-- <details><summary>read-pipeline</summary>
+- **<details><summary>read-pipeline</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -134,7 +130,7 @@ elastictranscoder
   * --generate-cli-skeleton
 
 
-- <details><summary>read-preset</summary>
+- **<details><summary>read-preset</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -142,7 +138,7 @@ elastictranscoder
   * --generate-cli-skeleton
 
 
-- <details><summary>update-pipeline</summary>
+- **<details><summary>update-pipeline</summary><blockquote>**
 
   * --id
   * --name
@@ -157,7 +153,7 @@ elastictranscoder
   * --generate-cli-skeleton
 
 
-- <details><summary>update-pipeline-notifications</summary>
+- **<details><summary>update-pipeline-notifications</summary><blockquote>**
 
   * --id
   * --notifications
@@ -166,7 +162,7 @@ elastictranscoder
   * --generate-cli-skeleton
 
 
-- <details><summary>update-pipeline-status</summary>
+- **<details><summary>update-pipeline-status</summary><blockquote>**
 
   * --id
   * --status
@@ -175,10 +171,27 @@ elastictranscoder
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

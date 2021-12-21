@@ -1,17 +1,13 @@
-<details>
+<details><summary>resourcegroupstaggingapi</summary><blockquote>
 
-<summary>
-resourcegroupstaggingapi
-</summary>
-
-- <details><summary>describe-report-creation</summary>
+- **<details><summary>describe-report-creation</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-compliance-summary</summary>
+- **<details><summary>get-compliance-summary</summary><blockquote>**
 
   * --target-id-filters
   * --region-filters
@@ -26,7 +22,7 @@ resourcegroupstaggingapi
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resources</summary>
+- **<details><summary>get-resources</summary><blockquote>**
 
   * --tag-filters
   * --tags-per-page
@@ -44,7 +40,7 @@ resourcegroupstaggingapi
   * --generate-cli-skeleton
 
 
-- <details><summary>get-tag-keys</summary>
+- **<details><summary>get-tag-keys</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -53,7 +49,7 @@ resourcegroupstaggingapi
   * --generate-cli-skeleton
 
 
-- <details><summary>get-tag-values</summary>
+- **<details><summary>get-tag-values</summary><blockquote>**
 
   * --key
   * --cli-input-json
@@ -63,12 +59,12 @@ resourcegroupstaggingapi
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>start-report-creation</summary>
+- **<details><summary>start-report-creation</summary><blockquote>**
 
   * --s3-bucket
   * --cli-input-json
@@ -76,7 +72,7 @@ resourcegroupstaggingapi
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resources</summary>
+- **<details><summary>tag-resources</summary><blockquote>**
 
   * --resource-arn-list
   * --tags
@@ -85,7 +81,7 @@ resourcegroupstaggingapi
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resources</summary>
+- **<details><summary>untag-resources</summary><blockquote>**
 
   * --resource-arn-list
   * --tag-keys
@@ -94,5 +90,13 @@ resourcegroupstaggingapi
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

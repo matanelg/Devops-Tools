@@ -1,10 +1,6 @@
-<details>
+<details><summary>s3control</summary><blockquote>
 
-<summary>
-s3control
-</summary>
-
-- <details><summary>create-access-point</summary>
+- **<details><summary>create-access-point</summary><blockquote>**
 
   * --account-id
   * --name
@@ -16,7 +12,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>create-access-point-for-object-lambda</summary>
+- **<details><summary>create-access-point-for-object-lambda</summary><blockquote>**
 
   * --account-id
   * --name
@@ -26,7 +22,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>create-bucket</summary>
+- **<details><summary>create-bucket</summary><blockquote>**
 
   * --acl
   * --bucket
@@ -44,7 +40,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>create-job</summary>
+- **<details><summary>create-job</summary><blockquote>**
 
   * --account-id
   * --confirmation-required
@@ -62,7 +58,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-access-point</summary>
+- **<details><summary>delete-access-point</summary><blockquote>**
 
   * --account-id
   * --name
@@ -71,7 +67,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-access-point-for-object-lambda</summary>
+- **<details><summary>delete-access-point-for-object-lambda</summary><blockquote>**
 
   * --account-id
   * --name
@@ -80,7 +76,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-access-point-policy</summary>
+- **<details><summary>delete-access-point-policy</summary><blockquote>**
 
   * --account-id
   * --name
@@ -89,7 +85,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-access-point-policy-for-object-lambda</summary>
+- **<details><summary>delete-access-point-policy-for-object-lambda</summary><blockquote>**
 
   * --account-id
   * --name
@@ -98,7 +94,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bucket</summary>
+- **<details><summary>delete-bucket</summary><blockquote>**
 
   * --account-id
   * --bucket
@@ -107,7 +103,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bucket-lifecycle-configuration</summary>
+- **<details><summary>delete-bucket-lifecycle-configuration</summary><blockquote>**
 
   * --account-id
   * --bucket
@@ -116,7 +112,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bucket-policy</summary>
+- **<details><summary>delete-bucket-policy</summary><blockquote>**
 
   * --account-id
   * --bucket
@@ -125,7 +121,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bucket-tagging</summary>
+- **<details><summary>delete-bucket-tagging</summary><blockquote>**
 
   * --account-id
   * --bucket
@@ -134,7 +130,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-job-tagging</summary>
+- **<details><summary>delete-job-tagging</summary><blockquote>**
 
   * --account-id
   * --job-id
@@ -143,7 +139,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-public-access-block</summary>
+- **<details><summary>delete-public-access-block</summary><blockquote>**
 
   * --account-id
   * --cli-input-json
@@ -151,7 +147,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-storage-lens-configuration</summary>
+- **<details><summary>delete-storage-lens-configuration</summary><blockquote>**
 
   * --config-id
   * --account-id
@@ -160,7 +156,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-storage-lens-configuration-tagging</summary>
+- **<details><summary>delete-storage-lens-configuration-tagging</summary><blockquote>**
 
   * --config-id
   * --account-id
@@ -169,7 +165,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-job</summary>
+- **<details><summary>describe-job</summary><blockquote>**
 
   * --account-id
   * --job-id
@@ -178,7 +174,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>get-access-point</summary>
+- **<details><summary>get-access-point</summary><blockquote>**
 
   * --account-id
   * --name
@@ -187,7 +183,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>get-access-point-configuration-for-object-lambda</summary>
+- **<details><summary>get-access-point-configuration-for-object-lambda</summary><blockquote>**
 
   * --account-id
   * --name
@@ -196,7 +192,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>get-access-point-for-object-lambda</summary>
+- **<details><summary>get-access-point-for-object-lambda</summary><blockquote>**
 
   * --account-id
   * --name
@@ -205,7 +201,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>get-access-point-policy</summary>
+- **<details><summary>get-access-point-policy</summary><blockquote>**
 
   * --account-id
   * --name
@@ -214,7 +210,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>get-access-point-policy-for-object-lambda</summary>
+- **<details><summary>get-access-point-policy-for-object-lambda</summary><blockquote>**
 
   * --account-id
   * --name
@@ -223,7 +219,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>get-access-point-policy-status</summary>
+- **<details><summary>get-access-point-policy-status</summary><blockquote>**
 
   * --account-id
   * --name
@@ -232,7 +228,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>get-access-point-policy-status-for-object-lambda</summary>
+- **<details><summary>get-access-point-policy-status-for-object-lambda</summary><blockquote>**
 
   * --account-id
   * --name
@@ -241,7 +237,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket</summary>
+- **<details><summary>get-bucket</summary><blockquote>**
 
   * --account-id
   * --bucket
@@ -250,7 +246,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-lifecycle-configuration</summary>
+- **<details><summary>get-bucket-lifecycle-configuration</summary><blockquote>**
 
   * --account-id
   * --bucket
@@ -259,7 +255,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-policy</summary>
+- **<details><summary>get-bucket-policy</summary><blockquote>**
 
   * --account-id
   * --bucket
@@ -268,7 +264,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bucket-tagging</summary>
+- **<details><summary>get-bucket-tagging</summary><blockquote>**
 
   * --account-id
   * --bucket
@@ -277,7 +273,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>get-job-tagging</summary>
+- **<details><summary>get-job-tagging</summary><blockquote>**
 
   * --account-id
   * --job-id
@@ -286,7 +282,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>get-public-access-block</summary>
+- **<details><summary>get-public-access-block</summary><blockquote>**
 
   * --account-id
   * --cli-input-json
@@ -294,7 +290,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>get-storage-lens-configuration</summary>
+- **<details><summary>get-storage-lens-configuration</summary><blockquote>**
 
   * --config-id
   * --account-id
@@ -303,7 +299,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>get-storage-lens-configuration-tagging</summary>
+- **<details><summary>get-storage-lens-configuration-tagging</summary><blockquote>**
 
   * --config-id
   * --account-id
@@ -312,12 +308,12 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-access-points</summary>
+- **<details><summary>list-access-points</summary><blockquote>**
 
   * --account-id
   * --bucket
@@ -328,7 +324,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>list-access-points-for-object-lambda</summary>
+- **<details><summary>list-access-points-for-object-lambda</summary><blockquote>**
 
   * --account-id
   * --cli-input-json
@@ -339,7 +335,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>list-jobs</summary>
+- **<details><summary>list-jobs</summary><blockquote>**
 
   * --account-id
   * --job-statuses
@@ -350,7 +346,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>list-regional-buckets</summary>
+- **<details><summary>list-regional-buckets</summary><blockquote>**
 
   * --account-id
   * --next-token
@@ -361,7 +357,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>list-storage-lens-configurations</summary>
+- **<details><summary>list-storage-lens-configurations</summary><blockquote>**
 
   * --account-id
   * --next-token
@@ -370,7 +366,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>put-access-point-configuration-for-object-lambda</summary>
+- **<details><summary>put-access-point-configuration-for-object-lambda</summary><blockquote>**
 
   * --account-id
   * --name
@@ -380,7 +376,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>put-access-point-policy</summary>
+- **<details><summary>put-access-point-policy</summary><blockquote>**
 
   * --account-id
   * --name
@@ -390,7 +386,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>put-access-point-policy-for-object-lambda</summary>
+- **<details><summary>put-access-point-policy-for-object-lambda</summary><blockquote>**
 
   * --account-id
   * --name
@@ -400,7 +396,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-lifecycle-configuration</summary>
+- **<details><summary>put-bucket-lifecycle-configuration</summary><blockquote>**
 
   * --account-id
   * --bucket
@@ -410,7 +406,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-policy</summary>
+- **<details><summary>put-bucket-policy</summary><blockquote>**
 
   * --account-id
   * --bucket
@@ -422,7 +418,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bucket-tagging</summary>
+- **<details><summary>put-bucket-tagging</summary><blockquote>**
 
   * --account-id
   * --bucket
@@ -432,7 +428,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>put-job-tagging</summary>
+- **<details><summary>put-job-tagging</summary><blockquote>**
 
   * --account-id
   * --job-id
@@ -442,7 +438,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>put-public-access-block</summary>
+- **<details><summary>put-public-access-block</summary><blockquote>**
 
   * --public-access-block-configuration
   * --account-id
@@ -451,7 +447,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>put-storage-lens-configuration</summary>
+- **<details><summary>put-storage-lens-configuration</summary><blockquote>**
 
   * --config-id
   * --account-id
@@ -462,7 +458,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>put-storage-lens-configuration-tagging</summary>
+- **<details><summary>put-storage-lens-configuration-tagging</summary><blockquote>**
 
   * --config-id
   * --account-id
@@ -472,7 +468,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>update-job-priority</summary>
+- **<details><summary>update-job-priority</summary><blockquote>**
 
   * --account-id
   * --job-id
@@ -482,7 +478,7 @@ s3control
   * --generate-cli-skeleton
 
 
-- <details><summary>update-job-status</summary>
+- **<details><summary>update-job-status</summary><blockquote>**
 
   * --account-id
   * --job-id
@@ -493,5 +489,54 @@ s3control
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

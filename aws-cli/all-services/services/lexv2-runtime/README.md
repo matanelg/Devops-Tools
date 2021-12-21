@@ -1,10 +1,6 @@
-<details>
+<details><summary>lexv2-runtime</summary><blockquote>
 
-<summary>
-lexv2-runtime
-</summary>
-
-- <details><summary>delete-session</summary>
+- **<details><summary>delete-session</summary><blockquote>**
 
   * --bot-id
   * --bot-alias-id
@@ -15,7 +11,7 @@ lexv2-runtime
   * --generate-cli-skeleton
 
 
-- <details><summary>get-session</summary>
+- **<details><summary>get-session</summary><blockquote>**
 
   * --bot-id
   * --bot-alias-id
@@ -26,12 +22,12 @@ lexv2-runtime
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>put-session</summary>
+- **<details><summary>put-session</summary><blockquote>**
 
   * --bot-id
   * --bot-alias-id
@@ -43,7 +39,7 @@ lexv2-runtime
   * --response-content-type
 
 
-- <details><summary>recognize-text</summary>
+- **<details><summary>recognize-text</summary><blockquote>**
 
   * --bot-id
   * --bot-alias-id
@@ -57,7 +53,7 @@ lexv2-runtime
   * --generate-cli-skeleton
 
 
-- <details><summary>recognize-utterance</summary>
+- **<details><summary>recognize-utterance</summary><blockquote>**
 
   * --bot-id
   * --bot-alias-id
@@ -70,5 +66,10 @@ lexv2-runtime
   * --input-stream
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

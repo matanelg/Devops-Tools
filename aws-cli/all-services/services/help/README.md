@@ -1,8 +1,3 @@
-<details>
+<details><summary>help</summary><blockquote>
 
-<summary>
-help
-</summary>
-
-</details>
-
+</blockquote></details>

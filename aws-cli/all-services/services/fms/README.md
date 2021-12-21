@@ -1,10 +1,6 @@
-<details>
+<details><summary>fms</summary><blockquote>
 
-<summary>
-fms
-</summary>
-
-- <details><summary>associate-admin-account</summary>
+- **<details><summary>associate-admin-account</summary><blockquote>**
 
   * --admin-account
   * --cli-input-json
@@ -12,7 +8,7 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-apps-list</summary>
+- **<details><summary>delete-apps-list</summary><blockquote>**
 
   * --list-id
   * --cli-input-json
@@ -20,14 +16,14 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-notification-channel</summary>
+- **<details><summary>delete-notification-channel</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-policy</summary>
+- **<details><summary>delete-policy</summary><blockquote>**
 
   * --policy-id
   * --delete-all-policy-resources
@@ -37,7 +33,7 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-protocols-list</summary>
+- **<details><summary>delete-protocols-list</summary><blockquote>**
 
   * --list-id
   * --cli-input-json
@@ -45,21 +41,21 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-admin-account</summary>
+- **<details><summary>disassociate-admin-account</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-admin-account</summary>
+- **<details><summary>get-admin-account</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-apps-list</summary>
+- **<details><summary>get-apps-list</summary><blockquote>**
 
   * --list-id
   * --default-list
@@ -69,7 +65,7 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>get-compliance-detail</summary>
+- **<details><summary>get-compliance-detail</summary><blockquote>**
 
   * --policy-id
   * --member-account
@@ -78,14 +74,14 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>get-notification-channel</summary>
+- **<details><summary>get-notification-channel</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-policy</summary>
+- **<details><summary>get-policy</summary><blockquote>**
 
   * --policy-id
   * --cli-input-json
@@ -93,7 +89,7 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>get-protection-status</summary>
+- **<details><summary>get-protection-status</summary><blockquote>**
 
   * --policy-id
   * --member-account-id
@@ -106,7 +102,7 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>get-protocols-list</summary>
+- **<details><summary>get-protocols-list</summary><blockquote>**
 
   * --list-id
   * --default-list
@@ -116,7 +112,7 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>get-violation-details</summary>
+- **<details><summary>get-violation-details</summary><blockquote>**
 
   * --policy-id
   * --member-account
@@ -127,12 +123,12 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-apps-lists</summary>
+- **<details><summary>list-apps-lists</summary><blockquote>**
 
   * --default-lists
   * --no-default-lists
@@ -144,7 +140,7 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>list-compliance-status</summary>
+- **<details><summary>list-compliance-status</summary><blockquote>**
 
   * --policy-id
   * --cli-input-json
@@ -155,7 +151,7 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>list-member-accounts</summary>
+- **<details><summary>list-member-accounts</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -165,7 +161,7 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>list-policies</summary>
+- **<details><summary>list-policies</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -175,7 +171,7 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>list-protocols-lists</summary>
+- **<details><summary>list-protocols-lists</summary><blockquote>**
 
   * --default-lists
   * --no-default-lists
@@ -187,7 +183,7 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -195,7 +191,7 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>put-apps-list</summary>
+- **<details><summary>put-apps-list</summary><blockquote>**
 
   * --apps-list
   * --tag-list
@@ -204,7 +200,7 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>put-notification-channel</summary>
+- **<details><summary>put-notification-channel</summary><blockquote>**
 
   * --sns-topic-arn
   * --sns-role-name
@@ -213,7 +209,7 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>put-policy</summary>
+- **<details><summary>put-policy</summary><blockquote>**
 
   * --policy
   * --tag-list
@@ -222,7 +218,7 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>put-protocols-list</summary>
+- **<details><summary>put-protocols-list</summary><blockquote>**
 
   * --protocols-list
   * --tag-list
@@ -231,7 +227,7 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-list
@@ -240,7 +236,7 @@ fms
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -249,5 +245,31 @@ fms
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

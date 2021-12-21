@@ -1,10 +1,6 @@
-<details>
+<details><summary>support</summary><blockquote>
 
-<summary>
-support
-</summary>
-
-- <details><summary>add-attachments-to-set</summary>
+- **<details><summary>add-attachments-to-set</summary><blockquote>**
 
   * --attachment-set-id
   * --attachments
@@ -13,7 +9,7 @@ support
   * --generate-cli-skeleton
 
 
-- <details><summary>add-communication-to-case</summary>
+- **<details><summary>add-communication-to-case</summary><blockquote>**
 
   * --case-id
   * --communication-body
@@ -24,7 +20,7 @@ support
   * --generate-cli-skeleton
 
 
-- <details><summary>create-case</summary>
+- **<details><summary>create-case</summary><blockquote>**
 
   * --subject
   * --service-code
@@ -40,7 +36,7 @@ support
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-attachment</summary>
+- **<details><summary>describe-attachment</summary><blockquote>**
 
   * --attachment-id
   * --cli-input-json
@@ -48,7 +44,7 @@ support
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cases</summary>
+- **<details><summary>describe-cases</summary><blockquote>**
 
   * --case-id-list
   * --display-id
@@ -67,7 +63,7 @@ support
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-communications</summary>
+- **<details><summary>describe-communications</summary><blockquote>**
 
   * --case-id
   * --before-time
@@ -80,7 +76,7 @@ support
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-services</summary>
+- **<details><summary>describe-services</summary><blockquote>**
 
   * --service-code-list
   * --language
@@ -89,7 +85,7 @@ support
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-severity-levels</summary>
+- **<details><summary>describe-severity-levels</summary><blockquote>**
 
   * --language
   * --cli-input-json
@@ -97,7 +93,7 @@ support
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-trusted-advisor-check-refresh-statuses</summary>
+- **<details><summary>describe-trusted-advisor-check-refresh-statuses</summary><blockquote>**
 
   * --check-ids
   * --cli-input-json
@@ -105,7 +101,7 @@ support
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-trusted-advisor-check-result</summary>
+- **<details><summary>describe-trusted-advisor-check-result</summary><blockquote>**
 
   * --check-id
   * --language
@@ -114,7 +110,7 @@ support
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-trusted-advisor-checks</summary>
+- **<details><summary>describe-trusted-advisor-checks</summary><blockquote>**
 
   * --language
   * --cli-input-json
@@ -122,7 +118,7 @@ support
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-trusted-advisor-check-summaries</summary>
+- **<details><summary>describe-trusted-advisor-check-summaries</summary><blockquote>**
 
   * --check-ids
   * --cli-input-json
@@ -130,12 +126,12 @@ support
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>refresh-trusted-advisor-check</summary>
+- **<details><summary>refresh-trusted-advisor-check</summary><blockquote>**
 
   * --check-id
   * --cli-input-json
@@ -143,7 +139,7 @@ support
   * --generate-cli-skeleton
 
 
-- <details><summary>resolve-case</summary>
+- **<details><summary>resolve-case</summary><blockquote>**
 
   * --case-id
   * --cli-input-json
@@ -151,5 +147,19 @@ support
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,17 +1,13 @@
-<details>
+<details><summary>kinesis-video-archived-media</summary><blockquote>
 
-<summary>
-kinesis-video-archived-media
-</summary>
-
-- <details><summary>get-clip</summary>
+- **<details><summary>get-clip</summary><blockquote>**
 
   * --stream-name
   * --stream-arn
   * --clip-fragment-selector
 
 
-- <details><summary>get-dash-streaming-session-url</summary>
+- **<details><summary>get-dash-streaming-session-url</summary><blockquote>**
 
   * --stream-name
   * --stream-arn
@@ -26,7 +22,7 @@ kinesis-video-archived-media
   * --generate-cli-skeleton
 
 
-- <details><summary>get-hls-streaming-session-url</summary>
+- **<details><summary>get-hls-streaming-session-url</summary><blockquote>**
 
   * --stream-name
   * --stream-arn
@@ -42,19 +38,19 @@ kinesis-video-archived-media
   * --generate-cli-skeleton
 
 
-- <details><summary>get-media-for-fragment-list</summary>
+- **<details><summary>get-media-for-fragment-list</summary><blockquote>**
 
   * --stream-name
   * --stream-arn
   * --fragments
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-fragments</summary>
+- **<details><summary>list-fragments</summary><blockquote>**
 
   * --stream-name
   * --stream-arn
@@ -67,5 +63,10 @@ kinesis-video-archived-media
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

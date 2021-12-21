@@ -1,10 +1,6 @@
-<details>
+<details><summary>ecr</summary><blockquote>
 
-<summary>
-ecr
-</summary>
-
-- <details><summary>batch-check-layer-availability</summary>
+- **<details><summary>batch-check-layer-availability</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -14,7 +10,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-delete-image</summary>
+- **<details><summary>batch-delete-image</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -24,7 +20,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-image</summary>
+- **<details><summary>batch-get-image</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -35,7 +31,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>complete-layer-upload</summary>
+- **<details><summary>complete-layer-upload</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -46,7 +42,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>create-repository</summary>
+- **<details><summary>create-repository</summary><blockquote>**
 
   * --repository-name
   * --tags
@@ -58,7 +54,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-lifecycle-policy</summary>
+- **<details><summary>delete-lifecycle-policy</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -67,14 +63,14 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-registry-policy</summary>
+- **<details><summary>delete-registry-policy</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-repository</summary>
+- **<details><summary>delete-repository</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -85,7 +81,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-repository-policy</summary>
+- **<details><summary>delete-repository-policy</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -94,7 +90,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-images</summary>
+- **<details><summary>describe-images</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -108,7 +104,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-image-scan-findings</summary>
+- **<details><summary>describe-image-scan-findings</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -121,14 +117,14 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-registry</summary>
+- **<details><summary>describe-registry</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-repositories</summary>
+- **<details><summary>describe-repositories</summary><blockquote>**
 
   * --registry-id
   * --repository-names
@@ -140,7 +136,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>get-authorization-token</summary>
+- **<details><summary>get-authorization-token</summary><blockquote>**
 
   * --registry-ids
   * --cli-input-json
@@ -148,7 +144,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>get-download-url-for-layer</summary>
+- **<details><summary>get-download-url-for-layer</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -158,7 +154,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>get-lifecycle-policy</summary>
+- **<details><summary>get-lifecycle-policy</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -167,7 +163,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>get-lifecycle-policy-preview</summary>
+- **<details><summary>get-lifecycle-policy-preview</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -181,19 +177,19 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>get-login-password</summary>
+- **<details><summary>get-login-password</summary><blockquote>**
 
   * 
 
 
-- <details><summary>get-registry-policy</summary>
+- **<details><summary>get-registry-policy</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-repository-policy</summary>
+- **<details><summary>get-repository-policy</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -202,12 +198,12 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>initiate-layer-upload</summary>
+- **<details><summary>initiate-layer-upload</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -216,7 +212,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>list-images</summary>
+- **<details><summary>list-images</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -229,7 +225,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -237,7 +233,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>put-image</summary>
+- **<details><summary>put-image</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -250,7 +246,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>put-image-scanning-configuration</summary>
+- **<details><summary>put-image-scanning-configuration</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -260,7 +256,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>put-image-tag-mutability</summary>
+- **<details><summary>put-image-tag-mutability</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -270,7 +266,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>put-lifecycle-policy</summary>
+- **<details><summary>put-lifecycle-policy</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -280,7 +276,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>put-registry-policy</summary>
+- **<details><summary>put-registry-policy</summary><blockquote>**
 
   * --policy-text
   * --cli-input-json
@@ -288,7 +284,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>put-replication-configuration</summary>
+- **<details><summary>put-replication-configuration</summary><blockquote>**
 
   * --replication-configuration
   * --cli-input-json
@@ -296,7 +292,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>set-repository-policy</summary>
+- **<details><summary>set-repository-policy</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -308,7 +304,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>start-image-scan</summary>
+- **<details><summary>start-image-scan</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -318,7 +314,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>start-lifecycle-policy-preview</summary>
+- **<details><summary>start-lifecycle-policy-preview</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -328,7 +324,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -337,7 +333,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -346,7 +342,7 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>upload-layer-part</summary>
+- **<details><summary>upload-layer-part</summary><blockquote>**
 
   * --registry-id
   * --repository-name
@@ -359,10 +355,46 @@ ecr
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

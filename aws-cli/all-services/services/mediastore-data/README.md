@@ -1,10 +1,6 @@
-<details>
+<details><summary>mediastore-data</summary><blockquote>
 
-<summary>
-mediastore-data
-</summary>
-
-- <details><summary>delete-object</summary>
+- **<details><summary>delete-object</summary><blockquote>**
 
   * --path
   * --cli-input-json
@@ -12,7 +8,7 @@ mediastore-data
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-object</summary>
+- **<details><summary>describe-object</summary><blockquote>**
 
   * --path
   * --cli-input-json
@@ -20,18 +16,18 @@ mediastore-data
   * --generate-cli-skeleton
 
 
-- <details><summary>get-object</summary>
+- **<details><summary>get-object</summary><blockquote>**
 
   * --path
   * --range
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-items</summary>
+- **<details><summary>list-items</summary><blockquote>**
 
   * --path
   * --cli-input-json
@@ -42,7 +38,7 @@ mediastore-data
   * --generate-cli-skeleton
 
 
-- <details><summary>put-object</summary>
+- **<details><summary>put-object</summary><blockquote>**
 
   * --body
   * --path
@@ -55,5 +51,10 @@ mediastore-data
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

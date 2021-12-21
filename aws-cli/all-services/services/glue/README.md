@@ -1,10 +1,6 @@
-<details>
+<details><summary>glue</summary><blockquote>
 
-<summary>
-glue
-</summary>
-
-- <details><summary>batch-create-partition</summary>
+- **<details><summary>batch-create-partition</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -15,7 +11,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-delete-connection</summary>
+- **<details><summary>batch-delete-connection</summary><blockquote>**
 
   * --catalog-id
   * --connection-name-list
@@ -24,7 +20,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-delete-partition</summary>
+- **<details><summary>batch-delete-partition</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -35,7 +31,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-delete-table</summary>
+- **<details><summary>batch-delete-table</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -45,7 +41,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-delete-table-version</summary>
+- **<details><summary>batch-delete-table-version</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -56,7 +52,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-crawlers</summary>
+- **<details><summary>batch-get-crawlers</summary><blockquote>**
 
   * --crawler-names
   * --cli-input-json
@@ -64,7 +60,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-dev-endpoints</summary>
+- **<details><summary>batch-get-dev-endpoints</summary><blockquote>**
 
   * --dev-endpoint-names
   * --cli-input-json
@@ -72,7 +68,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-jobs</summary>
+- **<details><summary>batch-get-jobs</summary><blockquote>**
 
   * --job-names
   * --cli-input-json
@@ -80,7 +76,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-partition</summary>
+- **<details><summary>batch-get-partition</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -91,7 +87,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-triggers</summary>
+- **<details><summary>batch-get-triggers</summary><blockquote>**
 
   * --trigger-names
   * --cli-input-json
@@ -99,7 +95,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-workflows</summary>
+- **<details><summary>batch-get-workflows</summary><blockquote>**
 
   * --names
   * --include-graph
@@ -109,7 +105,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-stop-job-run</summary>
+- **<details><summary>batch-stop-job-run</summary><blockquote>**
 
   * --job-name
   * --job-run-ids
@@ -118,7 +114,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-update-partition</summary>
+- **<details><summary>batch-update-partition</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -129,7 +125,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-ml-task-run</summary>
+- **<details><summary>cancel-ml-task-run</summary><blockquote>**
 
   * --transform-id
   * --task-run-id
@@ -138,7 +134,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>check-schema-version-validity</summary>
+- **<details><summary>check-schema-version-validity</summary><blockquote>**
 
   * --data-format
   * --schema-definition
@@ -147,7 +143,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>create-classifier</summary>
+- **<details><summary>create-classifier</summary><blockquote>**
 
   * --grok-classifier
   * --xml-classifier
@@ -158,7 +154,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>create-connection</summary>
+- **<details><summary>create-connection</summary><blockquote>**
 
   * --catalog-id
   * --connection-input
@@ -167,7 +163,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>create-crawler</summary>
+- **<details><summary>create-crawler</summary><blockquote>**
 
   * --name
   * --role
@@ -188,7 +184,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>create-database</summary>
+- **<details><summary>create-database</summary><blockquote>**
 
   * --catalog-id
   * --database-input
@@ -197,7 +193,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>create-dev-endpoint</summary>
+- **<details><summary>create-dev-endpoint</summary><blockquote>**
 
   * --endpoint-name
   * --role-arn
@@ -219,7 +215,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>create-job</summary>
+- **<details><summary>create-job</summary><blockquote>**
 
   * --name
   * --description
@@ -245,7 +241,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>create-ml-transform</summary>
+- **<details><summary>create-ml-transform</summary><blockquote>**
 
   * --name
   * --description
@@ -265,7 +261,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>create-partition</summary>
+- **<details><summary>create-partition</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -276,7 +272,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>create-partition-index</summary>
+- **<details><summary>create-partition-index</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -287,7 +283,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>create-registry</summary>
+- **<details><summary>create-registry</summary><blockquote>**
 
   * --registry-name
   * --description
@@ -297,7 +293,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>create-schema</summary>
+- **<details><summary>create-schema</summary><blockquote>**
 
   * --registry-id
   * --schema-name
@@ -311,7 +307,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>create-script</summary>
+- **<details><summary>create-script</summary><blockquote>**
 
   * --dag-nodes
   * --dag-edges
@@ -321,7 +317,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>create-security-configuration</summary>
+- **<details><summary>create-security-configuration</summary><blockquote>**
 
   * --name
   * --encryption-configuration
@@ -330,7 +326,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>create-table</summary>
+- **<details><summary>create-table</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -341,7 +337,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>create-trigger</summary>
+- **<details><summary>create-trigger</summary><blockquote>**
 
   * --name
   * --workflow-name
@@ -359,7 +355,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>create-user-defined-function</summary>
+- **<details><summary>create-user-defined-function</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -369,7 +365,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>create-workflow</summary>
+- **<details><summary>create-workflow</summary><blockquote>**
 
   * --name
   * --description
@@ -381,7 +377,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-classifier</summary>
+- **<details><summary>delete-classifier</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -389,7 +385,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-column-statistics-for-partition</summary>
+- **<details><summary>delete-column-statistics-for-partition</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -401,7 +397,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-column-statistics-for-table</summary>
+- **<details><summary>delete-column-statistics-for-table</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -412,7 +408,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-connection</summary>
+- **<details><summary>delete-connection</summary><blockquote>**
 
   * --catalog-id
   * --connection-name
@@ -421,7 +417,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-crawler</summary>
+- **<details><summary>delete-crawler</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -429,7 +425,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-database</summary>
+- **<details><summary>delete-database</summary><blockquote>**
 
   * --catalog-id
   * --name
@@ -438,7 +434,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-dev-endpoint</summary>
+- **<details><summary>delete-dev-endpoint</summary><blockquote>**
 
   * --endpoint-name
   * --cli-input-json
@@ -446,7 +442,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-job</summary>
+- **<details><summary>delete-job</summary><blockquote>**
 
   * --job-name
   * --cli-input-json
@@ -454,7 +450,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-ml-transform</summary>
+- **<details><summary>delete-ml-transform</summary><blockquote>**
 
   * --transform-id
   * --cli-input-json
@@ -462,7 +458,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-partition</summary>
+- **<details><summary>delete-partition</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -473,7 +469,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-partition-index</summary>
+- **<details><summary>delete-partition-index</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -484,7 +480,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-registry</summary>
+- **<details><summary>delete-registry</summary><blockquote>**
 
   * --registry-id
   * --cli-input-json
@@ -492,7 +488,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-resource-policy</summary>
+- **<details><summary>delete-resource-policy</summary><blockquote>**
 
   * --policy-hash-condition
   * --resource-arn
@@ -501,7 +497,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-schema</summary>
+- **<details><summary>delete-schema</summary><blockquote>**
 
   * --schema-id
   * --cli-input-json
@@ -509,7 +505,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-schema-versions</summary>
+- **<details><summary>delete-schema-versions</summary><blockquote>**
 
   * --schema-id
   * --versions
@@ -518,7 +514,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-security-configuration</summary>
+- **<details><summary>delete-security-configuration</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -526,7 +522,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-table</summary>
+- **<details><summary>delete-table</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -536,7 +532,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-table-version</summary>
+- **<details><summary>delete-table-version</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -547,7 +543,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-trigger</summary>
+- **<details><summary>delete-trigger</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -555,7 +551,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user-defined-function</summary>
+- **<details><summary>delete-user-defined-function</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -565,7 +561,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-workflow</summary>
+- **<details><summary>delete-workflow</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -573,7 +569,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-catalog-import-status</summary>
+- **<details><summary>get-catalog-import-status</summary><blockquote>**
 
   * --catalog-id
   * --cli-input-json
@@ -581,7 +577,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-classifier</summary>
+- **<details><summary>get-classifier</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -589,7 +585,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-classifiers</summary>
+- **<details><summary>get-classifiers</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -599,7 +595,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-column-statistics-for-partition</summary>
+- **<details><summary>get-column-statistics-for-partition</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -611,7 +607,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-column-statistics-for-table</summary>
+- **<details><summary>get-column-statistics-for-table</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -622,7 +618,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-connection</summary>
+- **<details><summary>get-connection</summary><blockquote>**
 
   * --catalog-id
   * --name
@@ -633,7 +629,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-connections</summary>
+- **<details><summary>get-connections</summary><blockquote>**
 
   * --catalog-id
   * --filter
@@ -647,7 +643,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-crawler</summary>
+- **<details><summary>get-crawler</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -655,7 +651,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-crawler-metrics</summary>
+- **<details><summary>get-crawler-metrics</summary><blockquote>**
 
   * --crawler-name-list
   * --cli-input-json
@@ -666,7 +662,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-crawlers</summary>
+- **<details><summary>get-crawlers</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -676,7 +672,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-database</summary>
+- **<details><summary>get-database</summary><blockquote>**
 
   * --catalog-id
   * --name
@@ -685,7 +681,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-databases</summary>
+- **<details><summary>get-databases</summary><blockquote>**
 
   * --catalog-id
   * --resource-share-type
@@ -697,7 +693,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-data-catalog-encryption-settings</summary>
+- **<details><summary>get-data-catalog-encryption-settings</summary><blockquote>**
 
   * --catalog-id
   * --cli-input-json
@@ -705,7 +701,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-dataflow-graph</summary>
+- **<details><summary>get-dataflow-graph</summary><blockquote>**
 
   * --python-script
   * --cli-input-json
@@ -713,7 +709,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-dev-endpoint</summary>
+- **<details><summary>get-dev-endpoint</summary><blockquote>**
 
   * --endpoint-name
   * --cli-input-json
@@ -721,7 +717,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-dev-endpoints</summary>
+- **<details><summary>get-dev-endpoints</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -731,7 +727,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-job</summary>
+- **<details><summary>get-job</summary><blockquote>**
 
   * --job-name
   * --cli-input-json
@@ -739,7 +735,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-job-bookmark</summary>
+- **<details><summary>get-job-bookmark</summary><blockquote>**
 
   * --job-name
   * --run-id
@@ -748,7 +744,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-job-run</summary>
+- **<details><summary>get-job-run</summary><blockquote>**
 
   * --job-name
   * --run-id
@@ -759,7 +755,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-job-runs</summary>
+- **<details><summary>get-job-runs</summary><blockquote>**
 
   * --job-name
   * --cli-input-json
@@ -770,7 +766,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-jobs</summary>
+- **<details><summary>get-jobs</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -780,7 +776,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-mapping</summary>
+- **<details><summary>get-mapping</summary><blockquote>**
 
   * --source
   * --sinks
@@ -790,7 +786,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-ml-task-run</summary>
+- **<details><summary>get-ml-task-run</summary><blockquote>**
 
   * --transform-id
   * --task-run-id
@@ -799,7 +795,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-ml-task-runs</summary>
+- **<details><summary>get-ml-task-runs</summary><blockquote>**
 
   * --transform-id
   * --next-token
@@ -811,7 +807,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-ml-transform</summary>
+- **<details><summary>get-ml-transform</summary><blockquote>**
 
   * --transform-id
   * --cli-input-json
@@ -819,7 +815,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-ml-transforms</summary>
+- **<details><summary>get-ml-transforms</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -830,7 +826,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-partition</summary>
+- **<details><summary>get-partition</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -841,7 +837,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-partition-indexes</summary>
+- **<details><summary>get-partition-indexes</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -853,7 +849,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-partitions</summary>
+- **<details><summary>get-partitions</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -870,7 +866,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-plan</summary>
+- **<details><summary>get-plan</summary><blockquote>**
 
   * --mapping
   * --source
@@ -883,7 +879,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-registry</summary>
+- **<details><summary>get-registry</summary><blockquote>**
 
   * --registry-id
   * --cli-input-json
@@ -891,7 +887,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resource-policies</summary>
+- **<details><summary>get-resource-policies</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -901,7 +897,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resource-policy</summary>
+- **<details><summary>get-resource-policy</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -909,7 +905,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-schema</summary>
+- **<details><summary>get-schema</summary><blockquote>**
 
   * --schema-id
   * --cli-input-json
@@ -917,7 +913,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-schema-by-definition</summary>
+- **<details><summary>get-schema-by-definition</summary><blockquote>**
 
   * --schema-id
   * --schema-definition
@@ -926,7 +922,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-schema-version</summary>
+- **<details><summary>get-schema-version</summary><blockquote>**
 
   * --schema-id
   * --schema-version-id
@@ -936,7 +932,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-schema-versions-diff</summary>
+- **<details><summary>get-schema-versions-diff</summary><blockquote>**
 
   * --schema-id
   * --first-schema-version-number
@@ -947,7 +943,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-security-configuration</summary>
+- **<details><summary>get-security-configuration</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -955,7 +951,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-security-configurations</summary>
+- **<details><summary>get-security-configurations</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -965,7 +961,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-table</summary>
+- **<details><summary>get-table</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -975,7 +971,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-tables</summary>
+- **<details><summary>get-tables</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -988,7 +984,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-table-version</summary>
+- **<details><summary>get-table-version</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -999,7 +995,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-table-versions</summary>
+- **<details><summary>get-table-versions</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -1012,7 +1008,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-tags</summary>
+- **<details><summary>get-tags</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -1020,7 +1016,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-trigger</summary>
+- **<details><summary>get-trigger</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -1028,7 +1024,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-triggers</summary>
+- **<details><summary>get-triggers</summary><blockquote>**
 
   * --dependent-job-name
   * --cli-input-json
@@ -1039,7 +1035,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-user-defined-function</summary>
+- **<details><summary>get-user-defined-function</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -1049,7 +1045,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-user-defined-functions</summary>
+- **<details><summary>get-user-defined-functions</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -1062,7 +1058,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-workflow</summary>
+- **<details><summary>get-workflow</summary><blockquote>**
 
   * --name
   * --include-graph
@@ -1072,7 +1068,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-workflow-run</summary>
+- **<details><summary>get-workflow-run</summary><blockquote>**
 
   * --name
   * --run-id
@@ -1083,7 +1079,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-workflow-run-properties</summary>
+- **<details><summary>get-workflow-run-properties</summary><blockquote>**
 
   * --name
   * --run-id
@@ -1092,7 +1088,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>get-workflow-runs</summary>
+- **<details><summary>get-workflow-runs</summary><blockquote>**
 
   * --name
   * --include-graph
@@ -1104,12 +1100,12 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>import-catalog-to-glue</summary>
+- **<details><summary>import-catalog-to-glue</summary><blockquote>**
 
   * --catalog-id
   * --cli-input-json
@@ -1117,7 +1113,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>list-crawlers</summary>
+- **<details><summary>list-crawlers</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -1127,7 +1123,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>list-dev-endpoints</summary>
+- **<details><summary>list-dev-endpoints</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -1137,7 +1133,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>list-jobs</summary>
+- **<details><summary>list-jobs</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -1147,7 +1143,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>list-ml-transforms</summary>
+- **<details><summary>list-ml-transforms</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -1159,7 +1155,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>list-registries</summary>
+- **<details><summary>list-registries</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -1169,7 +1165,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>list-schemas</summary>
+- **<details><summary>list-schemas</summary><blockquote>**
 
   * --registry-id
   * --cli-input-json
@@ -1180,7 +1176,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>list-schema-versions</summary>
+- **<details><summary>list-schema-versions</summary><blockquote>**
 
   * --schema-id
   * --cli-input-json
@@ -1191,7 +1187,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>list-triggers</summary>
+- **<details><summary>list-triggers</summary><blockquote>**
 
   * --next-token
   * --dependent-job-name
@@ -1202,7 +1198,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>list-workflows</summary>
+- **<details><summary>list-workflows</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -1211,7 +1207,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>put-data-catalog-encryption-settings</summary>
+- **<details><summary>put-data-catalog-encryption-settings</summary><blockquote>**
 
   * --catalog-id
   * --data-catalog-encryption-settings
@@ -1220,7 +1216,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>put-resource-policy</summary>
+- **<details><summary>put-resource-policy</summary><blockquote>**
 
   * --policy-in-json
   * --resource-arn
@@ -1232,7 +1228,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>put-schema-version-metadata</summary>
+- **<details><summary>put-schema-version-metadata</summary><blockquote>**
 
   * --schema-id
   * --schema-version-number
@@ -1243,7 +1239,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>put-workflow-run-properties</summary>
+- **<details><summary>put-workflow-run-properties</summary><blockquote>**
 
   * --name
   * --run-id
@@ -1253,7 +1249,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>query-schema-version-metadata</summary>
+- **<details><summary>query-schema-version-metadata</summary><blockquote>**
 
   * --schema-id
   * --schema-version-number
@@ -1266,7 +1262,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>register-schema-version</summary>
+- **<details><summary>register-schema-version</summary><blockquote>**
 
   * --schema-id
   * --schema-definition
@@ -1275,7 +1271,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-schema-version-metadata</summary>
+- **<details><summary>remove-schema-version-metadata</summary><blockquote>**
 
   * --schema-id
   * --schema-version-number
@@ -1286,7 +1282,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-job-bookmark</summary>
+- **<details><summary>reset-job-bookmark</summary><blockquote>**
 
   * --job-name
   * --run-id
@@ -1295,7 +1291,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>resume-workflow-run</summary>
+- **<details><summary>resume-workflow-run</summary><blockquote>**
 
   * --name
   * --run-id
@@ -1305,7 +1301,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>search-tables</summary>
+- **<details><summary>search-tables</summary><blockquote>**
 
   * --catalog-id
   * --next-token
@@ -1319,7 +1315,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>start-crawler</summary>
+- **<details><summary>start-crawler</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -1327,7 +1323,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>start-crawler-schedule</summary>
+- **<details><summary>start-crawler-schedule</summary><blockquote>**
 
   * --crawler-name
   * --cli-input-json
@@ -1335,7 +1331,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>start-export-labels-task-run</summary>
+- **<details><summary>start-export-labels-task-run</summary><blockquote>**
 
   * --transform-id
   * --output-s3-path
@@ -1344,7 +1340,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>start-import-labels-task-run</summary>
+- **<details><summary>start-import-labels-task-run</summary><blockquote>**
 
   * --transform-id
   * --input-s3-path
@@ -1355,7 +1351,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>start-job-run</summary>
+- **<details><summary>start-job-run</summary><blockquote>**
 
   * --job-name
   * --job-run-id
@@ -1372,7 +1368,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>start-ml-evaluation-task-run</summary>
+- **<details><summary>start-ml-evaluation-task-run</summary><blockquote>**
 
   * --transform-id
   * --cli-input-json
@@ -1380,7 +1376,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>start-ml-labeling-set-generation-task-run</summary>
+- **<details><summary>start-ml-labeling-set-generation-task-run</summary><blockquote>**
 
   * --transform-id
   * --output-s3-path
@@ -1389,7 +1385,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>start-trigger</summary>
+- **<details><summary>start-trigger</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -1397,7 +1393,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>start-workflow-run</summary>
+- **<details><summary>start-workflow-run</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -1405,7 +1401,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-crawler</summary>
+- **<details><summary>stop-crawler</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -1413,7 +1409,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-crawler-schedule</summary>
+- **<details><summary>stop-crawler-schedule</summary><blockquote>**
 
   * --crawler-name
   * --cli-input-json
@@ -1421,7 +1417,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-trigger</summary>
+- **<details><summary>stop-trigger</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -1429,7 +1425,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-workflow-run</summary>
+- **<details><summary>stop-workflow-run</summary><blockquote>**
 
   * --name
   * --run-id
@@ -1438,7 +1434,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags-to-add
@@ -1447,7 +1443,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags-to-remove
@@ -1456,7 +1452,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>update-classifier</summary>
+- **<details><summary>update-classifier</summary><blockquote>**
 
   * --grok-classifier
   * --xml-classifier
@@ -1467,7 +1463,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>update-column-statistics-for-partition</summary>
+- **<details><summary>update-column-statistics-for-partition</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -1479,7 +1475,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>update-column-statistics-for-table</summary>
+- **<details><summary>update-column-statistics-for-table</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -1490,7 +1486,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>update-connection</summary>
+- **<details><summary>update-connection</summary><blockquote>**
 
   * --catalog-id
   * --name
@@ -1500,7 +1496,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>update-crawler</summary>
+- **<details><summary>update-crawler</summary><blockquote>**
 
   * --name
   * --role
@@ -1520,7 +1516,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>update-crawler-schedule</summary>
+- **<details><summary>update-crawler-schedule</summary><blockquote>**
 
   * --crawler-name
   * --schedule
@@ -1529,7 +1525,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>update-database</summary>
+- **<details><summary>update-database</summary><blockquote>**
 
   * --catalog-id
   * --name
@@ -1539,7 +1535,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>update-dev-endpoint</summary>
+- **<details><summary>update-dev-endpoint</summary><blockquote>**
 
   * --endpoint-name
   * --public-key
@@ -1555,7 +1551,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>update-job</summary>
+- **<details><summary>update-job</summary><blockquote>**
 
   * --job-name
   * --job-update
@@ -1564,7 +1560,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>update-ml-transform</summary>
+- **<details><summary>update-ml-transform</summary><blockquote>**
 
   * --transform-id
   * --name
@@ -1582,7 +1578,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>update-partition</summary>
+- **<details><summary>update-partition</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -1594,7 +1590,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>update-registry</summary>
+- **<details><summary>update-registry</summary><blockquote>**
 
   * --registry-id
   * --description
@@ -1603,7 +1599,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>update-schema</summary>
+- **<details><summary>update-schema</summary><blockquote>**
 
   * --schema-id
   * --schema-version-number
@@ -1614,7 +1610,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>update-table</summary>
+- **<details><summary>update-table</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -1626,7 +1622,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>update-trigger</summary>
+- **<details><summary>update-trigger</summary><blockquote>**
 
   * --name
   * --trigger-update
@@ -1635,7 +1631,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>update-user-defined-function</summary>
+- **<details><summary>update-user-defined-function</summary><blockquote>**
 
   * --catalog-id
   * --database-name
@@ -1646,7 +1642,7 @@ glue
   * --generate-cli-skeleton
 
 
-- <details><summary>update-workflow</summary>
+- **<details><summary>update-workflow</summary><blockquote>**
 
   * --name
   * --description
@@ -1657,5 +1653,162 @@ glue
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

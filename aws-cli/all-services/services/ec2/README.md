@@ -1,10 +1,6 @@
-<details>
+<details><summary>ec2</summary><blockquote>
 
-<summary>
-ec2
-</summary>
-
-- <details><summary>accept-reserved-instances-exchange-quote</summary>
+- **<details><summary>accept-reserved-instances-exchange-quote</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -15,7 +11,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>accept-transit-gateway-multicast-domain-associations</summary>
+- **<details><summary>accept-transit-gateway-multicast-domain-associations</summary><blockquote>**
 
   * --transit-gateway-multicast-domain-id
   * --transit-gateway-attachment-id
@@ -27,7 +23,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>accept-transit-gateway-peering-attachment</summary>
+- **<details><summary>accept-transit-gateway-peering-attachment</summary><blockquote>**
 
   * --transit-gateway-attachment-id
   * --dry-run
@@ -37,7 +33,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>accept-transit-gateway-vpc-attachment</summary>
+- **<details><summary>accept-transit-gateway-vpc-attachment</summary><blockquote>**
 
   * --transit-gateway-attachment-id
   * --dry-run
@@ -47,7 +43,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>accept-vpc-endpoint-connections</summary>
+- **<details><summary>accept-vpc-endpoint-connections</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -58,7 +54,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>accept-vpc-peering-connection</summary>
+- **<details><summary>accept-vpc-peering-connection</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -68,7 +64,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>advertise-byoip-cidr</summary>
+- **<details><summary>advertise-byoip-cidr</summary><blockquote>**
 
   * --cidr
   * --dry-run
@@ -78,7 +74,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>allocate-address</summary>
+- **<details><summary>allocate-address</summary><blockquote>**
 
   * --domain
   * --address
@@ -93,7 +89,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>allocate-hosts</summary>
+- **<details><summary>allocate-hosts</summary><blockquote>**
 
   * --auto-placement
   * --availability-zone
@@ -108,7 +104,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>apply-security-groups-to-client-vpn-target-network</summary>
+- **<details><summary>apply-security-groups-to-client-vpn-target-network</summary><blockquote>**
 
   * --client-vpn-endpoint-id
   * --vpc-id
@@ -120,7 +116,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>assign-ipv6-addresses</summary>
+- **<details><summary>assign-ipv6-addresses</summary><blockquote>**
 
   * --ipv6-address-count
   * --ipv6-addresses
@@ -130,7 +126,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>assign-private-ip-addresses</summary>
+- **<details><summary>assign-private-ip-addresses</summary><blockquote>**
 
   * --allow-reassignment
   * --no-allow-reassignment
@@ -142,7 +138,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-address</summary>
+- **<details><summary>associate-address</summary><blockquote>**
 
   * --allocation-id
   * --instance-id
@@ -158,7 +154,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-client-vpn-target-network</summary>
+- **<details><summary>associate-client-vpn-target-network</summary><blockquote>**
 
   * --client-vpn-endpoint-id
   * --subnet-id
@@ -170,7 +166,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-dhcp-options</summary>
+- **<details><summary>associate-dhcp-options</summary><blockquote>**
 
   * --dhcp-options-id
   * --vpc-id
@@ -181,7 +177,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-enclave-certificate-iam-role</summary>
+- **<details><summary>associate-enclave-certificate-iam-role</summary><blockquote>**
 
   * --certificate-arn
   * --role-arn
@@ -192,7 +188,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-iam-instance-profile</summary>
+- **<details><summary>associate-iam-instance-profile</summary><blockquote>**
 
   * --iam-instance-profile
   * --instance-id
@@ -201,7 +197,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-instance-event-window</summary>
+- **<details><summary>associate-instance-event-window</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -212,7 +208,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-route-table</summary>
+- **<details><summary>associate-route-table</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -224,7 +220,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-subnet-cidr-block</summary>
+- **<details><summary>associate-subnet-cidr-block</summary><blockquote>**
 
   * --ipv6-cidr-block
   * --subnet-id
@@ -233,7 +229,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-transit-gateway-multicast-domain</summary>
+- **<details><summary>associate-transit-gateway-multicast-domain</summary><blockquote>**
 
   * --transit-gateway-multicast-domain-id
   * --transit-gateway-attachment-id
@@ -245,7 +241,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-transit-gateway-route-table</summary>
+- **<details><summary>associate-transit-gateway-route-table</summary><blockquote>**
 
   * --transit-gateway-route-table-id
   * --transit-gateway-attachment-id
@@ -256,7 +252,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-trunk-interface</summary>
+- **<details><summary>associate-trunk-interface</summary><blockquote>**
 
   * --branch-interface-id
   * --trunk-interface-id
@@ -270,7 +266,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-vpc-cidr-block</summary>
+- **<details><summary>associate-vpc-cidr-block</summary><blockquote>**
 
   * --amazon-provided-ipv6-cidr-block
   * --no-amazon-provided-ipv6-cidr-block
@@ -284,7 +280,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-classic-link-vpc</summary>
+- **<details><summary>attach-classic-link-vpc</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -296,7 +292,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-internet-gateway</summary>
+- **<details><summary>attach-internet-gateway</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -307,7 +303,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-network-interface</summary>
+- **<details><summary>attach-network-interface</summary><blockquote>**
 
   * --device-index
   * --dry-run
@@ -320,7 +316,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-volume</summary>
+- **<details><summary>attach-volume</summary><blockquote>**
 
   * --device
   * --instance-id
@@ -332,7 +328,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>attach-vpn-gateway</summary>
+- **<details><summary>attach-vpn-gateway</summary><blockquote>**
 
   * --vpc-id
   * --vpn-gateway-id
@@ -343,7 +339,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>authorize-client-vpn-ingress</summary>
+- **<details><summary>authorize-client-vpn-ingress</summary><blockquote>**
 
   * --client-vpn-endpoint-id
   * --target-network-cidr
@@ -359,7 +355,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>authorize-security-group-egress</summary>
+- **<details><summary>authorize-security-group-egress</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -376,7 +372,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>authorize-security-group-ingress</summary>
+- **<details><summary>authorize-security-group-ingress</summary><blockquote>**
 
   * --group-id
   * --group-name
@@ -394,7 +390,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>bundle-instance</summary>
+- **<details><summary>bundle-instance</summary><blockquote>**
 
   * --instance-id
   * --storage
@@ -410,7 +406,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-bundle-task</summary>
+- **<details><summary>cancel-bundle-task</summary><blockquote>**
 
   * --bundle-id
   * --dry-run
@@ -420,7 +416,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-capacity-reservation</summary>
+- **<details><summary>cancel-capacity-reservation</summary><blockquote>**
 
   * --capacity-reservation-id
   * --dry-run
@@ -430,7 +426,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-conversion-task</summary>
+- **<details><summary>cancel-conversion-task</summary><blockquote>**
 
   * --conversion-task-id
   * --dry-run
@@ -441,7 +437,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-export-task</summary>
+- **<details><summary>cancel-export-task</summary><blockquote>**
 
   * --export-task-id
   * --cli-input-json
@@ -449,7 +445,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-import-task</summary>
+- **<details><summary>cancel-import-task</summary><blockquote>**
 
   * --cancel-reason
   * --dry-run
@@ -460,7 +456,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-reserved-instances-listing</summary>
+- **<details><summary>cancel-reserved-instances-listing</summary><blockquote>**
 
   * --reserved-instances-listing-id
   * --cli-input-json
@@ -468,7 +464,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-spot-fleet-requests</summary>
+- **<details><summary>cancel-spot-fleet-requests</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -480,7 +476,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-spot-instance-requests</summary>
+- **<details><summary>cancel-spot-instance-requests</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -490,7 +486,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>confirm-product-instance</summary>
+- **<details><summary>confirm-product-instance</summary><blockquote>**
 
   * --instance-id
   * --product-code
@@ -501,7 +497,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-fpga-image</summary>
+- **<details><summary>copy-fpga-image</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -515,7 +511,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-image</summary>
+- **<details><summary>copy-image</summary><blockquote>**
 
   * --client-token
   * --description
@@ -533,7 +529,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-snapshot</summary>
+- **<details><summary>copy-snapshot</summary><blockquote>**
 
   * --description
   * --destination-outpost-arn
@@ -552,7 +548,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-capacity-reservation</summary>
+- **<details><summary>create-capacity-reservation</summary><blockquote>**
 
   * --client-token
   * --instance-type
@@ -577,7 +573,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-carrier-gateway</summary>
+- **<details><summary>create-carrier-gateway</summary><blockquote>**
 
   * --vpc-id
   * --tag-specifications
@@ -589,7 +585,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-client-vpn-endpoint</summary>
+- **<details><summary>create-client-vpn-endpoint</summary><blockquote>**
 
   * --client-cidr-block
   * --server-certificate-arn
@@ -614,7 +610,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-client-vpn-route</summary>
+- **<details><summary>create-client-vpn-route</summary><blockquote>**
 
   * --client-vpn-endpoint-id
   * --destination-cidr-block
@@ -628,7 +624,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-customer-gateway</summary>
+- **<details><summary>create-customer-gateway</summary><blockquote>**
 
   * --bgp-asn
   * --public-ip
@@ -643,7 +639,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-default-subnet</summary>
+- **<details><summary>create-default-subnet</summary><blockquote>**
 
   * --availability-zone
   * --dry-run
@@ -653,7 +649,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-default-vpc</summary>
+- **<details><summary>create-default-vpc</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -662,7 +658,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-dhcp-options</summary>
+- **<details><summary>create-dhcp-options</summary><blockquote>**
 
   * --dhcp-configurations
   * --tag-specifications
@@ -673,7 +669,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-egress-only-internet-gateway</summary>
+- **<details><summary>create-egress-only-internet-gateway</summary><blockquote>**
 
   * --client-token
   * --dry-run
@@ -685,7 +681,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-fleet</summary>
+- **<details><summary>create-fleet</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -709,7 +705,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-flow-logs</summary>
+- **<details><summary>create-flow-logs</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -729,7 +725,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-fpga-image</summary>
+- **<details><summary>create-fpga-image</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -744,7 +740,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-image</summary>
+- **<details><summary>create-image</summary><blockquote>**
 
   * --block-device-mappings
   * --description
@@ -760,7 +756,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-instance-event-window</summary>
+- **<details><summary>create-instance-event-window</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -773,7 +769,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-instance-export-task</summary>
+- **<details><summary>create-instance-export-task</summary><blockquote>**
 
   * --description
   * --export-to-s3-task
@@ -785,7 +781,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-internet-gateway</summary>
+- **<details><summary>create-internet-gateway</summary><blockquote>**
 
   * --tag-specifications
   * --dry-run
@@ -795,7 +791,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-key-pair</summary>
+- **<details><summary>create-key-pair</summary><blockquote>**
 
   * --key-name
   * --dry-run
@@ -806,7 +802,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-launch-template</summary>
+- **<details><summary>create-launch-template</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -820,7 +816,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-launch-template-version</summary>
+- **<details><summary>create-launch-template-version</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -835,7 +831,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-local-gateway-route</summary>
+- **<details><summary>create-local-gateway-route</summary><blockquote>**
 
   * --destination-cidr-block
   * --local-gateway-route-table-id
@@ -847,7 +843,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-local-gateway-route-table-vpc-association</summary>
+- **<details><summary>create-local-gateway-route-table-vpc-association</summary><blockquote>**
 
   * --local-gateway-route-table-id
   * --vpc-id
@@ -859,7 +855,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-managed-prefix-list</summary>
+- **<details><summary>create-managed-prefix-list</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -874,7 +870,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-nat-gateway</summary>
+- **<details><summary>create-nat-gateway</summary><blockquote>**
 
   * --allocation-id
   * --client-token
@@ -888,7 +884,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-network-acl</summary>
+- **<details><summary>create-network-acl</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -899,7 +895,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-network-acl-entry</summary>
+- **<details><summary>create-network-acl-entry</summary><blockquote>**
 
   * --cidr-block
   * --dry-run
@@ -918,7 +914,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-network-insights-path</summary>
+- **<details><summary>create-network-insights-path</summary><blockquote>**
 
   * --source-ip
   * --destination-ip
@@ -935,7 +931,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-network-interface</summary>
+- **<details><summary>create-network-interface</summary><blockquote>**
 
   * --description
   * --dry-run
@@ -955,7 +951,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-network-interface-permission</summary>
+- **<details><summary>create-network-interface-permission</summary><blockquote>**
 
   * --network-interface-id
   * --aws-account-id
@@ -968,7 +964,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-placement-group</summary>
+- **<details><summary>create-placement-group</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -981,7 +977,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-replace-root-volume-task</summary>
+- **<details><summary>create-replace-root-volume-task</summary><blockquote>**
 
   * --instance-id
   * --snapshot-id
@@ -994,7 +990,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-reserved-instances-listing</summary>
+- **<details><summary>create-reserved-instances-listing</summary><blockquote>**
 
   * --client-token
   * --instance-count
@@ -1005,7 +1001,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-restore-image-task</summary>
+- **<details><summary>create-restore-image-task</summary><blockquote>**
 
   * --bucket
   * --object-key
@@ -1018,7 +1014,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-route</summary>
+- **<details><summary>create-route</summary><blockquote>**
 
   * --destination-cidr-block
   * --destination-ipv6-cidr-block
@@ -1041,7 +1037,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-route-table</summary>
+- **<details><summary>create-route-table</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1052,7 +1048,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-security-group</summary>
+- **<details><summary>create-security-group</summary><blockquote>**
 
   * --description
   * --group-name
@@ -1065,7 +1061,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-snapshot</summary>
+- **<details><summary>create-snapshot</summary><blockquote>**
 
   * --description
   * --outpost-arn
@@ -1078,7 +1074,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-snapshots</summary>
+- **<details><summary>create-snapshots</summary><blockquote>**
 
   * --description
   * --instance-specification
@@ -1092,7 +1088,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-spot-datafeed-subscription</summary>
+- **<details><summary>create-spot-datafeed-subscription</summary><blockquote>**
 
   * --bucket
   * --dry-run
@@ -1103,7 +1099,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-store-image-task</summary>
+- **<details><summary>create-store-image-task</summary><blockquote>**
 
   * --image-id
   * --bucket
@@ -1115,7 +1111,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-subnet</summary>
+- **<details><summary>create-subnet</summary><blockquote>**
 
   * --tag-specifications
   * --availability-zone
@@ -1131,7 +1127,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-tags</summary>
+- **<details><summary>create-tags</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1142,7 +1138,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-traffic-mirror-filter</summary>
+- **<details><summary>create-traffic-mirror-filter</summary><blockquote>**
 
   * --description
   * --tag-specifications
@@ -1154,7 +1150,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-traffic-mirror-filter-rule</summary>
+- **<details><summary>create-traffic-mirror-filter-rule</summary><blockquote>**
 
   * --traffic-mirror-filter-id
   * --traffic-direction
@@ -1174,7 +1170,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-traffic-mirror-session</summary>
+- **<details><summary>create-traffic-mirror-session</summary><blockquote>**
 
   * --network-interface-id
   * --traffic-mirror-target-id
@@ -1192,7 +1188,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-traffic-mirror-target</summary>
+- **<details><summary>create-traffic-mirror-target</summary><blockquote>**
 
   * --network-interface-id
   * --network-load-balancer-arn
@@ -1206,7 +1202,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-transit-gateway</summary>
+- **<details><summary>create-transit-gateway</summary><blockquote>**
 
   * --description
   * --options
@@ -1218,7 +1214,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-transit-gateway-connect</summary>
+- **<details><summary>create-transit-gateway-connect</summary><blockquote>**
 
   * --transport-transit-gateway-attachment-id
   * --options
@@ -1230,7 +1226,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-transit-gateway-connect-peer</summary>
+- **<details><summary>create-transit-gateway-connect-peer</summary><blockquote>**
 
   * --transit-gateway-attachment-id
   * --transit-gateway-address
@@ -1245,7 +1241,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-transit-gateway-multicast-domain</summary>
+- **<details><summary>create-transit-gateway-multicast-domain</summary><blockquote>**
 
   * --transit-gateway-id
   * --options
@@ -1257,7 +1253,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-transit-gateway-peering-attachment</summary>
+- **<details><summary>create-transit-gateway-peering-attachment</summary><blockquote>**
 
   * --transit-gateway-id
   * --peer-transit-gateway-id
@@ -1271,7 +1267,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-transit-gateway-prefix-list-reference</summary>
+- **<details><summary>create-transit-gateway-prefix-list-reference</summary><blockquote>**
 
   * --transit-gateway-route-table-id
   * --prefix-list-id
@@ -1285,7 +1281,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-transit-gateway-route</summary>
+- **<details><summary>create-transit-gateway-route</summary><blockquote>**
 
   * --destination-cidr-block
   * --transit-gateway-route-table-id
@@ -1299,7 +1295,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-transit-gateway-route-table</summary>
+- **<details><summary>create-transit-gateway-route-table</summary><blockquote>**
 
   * --transit-gateway-id
   * --tag-specifications
@@ -1310,7 +1306,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-transit-gateway-vpc-attachment</summary>
+- **<details><summary>create-transit-gateway-vpc-attachment</summary><blockquote>**
 
   * --transit-gateway-id
   * --vpc-id
@@ -1324,7 +1320,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-volume</summary>
+- **<details><summary>create-volume</summary><blockquote>**
 
   * --availability-zone
   * --encrypted
@@ -1347,7 +1343,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-vpc</summary>
+- **<details><summary>create-vpc</summary><blockquote>**
 
   * --cidr-block
   * --amazon-provided-ipv6-cidr-block
@@ -1364,7 +1360,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-vpc-endpoint</summary>
+- **<details><summary>create-vpc-endpoint</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1384,7 +1380,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-vpc-endpoint-connection-notification</summary>
+- **<details><summary>create-vpc-endpoint-connection-notification</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1398,7 +1394,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-vpc-endpoint-service-configuration</summary>
+- **<details><summary>create-vpc-endpoint-service-configuration</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1414,7 +1410,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-vpc-peering-connection</summary>
+- **<details><summary>create-vpc-peering-connection</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1428,7 +1424,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-vpn-connection</summary>
+- **<details><summary>create-vpn-connection</summary><blockquote>**
 
   * --customer-gateway-id
   * --type
@@ -1443,7 +1439,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-vpn-connection-route</summary>
+- **<details><summary>create-vpn-connection-route</summary><blockquote>**
 
   * --destination-cidr-block
   * --vpn-connection-id
@@ -1452,7 +1448,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-vpn-gateway</summary>
+- **<details><summary>create-vpn-gateway</summary><blockquote>**
 
   * --availability-zone
   * --type
@@ -1465,7 +1461,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-carrier-gateway</summary>
+- **<details><summary>delete-carrier-gateway</summary><blockquote>**
 
   * --carrier-gateway-id
   * --dry-run
@@ -1475,7 +1471,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-client-vpn-endpoint</summary>
+- **<details><summary>delete-client-vpn-endpoint</summary><blockquote>**
 
   * --client-vpn-endpoint-id
   * --dry-run
@@ -1485,7 +1481,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-client-vpn-route</summary>
+- **<details><summary>delete-client-vpn-route</summary><blockquote>**
 
   * --client-vpn-endpoint-id
   * --target-vpc-subnet-id
@@ -1497,7 +1493,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-customer-gateway</summary>
+- **<details><summary>delete-customer-gateway</summary><blockquote>**
 
   * --customer-gateway-id
   * --dry-run
@@ -1507,7 +1503,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-dhcp-options</summary>
+- **<details><summary>delete-dhcp-options</summary><blockquote>**
 
   * --dhcp-options-id
   * --dry-run
@@ -1517,7 +1513,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-egress-only-internet-gateway</summary>
+- **<details><summary>delete-egress-only-internet-gateway</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1527,7 +1523,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-fleets</summary>
+- **<details><summary>delete-fleets</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1539,7 +1535,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-flow-logs</summary>
+- **<details><summary>delete-flow-logs</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1549,7 +1545,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-fpga-image</summary>
+- **<details><summary>delete-fpga-image</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1559,7 +1555,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-instance-event-window</summary>
+- **<details><summary>delete-instance-event-window</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1571,7 +1567,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-internet-gateway</summary>
+- **<details><summary>delete-internet-gateway</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1581,7 +1577,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-key-pair</summary>
+- **<details><summary>delete-key-pair</summary><blockquote>**
 
   * --key-name
   * --key-pair-id
@@ -1592,7 +1588,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-launch-template</summary>
+- **<details><summary>delete-launch-template</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1603,7 +1599,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-launch-template-versions</summary>
+- **<details><summary>delete-launch-template-versions</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1615,7 +1611,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-local-gateway-route</summary>
+- **<details><summary>delete-local-gateway-route</summary><blockquote>**
 
   * --destination-cidr-block
   * --local-gateway-route-table-id
@@ -1626,7 +1622,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-local-gateway-route-table-vpc-association</summary>
+- **<details><summary>delete-local-gateway-route-table-vpc-association</summary><blockquote>**
 
   * --local-gateway-route-table-vpc-association-id
   * --dry-run
@@ -1636,7 +1632,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-managed-prefix-list</summary>
+- **<details><summary>delete-managed-prefix-list</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1646,7 +1642,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-nat-gateway</summary>
+- **<details><summary>delete-nat-gateway</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1656,7 +1652,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-network-acl</summary>
+- **<details><summary>delete-network-acl</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1666,7 +1662,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-network-acl-entry</summary>
+- **<details><summary>delete-network-acl-entry</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1679,7 +1675,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-network-insights-analysis</summary>
+- **<details><summary>delete-network-insights-analysis</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1689,7 +1685,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-network-insights-path</summary>
+- **<details><summary>delete-network-insights-path</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1699,7 +1695,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-network-interface</summary>
+- **<details><summary>delete-network-interface</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1709,7 +1705,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-network-interface-permission</summary>
+- **<details><summary>delete-network-interface-permission</summary><blockquote>**
 
   * --network-interface-permission-id
   * --force
@@ -1721,7 +1717,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-placement-group</summary>
+- **<details><summary>delete-placement-group</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1731,7 +1727,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-queued-reserved-instances</summary>
+- **<details><summary>delete-queued-reserved-instances</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1741,7 +1737,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-route</summary>
+- **<details><summary>delete-route</summary><blockquote>**
 
   * --destination-cidr-block
   * --destination-ipv6-cidr-block
@@ -1754,7 +1750,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-route-table</summary>
+- **<details><summary>delete-route-table</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1764,7 +1760,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-security-group</summary>
+- **<details><summary>delete-security-group</summary><blockquote>**
 
   * --group-id
   * --group-name
@@ -1775,7 +1771,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-snapshot</summary>
+- **<details><summary>delete-snapshot</summary><blockquote>**
 
   * --snapshot-id
   * --dry-run
@@ -1785,7 +1781,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-spot-datafeed-subscription</summary>
+- **<details><summary>delete-spot-datafeed-subscription</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1794,7 +1790,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-subnet</summary>
+- **<details><summary>delete-subnet</summary><blockquote>**
 
   * --subnet-id
   * --dry-run
@@ -1804,7 +1800,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-tags</summary>
+- **<details><summary>delete-tags</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1815,7 +1811,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-traffic-mirror-filter</summary>
+- **<details><summary>delete-traffic-mirror-filter</summary><blockquote>**
 
   * --traffic-mirror-filter-id
   * --dry-run
@@ -1825,7 +1821,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-traffic-mirror-filter-rule</summary>
+- **<details><summary>delete-traffic-mirror-filter-rule</summary><blockquote>**
 
   * --traffic-mirror-filter-rule-id
   * --dry-run
@@ -1835,7 +1831,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-traffic-mirror-session</summary>
+- **<details><summary>delete-traffic-mirror-session</summary><blockquote>**
 
   * --traffic-mirror-session-id
   * --dry-run
@@ -1845,7 +1841,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-traffic-mirror-target</summary>
+- **<details><summary>delete-traffic-mirror-target</summary><blockquote>**
 
   * --traffic-mirror-target-id
   * --dry-run
@@ -1855,7 +1851,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-transit-gateway</summary>
+- **<details><summary>delete-transit-gateway</summary><blockquote>**
 
   * --transit-gateway-id
   * --dry-run
@@ -1865,7 +1861,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-transit-gateway-connect</summary>
+- **<details><summary>delete-transit-gateway-connect</summary><blockquote>**
 
   * --transit-gateway-attachment-id
   * --dry-run
@@ -1875,7 +1871,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-transit-gateway-connect-peer</summary>
+- **<details><summary>delete-transit-gateway-connect-peer</summary><blockquote>**
 
   * --transit-gateway-connect-peer-id
   * --dry-run
@@ -1885,7 +1881,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-transit-gateway-multicast-domain</summary>
+- **<details><summary>delete-transit-gateway-multicast-domain</summary><blockquote>**
 
   * --transit-gateway-multicast-domain-id
   * --dry-run
@@ -1895,7 +1891,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-transit-gateway-peering-attachment</summary>
+- **<details><summary>delete-transit-gateway-peering-attachment</summary><blockquote>**
 
   * --transit-gateway-attachment-id
   * --dry-run
@@ -1905,7 +1901,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-transit-gateway-prefix-list-reference</summary>
+- **<details><summary>delete-transit-gateway-prefix-list-reference</summary><blockquote>**
 
   * --transit-gateway-route-table-id
   * --prefix-list-id
@@ -1916,7 +1912,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-transit-gateway-route</summary>
+- **<details><summary>delete-transit-gateway-route</summary><blockquote>**
 
   * --transit-gateway-route-table-id
   * --destination-cidr-block
@@ -1927,7 +1923,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-transit-gateway-route-table</summary>
+- **<details><summary>delete-transit-gateway-route-table</summary><blockquote>**
 
   * --transit-gateway-route-table-id
   * --dry-run
@@ -1937,7 +1933,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-transit-gateway-vpc-attachment</summary>
+- **<details><summary>delete-transit-gateway-vpc-attachment</summary><blockquote>**
 
   * --transit-gateway-attachment-id
   * --dry-run
@@ -1947,7 +1943,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-volume</summary>
+- **<details><summary>delete-volume</summary><blockquote>**
 
   * --volume-id
   * --dry-run
@@ -1957,7 +1953,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-vpc</summary>
+- **<details><summary>delete-vpc</summary><blockquote>**
 
   * --vpc-id
   * --dry-run
@@ -1967,7 +1963,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-vpc-endpoint-connection-notifications</summary>
+- **<details><summary>delete-vpc-endpoint-connection-notifications</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1977,7 +1973,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-vpc-endpoints</summary>
+- **<details><summary>delete-vpc-endpoints</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1987,7 +1983,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-vpc-endpoint-service-configurations</summary>
+- **<details><summary>delete-vpc-endpoint-service-configurations</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -1997,7 +1993,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-vpc-peering-connection</summary>
+- **<details><summary>delete-vpc-peering-connection</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2007,7 +2003,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-vpn-connection</summary>
+- **<details><summary>delete-vpn-connection</summary><blockquote>**
 
   * --vpn-connection-id
   * --dry-run
@@ -2017,7 +2013,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-vpn-connection-route</summary>
+- **<details><summary>delete-vpn-connection-route</summary><blockquote>**
 
   * --destination-cidr-block
   * --vpn-connection-id
@@ -2026,7 +2022,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-vpn-gateway</summary>
+- **<details><summary>delete-vpn-gateway</summary><blockquote>**
 
   * --vpn-gateway-id
   * --dry-run
@@ -2036,7 +2032,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>deprovision-byoip-cidr</summary>
+- **<details><summary>deprovision-byoip-cidr</summary><blockquote>**
 
   * --cidr
   * --dry-run
@@ -2046,7 +2042,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-image</summary>
+- **<details><summary>deregister-image</summary><blockquote>**
 
   * --image-id
   * --dry-run
@@ -2056,7 +2052,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-instance-event-notification-attributes</summary>
+- **<details><summary>deregister-instance-event-notification-attributes</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2066,7 +2062,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-transit-gateway-multicast-group-members</summary>
+- **<details><summary>deregister-transit-gateway-multicast-group-members</summary><blockquote>**
 
   * --transit-gateway-multicast-domain-id
   * --group-ip-address
@@ -2078,7 +2074,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-transit-gateway-multicast-group-sources</summary>
+- **<details><summary>deregister-transit-gateway-multicast-group-sources</summary><blockquote>**
 
   * --transit-gateway-multicast-domain-id
   * --group-ip-address
@@ -2090,7 +2086,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-account-attributes</summary>
+- **<details><summary>describe-account-attributes</summary><blockquote>**
 
   * --attribute-names
   * --dry-run
@@ -2100,7 +2096,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-addresses</summary>
+- **<details><summary>describe-addresses</summary><blockquote>**
 
   * --filters
   * --public-ips
@@ -2112,7 +2108,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-addresses-attribute</summary>
+- **<details><summary>describe-addresses-attribute</summary><blockquote>**
 
   * --allocation-ids
   * --attribute
@@ -2126,7 +2122,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-aggregate-id-format</summary>
+- **<details><summary>describe-aggregate-id-format</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2135,7 +2131,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-availability-zones</summary>
+- **<details><summary>describe-availability-zones</summary><blockquote>**
 
   * --filters
   * --zone-names
@@ -2149,7 +2145,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-bundle-tasks</summary>
+- **<details><summary>describe-bundle-tasks</summary><blockquote>**
 
   * --bundle-ids
   * --filters
@@ -2160,7 +2156,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-byoip-cidrs</summary>
+- **<details><summary>describe-byoip-cidrs</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2172,7 +2168,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-capacity-reservations</summary>
+- **<details><summary>describe-capacity-reservations</summary><blockquote>**
 
   * --capacity-reservation-ids
   * --filters
@@ -2186,7 +2182,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-carrier-gateways</summary>
+- **<details><summary>describe-carrier-gateways</summary><blockquote>**
 
   * --carrier-gateway-ids
   * --filters
@@ -2200,7 +2196,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-classic-link-instances</summary>
+- **<details><summary>describe-classic-link-instances</summary><blockquote>**
 
   * --filters
   * --dry-run
@@ -2214,7 +2210,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-client-vpn-authorization-rules</summary>
+- **<details><summary>describe-client-vpn-authorization-rules</summary><blockquote>**
 
   * --client-vpn-endpoint-id
   * --dry-run
@@ -2228,7 +2224,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-client-vpn-connections</summary>
+- **<details><summary>describe-client-vpn-connections</summary><blockquote>**
 
   * --client-vpn-endpoint-id
   * --filters
@@ -2242,7 +2238,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-client-vpn-endpoints</summary>
+- **<details><summary>describe-client-vpn-endpoints</summary><blockquote>**
 
   * --client-vpn-endpoint-ids
   * --filters
@@ -2256,7 +2252,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-client-vpn-routes</summary>
+- **<details><summary>describe-client-vpn-routes</summary><blockquote>**
 
   * --client-vpn-endpoint-id
   * --filters
@@ -2270,7 +2266,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-client-vpn-target-networks</summary>
+- **<details><summary>describe-client-vpn-target-networks</summary><blockquote>**
 
   * --client-vpn-endpoint-id
   * --association-ids
@@ -2285,7 +2281,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-coip-pools</summary>
+- **<details><summary>describe-coip-pools</summary><blockquote>**
 
   * --pool-ids
   * --filters
@@ -2299,7 +2295,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-conversion-tasks</summary>
+- **<details><summary>describe-conversion-tasks</summary><blockquote>**
 
   * --conversion-task-ids
   * --dry-run
@@ -2309,7 +2305,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-customer-gateways</summary>
+- **<details><summary>describe-customer-gateways</summary><blockquote>**
 
   * --customer-gateway-ids
   * --filters
@@ -2320,7 +2316,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-dhcp-options</summary>
+- **<details><summary>describe-dhcp-options</summary><blockquote>**
 
   * --dhcp-options-ids
   * --filters
@@ -2334,7 +2330,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-egress-only-internet-gateways</summary>
+- **<details><summary>describe-egress-only-internet-gateways</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2348,7 +2344,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-elastic-gpus</summary>
+- **<details><summary>describe-elastic-gpus</summary><blockquote>**
 
   * --elastic-gpu-ids
   * --dry-run
@@ -2361,7 +2357,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-export-image-tasks</summary>
+- **<details><summary>describe-export-image-tasks</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2375,7 +2371,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-export-tasks</summary>
+- **<details><summary>describe-export-tasks</summary><blockquote>**
 
   * --export-task-ids
   * --filters
@@ -2384,7 +2380,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fast-snapshot-restores</summary>
+- **<details><summary>describe-fast-snapshot-restores</summary><blockquote>**
 
   * --filters
   * --dry-run
@@ -2397,7 +2393,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fleet-history</summary>
+- **<details><summary>describe-fleet-history</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2411,7 +2407,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fleet-instances</summary>
+- **<details><summary>describe-fleet-instances</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2424,7 +2420,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fleets</summary>
+- **<details><summary>describe-fleets</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2438,7 +2434,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-flow-logs</summary>
+- **<details><summary>describe-flow-logs</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2452,7 +2448,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fpga-image-attribute</summary>
+- **<details><summary>describe-fpga-image-attribute</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2463,7 +2459,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fpga-images</summary>
+- **<details><summary>describe-fpga-images</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2478,7 +2474,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-host-reservation-offerings</summary>
+- **<details><summary>describe-host-reservation-offerings</summary><blockquote>**
 
   * --filter
   * --max-duration
@@ -2492,7 +2488,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-host-reservations</summary>
+- **<details><summary>describe-host-reservations</summary><blockquote>**
 
   * --filter
   * --host-reservation-id-set
@@ -2504,7 +2500,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-hosts</summary>
+- **<details><summary>describe-hosts</summary><blockquote>**
 
   * --filter
   * --host-ids
@@ -2516,7 +2512,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-iam-instance-profile-associations</summary>
+- **<details><summary>describe-iam-instance-profile-associations</summary><blockquote>**
 
   * --association-ids
   * --filters
@@ -2528,7 +2524,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-identity-id-format</summary>
+- **<details><summary>describe-identity-id-format</summary><blockquote>**
 
   * --principal-arn
   * --resource
@@ -2537,7 +2533,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-id-format</summary>
+- **<details><summary>describe-id-format</summary><blockquote>**
 
   * --resource
   * --cli-input-json
@@ -2545,7 +2541,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-image-attribute</summary>
+- **<details><summary>describe-image-attribute</summary><blockquote>**
 
   * --attribute
   * --image-id
@@ -2556,7 +2552,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-images</summary>
+- **<details><summary>describe-images</summary><blockquote>**
 
   * --executable-users
   * --filters
@@ -2571,7 +2567,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-import-image-tasks</summary>
+- **<details><summary>describe-import-image-tasks</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2585,7 +2581,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-import-snapshot-tasks</summary>
+- **<details><summary>describe-import-snapshot-tasks</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2599,7 +2595,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instance-attribute</summary>
+- **<details><summary>describe-instance-attribute</summary><blockquote>**
 
   * --attribute
   * --dry-run
@@ -2610,7 +2606,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instance-credit-specifications</summary>
+- **<details><summary>describe-instance-credit-specifications</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2624,7 +2620,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instance-event-notification-attributes</summary>
+- **<details><summary>describe-instance-event-notification-attributes</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2633,7 +2629,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instance-event-windows</summary>
+- **<details><summary>describe-instance-event-windows</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2647,7 +2643,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instances</summary>
+- **<details><summary>describe-instances</summary><blockquote>**
 
   * --filters
   * --instance-ids
@@ -2661,7 +2657,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instance-status</summary>
+- **<details><summary>describe-instance-status</summary><blockquote>**
 
   * --filters
   * --instance-ids
@@ -2677,7 +2673,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instance-type-offerings</summary>
+- **<details><summary>describe-instance-type-offerings</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2691,7 +2687,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instance-types</summary>
+- **<details><summary>describe-instance-types</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2705,7 +2701,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-internet-gateways</summary>
+- **<details><summary>describe-internet-gateways</summary><blockquote>**
 
   * --filters
   * --dry-run
@@ -2719,7 +2715,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-ipv6-pools</summary>
+- **<details><summary>describe-ipv6-pools</summary><blockquote>**
 
   * --pool-ids
   * --dry-run
@@ -2733,7 +2729,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-key-pairs</summary>
+- **<details><summary>describe-key-pairs</summary><blockquote>**
 
   * --filters
   * --key-names
@@ -2745,7 +2741,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-launch-templates</summary>
+- **<details><summary>describe-launch-templates</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2760,7 +2756,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-launch-template-versions</summary>
+- **<details><summary>describe-launch-template-versions</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2778,7 +2774,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-local-gateway-route-tables</summary>
+- **<details><summary>describe-local-gateway-route-tables</summary><blockquote>**
 
   * --local-gateway-route-table-ids
   * --filters
@@ -2792,12 +2788,12 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-local-gateway-route-table-virtual-interface-group-associa-</summary>
+- **<details><summary>describe-local-gateway-route-table-virtual-interface-group-associa-</summary><blockquote>**
 
   * 
 
 
-- <details><summary>describe-local-gateway-route-table-vpc-associations</summary>
+- **<details><summary>describe-local-gateway-route-table-vpc-associations</summary><blockquote>**
 
   * --local-gateway-route-table-vpc-association-ids
   * --filters
@@ -2811,7 +2807,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-local-gateways</summary>
+- **<details><summary>describe-local-gateways</summary><blockquote>**
 
   * --local-gateway-ids
   * --filters
@@ -2825,7 +2821,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-local-gateway-virtual-interface-groups</summary>
+- **<details><summary>describe-local-gateway-virtual-interface-groups</summary><blockquote>**
 
   * --local-gateway-virtual-interface-group-ids
   * --filters
@@ -2839,7 +2835,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-local-gateway-virtual-interfaces</summary>
+- **<details><summary>describe-local-gateway-virtual-interfaces</summary><blockquote>**
 
   * --local-gateway-virtual-interface-ids
   * --filters
@@ -2853,7 +2849,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-managed-prefix-lists</summary>
+- **<details><summary>describe-managed-prefix-lists</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2867,7 +2863,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-moving-addresses</summary>
+- **<details><summary>describe-moving-addresses</summary><blockquote>**
 
   * --filters
   * --dry-run
@@ -2881,7 +2877,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-nat-gateways</summary>
+- **<details><summary>describe-nat-gateways</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -2895,7 +2891,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-network-acls</summary>
+- **<details><summary>describe-network-acls</summary><blockquote>**
 
   * --filters
   * --dry-run
@@ -2909,7 +2905,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-network-insights-analyses</summary>
+- **<details><summary>describe-network-insights-analyses</summary><blockquote>**
 
   * --network-insights-analysis-ids
   * --network-insights-path-id
@@ -2926,7 +2922,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-network-insights-paths</summary>
+- **<details><summary>describe-network-insights-paths</summary><blockquote>**
 
   * --network-insights-path-ids
   * --filters
@@ -2940,7 +2936,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-network-interface-attribute</summary>
+- **<details><summary>describe-network-interface-attribute</summary><blockquote>**
 
   * --attribute
   * --dry-run
@@ -2951,7 +2947,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-network-interface-permissions</summary>
+- **<details><summary>describe-network-interface-permissions</summary><blockquote>**
 
   * --network-interface-permission-ids
   * --filters
@@ -2963,7 +2959,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-network-interfaces</summary>
+- **<details><summary>describe-network-interfaces</summary><blockquote>**
 
   * --filters
   * --dry-run
@@ -2977,7 +2973,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-placement-groups</summary>
+- **<details><summary>describe-placement-groups</summary><blockquote>**
 
   * --filters
   * --dry-run
@@ -2989,7 +2985,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-prefix-lists</summary>
+- **<details><summary>describe-prefix-lists</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3003,7 +2999,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-principal-id-format</summary>
+- **<details><summary>describe-principal-id-format</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3016,7 +3012,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-public-ipv4-pools</summary>
+- **<details><summary>describe-public-ipv4-pools</summary><blockquote>**
 
   * --pool-ids
   * --filters
@@ -3028,7 +3024,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-regions</summary>
+- **<details><summary>describe-regions</summary><blockquote>**
 
   * --filters
   * --region-names
@@ -3041,7 +3037,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-replace-root-volume-tasks</summary>
+- **<details><summary>describe-replace-root-volume-tasks</summary><blockquote>**
 
   * --replace-root-volume-task-ids
   * --filters
@@ -3055,7 +3051,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-reserved-instances</summary>
+- **<details><summary>describe-reserved-instances</summary><blockquote>**
 
   * --filters
   * --offering-class
@@ -3068,7 +3064,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-reserved-instances-listings</summary>
+- **<details><summary>describe-reserved-instances-listings</summary><blockquote>**
 
   * --filters
   * --reserved-instances-id
@@ -3078,7 +3074,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-reserved-instances-modifications</summary>
+- **<details><summary>describe-reserved-instances-modifications</summary><blockquote>**
 
   * --filters
   * --reserved-instances-modification-ids
@@ -3089,7 +3085,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-reserved-instances-offerings</summary>
+- **<details><summary>describe-reserved-instances-offerings</summary><blockquote>**
 
   * --availability-zone
   * --filters
@@ -3114,7 +3110,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-route-tables</summary>
+- **<details><summary>describe-route-tables</summary><blockquote>**
 
   * --filters
   * --dry-run
@@ -3128,7 +3124,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-scheduled-instance-availability</summary>
+- **<details><summary>describe-scheduled-instance-availability</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3145,7 +3141,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-scheduled-instances</summary>
+- **<details><summary>describe-scheduled-instances</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3160,7 +3156,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-security-group-references</summary>
+- **<details><summary>describe-security-group-references</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3170,7 +3166,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-security-group-rules</summary>
+- **<details><summary>describe-security-group-rules</summary><blockquote>**
 
   * --filters
   * --security-group-rule-ids
@@ -3184,7 +3180,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-security-groups</summary>
+- **<details><summary>describe-security-groups</summary><blockquote>**
 
   * --filters
   * --group-ids
@@ -3199,7 +3195,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-snapshot-attribute</summary>
+- **<details><summary>describe-snapshot-attribute</summary><blockquote>**
 
   * --attribute
   * --snapshot-id
@@ -3210,7 +3206,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-snapshots</summary>
+- **<details><summary>describe-snapshots</summary><blockquote>**
 
   * --filters
   * --owner-ids
@@ -3226,7 +3222,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-spot-datafeed-subscription</summary>
+- **<details><summary>describe-spot-datafeed-subscription</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3235,7 +3231,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-spot-fleet-instances</summary>
+- **<details><summary>describe-spot-fleet-instances</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3248,7 +3244,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-spot-fleet-request-history</summary>
+- **<details><summary>describe-spot-fleet-request-history</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3262,7 +3258,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-spot-fleet-requests</summary>
+- **<details><summary>describe-spot-fleet-requests</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3275,7 +3271,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-spot-instance-requests</summary>
+- **<details><summary>describe-spot-instance-requests</summary><blockquote>**
 
   * --filters
   * --dry-run
@@ -3289,7 +3285,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-spot-price-history</summary>
+- **<details><summary>describe-spot-price-history</summary><blockquote>**
 
   * --filters
   * --availability-zone
@@ -3307,7 +3303,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stale-security-groups</summary>
+- **<details><summary>describe-stale-security-groups</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3320,7 +3316,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-store-image-tasks</summary>
+- **<details><summary>describe-store-image-tasks</summary><blockquote>**
 
   * --image-ids
   * --dry-run
@@ -3334,7 +3330,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-subnets</summary>
+- **<details><summary>describe-subnets</summary><blockquote>**
 
   * --filters
   * --subnet-ids
@@ -3348,7 +3344,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-tags</summary>
+- **<details><summary>describe-tags</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3361,7 +3357,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-traffic-mirror-filters</summary>
+- **<details><summary>describe-traffic-mirror-filters</summary><blockquote>**
 
   * --traffic-mirror-filter-ids
   * --dry-run
@@ -3375,7 +3371,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-traffic-mirror-sessions</summary>
+- **<details><summary>describe-traffic-mirror-sessions</summary><blockquote>**
 
   * --traffic-mirror-session-ids
   * --dry-run
@@ -3389,7 +3385,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-traffic-mirror-targets</summary>
+- **<details><summary>describe-traffic-mirror-targets</summary><blockquote>**
 
   * --traffic-mirror-target-ids
   * --dry-run
@@ -3403,7 +3399,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-transit-gateway-attachments</summary>
+- **<details><summary>describe-transit-gateway-attachments</summary><blockquote>**
 
   * --transit-gateway-attachment-ids
   * --filters
@@ -3417,7 +3413,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-transit-gateway-connect-peers</summary>
+- **<details><summary>describe-transit-gateway-connect-peers</summary><blockquote>**
 
   * --transit-gateway-connect-peer-ids
   * --filters
@@ -3431,7 +3427,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-transit-gateway-connects</summary>
+- **<details><summary>describe-transit-gateway-connects</summary><blockquote>**
 
   * --transit-gateway-attachment-ids
   * --filters
@@ -3445,7 +3441,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-transit-gateway-multicast-domains</summary>
+- **<details><summary>describe-transit-gateway-multicast-domains</summary><blockquote>**
 
   * --transit-gateway-multicast-domain-ids
   * --filters
@@ -3459,7 +3455,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-transit-gateway-peering-attachments</summary>
+- **<details><summary>describe-transit-gateway-peering-attachments</summary><blockquote>**
 
   * --transit-gateway-attachment-ids
   * --filters
@@ -3473,7 +3469,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-transit-gateway-route-tables</summary>
+- **<details><summary>describe-transit-gateway-route-tables</summary><blockquote>**
 
   * --transit-gateway-route-table-ids
   * --filters
@@ -3487,7 +3483,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-transit-gateways</summary>
+- **<details><summary>describe-transit-gateways</summary><blockquote>**
 
   * --transit-gateway-ids
   * --filters
@@ -3501,7 +3497,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-transit-gateway-vpc-attachments</summary>
+- **<details><summary>describe-transit-gateway-vpc-attachments</summary><blockquote>**
 
   * --transit-gateway-attachment-ids
   * --filters
@@ -3515,7 +3511,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-trunk-interface-associations</summary>
+- **<details><summary>describe-trunk-interface-associations</summary><blockquote>**
 
   * --association-ids
   * --dry-run
@@ -3528,7 +3524,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-volume-attribute</summary>
+- **<details><summary>describe-volume-attribute</summary><blockquote>**
 
   * --attribute
   * --volume-id
@@ -3539,7 +3535,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-volumes</summary>
+- **<details><summary>describe-volumes</summary><blockquote>**
 
   * --filters
   * --volume-ids
@@ -3553,7 +3549,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-volumes-modifications</summary>
+- **<details><summary>describe-volumes-modifications</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3567,7 +3563,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-volume-status</summary>
+- **<details><summary>describe-volume-status</summary><blockquote>**
 
   * --filters
   * --volume-ids
@@ -3581,7 +3577,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-vpc-attribute</summary>
+- **<details><summary>describe-vpc-attribute</summary><blockquote>**
 
   * --attribute
   * --vpc-id
@@ -3592,7 +3588,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-vpc-classic-link</summary>
+- **<details><summary>describe-vpc-classic-link</summary><blockquote>**
 
   * --filters
   * --dry-run
@@ -3603,7 +3599,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-vpc-classic-link-dns-support</summary>
+- **<details><summary>describe-vpc-classic-link-dns-support</summary><blockquote>**
 
   * --vpc-ids
   * --cli-input-json
@@ -3614,7 +3610,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-vpc-endpoint-connection-notifications</summary>
+- **<details><summary>describe-vpc-endpoint-connection-notifications</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3628,7 +3624,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-vpc-endpoint-connections</summary>
+- **<details><summary>describe-vpc-endpoint-connections</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3641,7 +3637,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-vpc-endpoints</summary>
+- **<details><summary>describe-vpc-endpoints</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3655,7 +3651,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-vpc-endpoint-service-configurations</summary>
+- **<details><summary>describe-vpc-endpoint-service-configurations</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3669,7 +3665,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-vpc-endpoint-service-permissions</summary>
+- **<details><summary>describe-vpc-endpoint-service-permissions</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3683,7 +3679,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-vpc-endpoint-services</summary>
+- **<details><summary>describe-vpc-endpoint-services</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3697,7 +3693,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-vpc-peering-connections</summary>
+- **<details><summary>describe-vpc-peering-connections</summary><blockquote>**
 
   * --filters
   * --dry-run
@@ -3711,7 +3707,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-vpcs</summary>
+- **<details><summary>describe-vpcs</summary><blockquote>**
 
   * --filters
   * --vpc-ids
@@ -3725,7 +3721,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-vpn-connections</summary>
+- **<details><summary>describe-vpn-connections</summary><blockquote>**
 
   * --filters
   * --vpn-connection-ids
@@ -3736,7 +3732,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-vpn-gateways</summary>
+- **<details><summary>describe-vpn-gateways</summary><blockquote>**
 
   * --filters
   * --vpn-gateway-ids
@@ -3747,7 +3743,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-classic-link-vpc</summary>
+- **<details><summary>detach-classic-link-vpc</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3758,7 +3754,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-internet-gateway</summary>
+- **<details><summary>detach-internet-gateway</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3769,7 +3765,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-network-interface</summary>
+- **<details><summary>detach-network-interface</summary><blockquote>**
 
   * --attachment-id
   * --dry-run
@@ -3781,7 +3777,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-volume</summary>
+- **<details><summary>detach-volume</summary><blockquote>**
 
   * --device
   * --force
@@ -3795,7 +3791,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>detach-vpn-gateway</summary>
+- **<details><summary>detach-vpn-gateway</summary><blockquote>**
 
   * --vpc-id
   * --vpn-gateway-id
@@ -3806,7 +3802,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-ebs-encryption-by-default</summary>
+- **<details><summary>disable-ebs-encryption-by-default</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3815,7 +3811,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-fast-snapshot-restores</summary>
+- **<details><summary>disable-fast-snapshot-restores</summary><blockquote>**
 
   * --availability-zones
   * --source-snapshot-ids
@@ -3826,7 +3822,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-image-deprecation</summary>
+- **<details><summary>disable-image-deprecation</summary><blockquote>**
 
   * --image-id
   * --dry-run
@@ -3836,7 +3832,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-serial-console-access</summary>
+- **<details><summary>disable-serial-console-access</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3845,7 +3841,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-transit-gateway-route-table-propagation</summary>
+- **<details><summary>disable-transit-gateway-route-table-propagation</summary><blockquote>**
 
   * --transit-gateway-route-table-id
   * --transit-gateway-attachment-id
@@ -3856,7 +3852,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-vgw-route-propagation</summary>
+- **<details><summary>disable-vgw-route-propagation</summary><blockquote>**
 
   * --gateway-id
   * --route-table-id
@@ -3867,7 +3863,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-vpc-classic-link</summary>
+- **<details><summary>disable-vpc-classic-link</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3877,7 +3873,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-vpc-classic-link-dns-support</summary>
+- **<details><summary>disable-vpc-classic-link-dns-support</summary><blockquote>**
 
   * --vpc-id
   * --cli-input-json
@@ -3885,7 +3881,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-address</summary>
+- **<details><summary>disassociate-address</summary><blockquote>**
 
   * --association-id
   * --public-ip
@@ -3896,7 +3892,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-client-vpn-target-network</summary>
+- **<details><summary>disassociate-client-vpn-target-network</summary><blockquote>**
 
   * --client-vpn-endpoint-id
   * --association-id
@@ -3907,7 +3903,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-enclave-certificate-iam-role</summary>
+- **<details><summary>disassociate-enclave-certificate-iam-role</summary><blockquote>**
 
   * --certificate-arn
   * --role-arn
@@ -3918,7 +3914,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-iam-instance-profile</summary>
+- **<details><summary>disassociate-iam-instance-profile</summary><blockquote>**
 
   * --association-id
   * --cli-input-json
@@ -3926,7 +3922,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-instance-event-window</summary>
+- **<details><summary>disassociate-instance-event-window</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -3937,7 +3933,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-route-table</summary>
+- **<details><summary>disassociate-route-table</summary><blockquote>**
 
   * --association-id
   * --dry-run
@@ -3947,7 +3943,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-subnet-cidr-block</summary>
+- **<details><summary>disassociate-subnet-cidr-block</summary><blockquote>**
 
   * --association-id
   * --cli-input-json
@@ -3955,7 +3951,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-transit-gateway-multicast-domain</summary>
+- **<details><summary>disassociate-transit-gateway-multicast-domain</summary><blockquote>**
 
   * --transit-gateway-multicast-domain-id
   * --transit-gateway-attachment-id
@@ -3967,7 +3963,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-transit-gateway-route-table</summary>
+- **<details><summary>disassociate-transit-gateway-route-table</summary><blockquote>**
 
   * --transit-gateway-route-table-id
   * --transit-gateway-attachment-id
@@ -3978,7 +3974,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-trunk-interface</summary>
+- **<details><summary>disassociate-trunk-interface</summary><blockquote>**
 
   * --association-id
   * --client-token
@@ -3989,7 +3985,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-vpc-cidr-block</summary>
+- **<details><summary>disassociate-vpc-cidr-block</summary><blockquote>**
 
   * --association-id
   * --cli-input-json
@@ -3997,7 +3993,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-ebs-encryption-by-default</summary>
+- **<details><summary>enable-ebs-encryption-by-default</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4006,7 +4002,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-fast-snapshot-restores</summary>
+- **<details><summary>enable-fast-snapshot-restores</summary><blockquote>**
 
   * --availability-zones
   * --source-snapshot-ids
@@ -4017,7 +4013,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-image-deprecation</summary>
+- **<details><summary>enable-image-deprecation</summary><blockquote>**
 
   * --image-id
   * --deprecate-at
@@ -4028,7 +4024,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-serial-console-access</summary>
+- **<details><summary>enable-serial-console-access</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4037,7 +4033,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-transit-gateway-route-table-propagation</summary>
+- **<details><summary>enable-transit-gateway-route-table-propagation</summary><blockquote>**
 
   * --transit-gateway-route-table-id
   * --transit-gateway-attachment-id
@@ -4048,7 +4044,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-vgw-route-propagation</summary>
+- **<details><summary>enable-vgw-route-propagation</summary><blockquote>**
 
   * --gateway-id
   * --route-table-id
@@ -4059,7 +4055,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-volume-io</summary>
+- **<details><summary>enable-volume-io</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4069,7 +4065,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-vpc-classic-link</summary>
+- **<details><summary>enable-vpc-classic-link</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4079,7 +4075,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-vpc-classic-link-dns-support</summary>
+- **<details><summary>enable-vpc-classic-link-dns-support</summary><blockquote>**
 
   * --vpc-id
   * --cli-input-json
@@ -4087,7 +4083,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>export-client-vpn-client-certificate-revocation-list</summary>
+- **<details><summary>export-client-vpn-client-certificate-revocation-list</summary><blockquote>**
 
   * --client-vpn-endpoint-id
   * --dry-run
@@ -4097,7 +4093,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>export-client-vpn-client-configuration</summary>
+- **<details><summary>export-client-vpn-client-configuration</summary><blockquote>**
 
   * --client-vpn-endpoint-id
   * --dry-run
@@ -4107,7 +4103,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>export-image</summary>
+- **<details><summary>export-image</summary><blockquote>**
 
   * --client-token
   * --description
@@ -4123,7 +4119,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>export-transit-gateway-routes</summary>
+- **<details><summary>export-transit-gateway-routes</summary><blockquote>**
 
   * --transit-gateway-route-table-id
   * --filters
@@ -4135,7 +4131,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-associated-enclave-certificate-iam-roles</summary>
+- **<details><summary>get-associated-enclave-certificate-iam-roles</summary><blockquote>**
 
   * --certificate-arn
   * --dry-run
@@ -4145,7 +4141,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-associated-ipv6-pool-cidrs</summary>
+- **<details><summary>get-associated-ipv6-pool-cidrs</summary><blockquote>**
 
   * --pool-id
   * --dry-run
@@ -4158,7 +4154,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-capacity-reservation-usage</summary>
+- **<details><summary>get-capacity-reservation-usage</summary><blockquote>**
 
   * --capacity-reservation-id
   * --next-token
@@ -4170,7 +4166,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-coip-pool-usage</summary>
+- **<details><summary>get-coip-pool-usage</summary><blockquote>**
 
   * --pool-id
   * --filters
@@ -4183,7 +4179,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-console-output</summary>
+- **<details><summary>get-console-output</summary><blockquote>**
 
   * --instance-id
   * --dry-run
@@ -4195,7 +4191,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-console-screenshot</summary>
+- **<details><summary>get-console-screenshot</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4207,7 +4203,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-default-credit-specification</summary>
+- **<details><summary>get-default-credit-specification</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4217,7 +4213,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-ebs-default-kms-key-id</summary>
+- **<details><summary>get-ebs-default-kms-key-id</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4226,7 +4222,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-ebs-encryption-by-default</summary>
+- **<details><summary>get-ebs-encryption-by-default</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4235,7 +4231,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-flow-logs-integration-template</summary>
+- **<details><summary>get-flow-logs-integration-template</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4247,7 +4243,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-groups-for-capacity-reservation</summary>
+- **<details><summary>get-groups-for-capacity-reservation</summary><blockquote>**
 
   * --capacity-reservation-id
   * --dry-run
@@ -4260,7 +4256,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-host-reservation-purchase-preview</summary>
+- **<details><summary>get-host-reservation-purchase-preview</summary><blockquote>**
 
   * --host-id-set
   * --offering-id
@@ -4269,7 +4265,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-launch-template-data</summary>
+- **<details><summary>get-launch-template-data</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4279,7 +4275,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-managed-prefix-list-associations</summary>
+- **<details><summary>get-managed-prefix-list-associations</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4292,7 +4288,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-managed-prefix-list-entries</summary>
+- **<details><summary>get-managed-prefix-list-entries</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4306,7 +4302,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-password-data</summary>
+- **<details><summary>get-password-data</summary><blockquote>**
 
   * --instance-id
   * --dry-run
@@ -4317,7 +4313,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-reserved-instances-exchange-quote</summary>
+- **<details><summary>get-reserved-instances-exchange-quote</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4328,7 +4324,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-serial-console-access-status</summary>
+- **<details><summary>get-serial-console-access-status</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4337,7 +4333,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-transit-gateway-attachment-propagations</summary>
+- **<details><summary>get-transit-gateway-attachment-propagations</summary><blockquote>**
 
   * --transit-gateway-attachment-id
   * --filters
@@ -4351,7 +4347,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-transit-gateway-multicast-domain-associations</summary>
+- **<details><summary>get-transit-gateway-multicast-domain-associations</summary><blockquote>**
 
   * --transit-gateway-multicast-domain-id
   * --filters
@@ -4365,7 +4361,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-transit-gateway-prefix-list-references</summary>
+- **<details><summary>get-transit-gateway-prefix-list-references</summary><blockquote>**
 
   * --transit-gateway-route-table-id
   * --filters
@@ -4379,7 +4375,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-transit-gateway-route-table-associations</summary>
+- **<details><summary>get-transit-gateway-route-table-associations</summary><blockquote>**
 
   * --transit-gateway-route-table-id
   * --filters
@@ -4393,7 +4389,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-transit-gateway-route-table-propagations</summary>
+- **<details><summary>get-transit-gateway-route-table-propagations</summary><blockquote>**
 
   * --transit-gateway-route-table-id
   * --filters
@@ -4407,12 +4403,12 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>import-client-vpn-client-certificate-revocation-list</summary>
+- **<details><summary>import-client-vpn-client-certificate-revocation-list</summary><blockquote>**
 
   * --client-vpn-endpoint-id
   * --certificate-revocation-list
@@ -4423,7 +4419,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>import-image</summary>
+- **<details><summary>import-image</summary><blockquote>**
 
   * --architecture
   * --client-data
@@ -4446,7 +4442,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>import-key-pair</summary>
+- **<details><summary>import-key-pair</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4458,7 +4454,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>import-snapshot</summary>
+- **<details><summary>import-snapshot</summary><blockquote>**
 
   * --client-data
   * --client-token
@@ -4476,7 +4472,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-address-attribute</summary>
+- **<details><summary>modify-address-attribute</summary><blockquote>**
 
   * --allocation-id
   * --domain-name
@@ -4487,7 +4483,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-availability-zone-group</summary>
+- **<details><summary>modify-availability-zone-group</summary><blockquote>**
 
   * --group-name
   * --opt-in-status
@@ -4498,7 +4494,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-capacity-reservation</summary>
+- **<details><summary>modify-capacity-reservation</summary><blockquote>**
 
   * --capacity-reservation-id
   * --instance-count
@@ -4513,7 +4509,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-client-vpn-endpoint</summary>
+- **<details><summary>modify-client-vpn-endpoint</summary><blockquote>**
 
   * --client-vpn-endpoint-id
   * --server-certificate-arn
@@ -4534,7 +4530,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-default-credit-specification</summary>
+- **<details><summary>modify-default-credit-specification</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4545,7 +4541,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-ebs-default-kms-key-id</summary>
+- **<details><summary>modify-ebs-default-kms-key-id</summary><blockquote>**
 
   * --kms-key-id
   * --dry-run
@@ -4555,7 +4551,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-fleet</summary>
+- **<details><summary>modify-fleet</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4569,7 +4565,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-fpga-image-attribute</summary>
+- **<details><summary>modify-fpga-image-attribute</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4587,7 +4583,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-hosts</summary>
+- **<details><summary>modify-hosts</summary><blockquote>**
 
   * --auto-placement
   * --host-ids
@@ -4599,7 +4595,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-identity-id-format</summary>
+- **<details><summary>modify-identity-id-format</summary><blockquote>**
 
   * --principal-arn
   * --resource
@@ -4610,7 +4606,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-id-format</summary>
+- **<details><summary>modify-id-format</summary><blockquote>**
 
   * --resource
   * --use-long-ids
@@ -4620,7 +4616,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-image-attribute</summary>
+- **<details><summary>modify-image-attribute</summary><blockquote>**
 
   * --attribute
   * --description
@@ -4638,7 +4634,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-instance-attribute</summary>
+- **<details><summary>modify-instance-attribute</summary><blockquote>**
 
   * --source-dest-check
   * --no-source-dest-check
@@ -4666,7 +4662,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-instance-capacity-reservation-attributes</summary>
+- **<details><summary>modify-instance-capacity-reservation-attributes</summary><blockquote>**
 
   * --instance-id
   * --capacity-reservation-specification
@@ -4677,7 +4673,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-instance-credit-specification</summary>
+- **<details><summary>modify-instance-credit-specification</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4688,7 +4684,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-instance-event-start-time</summary>
+- **<details><summary>modify-instance-event-start-time</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4700,7 +4696,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-instance-event-window</summary>
+- **<details><summary>modify-instance-event-window</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4713,7 +4709,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-instance-metadata-options</summary>
+- **<details><summary>modify-instance-metadata-options</summary><blockquote>**
 
   * --instance-id
   * --http-tokens
@@ -4726,7 +4722,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-instance-placement</summary>
+- **<details><summary>modify-instance-placement</summary><blockquote>**
 
   * --affinity
   * --group-name
@@ -4740,7 +4736,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-launch-template</summary>
+- **<details><summary>modify-launch-template</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4753,7 +4749,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-managed-prefix-list</summary>
+- **<details><summary>modify-managed-prefix-list</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4767,7 +4763,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-network-interface-attribute</summary>
+- **<details><summary>modify-network-interface-attribute</summary><blockquote>**
 
   * --attachment
   * --description
@@ -4782,7 +4778,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-reserved-instances</summary>
+- **<details><summary>modify-reserved-instances</summary><blockquote>**
 
   * --reserved-instances-ids
   * --client-token
@@ -4792,7 +4788,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-security-group-rules</summary>
+- **<details><summary>modify-security-group-rules</summary><blockquote>**
 
   * --group-id
   * --security-group-rules
@@ -4803,7 +4799,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-snapshot-attribute</summary>
+- **<details><summary>modify-snapshot-attribute</summary><blockquote>**
 
   * --attribute
   * --create-volume-permission
@@ -4818,7 +4814,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-spot-fleet-request</summary>
+- **<details><summary>modify-spot-fleet-request</summary><blockquote>**
 
   * --excess-capacity-termination-policy
   * --launch-template-configs
@@ -4831,7 +4827,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-subnet-attribute</summary>
+- **<details><summary>modify-subnet-attribute</summary><blockquote>**
 
   * --assign-ipv6-address-on-creation
   * --no-assign-ipv6-address-on-creation
@@ -4846,7 +4842,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-traffic-mirror-filter-network-services</summary>
+- **<details><summary>modify-traffic-mirror-filter-network-services</summary><blockquote>**
 
   * --traffic-mirror-filter-id
   * --add-network-services
@@ -4858,7 +4854,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-traffic-mirror-filter-rule</summary>
+- **<details><summary>modify-traffic-mirror-filter-rule</summary><blockquote>**
 
   * --traffic-mirror-filter-rule-id
   * --traffic-direction
@@ -4878,7 +4874,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-traffic-mirror-session</summary>
+- **<details><summary>modify-traffic-mirror-session</summary><blockquote>**
 
   * --traffic-mirror-session-id
   * --traffic-mirror-target-id
@@ -4895,7 +4891,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-transit-gateway</summary>
+- **<details><summary>modify-transit-gateway</summary><blockquote>**
 
   * --transit-gateway-id
   * --description
@@ -4907,7 +4903,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-transit-gateway-prefix-list-reference</summary>
+- **<details><summary>modify-transit-gateway-prefix-list-reference</summary><blockquote>**
 
   * --transit-gateway-route-table-id
   * --prefix-list-id
@@ -4921,7 +4917,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-transit-gateway-vpc-attachment</summary>
+- **<details><summary>modify-transit-gateway-vpc-attachment</summary><blockquote>**
 
   * --transit-gateway-attachment-id
   * --add-subnet-ids
@@ -4934,7 +4930,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-volume</summary>
+- **<details><summary>modify-volume</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4950,7 +4946,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-volume-attribute</summary>
+- **<details><summary>modify-volume-attribute</summary><blockquote>**
 
   * --auto-enable-io
   * --no-auto-enable-io
@@ -4962,7 +4958,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-vpc-attribute</summary>
+- **<details><summary>modify-vpc-attribute</summary><blockquote>**
 
   * --enable-dns-hostnames
   * --no-enable-dns-hostnames
@@ -4974,7 +4970,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-vpc-endpoint</summary>
+- **<details><summary>modify-vpc-endpoint</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -4995,7 +4991,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-vpc-endpoint-connection-notification</summary>
+- **<details><summary>modify-vpc-endpoint-connection-notification</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -5007,7 +5003,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-vpc-endpoint-service-configuration</summary>
+- **<details><summary>modify-vpc-endpoint-service-configuration</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -5026,7 +5022,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-vpc-endpoint-service-permissions</summary>
+- **<details><summary>modify-vpc-endpoint-service-permissions</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -5038,7 +5034,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-vpc-peering-connection-options</summary>
+- **<details><summary>modify-vpc-peering-connection-options</summary><blockquote>**
 
   * --accepter-peering-connection-options
   * --dry-run
@@ -5050,7 +5046,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-vpc-tenancy</summary>
+- **<details><summary>modify-vpc-tenancy</summary><blockquote>**
 
   * --vpc-id
   * --instance-tenancy
@@ -5061,7 +5057,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-vpn-connection</summary>
+- **<details><summary>modify-vpn-connection</summary><blockquote>**
 
   * --vpn-connection-id
   * --transit-gateway-id
@@ -5074,7 +5070,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-vpn-connection-options</summary>
+- **<details><summary>modify-vpn-connection-options</summary><blockquote>**
 
   * --vpn-connection-id
   * --local-ipv4-network-cidr
@@ -5088,7 +5084,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-vpn-tunnel-certificate</summary>
+- **<details><summary>modify-vpn-tunnel-certificate</summary><blockquote>**
 
   * --vpn-connection-id
   * --vpn-tunnel-outside-ip-address
@@ -5099,7 +5095,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-vpn-tunnel-options</summary>
+- **<details><summary>modify-vpn-tunnel-options</summary><blockquote>**
 
   * --vpn-connection-id
   * --vpn-tunnel-outside-ip-address
@@ -5111,7 +5107,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>monitor-instances</summary>
+- **<details><summary>monitor-instances</summary><blockquote>**
 
   * --instance-ids
   * --dry-run
@@ -5121,7 +5117,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>move-address-to-vpc</summary>
+- **<details><summary>move-address-to-vpc</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -5131,7 +5127,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>provision-byoip-cidr</summary>
+- **<details><summary>provision-byoip-cidr</summary><blockquote>**
 
   * --cidr
   * --cidr-authorization-context
@@ -5148,7 +5144,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>purchase-host-reservation</summary>
+- **<details><summary>purchase-host-reservation</summary><blockquote>**
 
   * --client-token
   * --currency-code
@@ -5161,7 +5157,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>purchase-reserved-instances-offering</summary>
+- **<details><summary>purchase-reserved-instances-offering</summary><blockquote>**
 
   * --instance-count
   * --reserved-instances-offering-id
@@ -5174,7 +5170,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>purchase-scheduled-instances</summary>
+- **<details><summary>purchase-scheduled-instances</summary><blockquote>**
 
   * --client-token
   * --dry-run
@@ -5185,7 +5181,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>reboot-instances</summary>
+- **<details><summary>reboot-instances</summary><blockquote>**
 
   * --instance-ids
   * --dry-run
@@ -5195,7 +5191,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>register-image</summary>
+- **<details><summary>register-image</summary><blockquote>**
 
   * --image-location
   * --architecture
@@ -5218,7 +5214,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>register-instance-event-notification-attributes</summary>
+- **<details><summary>register-instance-event-notification-attributes</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -5228,7 +5224,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>register-transit-gateway-multicast-group-members</summary>
+- **<details><summary>register-transit-gateway-multicast-group-members</summary><blockquote>**
 
   * --transit-gateway-multicast-domain-id
   * --group-ip-address
@@ -5240,7 +5236,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>register-transit-gateway-multicast-group-sources</summary>
+- **<details><summary>register-transit-gateway-multicast-group-sources</summary><blockquote>**
 
   * --transit-gateway-multicast-domain-id
   * --group-ip-address
@@ -5252,7 +5248,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>reject-transit-gateway-multicast-domain-associations</summary>
+- **<details><summary>reject-transit-gateway-multicast-domain-associations</summary><blockquote>**
 
   * --transit-gateway-multicast-domain-id
   * --transit-gateway-attachment-id
@@ -5264,7 +5260,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>reject-transit-gateway-peering-attachment</summary>
+- **<details><summary>reject-transit-gateway-peering-attachment</summary><blockquote>**
 
   * --transit-gateway-attachment-id
   * --dry-run
@@ -5274,7 +5270,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>reject-transit-gateway-vpc-attachment</summary>
+- **<details><summary>reject-transit-gateway-vpc-attachment</summary><blockquote>**
 
   * --transit-gateway-attachment-id
   * --dry-run
@@ -5284,7 +5280,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>reject-vpc-endpoint-connections</summary>
+- **<details><summary>reject-vpc-endpoint-connections</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -5295,7 +5291,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>reject-vpc-peering-connection</summary>
+- **<details><summary>reject-vpc-peering-connection</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -5305,7 +5301,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>release-address</summary>
+- **<details><summary>release-address</summary><blockquote>**
 
   * --allocation-id
   * --public-ip
@@ -5317,7 +5313,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>release-hosts</summary>
+- **<details><summary>release-hosts</summary><blockquote>**
 
   * --host-ids
   * --cli-input-json
@@ -5325,7 +5321,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>replace-iam-instance-profile-association</summary>
+- **<details><summary>replace-iam-instance-profile-association</summary><blockquote>**
 
   * --iam-instance-profile
   * --association-id
@@ -5334,7 +5330,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>replace-network-acl-association</summary>
+- **<details><summary>replace-network-acl-association</summary><blockquote>**
 
   * --association-id
   * --dry-run
@@ -5345,7 +5341,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>replace-network-acl-entry</summary>
+- **<details><summary>replace-network-acl-entry</summary><blockquote>**
 
   * --cidr-block
   * --dry-run
@@ -5364,7 +5360,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>replace-route</summary>
+- **<details><summary>replace-route</summary><blockquote>**
 
   * --destination-cidr-block
   * --destination-ipv6-cidr-block
@@ -5389,7 +5385,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>replace-route-table-association</summary>
+- **<details><summary>replace-route-table-association</summary><blockquote>**
 
   * --association-id
   * --dry-run
@@ -5400,7 +5396,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>replace-transit-gateway-route</summary>
+- **<details><summary>replace-transit-gateway-route</summary><blockquote>**
 
   * --destination-cidr-block
   * --transit-gateway-route-table-id
@@ -5414,7 +5410,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>report-instance-status</summary>
+- **<details><summary>report-instance-status</summary><blockquote>**
 
   * --description
   * --dry-run
@@ -5429,7 +5425,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>request-spot-fleet</summary>
+- **<details><summary>request-spot-fleet</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -5439,7 +5435,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>request-spot-instances</summary>
+- **<details><summary>request-spot-instances</summary><blockquote>**
 
   * --availability-zone-group
   * --block-duration-minutes
@@ -5460,7 +5456,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-address-attribute</summary>
+- **<details><summary>reset-address-attribute</summary><blockquote>**
 
   * --allocation-id
   * --attribute
@@ -5471,7 +5467,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-ebs-default-kms-key-id</summary>
+- **<details><summary>reset-ebs-default-kms-key-id</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -5480,7 +5476,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-fpga-image-attribute</summary>
+- **<details><summary>reset-fpga-image-attribute</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -5491,7 +5487,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-image-attribute</summary>
+- **<details><summary>reset-image-attribute</summary><blockquote>**
 
   * --attribute
   * --image-id
@@ -5502,7 +5498,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-instance-attribute</summary>
+- **<details><summary>reset-instance-attribute</summary><blockquote>**
 
   * --attribute
   * --dry-run
@@ -5513,7 +5509,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-network-interface-attribute</summary>
+- **<details><summary>reset-network-interface-attribute</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -5524,7 +5520,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-snapshot-attribute</summary>
+- **<details><summary>reset-snapshot-attribute</summary><blockquote>**
 
   * --attribute
   * --snapshot-id
@@ -5535,7 +5531,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-address-to-classic</summary>
+- **<details><summary>restore-address-to-classic</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -5545,7 +5541,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-managed-prefix-list-version</summary>
+- **<details><summary>restore-managed-prefix-list-version</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -5557,7 +5553,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>revoke-client-vpn-ingress</summary>
+- **<details><summary>revoke-client-vpn-ingress</summary><blockquote>**
 
   * --client-vpn-endpoint-id
   * --target-network-cidr
@@ -5571,7 +5567,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>revoke-security-group-egress</summary>
+- **<details><summary>revoke-security-group-egress</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -5588,7 +5584,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>revoke-security-group-ingress</summary>
+- **<details><summary>revoke-security-group-ingress</summary><blockquote>**
 
   * --group-id
   * --group-name
@@ -5606,7 +5602,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>run-instances</summary>
+- **<details><summary>run-instances</summary><blockquote>**
 
   * --block-device-mappings
   * --image-id
@@ -5656,7 +5652,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>run-scheduled-instances</summary>
+- **<details><summary>run-scheduled-instances</summary><blockquote>**
 
   * --client-token
   * --dry-run
@@ -5669,7 +5665,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>search-local-gateway-routes</summary>
+- **<details><summary>search-local-gateway-routes</summary><blockquote>**
 
   * --local-gateway-route-table-id
   * --filters
@@ -5683,7 +5679,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>search-transit-gateway-multicast-groups</summary>
+- **<details><summary>search-transit-gateway-multicast-groups</summary><blockquote>**
 
   * --transit-gateway-multicast-domain-id
   * --filters
@@ -5697,7 +5693,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>search-transit-gateway-routes</summary>
+- **<details><summary>search-transit-gateway-routes</summary><blockquote>**
 
   * --transit-gateway-route-table-id
   * --filters
@@ -5709,7 +5705,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>send-diagnostic-interrupt</summary>
+- **<details><summary>send-diagnostic-interrupt</summary><blockquote>**
 
   * --instance-id
   * --dry-run
@@ -5719,7 +5715,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>start-instances</summary>
+- **<details><summary>start-instances</summary><blockquote>**
 
   * --instance-ids
   * --additional-info
@@ -5730,7 +5726,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>start-network-insights-analysis</summary>
+- **<details><summary>start-network-insights-analysis</summary><blockquote>**
 
   * --network-insights-path-id
   * --filter-in-arns
@@ -5743,7 +5739,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>start-vpc-endpoint-service-private-dns-verification</summary>
+- **<details><summary>start-vpc-endpoint-service-private-dns-verification</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -5753,7 +5749,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-instances</summary>
+- **<details><summary>stop-instances</summary><blockquote>**
 
   * --instance-ids
   * --hibernate
@@ -5767,7 +5763,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>terminate-client-vpn-connections</summary>
+- **<details><summary>terminate-client-vpn-connections</summary><blockquote>**
 
   * --client-vpn-endpoint-id
   * --connection-id
@@ -5779,7 +5775,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>terminate-instances</summary>
+- **<details><summary>terminate-instances</summary><blockquote>**
 
   * --instance-ids
   * --dry-run
@@ -5789,7 +5785,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>unassign-ipv6-addresses</summary>
+- **<details><summary>unassign-ipv6-addresses</summary><blockquote>**
 
   * --network-interface-id
   * --ipv6-addresses
@@ -5798,7 +5794,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>unassign-private-ip-addresses</summary>
+- **<details><summary>unassign-private-ip-addresses</summary><blockquote>**
 
   * --network-interface-id
   * --private-ip-addresses
@@ -5807,7 +5803,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>unmonitor-instances</summary>
+- **<details><summary>unmonitor-instances</summary><blockquote>**
 
   * --instance-ids
   * --dry-run
@@ -5817,7 +5813,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-security-group-rule-descriptions-egress</summary>
+- **<details><summary>update-security-group-rule-descriptions-egress</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -5830,7 +5826,7 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-security-group-rule-descriptions-ingress</summary>
+- **<details><summary>update-security-group-rule-descriptions-ingress</summary><blockquote>**
 
   * --dry-run
   * --no-dry-run
@@ -5843,12 +5839,12 @@ ec2
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-- <details><summary>withdraw-byoip-cidr</summary>
+- **<details><summary>withdraw-byoip-cidr</summary><blockquote>**
 
   * --cidr
   * --dry-run
@@ -5858,5 +5854,466 @@ ec2
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

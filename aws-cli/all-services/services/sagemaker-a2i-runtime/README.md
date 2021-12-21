@@ -1,10 +1,6 @@
-<details>
+<details><summary>sagemaker-a2i-runtime</summary><blockquote>
 
-<summary>
-sagemaker-a2i-runtime
-</summary>
-
-- <details><summary>delete-human-loop</summary>
+- **<details><summary>delete-human-loop</summary><blockquote>**
 
   * --human-loop-name
   * --cli-input-json
@@ -12,7 +8,7 @@ sagemaker-a2i-runtime
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-human-loop</summary>
+- **<details><summary>describe-human-loop</summary><blockquote>**
 
   * --human-loop-name
   * --cli-input-json
@@ -20,12 +16,12 @@ sagemaker-a2i-runtime
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-human-loops</summary>
+- **<details><summary>list-human-loops</summary><blockquote>**
 
   * --creation-time-after
   * --creation-time-before
@@ -39,7 +35,7 @@ sagemaker-a2i-runtime
   * --generate-cli-skeleton
 
 
-- <details><summary>start-human-loop</summary>
+- **<details><summary>start-human-loop</summary><blockquote>**
 
   * --human-loop-name
   * --flow-definition-arn
@@ -50,7 +46,7 @@ sagemaker-a2i-runtime
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-human-loop</summary>
+- **<details><summary>stop-human-loop</summary><blockquote>**
 
   * --human-loop-name
   * --cli-input-json
@@ -58,5 +54,10 @@ sagemaker-a2i-runtime
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

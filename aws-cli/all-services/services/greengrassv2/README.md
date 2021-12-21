@@ -1,10 +1,6 @@
-<details>
+<details><summary>greengrassv2</summary><blockquote>
 
-<summary>
-greengrassv2
-</summary>
-
-- <details><summary>batch-associate-client-device-with-core-device</summary>
+- **<details><summary>batch-associate-client-device-with-core-device</summary><blockquote>**
 
   * --entries
   * --core-device-thing-name
@@ -13,7 +9,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-disassociate-client-device-from-core-device</summary>
+- **<details><summary>batch-disassociate-client-device-from-core-device</summary><blockquote>**
 
   * --entries
   * --core-device-thing-name
@@ -22,7 +18,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-deployment</summary>
+- **<details><summary>cancel-deployment</summary><blockquote>**
 
   * --deployment-id
   * --cli-input-json
@@ -30,7 +26,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-component-version</summary>
+- **<details><summary>create-component-version</summary><blockquote>**
 
   * --inline-recipe
   * --lambda-function
@@ -40,7 +36,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-deployment</summary>
+- **<details><summary>create-deployment</summary><blockquote>**
 
   * --target-arn
   * --deployment-name
@@ -53,7 +49,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-component</summary>
+- **<details><summary>delete-component</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -61,7 +57,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-core-device</summary>
+- **<details><summary>delete-core-device</summary><blockquote>**
 
   * --core-device-thing-name
   * --cli-input-json
@@ -69,7 +65,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-component</summary>
+- **<details><summary>describe-component</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -77,7 +73,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-component</summary>
+- **<details><summary>get-component</summary><blockquote>**
 
   * --recipe-output-format
   * --arn
@@ -86,7 +82,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-component-version-artifact</summary>
+- **<details><summary>get-component-version-artifact</summary><blockquote>**
 
   * --arn
   * --artifact-name
@@ -95,7 +91,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-core-device</summary>
+- **<details><summary>get-core-device</summary><blockquote>**
 
   * --core-device-thing-name
   * --cli-input-json
@@ -103,7 +99,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-deployment</summary>
+- **<details><summary>get-deployment</summary><blockquote>**
 
   * --deployment-id
   * --cli-input-json
@@ -111,12 +107,12 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-client-devices-associated-with-core-device</summary>
+- **<details><summary>list-client-devices-associated-with-core-device</summary><blockquote>**
 
   * --core-device-thing-name
   * --cli-input-json
@@ -127,7 +123,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-components</summary>
+- **<details><summary>list-components</summary><blockquote>**
 
   * --scope
   * --cli-input-json
@@ -138,7 +134,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-component-versions</summary>
+- **<details><summary>list-component-versions</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -149,7 +145,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-core-devices</summary>
+- **<details><summary>list-core-devices</summary><blockquote>**
 
   * --thing-group-arn
   * --status
@@ -161,7 +157,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-deployments</summary>
+- **<details><summary>list-deployments</summary><blockquote>**
 
   * --target-arn
   * --history-filter
@@ -173,7 +169,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-effective-deployments</summary>
+- **<details><summary>list-effective-deployments</summary><blockquote>**
 
   * --core-device-thing-name
   * --cli-input-json
@@ -184,7 +180,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-installed-components</summary>
+- **<details><summary>list-installed-components</summary><blockquote>**
 
   * --core-device-thing-name
   * --cli-input-json
@@ -195,7 +191,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -203,7 +199,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>resolve-component-candidates</summary>
+- **<details><summary>resolve-component-candidates</summary><blockquote>**
 
   * --platform
   * --component-candidates
@@ -212,7 +208,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -221,7 +217,7 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -230,5 +226,28 @@ greengrassv2
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

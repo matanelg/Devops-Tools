@@ -1,20 +1,16 @@
-<details>
+<details><summary>workmailmessageflow</summary><blockquote>
 
-<summary>
-workmailmessageflow
-</summary>
-
-- <details><summary>get-raw-message-content</summary>
+- **<details><summary>get-raw-message-content</summary><blockquote>**
 
   * --message-id
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>put-raw-message-content</summary>
+- **<details><summary>put-raw-message-content</summary><blockquote>**
 
   * --message-id
   * --content
@@ -23,5 +19,7 @@ workmailmessageflow
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

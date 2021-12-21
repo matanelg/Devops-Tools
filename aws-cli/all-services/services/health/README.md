@@ -1,10 +1,6 @@
-<details>
+<details><summary>health</summary><blockquote>
 
-<summary>
-health
-</summary>
-
-- <details><summary>describe-affected-accounts-for-organization</summary>
+- **<details><summary>describe-affected-accounts-for-organization</summary><blockquote>**
 
   * --event-arn
   * --cli-input-json
@@ -15,7 +11,7 @@ health
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-affected-entities</summary>
+- **<details><summary>describe-affected-entities</summary><blockquote>**
 
   * --filter
   * --locale
@@ -27,7 +23,7 @@ health
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-affected-entities-for-organization</summary>
+- **<details><summary>describe-affected-entities-for-organization</summary><blockquote>**
 
   * --organization-entity-filters
   * --locale
@@ -39,7 +35,7 @@ health
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-entity-aggregates</summary>
+- **<details><summary>describe-entity-aggregates</summary><blockquote>**
 
   * --event-arns
   * --cli-input-json
@@ -47,7 +43,7 @@ health
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-event-aggregates</summary>
+- **<details><summary>describe-event-aggregates</summary><blockquote>**
 
   * --filter
   * --aggregate-field
@@ -59,7 +55,7 @@ health
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-event-details</summary>
+- **<details><summary>describe-event-details</summary><blockquote>**
 
   * --event-arns
   * --locale
@@ -68,7 +64,7 @@ health
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-event-details-for-organization</summary>
+- **<details><summary>describe-event-details-for-organization</summary><blockquote>**
 
   * --organization-event-detail-filters
   * --locale
@@ -77,7 +73,7 @@ health
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-events</summary>
+- **<details><summary>describe-events</summary><blockquote>**
 
   * --filter
   * --locale
@@ -89,7 +85,7 @@ health
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-events-for-organization</summary>
+- **<details><summary>describe-events-for-organization</summary><blockquote>**
 
   * --filter
   * --locale
@@ -101,7 +97,7 @@ health
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-event-types</summary>
+- **<details><summary>describe-event-types</summary><blockquote>**
 
   * --filter
   * --locale
@@ -113,31 +109,44 @@ health
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-health-service-status-for-organization</summary>
+- **<details><summary>describe-health-service-status-for-organization</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-health-service-access-for-organization</summary>
+- **<details><summary>disable-health-service-access-for-organization</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-health-service-access-for-organization</summary>
+- **<details><summary>enable-health-service-access-for-organization</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

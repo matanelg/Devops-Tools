@@ -1,10 +1,6 @@
-<details>
+<details><summary>rds</summary><blockquote>
 
-<summary>
-rds
-</summary>
-
-- <details><summary>add-option-to-option-group</summary>
+- **<details><summary>add-option-to-option-group</summary><blockquote>**
 
   * --option-group-name
   * --apply-immediately
@@ -15,7 +11,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>add-role-to-db-cluster</summary>
+- **<details><summary>add-role-to-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --role-arn
@@ -25,7 +21,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>add-role-to-db-instance</summary>
+- **<details><summary>add-role-to-db-instance</summary><blockquote>**
 
   * --db-instance-identifier
   * --role-arn
@@ -35,7 +31,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>add-source-identifier-to-subscription</summary>
+- **<details><summary>add-source-identifier-to-subscription</summary><blockquote>**
 
   * --subscription-name
   * --source-identifier
@@ -44,7 +40,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>add-tags-to-resource</summary>
+- **<details><summary>add-tags-to-resource</summary><blockquote>**
 
   * --resource-name
   * --tags
@@ -53,7 +49,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>apply-pending-maintenance-action</summary>
+- **<details><summary>apply-pending-maintenance-action</summary><blockquote>**
 
   * --resource-identifier
   * --apply-action
@@ -63,7 +59,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>authorize-db-security-group-ingress</summary>
+- **<details><summary>authorize-db-security-group-ingress</summary><blockquote>**
 
   * --db-security-group-name
   * --cidrip
@@ -75,7 +71,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>backtrack-db-cluster</summary>
+- **<details><summary>backtrack-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --backtrack-to
@@ -88,7 +84,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-export-task</summary>
+- **<details><summary>cancel-export-task</summary><blockquote>**
 
   * --export-task-identifier
   * --cli-input-json
@@ -96,7 +92,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-db-cluster-parameter-group</summary>
+- **<details><summary>copy-db-cluster-parameter-group</summary><blockquote>**
 
   * --source-db-cluster-parameter-group-identifier
   * --target-db-cluster-parameter-group-identifier
@@ -107,7 +103,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-db-cluster-snapshot</summary>
+- **<details><summary>copy-db-cluster-snapshot</summary><blockquote>**
 
   * --source-db-cluster-snapshot-identifier
   * --target-db-cluster-snapshot-identifier
@@ -122,7 +118,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-db-parameter-group</summary>
+- **<details><summary>copy-db-parameter-group</summary><blockquote>**
 
   * --source-db-parameter-group-identifier
   * --target-db-parameter-group-identifier
@@ -133,7 +129,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-db-snapshot</summary>
+- **<details><summary>copy-db-snapshot</summary><blockquote>**
 
   * --source-db-snapshot-identifier
   * --target-db-snapshot-identifier
@@ -150,7 +146,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-option-group</summary>
+- **<details><summary>copy-option-group</summary><blockquote>**
 
   * --source-option-group-identifier
   * --target-option-group-identifier
@@ -161,7 +157,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-custom-availability-zone</summary>
+- **<details><summary>create-custom-availability-zone</summary><blockquote>**
 
   * --custom-availability-zone-name
   * --existing-vpn-id
@@ -172,7 +168,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-cluster</summary>
+- **<details><summary>create-db-cluster</summary><blockquote>**
 
   * --availability-zones
   * --backup-retention-period
@@ -219,7 +215,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-cluster-endpoint</summary>
+- **<details><summary>create-db-cluster-endpoint</summary><blockquote>**
 
   * --db-cluster-identifier
   * --db-cluster-endpoint-identifier
@@ -232,7 +228,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-cluster-parameter-group</summary>
+- **<details><summary>create-db-cluster-parameter-group</summary><blockquote>**
 
   * --db-cluster-parameter-group-name
   * --db-parameter-group-family
@@ -243,7 +239,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-cluster-snapshot</summary>
+- **<details><summary>create-db-cluster-snapshot</summary><blockquote>**
 
   * --db-cluster-snapshot-identifier
   * --db-cluster-identifier
@@ -253,7 +249,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-instance</summary>
+- **<details><summary>create-db-instance</summary><blockquote>**
 
   * --db-name
   * --db-instance-identifier
@@ -317,7 +313,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-instance-read-replica</summary>
+- **<details><summary>create-db-instance-read-replica</summary><blockquote>**
 
   * --db-instance-identifier
   * --source-db-instance-identifier
@@ -365,7 +361,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-parameter-group</summary>
+- **<details><summary>create-db-parameter-group</summary><blockquote>**
 
   * --db-parameter-group-name
   * --db-parameter-group-family
@@ -376,7 +372,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-proxy</summary>
+- **<details><summary>create-db-proxy</summary><blockquote>**
 
   * --db-proxy-name
   * --engine-family
@@ -395,7 +391,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-proxy-endpoint</summary>
+- **<details><summary>create-db-proxy-endpoint</summary><blockquote>**
 
   * --db-proxy-name
   * --db-proxy-endpoint-name
@@ -408,7 +404,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-security-group</summary>
+- **<details><summary>create-db-security-group</summary><blockquote>**
 
   * --db-security-group-name
   * --db-security-group-description
@@ -418,7 +414,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-snapshot</summary>
+- **<details><summary>create-db-snapshot</summary><blockquote>**
 
   * --db-snapshot-identifier
   * --db-instance-identifier
@@ -428,7 +424,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-db-subnet-group</summary>
+- **<details><summary>create-db-subnet-group</summary><blockquote>**
 
   * --db-subnet-group-name
   * --db-subnet-group-description
@@ -439,7 +435,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-event-subscription</summary>
+- **<details><summary>create-event-subscription</summary><blockquote>**
 
   * --subscription-name
   * --sns-topic-arn
@@ -454,7 +450,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-global-cluster</summary>
+- **<details><summary>create-global-cluster</summary><blockquote>**
 
   * --global-cluster-identifier
   * --source-db-cluster-identifier
@@ -470,7 +466,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>create-option-group</summary>
+- **<details><summary>create-option-group</summary><blockquote>**
 
   * --option-group-name
   * --engine-name
@@ -482,7 +478,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-custom-availability-zone</summary>
+- **<details><summary>delete-custom-availability-zone</summary><blockquote>**
 
   * --custom-availability-zone-id
   * --cli-input-json
@@ -490,7 +486,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-cluster</summary>
+- **<details><summary>delete-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --skip-final-snapshot
@@ -501,7 +497,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-cluster-endpoint</summary>
+- **<details><summary>delete-db-cluster-endpoint</summary><blockquote>**
 
   * --db-cluster-endpoint-identifier
   * --cli-input-json
@@ -509,7 +505,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-cluster-parameter-group</summary>
+- **<details><summary>delete-db-cluster-parameter-group</summary><blockquote>**
 
   * --db-cluster-parameter-group-name
   * --cli-input-json
@@ -517,7 +513,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-cluster-snapshot</summary>
+- **<details><summary>delete-db-cluster-snapshot</summary><blockquote>**
 
   * --db-cluster-snapshot-identifier
   * --cli-input-json
@@ -525,7 +521,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-instance</summary>
+- **<details><summary>delete-db-instance</summary><blockquote>**
 
   * --db-instance-identifier
   * --skip-final-snapshot
@@ -538,7 +534,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-instance-automated-backup</summary>
+- **<details><summary>delete-db-instance-automated-backup</summary><blockquote>**
 
   * --dbi-resource-id
   * --db-instance-automated-backups-arn
@@ -547,7 +543,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-parameter-group</summary>
+- **<details><summary>delete-db-parameter-group</summary><blockquote>**
 
   * --db-parameter-group-name
   * --cli-input-json
@@ -555,7 +551,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-proxy</summary>
+- **<details><summary>delete-db-proxy</summary><blockquote>**
 
   * --db-proxy-name
   * --cli-input-json
@@ -563,7 +559,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-proxy-endpoint</summary>
+- **<details><summary>delete-db-proxy-endpoint</summary><blockquote>**
 
   * --db-proxy-endpoint-name
   * --cli-input-json
@@ -571,7 +567,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-security-group</summary>
+- **<details><summary>delete-db-security-group</summary><blockquote>**
 
   * --db-security-group-name
   * --cli-input-json
@@ -579,7 +575,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-snapshot</summary>
+- **<details><summary>delete-db-snapshot</summary><blockquote>**
 
   * --db-snapshot-identifier
   * --cli-input-json
@@ -587,7 +583,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-db-subnet-group</summary>
+- **<details><summary>delete-db-subnet-group</summary><blockquote>**
 
   * --db-subnet-group-name
   * --cli-input-json
@@ -595,7 +591,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-event-subscription</summary>
+- **<details><summary>delete-event-subscription</summary><blockquote>**
 
   * --subscription-name
   * --cli-input-json
@@ -603,7 +599,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-global-cluster</summary>
+- **<details><summary>delete-global-cluster</summary><blockquote>**
 
   * --global-cluster-identifier
   * --cli-input-json
@@ -611,7 +607,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-installation-media</summary>
+- **<details><summary>delete-installation-media</summary><blockquote>**
 
   * --installation-media-id
   * --cli-input-json
@@ -619,7 +615,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-option-group</summary>
+- **<details><summary>delete-option-group</summary><blockquote>**
 
   * --option-group-name
   * --cli-input-json
@@ -627,7 +623,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-db-proxy-targets</summary>
+- **<details><summary>deregister-db-proxy-targets</summary><blockquote>**
 
   * --db-proxy-name
   * --target-group-name
@@ -638,14 +634,14 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-account-attributes</summary>
+- **<details><summary>describe-account-attributes</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-certificates</summary>
+- **<details><summary>describe-certificates</summary><blockquote>**
 
   * --certificate-identifier
   * --filters
@@ -657,7 +653,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-custom-availability-zones</summary>
+- **<details><summary>describe-custom-availability-zones</summary><blockquote>**
 
   * --custom-availability-zone-id
   * --filters
@@ -669,7 +665,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-cluster-backtracks</summary>
+- **<details><summary>describe-db-cluster-backtracks</summary><blockquote>**
 
   * --db-cluster-identifier
   * --backtrack-identifier
@@ -682,7 +678,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-cluster-endpoints</summary>
+- **<details><summary>describe-db-cluster-endpoints</summary><blockquote>**
 
   * --db-cluster-identifier
   * --db-cluster-endpoint-identifier
@@ -695,7 +691,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-cluster-parameter-groups</summary>
+- **<details><summary>describe-db-cluster-parameter-groups</summary><blockquote>**
 
   * --db-cluster-parameter-group-name
   * --filters
@@ -707,7 +703,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-cluster-parameters</summary>
+- **<details><summary>describe-db-cluster-parameters</summary><blockquote>**
 
   * --db-cluster-parameter-group-name
   * --source
@@ -720,7 +716,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-clusters</summary>
+- **<details><summary>describe-db-clusters</summary><blockquote>**
 
   * --db-cluster-identifier
   * --filters
@@ -734,7 +730,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-cluster-snapshot-attributes</summary>
+- **<details><summary>describe-db-cluster-snapshot-attributes</summary><blockquote>**
 
   * --db-cluster-snapshot-identifier
   * --cli-input-json
@@ -742,7 +738,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-cluster-snapshots</summary>
+- **<details><summary>describe-db-cluster-snapshots</summary><blockquote>**
 
   * --db-cluster-identifier
   * --db-cluster-snapshot-identifier
@@ -760,7 +756,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-engine-versions</summary>
+- **<details><summary>describe-db-engine-versions</summary><blockquote>**
 
   * --engine
   * --engine-version
@@ -782,7 +778,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-instance-automated-backups</summary>
+- **<details><summary>describe-db-instance-automated-backups</summary><blockquote>**
 
   * --dbi-resource-id
   * --db-instance-identifier
@@ -796,7 +792,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-instances</summary>
+- **<details><summary>describe-db-instances</summary><blockquote>**
 
   * --db-instance-identifier
   * --filters
@@ -808,7 +804,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-log-files</summary>
+- **<details><summary>describe-db-log-files</summary><blockquote>**
 
   * --db-instance-identifier
   * --filename-contains
@@ -823,7 +819,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-parameter-groups</summary>
+- **<details><summary>describe-db-parameter-groups</summary><blockquote>**
 
   * --db-parameter-group-name
   * --filters
@@ -835,7 +831,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-parameters</summary>
+- **<details><summary>describe-db-parameters</summary><blockquote>**
 
   * --db-parameter-group-name
   * --source
@@ -848,7 +844,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-proxies</summary>
+- **<details><summary>describe-db-proxies</summary><blockquote>**
 
   * --db-proxy-name
   * --filters
@@ -860,7 +856,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-proxy-endpoints</summary>
+- **<details><summary>describe-db-proxy-endpoints</summary><blockquote>**
 
   * --db-proxy-name
   * --db-proxy-endpoint-name
@@ -873,7 +869,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-proxy-target-groups</summary>
+- **<details><summary>describe-db-proxy-target-groups</summary><blockquote>**
 
   * --db-proxy-name
   * --target-group-name
@@ -886,7 +882,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-proxy-targets</summary>
+- **<details><summary>describe-db-proxy-targets</summary><blockquote>**
 
   * --db-proxy-name
   * --target-group-name
@@ -899,7 +895,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-security-groups</summary>
+- **<details><summary>describe-db-security-groups</summary><blockquote>**
 
   * --db-security-group-name
   * --filters
@@ -911,7 +907,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-snapshot-attributes</summary>
+- **<details><summary>describe-db-snapshot-attributes</summary><blockquote>**
 
   * --db-snapshot-identifier
   * --cli-input-json
@@ -919,7 +915,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-snapshots</summary>
+- **<details><summary>describe-db-snapshots</summary><blockquote>**
 
   * --db-instance-identifier
   * --db-snapshot-identifier
@@ -938,7 +934,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-db-subnet-groups</summary>
+- **<details><summary>describe-db-subnet-groups</summary><blockquote>**
 
   * --db-subnet-group-name
   * --filters
@@ -950,7 +946,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-engine-default-cluster-parameters</summary>
+- **<details><summary>describe-engine-default-cluster-parameters</summary><blockquote>**
 
   * --db-parameter-group-family
   * --filters
@@ -962,7 +958,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-engine-default-parameters</summary>
+- **<details><summary>describe-engine-default-parameters</summary><blockquote>**
 
   * --db-parameter-group-family
   * --filters
@@ -974,7 +970,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-event-categories</summary>
+- **<details><summary>describe-event-categories</summary><blockquote>**
 
   * --source-type
   * --filters
@@ -983,7 +979,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-events</summary>
+- **<details><summary>describe-events</summary><blockquote>**
 
   * --source-identifier
   * --source-type
@@ -1000,7 +996,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-event-subscriptions</summary>
+- **<details><summary>describe-event-subscriptions</summary><blockquote>**
 
   * --subscription-name
   * --filters
@@ -1012,7 +1008,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-export-tasks</summary>
+- **<details><summary>describe-export-tasks</summary><blockquote>**
 
   * --export-task-identifier
   * --source-arn
@@ -1025,7 +1021,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-global-clusters</summary>
+- **<details><summary>describe-global-clusters</summary><blockquote>**
 
   * --global-cluster-identifier
   * --filters
@@ -1037,7 +1033,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-installation-media</summary>
+- **<details><summary>describe-installation-media</summary><blockquote>**
 
   * --installation-media-id
   * --filters
@@ -1049,7 +1045,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-option-group-options</summary>
+- **<details><summary>describe-option-group-options</summary><blockquote>**
 
   * --engine-name
   * --major-engine-version
@@ -1062,7 +1058,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-option-groups</summary>
+- **<details><summary>describe-option-groups</summary><blockquote>**
 
   * --option-group-name
   * --filters
@@ -1076,7 +1072,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-orderable-db-instance-options</summary>
+- **<details><summary>describe-orderable-db-instance-options</summary><blockquote>**
 
   * --engine
   * --engine-version
@@ -1094,7 +1090,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-pending-maintenance-actions</summary>
+- **<details><summary>describe-pending-maintenance-actions</summary><blockquote>**
 
   * --resource-identifier
   * --filters
@@ -1106,7 +1102,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-reserved-db-instances</summary>
+- **<details><summary>describe-reserved-db-instances</summary><blockquote>**
 
   * --reserved-db-instance-id
   * --reserved-db-instances-offering-id
@@ -1126,7 +1122,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-reserved-db-instances-offerings</summary>
+- **<details><summary>describe-reserved-db-instances-offerings</summary><blockquote>**
 
   * --reserved-db-instances-offering-id
   * --db-instance-class
@@ -1144,7 +1140,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-source-regions</summary>
+- **<details><summary>describe-source-regions</summary><blockquote>**
 
   * --region-name
   * --filters
@@ -1156,7 +1152,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-valid-db-instance-modifications</summary>
+- **<details><summary>describe-valid-db-instance-modifications</summary><blockquote>**
 
   * --db-instance-identifier
   * --cli-input-json
@@ -1164,7 +1160,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>download-db-log-file-portion</summary>
+- **<details><summary>download-db-log-file-portion</summary><blockquote>**
 
   * --db-instance-identifier
   * --log-file-name
@@ -1176,7 +1172,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>failover-db-cluster</summary>
+- **<details><summary>failover-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --target-db-instance-identifier
@@ -1185,7 +1181,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>failover-global-cluster</summary>
+- **<details><summary>failover-global-cluster</summary><blockquote>**
 
   * --global-cluster-identifier
   * --target-db-cluster-identifier
@@ -1194,19 +1190,19 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>generate-db-auth-token</summary>
+- **<details><summary>generate-db-auth-token</summary><blockquote>**
 
   * --hostname
   * --port
   * --username
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>import-installation-media</summary>
+- **<details><summary>import-installation-media</summary><blockquote>**
 
   * --custom-availability-zone-id
   * --engine
@@ -1218,7 +1214,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-name
   * --filters
@@ -1227,7 +1223,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-certificates</summary>
+- **<details><summary>modify-certificates</summary><blockquote>**
 
   * --certificate-identifier
   * --remove-customer-override
@@ -1237,7 +1233,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-current-db-cluster-capacity</summary>
+- **<details><summary>modify-current-db-cluster-capacity</summary><blockquote>**
 
   * --db-cluster-identifier
   * --capacity
@@ -1248,7 +1244,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-cluster</summary>
+- **<details><summary>modify-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --new-db-cluster-identifier
@@ -1286,7 +1282,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-cluster-endpoint</summary>
+- **<details><summary>modify-db-cluster-endpoint</summary><blockquote>**
 
   * --db-cluster-endpoint-identifier
   * --endpoint-type
@@ -1297,7 +1293,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-cluster-parameter-group</summary>
+- **<details><summary>modify-db-cluster-parameter-group</summary><blockquote>**
 
   * --db-cluster-parameter-group-name
   * --parameters
@@ -1306,7 +1302,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-cluster-snapshot-attribute</summary>
+- **<details><summary>modify-db-cluster-snapshot-attribute</summary><blockquote>**
 
   * --db-cluster-snapshot-identifier
   * --attribute-name
@@ -1317,7 +1313,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-instance</summary>
+- **<details><summary>modify-db-instance</summary><blockquote>**
 
   * --db-instance-identifier
   * --allocated-storage
@@ -1381,7 +1377,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-parameter-group</summary>
+- **<details><summary>modify-db-parameter-group</summary><blockquote>**
 
   * --db-parameter-group-name
   * --parameters
@@ -1390,7 +1386,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-proxy</summary>
+- **<details><summary>modify-db-proxy</summary><blockquote>**
 
   * --db-proxy-name
   * --new-db-proxy-name
@@ -1407,7 +1403,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-proxy-endpoint</summary>
+- **<details><summary>modify-db-proxy-endpoint</summary><blockquote>**
 
   * --db-proxy-endpoint-name
   * --new-db-proxy-endpoint-name
@@ -1417,7 +1413,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-proxy-target-group</summary>
+- **<details><summary>modify-db-proxy-target-group</summary><blockquote>**
 
   * --target-group-name
   * --db-proxy-name
@@ -1428,7 +1424,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-snapshot</summary>
+- **<details><summary>modify-db-snapshot</summary><blockquote>**
 
   * --db-snapshot-identifier
   * --engine-version
@@ -1438,7 +1434,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-snapshot-attribute</summary>
+- **<details><summary>modify-db-snapshot-attribute</summary><blockquote>**
 
   * --db-snapshot-identifier
   * --attribute-name
@@ -1449,7 +1445,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-db-subnet-group</summary>
+- **<details><summary>modify-db-subnet-group</summary><blockquote>**
 
   * --db-subnet-group-name
   * --db-subnet-group-description
@@ -1459,7 +1455,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-event-subscription</summary>
+- **<details><summary>modify-event-subscription</summary><blockquote>**
 
   * --subscription-name
   * --sns-topic-arn
@@ -1472,7 +1468,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-global-cluster</summary>
+- **<details><summary>modify-global-cluster</summary><blockquote>**
 
   * --global-cluster-identifier
   * --new-global-cluster-identifier
@@ -1486,7 +1482,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>promote-read-replica</summary>
+- **<details><summary>promote-read-replica</summary><blockquote>**
 
   * --db-instance-identifier
   * --backup-retention-period
@@ -1496,7 +1492,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>promote-read-replica-db-cluster</summary>
+- **<details><summary>promote-read-replica-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --cli-input-json
@@ -1504,7 +1500,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>purchase-reserved-db-instances-offering</summary>
+- **<details><summary>purchase-reserved-db-instances-offering</summary><blockquote>**
 
   * --reserved-db-instances-offering-id
   * --reserved-db-instance-id
@@ -1515,7 +1511,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>reboot-db-instance</summary>
+- **<details><summary>reboot-db-instance</summary><blockquote>**
 
   * --db-instance-identifier
   * --force-failover
@@ -1525,7 +1521,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>register-db-proxy-targets</summary>
+- **<details><summary>register-db-proxy-targets</summary><blockquote>**
 
   * --db-proxy-name
   * --target-group-name
@@ -1536,7 +1532,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-from-global-cluster</summary>
+- **<details><summary>remove-from-global-cluster</summary><blockquote>**
 
   * --global-cluster-identifier
   * --db-cluster-identifier
@@ -1545,7 +1541,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-option-from-option-group</summary>
+- **<details><summary>remove-option-from-option-group</summary><blockquote>**
 
   * --option-group-name
   * --apply-immediately
@@ -1556,7 +1552,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-role-from-db-cluster</summary>
+- **<details><summary>remove-role-from-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --role-arn
@@ -1566,7 +1562,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-role-from-db-instance</summary>
+- **<details><summary>remove-role-from-db-instance</summary><blockquote>**
 
   * --db-instance-identifier
   * --role-arn
@@ -1576,7 +1572,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-source-identifier-from-subscription</summary>
+- **<details><summary>remove-source-identifier-from-subscription</summary><blockquote>**
 
   * --subscription-name
   * --source-identifier
@@ -1585,7 +1581,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-tags-from-resource</summary>
+- **<details><summary>remove-tags-from-resource</summary><blockquote>**
 
   * --resource-name
   * --tag-keys
@@ -1594,7 +1590,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-db-cluster-parameter-group</summary>
+- **<details><summary>reset-db-cluster-parameter-group</summary><blockquote>**
 
   * --db-cluster-parameter-group-name
   * --reset-all-parameters
@@ -1605,7 +1601,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-db-parameter-group</summary>
+- **<details><summary>reset-db-parameter-group</summary><blockquote>**
 
   * --db-parameter-group-name
   * --reset-all-parameters
@@ -1616,7 +1612,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-db-cluster-from-s3</summary>
+- **<details><summary>restore-db-cluster-from-s3</summary><blockquote>**
 
   * --availability-zones
   * --backup-retention-period
@@ -1658,7 +1654,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-db-cluster-from-snapshot</summary>
+- **<details><summary>restore-db-cluster-from-snapshot</summary><blockquote>**
 
   * --availability-zones
   * --db-cluster-identifier
@@ -1690,7 +1686,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-db-cluster-to-point-in-time</summary>
+- **<details><summary>restore-db-cluster-to-point-in-time</summary><blockquote>**
 
   * --db-cluster-identifier
   * --restore-type
@@ -1722,7 +1718,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-db-instance-from-db-snapshot</summary>
+- **<details><summary>restore-db-instance-from-db-snapshot</summary><blockquote>**
 
   * --db-instance-identifier
   * --db-snapshot-identifier
@@ -1766,7 +1762,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-db-instance-from-s3</summary>
+- **<details><summary>restore-db-instance-from-s3</summary><blockquote>**
 
   * --db-name
   * --db-instance-identifier
@@ -1826,7 +1822,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-db-instance-to-point-in-time</summary>
+- **<details><summary>restore-db-instance-to-point-in-time</summary><blockquote>**
 
   * --source-db-instance-identifier
   * --target-db-instance-identifier
@@ -1876,7 +1872,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>revoke-db-security-group-ingress</summary>
+- **<details><summary>revoke-db-security-group-ingress</summary><blockquote>**
 
   * --db-security-group-name
   * --cidrip
@@ -1888,7 +1884,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>start-activity-stream</summary>
+- **<details><summary>start-activity-stream</summary><blockquote>**
 
   * --resource-arn
   * --mode
@@ -1902,7 +1898,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>start-db-cluster</summary>
+- **<details><summary>start-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --cli-input-json
@@ -1910,7 +1906,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>start-db-instance</summary>
+- **<details><summary>start-db-instance</summary><blockquote>**
 
   * --db-instance-identifier
   * --cli-input-json
@@ -1918,7 +1914,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>start-db-instance-automated-backups-replication</summary>
+- **<details><summary>start-db-instance-automated-backups-replication</summary><blockquote>**
 
   * --source-db-instance-arn
   * --backup-retention-period
@@ -1930,7 +1926,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>start-export-task</summary>
+- **<details><summary>start-export-task</summary><blockquote>**
 
   * --export-task-identifier
   * --source-arn
@@ -1944,7 +1940,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-activity-stream</summary>
+- **<details><summary>stop-activity-stream</summary><blockquote>**
 
   * --resource-arn
   * --apply-immediately
@@ -1954,7 +1950,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-db-cluster</summary>
+- **<details><summary>stop-db-cluster</summary><blockquote>**
 
   * --db-cluster-identifier
   * --cli-input-json
@@ -1962,7 +1958,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-db-instance</summary>
+- **<details><summary>stop-db-instance</summary><blockquote>**
 
   * --db-instance-identifier
   * --db-snapshot-identifier
@@ -1971,7 +1967,7 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-db-instance-automated-backups-replication</summary>
+- **<details><summary>stop-db-instance-automated-backups-replication</summary><blockquote>**
 
   * --source-db-instance-arn
   * --cli-input-json
@@ -1979,10 +1975,150 @@ rds
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

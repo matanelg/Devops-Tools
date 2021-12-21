@@ -1,10 +1,6 @@
-<details>
+<details><summary>marketplace-catalog</summary><blockquote>
 
-<summary>
-marketplace-catalog
-</summary>
-
-- <details><summary>cancel-change-set</summary>
+- **<details><summary>cancel-change-set</summary><blockquote>**
 
   * --catalog
   * --change-set-id
@@ -13,7 +9,7 @@ marketplace-catalog
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-change-set</summary>
+- **<details><summary>describe-change-set</summary><blockquote>**
 
   * --catalog
   * --change-set-id
@@ -22,7 +18,7 @@ marketplace-catalog
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-entity</summary>
+- **<details><summary>describe-entity</summary><blockquote>**
 
   * --catalog
   * --entity-id
@@ -31,12 +27,12 @@ marketplace-catalog
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-change-sets</summary>
+- **<details><summary>list-change-sets</summary><blockquote>**
 
   * --catalog
   * --filter-list
@@ -48,7 +44,7 @@ marketplace-catalog
   * --generate-cli-skeleton
 
 
-- <details><summary>list-entities</summary>
+- **<details><summary>list-entities</summary><blockquote>**
 
   * --catalog
   * --entity-type
@@ -61,7 +57,7 @@ marketplace-catalog
   * --generate-cli-skeleton
 
 
-- <details><summary>start-change-set</summary>
+- **<details><summary>start-change-set</summary><blockquote>**
 
   * --catalog
   * --change-set
@@ -72,5 +68,11 @@ marketplace-catalog
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

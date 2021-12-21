@@ -1,10 +1,6 @@
-<details>
+<details><summary>ssm</summary><blockquote>
 
-<summary>
-ssm
-</summary>
-
-- <details><summary>add-tags-to-resource</summary>
+- **<details><summary>add-tags-to-resource</summary><blockquote>**
 
   * --resource-type
   * --resource-id
@@ -14,7 +10,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-ops-item-related-item</summary>
+- **<details><summary>associate-ops-item-related-item</summary><blockquote>**
 
   * --ops-item-id
   * --association-type
@@ -25,7 +21,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-command</summary>
+- **<details><summary>cancel-command</summary><blockquote>**
 
   * --command-id
   * --instance-ids
@@ -34,7 +30,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-maintenance-window-execution</summary>
+- **<details><summary>cancel-maintenance-window-execution</summary><blockquote>**
 
   * --window-execution-id
   * --cli-input-json
@@ -42,7 +38,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>create-activation</summary>
+- **<details><summary>create-activation</summary><blockquote>**
 
   * --description
   * --default-instance-name
@@ -55,7 +51,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>create-association</summary>
+- **<details><summary>create-association</summary><blockquote>**
 
   * --name
   * --document-version
@@ -79,7 +75,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>create-association-batch</summary>
+- **<details><summary>create-association-batch</summary><blockquote>**
 
   * --entries
   * --cli-input-json
@@ -87,7 +83,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>create-document</summary>
+- **<details><summary>create-document</summary><blockquote>**
 
   * --content
   * --requires
@@ -104,7 +100,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>create-maintenance-window</summary>
+- **<details><summary>create-maintenance-window</summary><blockquote>**
 
   * --name
   * --description
@@ -124,7 +120,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>create-ops-item</summary>
+- **<details><summary>create-ops-item</summary><blockquote>**
 
   * --description
   * --ops-item-type
@@ -146,7 +142,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>create-ops-metadata</summary>
+- **<details><summary>create-ops-metadata</summary><blockquote>**
 
   * --resource-id
   * --metadata
@@ -156,7 +152,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>create-patch-baseline</summary>
+- **<details><summary>create-patch-baseline</summary><blockquote>**
 
   * --operating-system
   * --name
@@ -177,7 +173,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>create-resource-data-sync</summary>
+- **<details><summary>create-resource-data-sync</summary><blockquote>**
 
   * --sync-name
   * --s3-destination
@@ -188,7 +184,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-activation</summary>
+- **<details><summary>delete-activation</summary><blockquote>**
 
   * --activation-id
   * --cli-input-json
@@ -196,7 +192,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-association</summary>
+- **<details><summary>delete-association</summary><blockquote>**
 
   * --name
   * --instance-id
@@ -206,7 +202,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-document</summary>
+- **<details><summary>delete-document</summary><blockquote>**
 
   * --name
   * --document-version
@@ -218,7 +214,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-inventory</summary>
+- **<details><summary>delete-inventory</summary><blockquote>**
 
   * --type-name
   * --schema-delete-option
@@ -230,7 +226,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-maintenance-window</summary>
+- **<details><summary>delete-maintenance-window</summary><blockquote>**
 
   * --window-id
   * --cli-input-json
@@ -238,7 +234,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-ops-metadata</summary>
+- **<details><summary>delete-ops-metadata</summary><blockquote>**
 
   * --ops-metadata-arn
   * --cli-input-json
@@ -246,7 +242,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-parameter</summary>
+- **<details><summary>delete-parameter</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -254,7 +250,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-parameters</summary>
+- **<details><summary>delete-parameters</summary><blockquote>**
 
   * --names
   * --cli-input-json
@@ -262,7 +258,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-patch-baseline</summary>
+- **<details><summary>delete-patch-baseline</summary><blockquote>**
 
   * --baseline-id
   * --cli-input-json
@@ -270,7 +266,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-resource-data-sync</summary>
+- **<details><summary>delete-resource-data-sync</summary><blockquote>**
 
   * --sync-name
   * --sync-type
@@ -279,7 +275,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-managed-instance</summary>
+- **<details><summary>deregister-managed-instance</summary><blockquote>**
 
   * --instance-id
   * --cli-input-json
@@ -287,7 +283,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-patch-baseline-for-patch-group</summary>
+- **<details><summary>deregister-patch-baseline-for-patch-group</summary><blockquote>**
 
   * --baseline-id
   * --patch-group
@@ -296,7 +292,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-target-from-maintenance-window</summary>
+- **<details><summary>deregister-target-from-maintenance-window</summary><blockquote>**
 
   * --window-id
   * --window-target-id
@@ -307,7 +303,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-task-from-maintenance-window</summary>
+- **<details><summary>deregister-task-from-maintenance-window</summary><blockquote>**
 
   * --window-id
   * --window-task-id
@@ -316,7 +312,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-activations</summary>
+- **<details><summary>describe-activations</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -327,7 +323,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-association</summary>
+- **<details><summary>describe-association</summary><blockquote>**
 
   * --name
   * --instance-id
@@ -338,7 +334,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-association-executions</summary>
+- **<details><summary>describe-association-executions</summary><blockquote>**
 
   * --association-id
   * --filters
@@ -350,7 +346,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-association-execution-targets</summary>
+- **<details><summary>describe-association-execution-targets</summary><blockquote>**
 
   * --association-id
   * --execution-id
@@ -363,7 +359,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-automation-executions</summary>
+- **<details><summary>describe-automation-executions</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -374,7 +370,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-automation-step-executions</summary>
+- **<details><summary>describe-automation-step-executions</summary><blockquote>**
 
   * --automation-execution-id
   * --filters
@@ -388,7 +384,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-available-patches</summary>
+- **<details><summary>describe-available-patches</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -399,7 +395,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-document</summary>
+- **<details><summary>describe-document</summary><blockquote>**
 
   * --name
   * --document-version
@@ -409,7 +405,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-document-permission</summary>
+- **<details><summary>describe-document-permission</summary><blockquote>**
 
   * --name
   * --permission-type
@@ -420,7 +416,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-effective-instance-associations</summary>
+- **<details><summary>describe-effective-instance-associations</summary><blockquote>**
 
   * --instance-id
   * --cli-input-json
@@ -431,7 +427,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-effective-patches-for-patch-baseline</summary>
+- **<details><summary>describe-effective-patches-for-patch-baseline</summary><blockquote>**
 
   * --baseline-id
   * --cli-input-json
@@ -442,7 +438,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instance-associations-status</summary>
+- **<details><summary>describe-instance-associations-status</summary><blockquote>**
 
   * --instance-id
   * --cli-input-json
@@ -453,7 +449,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instance-information</summary>
+- **<details><summary>describe-instance-information</summary><blockquote>**
 
   * --instance-information-filter-list
   * --filters
@@ -465,7 +461,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instance-patches</summary>
+- **<details><summary>describe-instance-patches</summary><blockquote>**
 
   * --instance-id
   * --filters
@@ -477,7 +473,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instance-patch-states</summary>
+- **<details><summary>describe-instance-patch-states</summary><blockquote>**
 
   * --instance-ids
   * --cli-input-json
@@ -488,7 +484,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-instance-patch-states-for-patch-group</summary>
+- **<details><summary>describe-instance-patch-states-for-patch-group</summary><blockquote>**
 
   * --patch-group
   * --filters
@@ -500,7 +496,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-inventory-deletions</summary>
+- **<details><summary>describe-inventory-deletions</summary><blockquote>**
 
   * --deletion-id
   * --cli-input-json
@@ -511,7 +507,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-maintenance-window-executions</summary>
+- **<details><summary>describe-maintenance-window-executions</summary><blockquote>**
 
   * --window-id
   * --filters
@@ -523,7 +519,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-maintenance-window-execution-task-invocations</summary>
+- **<details><summary>describe-maintenance-window-execution-task-invocations</summary><blockquote>**
 
   * --window-execution-id
   * --task-id
@@ -536,7 +532,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-maintenance-window-execution-tasks</summary>
+- **<details><summary>describe-maintenance-window-execution-tasks</summary><blockquote>**
 
   * --window-execution-id
   * --filters
@@ -548,7 +544,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-maintenance-windows</summary>
+- **<details><summary>describe-maintenance-windows</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -559,7 +555,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-maintenance-window-schedule</summary>
+- **<details><summary>describe-maintenance-window-schedule</summary><blockquote>**
 
   * --window-id
   * --targets
@@ -573,7 +569,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-maintenance-windows-for-target</summary>
+- **<details><summary>describe-maintenance-windows-for-target</summary><blockquote>**
 
   * --targets
   * --resource-type
@@ -585,7 +581,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-maintenance-window-targets</summary>
+- **<details><summary>describe-maintenance-window-targets</summary><blockquote>**
 
   * --window-id
   * --filters
@@ -597,7 +593,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-maintenance-window-tasks</summary>
+- **<details><summary>describe-maintenance-window-tasks</summary><blockquote>**
 
   * --window-id
   * --filters
@@ -609,7 +605,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-ops-items</summary>
+- **<details><summary>describe-ops-items</summary><blockquote>**
 
   * --ops-item-filters
   * --cli-input-json
@@ -620,7 +616,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-parameters</summary>
+- **<details><summary>describe-parameters</summary><blockquote>**
 
   * --filters
   * --parameter-filters
@@ -632,7 +628,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-patch-baselines</summary>
+- **<details><summary>describe-patch-baselines</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -643,7 +639,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-patch-groups</summary>
+- **<details><summary>describe-patch-groups</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -654,7 +650,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-patch-group-state</summary>
+- **<details><summary>describe-patch-group-state</summary><blockquote>**
 
   * --patch-group
   * --cli-input-json
@@ -662,7 +658,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-patch-properties</summary>
+- **<details><summary>describe-patch-properties</summary><blockquote>**
 
   * --operating-system
   * --property
@@ -675,7 +671,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-sessions</summary>
+- **<details><summary>describe-sessions</summary><blockquote>**
 
   * --state
   * --filters
@@ -687,7 +683,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-ops-item-related-item</summary>
+- **<details><summary>disassociate-ops-item-related-item</summary><blockquote>**
 
   * --ops-item-id
   * --association-id
@@ -696,7 +692,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-automation-execution</summary>
+- **<details><summary>get-automation-execution</summary><blockquote>**
 
   * --automation-execution-id
   * --cli-input-json
@@ -704,7 +700,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-calendar-state</summary>
+- **<details><summary>get-calendar-state</summary><blockquote>**
 
   * --calendar-names
   * --at-time
@@ -713,7 +709,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-command-invocation</summary>
+- **<details><summary>get-command-invocation</summary><blockquote>**
 
   * --command-id
   * --instance-id
@@ -723,7 +719,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-connection-status</summary>
+- **<details><summary>get-connection-status</summary><blockquote>**
 
   * --target
   * --cli-input-json
@@ -731,7 +727,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-default-patch-baseline</summary>
+- **<details><summary>get-default-patch-baseline</summary><blockquote>**
 
   * --operating-system
   * --cli-input-json
@@ -739,7 +735,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-deployable-patch-snapshot-for-instance</summary>
+- **<details><summary>get-deployable-patch-snapshot-for-instance</summary><blockquote>**
 
   * --instance-id
   * --snapshot-id
@@ -749,7 +745,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-document</summary>
+- **<details><summary>get-document</summary><blockquote>**
 
   * --name
   * --version-name
@@ -760,7 +756,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-inventory</summary>
+- **<details><summary>get-inventory</summary><blockquote>**
 
   * --filters
   * --aggregators
@@ -773,7 +769,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-inventory-schema</summary>
+- **<details><summary>get-inventory-schema</summary><blockquote>**
 
   * --type-name
   * --aggregator
@@ -788,7 +784,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-maintenance-window</summary>
+- **<details><summary>get-maintenance-window</summary><blockquote>**
 
   * --window-id
   * --cli-input-json
@@ -796,7 +792,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-maintenance-window-execution</summary>
+- **<details><summary>get-maintenance-window-execution</summary><blockquote>**
 
   * --window-execution-id
   * --cli-input-json
@@ -804,7 +800,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-maintenance-window-execution-task</summary>
+- **<details><summary>get-maintenance-window-execution-task</summary><blockquote>**
 
   * --window-execution-id
   * --task-id
@@ -813,7 +809,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-maintenance-window-execution-task-invocation</summary>
+- **<details><summary>get-maintenance-window-execution-task-invocation</summary><blockquote>**
 
   * --window-execution-id
   * --task-id
@@ -823,7 +819,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-maintenance-window-task</summary>
+- **<details><summary>get-maintenance-window-task</summary><blockquote>**
 
   * --window-id
   * --window-task-id
@@ -832,7 +828,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-ops-item</summary>
+- **<details><summary>get-ops-item</summary><blockquote>**
 
   * --ops-item-id
   * --cli-input-json
@@ -840,7 +836,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-ops-metadata</summary>
+- **<details><summary>get-ops-metadata</summary><blockquote>**
 
   * --ops-metadata-arn
   * --max-results
@@ -850,7 +846,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-ops-summary</summary>
+- **<details><summary>get-ops-summary</summary><blockquote>**
 
   * --sync-name
   * --filters
@@ -864,7 +860,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-parameter</summary>
+- **<details><summary>get-parameter</summary><blockquote>**
 
   * --name
   * --with-decryption
@@ -874,7 +870,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-parameter-history</summary>
+- **<details><summary>get-parameter-history</summary><blockquote>**
 
   * --name
   * --with-decryption
@@ -887,7 +883,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-parameters</summary>
+- **<details><summary>get-parameters</summary><blockquote>**
 
   * --names
   * --with-decryption
@@ -897,7 +893,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-parameters-by-path</summary>
+- **<details><summary>get-parameters-by-path</summary><blockquote>**
 
   * --path
   * --recursive
@@ -913,7 +909,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-patch-baseline</summary>
+- **<details><summary>get-patch-baseline</summary><blockquote>**
 
   * --baseline-id
   * --cli-input-json
@@ -921,7 +917,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-patch-baseline-for-patch-group</summary>
+- **<details><summary>get-patch-baseline-for-patch-group</summary><blockquote>**
 
   * --patch-group
   * --operating-system
@@ -930,7 +926,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-service-setting</summary>
+- **<details><summary>get-service-setting</summary><blockquote>**
 
   * --setting-id
   * --cli-input-json
@@ -938,12 +934,12 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>label-parameter-version</summary>
+- **<details><summary>label-parameter-version</summary><blockquote>**
 
   * --name
   * --parameter-version
@@ -953,7 +949,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-associations</summary>
+- **<details><summary>list-associations</summary><blockquote>**
 
   * --association-filter-list
   * --cli-input-json
@@ -964,7 +960,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-association-versions</summary>
+- **<details><summary>list-association-versions</summary><blockquote>**
 
   * --association-id
   * --cli-input-json
@@ -975,7 +971,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-command-invocations</summary>
+- **<details><summary>list-command-invocations</summary><blockquote>**
 
   * --command-id
   * --instance-id
@@ -990,7 +986,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-commands</summary>
+- **<details><summary>list-commands</summary><blockquote>**
 
   * --command-id
   * --instance-id
@@ -1003,7 +999,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-compliance-items</summary>
+- **<details><summary>list-compliance-items</summary><blockquote>**
 
   * --filters
   * --resource-ids
@@ -1016,7 +1012,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-compliance-summaries</summary>
+- **<details><summary>list-compliance-summaries</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -1027,7 +1023,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-document-metadata-history</summary>
+- **<details><summary>list-document-metadata-history</summary><blockquote>**
 
   * --name
   * --document-version
@@ -1039,7 +1035,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-documents</summary>
+- **<details><summary>list-documents</summary><blockquote>**
 
   * --document-filter-list
   * --filters
@@ -1051,7 +1047,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-document-versions</summary>
+- **<details><summary>list-document-versions</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -1062,7 +1058,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-inventory-entries</summary>
+- **<details><summary>list-inventory-entries</summary><blockquote>**
 
   * --instance-id
   * --type-name
@@ -1074,7 +1070,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-ops-item-events</summary>
+- **<details><summary>list-ops-item-events</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -1085,7 +1081,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-ops-item-related-items</summary>
+- **<details><summary>list-ops-item-related-items</summary><blockquote>**
 
   * --ops-item-id
   * --filters
@@ -1097,7 +1093,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-ops-metadata</summary>
+- **<details><summary>list-ops-metadata</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -1108,7 +1104,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resource-compliance-summaries</summary>
+- **<details><summary>list-resource-compliance-summaries</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -1119,7 +1115,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resource-data-sync</summary>
+- **<details><summary>list-resource-data-sync</summary><blockquote>**
 
   * --sync-type
   * --cli-input-json
@@ -1130,7 +1126,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-type
   * --resource-id
@@ -1139,7 +1135,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-document-permission</summary>
+- **<details><summary>modify-document-permission</summary><blockquote>**
 
   * --name
   * --permission-type
@@ -1151,7 +1147,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>put-compliance-items</summary>
+- **<details><summary>put-compliance-items</summary><blockquote>**
 
   * --resource-id
   * --resource-type
@@ -1165,7 +1161,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>put-inventory</summary>
+- **<details><summary>put-inventory</summary><blockquote>**
 
   * --instance-id
   * --items
@@ -1174,7 +1170,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>put-parameter</summary>
+- **<details><summary>put-parameter</summary><blockquote>**
 
   * --name
   * --description
@@ -1193,7 +1189,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>register-default-patch-baseline</summary>
+- **<details><summary>register-default-patch-baseline</summary><blockquote>**
 
   * --baseline-id
   * --cli-input-json
@@ -1201,7 +1197,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>register-patch-baseline-for-patch-group</summary>
+- **<details><summary>register-patch-baseline-for-patch-group</summary><blockquote>**
 
   * --baseline-id
   * --patch-group
@@ -1210,7 +1206,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>register-target-with-maintenance-window</summary>
+- **<details><summary>register-target-with-maintenance-window</summary><blockquote>**
 
   * --window-id
   * --resource-type
@@ -1224,7 +1220,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>register-task-with-maintenance-window</summary>
+- **<details><summary>register-task-with-maintenance-window</summary><blockquote>**
 
   * --window-id
   * --targets
@@ -1245,7 +1241,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-tags-from-resource</summary>
+- **<details><summary>remove-tags-from-resource</summary><blockquote>**
 
   * --resource-type
   * --resource-id
@@ -1255,7 +1251,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-service-setting</summary>
+- **<details><summary>reset-service-setting</summary><blockquote>**
 
   * --setting-id
   * --cli-input-json
@@ -1263,7 +1259,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>resume-session</summary>
+- **<details><summary>resume-session</summary><blockquote>**
 
   * --session-id
   * --cli-input-json
@@ -1271,7 +1267,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>send-automation-signal</summary>
+- **<details><summary>send-automation-signal</summary><blockquote>**
 
   * --automation-execution-id
   * --signal-type
@@ -1281,7 +1277,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>send-command</summary>
+- **<details><summary>send-command</summary><blockquote>**
 
   * --instance-ids
   * --targets
@@ -1305,7 +1301,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>start-associations-once</summary>
+- **<details><summary>start-associations-once</summary><blockquote>**
 
   * --association-ids
   * --cli-input-json
@@ -1313,7 +1309,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>start-automation-execution</summary>
+- **<details><summary>start-automation-execution</summary><blockquote>**
 
   * --document-name
   * --document-version
@@ -1332,7 +1328,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>start-change-request-execution</summary>
+- **<details><summary>start-change-request-execution</summary><blockquote>**
 
   * --scheduled-time
   * --document-name
@@ -1349,7 +1345,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>start-session</summary>
+- **<details><summary>start-session</summary><blockquote>**
 
   * --target
   * --document-name
@@ -1359,7 +1355,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-automation-execution</summary>
+- **<details><summary>stop-automation-execution</summary><blockquote>**
 
   * --automation-execution-id
   * --type
@@ -1368,7 +1364,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>terminate-session</summary>
+- **<details><summary>terminate-session</summary><blockquote>**
 
   * --session-id
   * --cli-input-json
@@ -1376,7 +1372,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>unlabel-parameter-version</summary>
+- **<details><summary>unlabel-parameter-version</summary><blockquote>**
 
   * --name
   * --parameter-version
@@ -1386,7 +1382,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>update-association</summary>
+- **<details><summary>update-association</summary><blockquote>**
 
   * --association-id
   * --parameters
@@ -1411,7 +1407,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>update-association-status</summary>
+- **<details><summary>update-association-status</summary><blockquote>**
 
   * --name
   * --instance-id
@@ -1421,7 +1417,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>update-document</summary>
+- **<details><summary>update-document</summary><blockquote>**
 
   * --content
   * --attachments
@@ -1436,7 +1432,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>update-document-default-version</summary>
+- **<details><summary>update-document-default-version</summary><blockquote>**
 
   * --name
   * --document-version
@@ -1445,7 +1441,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>update-document-metadata</summary>
+- **<details><summary>update-document-metadata</summary><blockquote>**
 
   * --name
   * --document-version
@@ -1455,7 +1451,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>update-maintenance-window</summary>
+- **<details><summary>update-maintenance-window</summary><blockquote>**
 
   * --window-id
   * --name
@@ -1478,7 +1474,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>update-maintenance-window-target</summary>
+- **<details><summary>update-maintenance-window-target</summary><blockquote>**
 
   * --window-id
   * --window-target-id
@@ -1493,7 +1489,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>update-maintenance-window-task</summary>
+- **<details><summary>update-maintenance-window-task</summary><blockquote>**
 
   * --window-id
   * --window-task-id
@@ -1515,7 +1511,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>update-managed-instance-role</summary>
+- **<details><summary>update-managed-instance-role</summary><blockquote>**
 
   * --instance-id
   * --iam-role
@@ -1524,7 +1520,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>update-ops-item</summary>
+- **<details><summary>update-ops-item</summary><blockquote>**
 
   * --description
   * --operational-data
@@ -1546,7 +1542,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>update-ops-metadata</summary>
+- **<details><summary>update-ops-metadata</summary><blockquote>**
 
   * --ops-metadata-arn
   * --metadata-to-update
@@ -1556,7 +1552,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>update-patch-baseline</summary>
+- **<details><summary>update-patch-baseline</summary><blockquote>**
 
   * --baseline-id
   * --name
@@ -1577,7 +1573,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>update-resource-data-sync</summary>
+- **<details><summary>update-resource-data-sync</summary><blockquote>**
 
   * --sync-name
   * --sync-type
@@ -1587,7 +1583,7 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>update-service-setting</summary>
+- **<details><summary>update-service-setting</summary><blockquote>**
 
   * --setting-id
   * --setting-value
@@ -1596,10 +1592,146 @@ ssm
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

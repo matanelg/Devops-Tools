@@ -1,10 +1,6 @@
-<details>
+<details><summary>datasync</summary><blockquote>
 
-<summary>
-datasync
-</summary>
-
-- <details><summary>cancel-task-execution</summary>
+- **<details><summary>cancel-task-execution</summary><blockquote>**
 
   * --task-execution-arn
   * --cli-input-json
@@ -12,7 +8,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>create-agent</summary>
+- **<details><summary>create-agent</summary><blockquote>**
 
   * --activation-key
   * --agent-name
@@ -25,7 +21,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>create-location-efs</summary>
+- **<details><summary>create-location-efs</summary><blockquote>**
 
   * --subdirectory
   * --efs-filesystem-arn
@@ -36,7 +32,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>create-location-fsx-windows</summary>
+- **<details><summary>create-location-fsx-windows</summary><blockquote>**
 
   * --subdirectory
   * --fsx-filesystem-arn
@@ -50,7 +46,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>create-location-nfs</summary>
+- **<details><summary>create-location-nfs</summary><blockquote>**
 
   * --subdirectory
   * --server-hostname
@@ -62,7 +58,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>create-location-object-storage</summary>
+- **<details><summary>create-location-object-storage</summary><blockquote>**
 
   * --server-hostname
   * --server-port
@@ -78,7 +74,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>create-location-s3</summary>
+- **<details><summary>create-location-s3</summary><blockquote>**
 
   * --subdirectory
   * --s3-bucket-arn
@@ -91,7 +87,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>create-location-smb</summary>
+- **<details><summary>create-location-smb</summary><blockquote>**
 
   * --subdirectory
   * --server-hostname
@@ -106,7 +102,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>create-task</summary>
+- **<details><summary>create-task</summary><blockquote>**
 
   * --source-location-arn
   * --destination-location-arn
@@ -121,7 +117,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-agent</summary>
+- **<details><summary>delete-agent</summary><blockquote>**
 
   * --agent-arn
   * --cli-input-json
@@ -129,7 +125,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-location</summary>
+- **<details><summary>delete-location</summary><blockquote>**
 
   * --location-arn
   * --cli-input-json
@@ -137,7 +133,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-task</summary>
+- **<details><summary>delete-task</summary><blockquote>**
 
   * --task-arn
   * --cli-input-json
@@ -145,7 +141,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-agent</summary>
+- **<details><summary>describe-agent</summary><blockquote>**
 
   * --agent-arn
   * --cli-input-json
@@ -153,7 +149,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-location-efs</summary>
+- **<details><summary>describe-location-efs</summary><blockquote>**
 
   * --location-arn
   * --cli-input-json
@@ -161,7 +157,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-location-fsx-windows</summary>
+- **<details><summary>describe-location-fsx-windows</summary><blockquote>**
 
   * --location-arn
   * --cli-input-json
@@ -169,7 +165,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-location-nfs</summary>
+- **<details><summary>describe-location-nfs</summary><blockquote>**
 
   * --location-arn
   * --cli-input-json
@@ -177,7 +173,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-location-object-storage</summary>
+- **<details><summary>describe-location-object-storage</summary><blockquote>**
 
   * --location-arn
   * --cli-input-json
@@ -185,7 +181,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-location-s3</summary>
+- **<details><summary>describe-location-s3</summary><blockquote>**
 
   * --location-arn
   * --cli-input-json
@@ -193,7 +189,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-location-smb</summary>
+- **<details><summary>describe-location-smb</summary><blockquote>**
 
   * --location-arn
   * --cli-input-json
@@ -201,7 +197,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-task</summary>
+- **<details><summary>describe-task</summary><blockquote>**
 
   * --task-arn
   * --cli-input-json
@@ -209,7 +205,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-task-execution</summary>
+- **<details><summary>describe-task-execution</summary><blockquote>**
 
   * --task-execution-arn
   * --cli-input-json
@@ -217,12 +213,12 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-agents</summary>
+- **<details><summary>list-agents</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -232,7 +228,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>list-locations</summary>
+- **<details><summary>list-locations</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -243,7 +239,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -254,7 +250,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>list-task-executions</summary>
+- **<details><summary>list-task-executions</summary><blockquote>**
 
   * --task-arn
   * --cli-input-json
@@ -265,7 +261,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tasks</summary>
+- **<details><summary>list-tasks</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -276,7 +272,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>start-task-execution</summary>
+- **<details><summary>start-task-execution</summary><blockquote>**
 
   * --task-arn
   * --override-options
@@ -286,7 +282,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -295,7 +291,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --keys
@@ -304,7 +300,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>update-agent</summary>
+- **<details><summary>update-agent</summary><blockquote>**
 
   * --agent-arn
   * --name
@@ -313,7 +309,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>update-location-nfs</summary>
+- **<details><summary>update-location-nfs</summary><blockquote>**
 
   * --location-arn
   * --subdirectory
@@ -324,7 +320,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>update-location-object-storage</summary>
+- **<details><summary>update-location-object-storage</summary><blockquote>**
 
   * --location-arn
   * --server-port
@@ -338,7 +334,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>update-location-smb</summary>
+- **<details><summary>update-location-smb</summary><blockquote>**
 
   * --location-arn
   * --subdirectory
@@ -352,7 +348,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>update-task</summary>
+- **<details><summary>update-task</summary><blockquote>**
 
   * --task-arn
   * --options
@@ -365,7 +361,7 @@ datasync
   * --generate-cli-skeleton
 
 
-- <details><summary>update-task-execution</summary>
+- **<details><summary>update-task-execution</summary><blockquote>**
 
   * --task-execution-arn
   * --options
@@ -374,5 +370,40 @@ datasync
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

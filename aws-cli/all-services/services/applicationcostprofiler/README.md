@@ -1,10 +1,6 @@
-<details>
+<details><summary>applicationcostprofiler</summary><blockquote>
 
-<summary>
-applicationcostprofiler
-</summary>
-
-- <details><summary>delete-report-definition</summary>
+- **<details><summary>delete-report-definition</summary><blockquote>**
 
   * --report-id
   * --cli-input-json
@@ -12,7 +8,7 @@ applicationcostprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>get-report-definition</summary>
+- **<details><summary>get-report-definition</summary><blockquote>**
 
   * --report-id
   * --cli-input-json
@@ -20,12 +16,12 @@ applicationcostprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>import-application-usage</summary>
+- **<details><summary>import-application-usage</summary><blockquote>**
 
   * --source-s3-location
   * --cli-input-json
@@ -33,7 +29,7 @@ applicationcostprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>list-report-definitions</summary>
+- **<details><summary>list-report-definitions</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -43,7 +39,7 @@ applicationcostprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>put-report-definition</summary>
+- **<details><summary>put-report-definition</summary><blockquote>**
 
   * --report-id
   * --report-description
@@ -55,7 +51,7 @@ applicationcostprofiler
   * --generate-cli-skeleton
 
 
-- <details><summary>update-report-definition</summary>
+- **<details><summary>update-report-definition</summary><blockquote>**
 
   * --report-id
   * --report-description
@@ -67,5 +63,11 @@ applicationcostprofiler
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

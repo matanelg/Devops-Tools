@@ -1,10 +1,6 @@
-<details>
+<details><summary>iotevents</summary><blockquote>
 
-<summary>
-iotevents
-</summary>
-
-- <details><summary>create-alarm-model</summary>
+- **<details><summary>create-alarm-model</summary><blockquote>**
 
   * --alarm-model-name
   * --alarm-model-description
@@ -21,7 +17,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>create-detector-model</summary>
+- **<details><summary>create-detector-model</summary><blockquote>**
 
   * --detector-model-name
   * --detector-model-definition
@@ -35,7 +31,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>create-input</summary>
+- **<details><summary>create-input</summary><blockquote>**
 
   * --input-name
   * --input-description
@@ -46,7 +42,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-alarm-model</summary>
+- **<details><summary>delete-alarm-model</summary><blockquote>**
 
   * --alarm-model-name
   * --cli-input-json
@@ -54,7 +50,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-detector-model</summary>
+- **<details><summary>delete-detector-model</summary><blockquote>**
 
   * --detector-model-name
   * --cli-input-json
@@ -62,7 +58,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-input</summary>
+- **<details><summary>delete-input</summary><blockquote>**
 
   * --input-name
   * --cli-input-json
@@ -70,7 +66,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-alarm-model</summary>
+- **<details><summary>describe-alarm-model</summary><blockquote>**
 
   * --alarm-model-name
   * --alarm-model-version
@@ -79,7 +75,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-detector-model</summary>
+- **<details><summary>describe-detector-model</summary><blockquote>**
 
   * --detector-model-name
   * --detector-model-version
@@ -88,7 +84,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-detector-model-analysis</summary>
+- **<details><summary>describe-detector-model-analysis</summary><blockquote>**
 
   * --analysis-id
   * --cli-input-json
@@ -96,7 +92,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-input</summary>
+- **<details><summary>describe-input</summary><blockquote>**
 
   * --input-name
   * --cli-input-json
@@ -104,14 +100,14 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-logging-options</summary>
+- **<details><summary>describe-logging-options</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-detector-model-analysis-results</summary>
+- **<details><summary>get-detector-model-analysis-results</summary><blockquote>**
 
   * --analysis-id
   * --next-token
@@ -121,12 +117,12 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-alarm-models</summary>
+- **<details><summary>list-alarm-models</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -135,7 +131,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>list-alarm-model-versions</summary>
+- **<details><summary>list-alarm-model-versions</summary><blockquote>**
 
   * --alarm-model-name
   * --next-token
@@ -145,7 +141,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>list-detector-models</summary>
+- **<details><summary>list-detector-models</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -154,7 +150,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>list-detector-model-versions</summary>
+- **<details><summary>list-detector-model-versions</summary><blockquote>**
 
   * --detector-model-name
   * --next-token
@@ -164,7 +160,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>list-input-routings</summary>
+- **<details><summary>list-input-routings</summary><blockquote>**
 
   * --input-identifier
   * --max-results
@@ -174,7 +170,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>list-inputs</summary>
+- **<details><summary>list-inputs</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -183,7 +179,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -191,7 +187,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>put-logging-options</summary>
+- **<details><summary>put-logging-options</summary><blockquote>**
 
   * --logging-options
   * --cli-input-json
@@ -199,7 +195,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>start-detector-model-analysis</summary>
+- **<details><summary>start-detector-model-analysis</summary><blockquote>**
 
   * --detector-model-definition
   * --cli-input-json
@@ -207,7 +203,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -216,7 +212,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -225,7 +221,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>update-alarm-model</summary>
+- **<details><summary>update-alarm-model</summary><blockquote>**
 
   * --alarm-model-name
   * --alarm-model-description
@@ -240,7 +236,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>update-detector-model</summary>
+- **<details><summary>update-detector-model</summary><blockquote>**
 
   * --detector-model-name
   * --detector-model-definition
@@ -252,7 +248,7 @@ iotevents
   * --generate-cli-skeleton
 
 
-- <details><summary>update-input</summary>
+- **<details><summary>update-input</summary><blockquote>**
 
   * --input-name
   * --input-description
@@ -262,5 +258,31 @@ iotevents
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

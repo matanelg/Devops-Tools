@@ -1,10 +1,6 @@
-<details>
+<details><summary>batch</summary><blockquote>
 
-<summary>
-batch
-</summary>
-
-- <details><summary>cancel-job</summary>
+- **<details><summary>cancel-job</summary><blockquote>**
 
   * --job-id
   * --reason
@@ -13,7 +9,7 @@ batch
   * --generate-cli-skeleton
 
 
-- <details><summary>create-compute-environment</summary>
+- **<details><summary>create-compute-environment</summary><blockquote>**
 
   * --compute-environment-name
   * --type
@@ -26,7 +22,7 @@ batch
   * --generate-cli-skeleton
 
 
-- <details><summary>create-job-queue</summary>
+- **<details><summary>create-job-queue</summary><blockquote>**
 
   * --job-queue-name
   * --state
@@ -38,7 +34,7 @@ batch
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-compute-environment</summary>
+- **<details><summary>delete-compute-environment</summary><blockquote>**
 
   * --compute-environment
   * --cli-input-json
@@ -46,7 +42,7 @@ batch
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-job-queue</summary>
+- **<details><summary>delete-job-queue</summary><blockquote>**
 
   * --job-queue
   * --cli-input-json
@@ -54,7 +50,7 @@ batch
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-job-definition</summary>
+- **<details><summary>deregister-job-definition</summary><blockquote>**
 
   * --job-definition
   * --cli-input-json
@@ -62,7 +58,7 @@ batch
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-compute-environments</summary>
+- **<details><summary>describe-compute-environments</summary><blockquote>**
 
   * --compute-environments
   * --cli-input-json
@@ -73,7 +69,7 @@ batch
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-job-definitions</summary>
+- **<details><summary>describe-job-definitions</summary><blockquote>**
 
   * --job-definitions
   * --job-definition-name
@@ -86,7 +82,7 @@ batch
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-job-queues</summary>
+- **<details><summary>describe-job-queues</summary><blockquote>**
 
   * --job-queues
   * --cli-input-json
@@ -97,7 +93,7 @@ batch
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-jobs</summary>
+- **<details><summary>describe-jobs</summary><blockquote>**
 
   * --jobs
   * --cli-input-json
@@ -105,12 +101,12 @@ batch
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-jobs</summary>
+- **<details><summary>list-jobs</summary><blockquote>**
 
   * --job-queue
   * --array-job-id
@@ -124,7 +120,7 @@ batch
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -132,7 +128,7 @@ batch
   * --generate-cli-skeleton
 
 
-- <details><summary>register-job-definition</summary>
+- **<details><summary>register-job-definition</summary><blockquote>**
 
   * --job-definition-name
   * --type
@@ -150,7 +146,7 @@ batch
   * --generate-cli-skeleton
 
 
-- <details><summary>submit-job</summary>
+- **<details><summary>submit-job</summary><blockquote>**
 
   * --job-name
   * --job-queue
@@ -170,7 +166,7 @@ batch
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -179,7 +175,7 @@ batch
   * --generate-cli-skeleton
 
 
-- <details><summary>terminate-job</summary>
+- **<details><summary>terminate-job</summary><blockquote>**
 
   * --job-id
   * --reason
@@ -188,7 +184,7 @@ batch
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -197,7 +193,7 @@ batch
   * --generate-cli-skeleton
 
 
-- <details><summary>update-compute-environment</summary>
+- **<details><summary>update-compute-environment</summary><blockquote>**
 
   * --compute-environment
   * --state
@@ -208,7 +204,7 @@ batch
   * --generate-cli-skeleton
 
 
-- <details><summary>update-job-queue</summary>
+- **<details><summary>update-job-queue</summary><blockquote>**
 
   * --job-queue
   * --state
@@ -219,5 +215,24 @@ batch
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>kafka</summary><blockquote>
 
-<summary>
-kafka
-</summary>
-
-- <details><summary>batch-associate-scram-secret</summary>
+- **<details><summary>batch-associate-scram-secret</summary><blockquote>**
 
   * --cluster-arn
   * --secret-arn-list
@@ -13,7 +9,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-disassociate-scram-secret</summary>
+- **<details><summary>batch-disassociate-scram-secret</summary><blockquote>**
 
   * --cluster-arn
   * --secret-arn-list
@@ -22,7 +18,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cluster</summary>
+- **<details><summary>create-cluster</summary><blockquote>**
 
   * --broker-node-group-info
   * --client-authentication
@@ -40,7 +36,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>create-configuration</summary>
+- **<details><summary>create-configuration</summary><blockquote>**
 
   * --description
   * --kafka-versions
@@ -51,7 +47,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-cluster</summary>
+- **<details><summary>delete-cluster</summary><blockquote>**
 
   * --cluster-arn
   * --current-version
@@ -60,7 +56,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-configuration</summary>
+- **<details><summary>delete-configuration</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -68,7 +64,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cluster</summary>
+- **<details><summary>describe-cluster</summary><blockquote>**
 
   * --cluster-arn
   * --cli-input-json
@@ -76,7 +72,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cluster-operation</summary>
+- **<details><summary>describe-cluster-operation</summary><blockquote>**
 
   * --cluster-operation-arn
   * --cli-input-json
@@ -84,7 +80,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-configuration</summary>
+- **<details><summary>describe-configuration</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -92,7 +88,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-configuration-revision</summary>
+- **<details><summary>describe-configuration-revision</summary><blockquote>**
 
   * --arn
   * --revision
@@ -101,7 +97,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bootstrap-brokers</summary>
+- **<details><summary>get-bootstrap-brokers</summary><blockquote>**
 
   * --cluster-arn
   * --cli-input-json
@@ -109,7 +105,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>get-compatible-kafka-versions</summary>
+- **<details><summary>get-compatible-kafka-versions</summary><blockquote>**
 
   * --cluster-arn
   * --cli-input-json
@@ -117,12 +113,12 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-cluster-operations</summary>
+- **<details><summary>list-cluster-operations</summary><blockquote>**
 
   * --cluster-arn
   * --cli-input-json
@@ -133,7 +129,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>list-clusters</summary>
+- **<details><summary>list-clusters</summary><blockquote>**
 
   * --cluster-name-filter
   * --cli-input-json
@@ -144,7 +140,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>list-configuration-revisions</summary>
+- **<details><summary>list-configuration-revisions</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -155,7 +151,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>list-configurations</summary>
+- **<details><summary>list-configurations</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -165,7 +161,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>list-kafka-versions</summary>
+- **<details><summary>list-kafka-versions</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -175,7 +171,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>list-nodes</summary>
+- **<details><summary>list-nodes</summary><blockquote>**
 
   * --cluster-arn
   * --cli-input-json
@@ -186,7 +182,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>list-scram-secrets</summary>
+- **<details><summary>list-scram-secrets</summary><blockquote>**
 
   * --cluster-arn
   * --cli-input-json
@@ -197,7 +193,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -205,7 +201,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>reboot-broker</summary>
+- **<details><summary>reboot-broker</summary><blockquote>**
 
   * --broker-ids
   * --cluster-arn
@@ -214,7 +210,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -223,7 +219,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -232,7 +228,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>update-broker-count</summary>
+- **<details><summary>update-broker-count</summary><blockquote>**
 
   * --cluster-arn
   * --current-version
@@ -242,7 +238,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>update-broker-storage</summary>
+- **<details><summary>update-broker-storage</summary><blockquote>**
 
   * --cluster-arn
   * --current-version
@@ -252,7 +248,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>update-broker-type</summary>
+- **<details><summary>update-broker-type</summary><blockquote>**
 
   * --cluster-arn
   * --current-version
@@ -262,7 +258,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>update-cluster-configuration</summary>
+- **<details><summary>update-cluster-configuration</summary><blockquote>**
 
   * --cluster-arn
   * --configuration-info
@@ -272,7 +268,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>update-cluster-kafka-version</summary>
+- **<details><summary>update-cluster-kafka-version</summary><blockquote>**
 
   * --cluster-arn
   * --configuration-info
@@ -283,7 +279,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>update-configuration</summary>
+- **<details><summary>update-configuration</summary><blockquote>**
 
   * --arn
   * --description
@@ -293,7 +289,7 @@ kafka
   * --generate-cli-skeleton
 
 
-- <details><summary>update-monitoring</summary>
+- **<details><summary>update-monitoring</summary><blockquote>**
 
   * --cluster-arn
   * --current-version
@@ -305,5 +301,35 @@ kafka
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

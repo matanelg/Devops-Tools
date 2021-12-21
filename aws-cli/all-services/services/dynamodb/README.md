@@ -1,10 +1,6 @@
-<details>
+<details><summary>dynamodb</summary><blockquote>
 
-<summary>
-dynamodb
-</summary>
-
-- <details><summary>batch-execute-statement</summary>
+- **<details><summary>batch-execute-statement</summary><blockquote>**
 
   * --statements
   * --cli-input-json
@@ -12,7 +8,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-get-item</summary>
+- **<details><summary>batch-get-item</summary><blockquote>**
 
   * --request-items
   * --return-consumed-capacity
@@ -21,7 +17,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-write-item</summary>
+- **<details><summary>batch-write-item</summary><blockquote>**
 
   * --request-items
   * --return-consumed-capacity
@@ -31,7 +27,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>create-backup</summary>
+- **<details><summary>create-backup</summary><blockquote>**
 
   * --table-name
   * --backup-name
@@ -40,7 +36,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>create-global-table</summary>
+- **<details><summary>create-global-table</summary><blockquote>**
 
   * --global-table-name
   * --replication-group
@@ -49,7 +45,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>create-table</summary>
+- **<details><summary>create-table</summary><blockquote>**
 
   * --attribute-definitions
   * --table-name
@@ -66,7 +62,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-backup</summary>
+- **<details><summary>delete-backup</summary><blockquote>**
 
   * --backup-arn
   * --cli-input-json
@@ -74,7 +70,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-item</summary>
+- **<details><summary>delete-item</summary><blockquote>**
 
   * --table-name
   * --key
@@ -91,7 +87,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-table</summary>
+- **<details><summary>delete-table</summary><blockquote>**
 
   * --table-name
   * --cli-input-json
@@ -99,7 +95,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-backup</summary>
+- **<details><summary>describe-backup</summary><blockquote>**
 
   * --backup-arn
   * --cli-input-json
@@ -107,7 +103,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-continuous-backups</summary>
+- **<details><summary>describe-continuous-backups</summary><blockquote>**
 
   * --table-name
   * --cli-input-json
@@ -115,7 +111,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-contributor-insights</summary>
+- **<details><summary>describe-contributor-insights</summary><blockquote>**
 
   * --table-name
   * --index-name
@@ -124,14 +120,14 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-endpoints</summary>
+- **<details><summary>describe-endpoints</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-export</summary>
+- **<details><summary>describe-export</summary><blockquote>**
 
   * --export-arn
   * --cli-input-json
@@ -139,7 +135,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-global-table</summary>
+- **<details><summary>describe-global-table</summary><blockquote>**
 
   * --global-table-name
   * --cli-input-json
@@ -147,7 +143,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-global-table-settings</summary>
+- **<details><summary>describe-global-table-settings</summary><blockquote>**
 
   * --global-table-name
   * --cli-input-json
@@ -155,7 +151,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-kinesis-streaming-destination</summary>
+- **<details><summary>describe-kinesis-streaming-destination</summary><blockquote>**
 
   * --table-name
   * --cli-input-json
@@ -163,14 +159,14 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-limits</summary>
+- **<details><summary>describe-limits</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-table</summary>
+- **<details><summary>describe-table</summary><blockquote>**
 
   * --table-name
   * --cli-input-json
@@ -178,7 +174,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-table-replica-auto-scaling</summary>
+- **<details><summary>describe-table-replica-auto-scaling</summary><blockquote>**
 
   * --table-name
   * --cli-input-json
@@ -186,7 +182,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-time-to-live</summary>
+- **<details><summary>describe-time-to-live</summary><blockquote>**
 
   * --table-name
   * --cli-input-json
@@ -194,7 +190,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-kinesis-streaming-destination</summary>
+- **<details><summary>disable-kinesis-streaming-destination</summary><blockquote>**
 
   * --table-name
   * --stream-arn
@@ -203,7 +199,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-kinesis-streaming-destination</summary>
+- **<details><summary>enable-kinesis-streaming-destination</summary><blockquote>**
 
   * --table-name
   * --stream-arn
@@ -212,7 +208,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>execute-statement</summary>
+- **<details><summary>execute-statement</summary><blockquote>**
 
   * --statement
   * --parameters
@@ -224,7 +220,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>execute-transaction</summary>
+- **<details><summary>execute-transaction</summary><blockquote>**
 
   * --transact-statements
   * --client-request-token
@@ -233,7 +229,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>export-table-to-point-in-time</summary>
+- **<details><summary>export-table-to-point-in-time</summary><blockquote>**
 
   * --table-arn
   * --export-time
@@ -249,7 +245,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>get-item</summary>
+- **<details><summary>get-item</summary><blockquote>**
 
   * --table-name
   * --key
@@ -264,12 +260,12 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-backups</summary>
+- **<details><summary>list-backups</summary><blockquote>**
 
   * --table-name
   * --time-range-lower-bound
@@ -283,7 +279,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>list-contributor-insights</summary>
+- **<details><summary>list-contributor-insights</summary><blockquote>**
 
   * --table-name
   * --next-token
@@ -293,7 +289,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>list-exports</summary>
+- **<details><summary>list-exports</summary><blockquote>**
 
   * --table-arn
   * --max-results
@@ -303,7 +299,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>list-global-tables</summary>
+- **<details><summary>list-global-tables</summary><blockquote>**
 
   * --exclusive-start-global-table-name
   * --limit
@@ -313,7 +309,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tables</summary>
+- **<details><summary>list-tables</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -323,7 +319,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-of-resource</summary>
+- **<details><summary>list-tags-of-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -333,7 +329,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>put-item</summary>
+- **<details><summary>put-item</summary><blockquote>**
 
   * --table-name
   * --item
@@ -350,7 +346,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>query</summary>
+- **<details><summary>query</summary><blockquote>**
 
   * --table-name
   * --index-name
@@ -377,7 +373,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-table-from-backup</summary>
+- **<details><summary>restore-table-from-backup</summary><blockquote>**
 
   * --target-table-name
   * --backup-arn
@@ -391,7 +387,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-table-to-point-in-time</summary>
+- **<details><summary>restore-table-to-point-in-time</summary><blockquote>**
 
   * --source-table-arn
   * --source-table-name
@@ -409,7 +405,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>scan</summary>
+- **<details><summary>scan</summary><blockquote>**
 
   * --table-name
   * --index-name
@@ -434,7 +430,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -443,7 +439,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>transact-get-items</summary>
+- **<details><summary>transact-get-items</summary><blockquote>**
 
   * --transact-items
   * --return-consumed-capacity
@@ -452,7 +448,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>transact-write-items</summary>
+- **<details><summary>transact-write-items</summary><blockquote>**
 
   * --transact-items
   * --return-consumed-capacity
@@ -463,7 +459,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -472,7 +468,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>update-continuous-backups</summary>
+- **<details><summary>update-continuous-backups</summary><blockquote>**
 
   * --table-name
   * --point-in-time-recovery-specification
@@ -481,7 +477,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>update-contributor-insights</summary>
+- **<details><summary>update-contributor-insights</summary><blockquote>**
 
   * --table-name
   * --index-name
@@ -491,7 +487,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>update-global-table</summary>
+- **<details><summary>update-global-table</summary><blockquote>**
 
   * --global-table-name
   * --replica-updates
@@ -500,7 +496,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>update-global-table-settings</summary>
+- **<details><summary>update-global-table-settings</summary><blockquote>**
 
   * --global-table-name
   * --global-table-billing-mode
@@ -513,7 +509,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>update-item</summary>
+- **<details><summary>update-item</summary><blockquote>**
 
   * --table-name
   * --key
@@ -532,7 +528,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>update-table</summary>
+- **<details><summary>update-table</summary><blockquote>**
 
   * --attribute-definitions
   * --table-name
@@ -547,7 +543,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>update-table-replica-auto-scaling</summary>
+- **<details><summary>update-table-replica-auto-scaling</summary><blockquote>**
 
   * --global-secondary-index-updates
   * --table-name
@@ -558,7 +554,7 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>update-time-to-live</summary>
+- **<details><summary>update-time-to-live</summary><blockquote>**
 
   * --table-name
   * --time-to-live-specification
@@ -567,15 +563,67 @@ dynamodb
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-- <details><summary>wizard</summary>
+- **<details><summary>wizard</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

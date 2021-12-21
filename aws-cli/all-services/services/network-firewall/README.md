@@ -1,10 +1,6 @@
-<details>
+<details><summary>network-firewall</summary><blockquote>
 
-<summary>
-network-firewall
-</summary>
-
-- <details><summary>associate-firewall-policy</summary>
+- **<details><summary>associate-firewall-policy</summary><blockquote>**
 
   * --update-token
   * --firewall-arn
@@ -15,7 +11,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-subnets</summary>
+- **<details><summary>associate-subnets</summary><blockquote>**
 
   * --update-token
   * --firewall-arn
@@ -26,7 +22,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>create-firewall</summary>
+- **<details><summary>create-firewall</summary><blockquote>**
 
   * --firewall-name
   * --firewall-policy-arn
@@ -45,7 +41,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>create-firewall-policy</summary>
+- **<details><summary>create-firewall-policy</summary><blockquote>**
 
   * --firewall-policy-name
   * --firewall-policy
@@ -58,7 +54,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>create-rule-group</summary>
+- **<details><summary>create-rule-group</summary><blockquote>**
 
   * --rule-group-name
   * --rule-group
@@ -74,7 +70,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-firewall</summary>
+- **<details><summary>delete-firewall</summary><blockquote>**
 
   * --firewall-name
   * --firewall-arn
@@ -83,7 +79,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-firewall-policy</summary>
+- **<details><summary>delete-firewall-policy</summary><blockquote>**
 
   * --firewall-policy-name
   * --firewall-policy-arn
@@ -92,7 +88,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-resource-policy</summary>
+- **<details><summary>delete-resource-policy</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -100,7 +96,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-rule-group</summary>
+- **<details><summary>delete-rule-group</summary><blockquote>**
 
   * --rule-group-name
   * --rule-group-arn
@@ -110,7 +106,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-firewall</summary>
+- **<details><summary>describe-firewall</summary><blockquote>**
 
   * --firewall-name
   * --firewall-arn
@@ -119,7 +115,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-firewall-policy</summary>
+- **<details><summary>describe-firewall-policy</summary><blockquote>**
 
   * --firewall-policy-name
   * --firewall-policy-arn
@@ -128,7 +124,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-logging-configuration</summary>
+- **<details><summary>describe-logging-configuration</summary><blockquote>**
 
   * --firewall-arn
   * --firewall-name
@@ -137,7 +133,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-resource-policy</summary>
+- **<details><summary>describe-resource-policy</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -145,7 +141,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-rule-group</summary>
+- **<details><summary>describe-rule-group</summary><blockquote>**
 
   * --rule-group-name
   * --rule-group-arn
@@ -155,7 +151,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-subnets</summary>
+- **<details><summary>disassociate-subnets</summary><blockquote>**
 
   * --update-token
   * --firewall-arn
@@ -166,12 +162,12 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-firewall-policies</summary>
+- **<details><summary>list-firewall-policies</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -181,7 +177,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>list-firewalls</summary>
+- **<details><summary>list-firewalls</summary><blockquote>**
 
   * --vpc-ids
   * --cli-input-json
@@ -192,7 +188,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>list-rule-groups</summary>
+- **<details><summary>list-rule-groups</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -202,7 +198,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -213,7 +209,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>put-resource-policy</summary>
+- **<details><summary>put-resource-policy</summary><blockquote>**
 
   * --resource-arn
   * --policy
@@ -222,7 +218,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -231,7 +227,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -240,7 +236,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>update-firewall-delete-protection</summary>
+- **<details><summary>update-firewall-delete-protection</summary><blockquote>**
 
   * --update-token
   * --firewall-arn
@@ -252,7 +248,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>update-firewall-description</summary>
+- **<details><summary>update-firewall-description</summary><blockquote>**
 
   * --update-token
   * --firewall-arn
@@ -263,7 +259,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>update-firewall-policy</summary>
+- **<details><summary>update-firewall-policy</summary><blockquote>**
 
   * --update-token
   * --firewall-policy-arn
@@ -277,7 +273,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>update-firewall-policy-change-protection</summary>
+- **<details><summary>update-firewall-policy-change-protection</summary><blockquote>**
 
   * --update-token
   * --firewall-arn
@@ -289,7 +285,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>update-logging-configuration</summary>
+- **<details><summary>update-logging-configuration</summary><blockquote>**
 
   * --firewall-arn
   * --firewall-name
@@ -299,7 +295,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>update-rule-group</summary>
+- **<details><summary>update-rule-group</summary><blockquote>**
 
   * --update-token
   * --rule-group-arn
@@ -315,7 +311,7 @@ network-firewall
   * --generate-cli-skeleton
 
 
-- <details><summary>update-subnet-change-protection</summary>
+- **<details><summary>update-subnet-change-protection</summary><blockquote>**
 
   * --update-token
   * --firewall-arn
@@ -327,5 +323,34 @@ network-firewall
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

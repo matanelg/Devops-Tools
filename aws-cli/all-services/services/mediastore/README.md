@@ -1,10 +1,6 @@
-<details>
+<details><summary>mediastore</summary><blockquote>
 
-<summary>
-mediastore
-</summary>
-
-- <details><summary>create-container</summary>
+- **<details><summary>create-container</summary><blockquote>**
 
   * --container-name
   * --tags
@@ -13,7 +9,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-container</summary>
+- **<details><summary>delete-container</summary><blockquote>**
 
   * --container-name
   * --cli-input-json
@@ -21,7 +17,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-container-policy</summary>
+- **<details><summary>delete-container-policy</summary><blockquote>**
 
   * --container-name
   * --cli-input-json
@@ -29,7 +25,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-cors-policy</summary>
+- **<details><summary>delete-cors-policy</summary><blockquote>**
 
   * --container-name
   * --cli-input-json
@@ -37,7 +33,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-lifecycle-policy</summary>
+- **<details><summary>delete-lifecycle-policy</summary><blockquote>**
 
   * --container-name
   * --cli-input-json
@@ -45,7 +41,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-metric-policy</summary>
+- **<details><summary>delete-metric-policy</summary><blockquote>**
 
   * --container-name
   * --cli-input-json
@@ -53,7 +49,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-container</summary>
+- **<details><summary>describe-container</summary><blockquote>**
 
   * --container-name
   * --cli-input-json
@@ -61,7 +57,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>get-container-policy</summary>
+- **<details><summary>get-container-policy</summary><blockquote>**
 
   * --container-name
   * --cli-input-json
@@ -69,7 +65,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>get-cors-policy</summary>
+- **<details><summary>get-cors-policy</summary><blockquote>**
 
   * --container-name
   * --cli-input-json
@@ -77,7 +73,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>get-lifecycle-policy</summary>
+- **<details><summary>get-lifecycle-policy</summary><blockquote>**
 
   * --container-name
   * --cli-input-json
@@ -85,7 +81,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>get-metric-policy</summary>
+- **<details><summary>get-metric-policy</summary><blockquote>**
 
   * --container-name
   * --cli-input-json
@@ -93,12 +89,12 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-containers</summary>
+- **<details><summary>list-containers</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -108,7 +104,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource
   * --cli-input-json
@@ -116,7 +112,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>put-container-policy</summary>
+- **<details><summary>put-container-policy</summary><blockquote>**
 
   * --container-name
   * --policy
@@ -125,7 +121,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>put-cors-policy</summary>
+- **<details><summary>put-cors-policy</summary><blockquote>**
 
   * --container-name
   * --cors-policy
@@ -134,7 +130,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>put-lifecycle-policy</summary>
+- **<details><summary>put-lifecycle-policy</summary><blockquote>**
 
   * --container-name
   * --lifecycle-policy
@@ -143,7 +139,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>put-metric-policy</summary>
+- **<details><summary>put-metric-policy</summary><blockquote>**
 
   * --container-name
   * --metric-policy
@@ -152,7 +148,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>start-access-logging</summary>
+- **<details><summary>start-access-logging</summary><blockquote>**
 
   * --container-name
   * --cli-input-json
@@ -160,7 +156,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-access-logging</summary>
+- **<details><summary>stop-access-logging</summary><blockquote>**
 
   * --container-name
   * --cli-input-json
@@ -168,7 +164,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource
   * --tags
@@ -177,7 +173,7 @@ mediastore
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource
   * --tag-keys
@@ -186,5 +182,26 @@ mediastore
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

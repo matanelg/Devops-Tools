@@ -1,10 +1,6 @@
-<details>
+<details><summary>lambda</summary><blockquote>
 
-<summary>
-lambda
-</summary>
-
-- <details><summary>add-layer-version-permission</summary>
+- **<details><summary>add-layer-version-permission</summary><blockquote>**
 
   * --layer-name
   * --version-number
@@ -18,7 +14,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>add-permission</summary>
+- **<details><summary>add-permission</summary><blockquote>**
 
   * --function-name
   * --statement-id
@@ -34,7 +30,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>create-alias</summary>
+- **<details><summary>create-alias</summary><blockquote>**
 
   * --function-name
   * --name
@@ -46,7 +42,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>create-code-signing-config</summary>
+- **<details><summary>create-code-signing-config</summary><blockquote>**
 
   * --description
   * --allowed-publishers
@@ -56,7 +52,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>create-event-source-mapping</summary>
+- **<details><summary>create-event-source-mapping</summary><blockquote>**
 
   * --event-source-arn
   * --function-name
@@ -83,7 +79,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>create-function</summary>
+- **<details><summary>create-function</summary><blockquote>**
 
   * --function-name
   * --runtime
@@ -112,7 +108,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-alias</summary>
+- **<details><summary>delete-alias</summary><blockquote>**
 
   * --function-name
   * --name
@@ -121,7 +117,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-code-signing-config</summary>
+- **<details><summary>delete-code-signing-config</summary><blockquote>**
 
   * --code-signing-config-arn
   * --cli-input-json
@@ -129,7 +125,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-event-source-mapping</summary>
+- **<details><summary>delete-event-source-mapping</summary><blockquote>**
 
   * --uuid
   * --cli-input-json
@@ -137,7 +133,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-function</summary>
+- **<details><summary>delete-function</summary><blockquote>**
 
   * --function-name
   * --qualifier
@@ -146,7 +142,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-function-code-signing-config</summary>
+- **<details><summary>delete-function-code-signing-config</summary><blockquote>**
 
   * --function-name
   * --cli-input-json
@@ -154,7 +150,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-function-concurrency</summary>
+- **<details><summary>delete-function-concurrency</summary><blockquote>**
 
   * --function-name
   * --cli-input-json
@@ -162,7 +158,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-function-event-invoke-config</summary>
+- **<details><summary>delete-function-event-invoke-config</summary><blockquote>**
 
   * --function-name
   * --qualifier
@@ -171,7 +167,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-layer-version</summary>
+- **<details><summary>delete-layer-version</summary><blockquote>**
 
   * --layer-name
   * --version-number
@@ -180,7 +176,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-provisioned-concurrency-config</summary>
+- **<details><summary>delete-provisioned-concurrency-config</summary><blockquote>**
 
   * --function-name
   * --qualifier
@@ -189,14 +185,14 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>get-account-settings</summary>
+- **<details><summary>get-account-settings</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-alias</summary>
+- **<details><summary>get-alias</summary><blockquote>**
 
   * --function-name
   * --name
@@ -205,7 +201,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>get-code-signing-config</summary>
+- **<details><summary>get-code-signing-config</summary><blockquote>**
 
   * --code-signing-config-arn
   * --cli-input-json
@@ -213,7 +209,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>get-event-source-mapping</summary>
+- **<details><summary>get-event-source-mapping</summary><blockquote>**
 
   * --uuid
   * --cli-input-json
@@ -221,7 +217,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>get-function</summary>
+- **<details><summary>get-function</summary><blockquote>**
 
   * --function-name
   * --qualifier
@@ -230,7 +226,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>get-function-code-signing-config</summary>
+- **<details><summary>get-function-code-signing-config</summary><blockquote>**
 
   * --function-name
   * --cli-input-json
@@ -238,7 +234,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>get-function-concurrency</summary>
+- **<details><summary>get-function-concurrency</summary><blockquote>**
 
   * --function-name
   * --cli-input-json
@@ -246,16 +242,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>get-function-configuration</summary>
-
-  * --function-name
-  * --qualifier
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>get-function-event-invoke-config</summary>
+- **<details><summary>get-function-configuration</summary><blockquote>**
 
   * --function-name
   * --qualifier
@@ -264,7 +251,16 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>get-layer-version</summary>
+- **<details><summary>get-function-event-invoke-config</summary><blockquote>**
+
+  * --function-name
+  * --qualifier
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>get-layer-version</summary><blockquote>**
 
   * --layer-name
   * --version-number
@@ -273,7 +269,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>get-layer-version-by-arn</summary>
+- **<details><summary>get-layer-version-by-arn</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -281,7 +277,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>get-layer-version-policy</summary>
+- **<details><summary>get-layer-version-policy</summary><blockquote>**
 
   * --layer-name
   * --version-number
@@ -290,7 +286,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>get-policy</summary>
+- **<details><summary>get-policy</summary><blockquote>**
 
   * --function-name
   * --qualifier
@@ -299,7 +295,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>get-provisioned-concurrency-config</summary>
+- **<details><summary>get-provisioned-concurrency-config</summary><blockquote>**
 
   * --function-name
   * --qualifier
@@ -308,12 +304,12 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>invoke</summary>
+- **<details><summary>invoke</summary><blockquote>**
 
   * --function-name
   * --invocation-type
@@ -323,7 +319,7 @@ lambda
   * --qualifier
 
 
-- <details><summary>list-aliases</summary>
+- **<details><summary>list-aliases</summary><blockquote>**
 
   * --function-name
   * --function-version
@@ -335,7 +331,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>list-code-signing-configs</summary>
+- **<details><summary>list-code-signing-configs</summary><blockquote>**
 
   * --max-items
   * --cli-input-json
@@ -345,7 +341,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>list-event-source-mappings</summary>
+- **<details><summary>list-event-source-mappings</summary><blockquote>**
 
   * --event-source-arn
   * --function-name
@@ -357,7 +353,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>list-function-event-invoke-configs</summary>
+- **<details><summary>list-function-event-invoke-configs</summary><blockquote>**
 
   * --function-name
   * --max-items
@@ -368,7 +364,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>list-functions</summary>
+- **<details><summary>list-functions</summary><blockquote>**
 
   * --master-region
   * --function-version
@@ -380,7 +376,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>list-functions-by-code-signing-config</summary>
+- **<details><summary>list-functions-by-code-signing-config</summary><blockquote>**
 
   * --code-signing-config-arn
   * --max-items
@@ -391,7 +387,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>list-layers</summary>
+- **<details><summary>list-layers</summary><blockquote>**
 
   * --compatible-runtime
   * --max-items
@@ -402,7 +398,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>list-layer-versions</summary>
+- **<details><summary>list-layer-versions</summary><blockquote>**
 
   * --compatible-runtime
   * --layer-name
@@ -414,7 +410,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>list-provisioned-concurrency-configs</summary>
+- **<details><summary>list-provisioned-concurrency-configs</summary><blockquote>**
 
   * --function-name
   * --max-items
@@ -425,7 +421,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags</summary>
+- **<details><summary>list-tags</summary><blockquote>**
 
   * --resource
   * --cli-input-json
@@ -433,7 +429,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>list-versions-by-function</summary>
+- **<details><summary>list-versions-by-function</summary><blockquote>**
 
   * --function-name
   * --max-items
@@ -444,7 +440,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>publish-layer-version</summary>
+- **<details><summary>publish-layer-version</summary><blockquote>**
 
   * --layer-name
   * --description
@@ -457,7 +453,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>publish-version</summary>
+- **<details><summary>publish-version</summary><blockquote>**
 
   * --function-name
   * --code-sha256
@@ -468,7 +464,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>put-function-code-signing-config</summary>
+- **<details><summary>put-function-code-signing-config</summary><blockquote>**
 
   * --code-signing-config-arn
   * --function-name
@@ -477,7 +473,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>put-function-concurrency</summary>
+- **<details><summary>put-function-concurrency</summary><blockquote>**
 
   * --function-name
   * --reserved-concurrent-executions
@@ -486,7 +482,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>put-function-event-invoke-config</summary>
+- **<details><summary>put-function-event-invoke-config</summary><blockquote>**
 
   * --function-name
   * --qualifier
@@ -498,7 +494,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>put-provisioned-concurrency-config</summary>
+- **<details><summary>put-provisioned-concurrency-config</summary><blockquote>**
 
   * --function-name
   * --qualifier
@@ -508,7 +504,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-layer-version-permission</summary>
+- **<details><summary>remove-layer-version-permission</summary><blockquote>**
 
   * --layer-name
   * --version-number
@@ -519,7 +515,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-permission</summary>
+- **<details><summary>remove-permission</summary><blockquote>**
 
   * --function-name
   * --statement-id
@@ -530,7 +526,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource
   * --tags
@@ -539,7 +535,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource
   * --tag-keys
@@ -548,7 +544,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>update-alias</summary>
+- **<details><summary>update-alias</summary><blockquote>**
 
   * --function-name
   * --name
@@ -561,7 +557,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>update-code-signing-config</summary>
+- **<details><summary>update-code-signing-config</summary><blockquote>**
 
   * --code-signing-config-arn
   * --description
@@ -572,7 +568,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>update-event-source-mapping</summary>
+- **<details><summary>update-event-source-mapping</summary><blockquote>**
 
   * --uuid
   * --function-name
@@ -594,7 +590,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>update-function-code</summary>
+- **<details><summary>update-function-code</summary><blockquote>**
 
   * --function-name
   * --zip-file
@@ -612,7 +608,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>update-function-configuration</summary>
+- **<details><summary>update-function-configuration</summary><blockquote>**
 
   * --function-name
   * --role
@@ -635,7 +631,7 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>update-function-event-invoke-config</summary>
+- **<details><summary>update-function-event-invoke-config</summary><blockquote>**
 
   * --function-name
   * --qualifier
@@ -647,15 +643,74 @@ lambda
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-- <details><summary>wizard</summary>
+- **<details><summary>wizard</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

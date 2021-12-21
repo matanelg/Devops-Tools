@@ -1,10 +1,6 @@
-<details>
+<details><summary>servicecatalog-appregistry</summary><blockquote>
 
-<summary>
-servicecatalog-appregistry
-</summary>
-
-- <details><summary>associate-attribute-group</summary>
+- **<details><summary>associate-attribute-group</summary><blockquote>**
 
   * --application
   * --attribute-group
@@ -13,7 +9,7 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-resource</summary>
+- **<details><summary>associate-resource</summary><blockquote>**
 
   * --application
   * --resource-type
@@ -23,7 +19,7 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>create-application</summary>
+- **<details><summary>create-application</summary><blockquote>**
 
   * --name
   * --description
@@ -34,7 +30,7 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>create-attribute-group</summary>
+- **<details><summary>create-attribute-group</summary><blockquote>**
 
   * --name
   * --description
@@ -46,7 +42,7 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-application</summary>
+- **<details><summary>delete-application</summary><blockquote>**
 
   * --application
   * --cli-input-json
@@ -54,7 +50,7 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-attribute-group</summary>
+- **<details><summary>delete-attribute-group</summary><blockquote>**
 
   * --attribute-group
   * --cli-input-json
@@ -62,7 +58,7 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-attribute-group</summary>
+- **<details><summary>disassociate-attribute-group</summary><blockquote>**
 
   * --application
   * --attribute-group
@@ -71,7 +67,7 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-resource</summary>
+- **<details><summary>disassociate-resource</summary><blockquote>**
 
   * --application
   * --resource-type
@@ -81,7 +77,7 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>get-application</summary>
+- **<details><summary>get-application</summary><blockquote>**
 
   * --application
   * --cli-input-json
@@ -89,7 +85,7 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>get-attribute-group</summary>
+- **<details><summary>get-attribute-group</summary><blockquote>**
 
   * --attribute-group
   * --cli-input-json
@@ -97,12 +93,12 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-applications</summary>
+- **<details><summary>list-applications</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -112,7 +108,7 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>list-associated-attribute-groups</summary>
+- **<details><summary>list-associated-attribute-groups</summary><blockquote>**
 
   * --application
   * --cli-input-json
@@ -123,7 +119,7 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>list-associated-resources</summary>
+- **<details><summary>list-associated-resources</summary><blockquote>**
 
   * --application
   * --cli-input-json
@@ -134,7 +130,7 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>list-attribute-groups</summary>
+- **<details><summary>list-attribute-groups</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -144,7 +140,7 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -152,7 +148,7 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>sync-resource</summary>
+- **<details><summary>sync-resource</summary><blockquote>**
 
   * --resource-type
   * --resource
@@ -161,7 +157,7 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -170,7 +166,7 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -179,7 +175,7 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>update-application</summary>
+- **<details><summary>update-application</summary><blockquote>**
 
   * --application
   * --name
@@ -189,7 +185,7 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-- <details><summary>update-attribute-group</summary>
+- **<details><summary>update-attribute-group</summary><blockquote>**
 
   * --attribute-group
   * --name
@@ -200,5 +196,25 @@ servicecatalog-appregistry
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

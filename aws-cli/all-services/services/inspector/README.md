@@ -1,10 +1,6 @@
-<details>
+<details><summary>inspector</summary><blockquote>
 
-<summary>
-inspector
-</summary>
-
-- <details><summary>add-attributes-to-findings</summary>
+- **<details><summary>add-attributes-to-findings</summary><blockquote>**
 
   * --finding-arns
   * --attributes
@@ -13,7 +9,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>create-assessment-target</summary>
+- **<details><summary>create-assessment-target</summary><blockquote>**
 
   * --assessment-target-name
   * --resource-group-arn
@@ -22,7 +18,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>create-assessment-template</summary>
+- **<details><summary>create-assessment-template</summary><blockquote>**
 
   * --assessment-target-arn
   * --assessment-template-name
@@ -34,7 +30,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>create-exclusions-preview</summary>
+- **<details><summary>create-exclusions-preview</summary><blockquote>**
 
   * --assessment-template-arn
   * --cli-input-json
@@ -42,7 +38,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>create-resource-group</summary>
+- **<details><summary>create-resource-group</summary><blockquote>**
 
   * --resource-group-tags
   * --cli-input-json
@@ -50,7 +46,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-assessment-run</summary>
+- **<details><summary>delete-assessment-run</summary><blockquote>**
 
   * --assessment-run-arn
   * --cli-input-json
@@ -58,7 +54,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-assessment-target</summary>
+- **<details><summary>delete-assessment-target</summary><blockquote>**
 
   * --assessment-target-arn
   * --cli-input-json
@@ -66,7 +62,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-assessment-template</summary>
+- **<details><summary>delete-assessment-template</summary><blockquote>**
 
   * --assessment-template-arn
   * --cli-input-json
@@ -74,7 +70,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-assessment-runs</summary>
+- **<details><summary>describe-assessment-runs</summary><blockquote>**
 
   * --assessment-run-arns
   * --cli-input-json
@@ -82,7 +78,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-assessment-targets</summary>
+- **<details><summary>describe-assessment-targets</summary><blockquote>**
 
   * --assessment-target-arns
   * --cli-input-json
@@ -90,7 +86,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-assessment-templates</summary>
+- **<details><summary>describe-assessment-templates</summary><blockquote>**
 
   * --assessment-template-arns
   * --cli-input-json
@@ -98,14 +94,14 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cross-account-access-role</summary>
+- **<details><summary>describe-cross-account-access-role</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-exclusions</summary>
+- **<details><summary>describe-exclusions</summary><blockquote>**
 
   * --exclusion-arns
   * --locale
@@ -114,7 +110,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-findings</summary>
+- **<details><summary>describe-findings</summary><blockquote>**
 
   * --finding-arns
   * --locale
@@ -123,7 +119,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-resource-groups</summary>
+- **<details><summary>describe-resource-groups</summary><blockquote>**
 
   * --resource-group-arns
   * --cli-input-json
@@ -131,7 +127,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-rules-packages</summary>
+- **<details><summary>describe-rules-packages</summary><blockquote>**
 
   * --rules-package-arns
   * --locale
@@ -140,7 +136,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>get-assessment-report</summary>
+- **<details><summary>get-assessment-report</summary><blockquote>**
 
   * --assessment-run-arn
   * --report-file-format
@@ -150,7 +146,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>get-exclusions-preview</summary>
+- **<details><summary>get-exclusions-preview</summary><blockquote>**
 
   * --assessment-template-arn
   * --preview-token
@@ -162,7 +158,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>get-telemetry-metadata</summary>
+- **<details><summary>get-telemetry-metadata</summary><blockquote>**
 
   * --assessment-run-arn
   * --cli-input-json
@@ -170,12 +166,12 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-assessment-run-agents</summary>
+- **<details><summary>list-assessment-run-agents</summary><blockquote>**
 
   * --assessment-run-arn
   * --filter
@@ -187,7 +183,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>list-assessment-runs</summary>
+- **<details><summary>list-assessment-runs</summary><blockquote>**
 
   * --assessment-template-arns
   * --filter
@@ -199,7 +195,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>list-assessment-targets</summary>
+- **<details><summary>list-assessment-targets</summary><blockquote>**
 
   * --filter
   * --cli-input-json
@@ -210,7 +206,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>list-assessment-templates</summary>
+- **<details><summary>list-assessment-templates</summary><blockquote>**
 
   * --assessment-target-arns
   * --filter
@@ -222,7 +218,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>list-event-subscriptions</summary>
+- **<details><summary>list-event-subscriptions</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -233,7 +229,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>list-exclusions</summary>
+- **<details><summary>list-exclusions</summary><blockquote>**
 
   * --assessment-run-arn
   * --cli-input-json
@@ -244,7 +240,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>list-findings</summary>
+- **<details><summary>list-findings</summary><blockquote>**
 
   * --assessment-run-arns
   * --filter
@@ -256,7 +252,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>list-rules-packages</summary>
+- **<details><summary>list-rules-packages</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -266,7 +262,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -274,7 +270,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>preview-agents</summary>
+- **<details><summary>preview-agents</summary><blockquote>**
 
   * --preview-agents-arn
   * --cli-input-json
@@ -285,7 +281,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>register-cross-account-access-role</summary>
+- **<details><summary>register-cross-account-access-role</summary><blockquote>**
 
   * --role-arn
   * --cli-input-json
@@ -293,7 +289,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-attributes-from-findings</summary>
+- **<details><summary>remove-attributes-from-findings</summary><blockquote>**
 
   * --finding-arns
   * --attribute-keys
@@ -302,7 +298,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>set-tags-for-resource</summary>
+- **<details><summary>set-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -311,7 +307,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>start-assessment-run</summary>
+- **<details><summary>start-assessment-run</summary><blockquote>**
 
   * --assessment-template-arn
   * --assessment-run-name
@@ -320,7 +316,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-assessment-run</summary>
+- **<details><summary>stop-assessment-run</summary><blockquote>**
 
   * --assessment-run-arn
   * --stop-action
@@ -329,7 +325,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>subscribe-to-event</summary>
+- **<details><summary>subscribe-to-event</summary><blockquote>**
 
   * --resource-arn
   * --event
@@ -339,7 +335,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>unsubscribe-from-event</summary>
+- **<details><summary>unsubscribe-from-event</summary><blockquote>**
 
   * --resource-arn
   * --event
@@ -349,7 +345,7 @@ inspector
   * --generate-cli-skeleton
 
 
-- <details><summary>update-assessment-target</summary>
+- **<details><summary>update-assessment-target</summary><blockquote>**
 
   * --assessment-target-arn
   * --assessment-target-name
@@ -359,5 +355,42 @@ inspector
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

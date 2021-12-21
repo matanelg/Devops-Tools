@@ -1,10 +1,6 @@
-<details>
+<details><summary>textract</summary><blockquote>
 
-<summary>
-textract
-</summary>
-
-- <details><summary>analyze-document</summary>
+- **<details><summary>analyze-document</summary><blockquote>**
 
   * --document
   * --feature-types
@@ -14,7 +10,7 @@ textract
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-document-text</summary>
+- **<details><summary>detect-document-text</summary><blockquote>**
 
   * --document
   * --cli-input-json
@@ -22,7 +18,7 @@ textract
   * --generate-cli-skeleton
 
 
-- <details><summary>get-document-analysis</summary>
+- **<details><summary>get-document-analysis</summary><blockquote>**
 
   * --job-id
   * --max-results
@@ -32,7 +28,7 @@ textract
   * --generate-cli-skeleton
 
 
-- <details><summary>get-document-text-detection</summary>
+- **<details><summary>get-document-text-detection</summary><blockquote>**
 
   * --job-id
   * --max-results
@@ -42,12 +38,12 @@ textract
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>start-document-analysis</summary>
+- **<details><summary>start-document-analysis</summary><blockquote>**
 
   * --document-location
   * --feature-types
@@ -61,7 +57,7 @@ textract
   * --generate-cli-skeleton
 
 
-- <details><summary>start-document-text-detection</summary>
+- **<details><summary>start-document-text-detection</summary><blockquote>**
 
   * --document-location
   * --client-request-token
@@ -74,5 +70,11 @@ textract
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

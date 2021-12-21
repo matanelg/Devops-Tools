@@ -1,10 +1,6 @@
-<details>
+<details><summary>lakeformation</summary><blockquote>
 
-<summary>
-lakeformation
-</summary>
-
-- <details><summary>add-lf-tags-to-resource</summary>
+- **<details><summary>add-lf-tags-to-resource</summary><blockquote>**
 
   * --catalog-id
   * --resource
@@ -14,7 +10,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-grant-permissions</summary>
+- **<details><summary>batch-grant-permissions</summary><blockquote>**
 
   * --catalog-id
   * --entries
@@ -23,7 +19,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-revoke-permissions</summary>
+- **<details><summary>batch-revoke-permissions</summary><blockquote>**
 
   * --catalog-id
   * --entries
@@ -32,7 +28,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>create-lf-tag</summary>
+- **<details><summary>create-lf-tag</summary><blockquote>**
 
   * --catalog-id
   * --tag-key
@@ -42,7 +38,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-lf-tag</summary>
+- **<details><summary>delete-lf-tag</summary><blockquote>**
 
   * --catalog-id
   * --tag-key
@@ -51,7 +47,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-resource</summary>
+- **<details><summary>deregister-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -59,7 +55,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-resource</summary>
+- **<details><summary>describe-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -67,7 +63,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>get-data-lake-settings</summary>
+- **<details><summary>get-data-lake-settings</summary><blockquote>**
 
   * --catalog-id
   * --cli-input-json
@@ -75,7 +71,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>get-effective-permissions-for-path</summary>
+- **<details><summary>get-effective-permissions-for-path</summary><blockquote>**
 
   * --catalog-id
   * --resource-arn
@@ -86,7 +82,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>get-lf-tag</summary>
+- **<details><summary>get-lf-tag</summary><blockquote>**
 
   * --catalog-id
   * --tag-key
@@ -95,7 +91,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resource-lf-tags</summary>
+- **<details><summary>get-resource-lf-tags</summary><blockquote>**
 
   * --catalog-id
   * --resource
@@ -106,7 +102,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>grant-permissions</summary>
+- **<details><summary>grant-permissions</summary><blockquote>**
 
   * --catalog-id
   * --principal
@@ -118,12 +114,12 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-lf-tags</summary>
+- **<details><summary>list-lf-tags</summary><blockquote>**
 
   * --catalog-id
   * --resource-share-type
@@ -134,7 +130,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-permissions</summary>
+- **<details><summary>list-permissions</summary><blockquote>**
 
   * --catalog-id
   * --principal
@@ -147,7 +143,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resources</summary>
+- **<details><summary>list-resources</summary><blockquote>**
 
   * --filter-condition-list
   * --max-results
@@ -157,7 +153,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>put-data-lake-settings</summary>
+- **<details><summary>put-data-lake-settings</summary><blockquote>**
 
   * --catalog-id
   * --data-lake-settings
@@ -166,7 +162,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>register-resource</summary>
+- **<details><summary>register-resource</summary><blockquote>**
 
   * --resource-arn
   * --use-service-linked-role
@@ -177,7 +173,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-lf-tags-from-resource</summary>
+- **<details><summary>remove-lf-tags-from-resource</summary><blockquote>**
 
   * --catalog-id
   * --resource
@@ -187,7 +183,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>revoke-permissions</summary>
+- **<details><summary>revoke-permissions</summary><blockquote>**
 
   * --catalog-id
   * --principal
@@ -199,7 +195,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>search-databases-by-lf-tags</summary>
+- **<details><summary>search-databases-by-lf-tags</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -210,7 +206,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>search-tables-by-lf-tags</summary>
+- **<details><summary>search-tables-by-lf-tags</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -221,7 +217,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>update-lf-tag</summary>
+- **<details><summary>update-lf-tag</summary><blockquote>**
 
   * --catalog-id
   * --tag-key
@@ -232,7 +228,7 @@ lakeformation
   * --generate-cli-skeleton
 
 
-- <details><summary>update-resource</summary>
+- **<details><summary>update-resource</summary><blockquote>**
 
   * --role-arn
   * --resource-arn
@@ -241,5 +237,28 @@ lakeformation
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

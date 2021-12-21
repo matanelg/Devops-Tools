@@ -1,10 +1,6 @@
-<details>
+<details><summary>appstream</summary><blockquote>
 
-<summary>
-appstream
-</summary>
-
-- <details><summary>associate-fleet</summary>
+- **<details><summary>associate-fleet</summary><blockquote>**
 
   * --fleet-name
   * --stack-name
@@ -13,7 +9,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-associate-user-stack</summary>
+- **<details><summary>batch-associate-user-stack</summary><blockquote>**
 
   * --user-stack-associations
   * --cli-input-json
@@ -21,7 +17,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-disassociate-user-stack</summary>
+- **<details><summary>batch-disassociate-user-stack</summary><blockquote>**
 
   * --user-stack-associations
   * --cli-input-json
@@ -29,7 +25,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-image</summary>
+- **<details><summary>copy-image</summary><blockquote>**
 
   * --source-image-name
   * --destination-image-name
@@ -40,7 +36,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>create-directory-config</summary>
+- **<details><summary>create-directory-config</summary><blockquote>**
 
   * --directory-name
   * --organizational-unit-distinguished-names
@@ -50,7 +46,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>create-fleet</summary>
+- **<details><summary>create-fleet</summary><blockquote>**
 
   * --name
   * --image-name
@@ -75,7 +71,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>create-image-builder</summary>
+- **<details><summary>create-image-builder</summary><blockquote>**
 
   * --name
   * --image-name
@@ -96,7 +92,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>create-image-builder-streaming-url</summary>
+- **<details><summary>create-image-builder-streaming-url</summary><blockquote>**
 
   * --name
   * --validity
@@ -105,7 +101,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>create-stack</summary>
+- **<details><summary>create-stack</summary><blockquote>**
 
   * --name
   * --description
@@ -123,7 +119,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>create-streaming-url</summary>
+- **<details><summary>create-streaming-url</summary><blockquote>**
 
   * --stack-name
   * --fleet-name
@@ -136,7 +132,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>create-updated-image</summary>
+- **<details><summary>create-updated-image</summary><blockquote>**
 
   * --existing-image-name
   * --new-image-name
@@ -150,14 +146,14 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>create-usage-report-subscription</summary>
+- **<details><summary>create-usage-report-subscription</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>create-user</summary>
+- **<details><summary>create-user</summary><blockquote>**
 
   * --user-name
   * --message-action
@@ -169,7 +165,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-directory-config</summary>
+- **<details><summary>delete-directory-config</summary><blockquote>**
 
   * --directory-name
   * --cli-input-json
@@ -177,7 +173,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-fleet</summary>
+- **<details><summary>delete-fleet</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -185,7 +181,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-image</summary>
+- **<details><summary>delete-image</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -193,7 +189,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-image-builder</summary>
+- **<details><summary>delete-image-builder</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -201,7 +197,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-image-permissions</summary>
+- **<details><summary>delete-image-permissions</summary><blockquote>**
 
   * --name
   * --shared-account-id
@@ -210,7 +206,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-stack</summary>
+- **<details><summary>delete-stack</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -218,14 +214,14 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-usage-report-subscription</summary>
+- **<details><summary>delete-usage-report-subscription</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user</summary>
+- **<details><summary>delete-user</summary><blockquote>**
 
   * --user-name
   * --authentication-type
@@ -234,7 +230,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-directory-configs</summary>
+- **<details><summary>describe-directory-configs</summary><blockquote>**
 
   * --directory-names
   * --cli-input-json
@@ -245,7 +241,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-fleets</summary>
+- **<details><summary>describe-fleets</summary><blockquote>**
 
   * --names
   * --cli-input-json
@@ -255,7 +251,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-image-builders</summary>
+- **<details><summary>describe-image-builders</summary><blockquote>**
 
   * --names
   * --cli-input-json
@@ -266,7 +262,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-image-permissions</summary>
+- **<details><summary>describe-image-permissions</summary><blockquote>**
 
   * --name
   * --max-results
@@ -277,7 +273,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-images</summary>
+- **<details><summary>describe-images</summary><blockquote>**
 
   * --names
   * --arns
@@ -290,7 +286,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-sessions</summary>
+- **<details><summary>describe-sessions</summary><blockquote>**
 
   * --stack-name
   * --fleet-name
@@ -304,7 +300,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stacks</summary>
+- **<details><summary>describe-stacks</summary><blockquote>**
 
   * --names
   * --cli-input-json
@@ -314,7 +310,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-usage-report-subscriptions</summary>
+- **<details><summary>describe-usage-report-subscriptions</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -323,7 +319,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-users</summary>
+- **<details><summary>describe-users</summary><blockquote>**
 
   * --authentication-type
   * --cli-input-json
@@ -334,7 +330,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-user-stack-associations</summary>
+- **<details><summary>describe-user-stack-associations</summary><blockquote>**
 
   * --stack-name
   * --user-name
@@ -347,7 +343,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-user</summary>
+- **<details><summary>disable-user</summary><blockquote>**
 
   * --user-name
   * --authentication-type
@@ -356,7 +352,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-fleet</summary>
+- **<details><summary>disassociate-fleet</summary><blockquote>**
 
   * --fleet-name
   * --stack-name
@@ -365,7 +361,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>enable-user</summary>
+- **<details><summary>enable-user</summary><blockquote>**
 
   * --user-name
   * --authentication-type
@@ -374,7 +370,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>expire-session</summary>
+- **<details><summary>expire-session</summary><blockquote>**
 
   * --session-id
   * --cli-input-json
@@ -382,12 +378,12 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-associated-fleets</summary>
+- **<details><summary>list-associated-fleets</summary><blockquote>**
 
   * --stack-name
   * --cli-input-json
@@ -397,7 +393,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>list-associated-stacks</summary>
+- **<details><summary>list-associated-stacks</summary><blockquote>**
 
   * --fleet-name
   * --cli-input-json
@@ -407,7 +403,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -415,7 +411,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>start-fleet</summary>
+- **<details><summary>start-fleet</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -423,7 +419,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>start-image-builder</summary>
+- **<details><summary>start-image-builder</summary><blockquote>**
 
   * --name
   * --appstream-agent-version
@@ -432,7 +428,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-fleet</summary>
+- **<details><summary>stop-fleet</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -440,7 +436,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-image-builder</summary>
+- **<details><summary>stop-image-builder</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -448,7 +444,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -457,7 +453,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -466,7 +462,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>update-directory-config</summary>
+- **<details><summary>update-directory-config</summary><blockquote>**
 
   * --directory-name
   * --organizational-unit-distinguished-names
@@ -476,7 +472,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>update-fleet</summary>
+- **<details><summary>update-fleet</summary><blockquote>**
 
   * --image-name
   * --image-arn
@@ -502,7 +498,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>update-image-permissions</summary>
+- **<details><summary>update-image-permissions</summary><blockquote>**
 
   * --name
   * --shared-account-id
@@ -512,7 +508,7 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>update-stack</summary>
+- **<details><summary>update-stack</summary><blockquote>**
 
   * --display-name
   * --description
@@ -532,10 +528,59 @@ appstream
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

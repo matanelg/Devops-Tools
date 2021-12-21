@@ -1,10 +1,6 @@
-<details>
+<details><summary>wafv2</summary><blockquote>
 
-<summary>
-wafv2
-</summary>
-
-- <details><summary>associate-web-acl</summary>
+- **<details><summary>associate-web-acl</summary><blockquote>**
 
   * --web-acl-arn
   * --resource-arn
@@ -13,7 +9,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>check-capacity</summary>
+- **<details><summary>check-capacity</summary><blockquote>**
 
   * --scope
   * --rules
@@ -22,7 +18,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-ip-set</summary>
+- **<details><summary>create-ip-set</summary><blockquote>**
 
   * --name
   * --scope
@@ -35,7 +31,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-regex-pattern-set</summary>
+- **<details><summary>create-regex-pattern-set</summary><blockquote>**
 
   * --name
   * --scope
@@ -47,7 +43,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-rule-group</summary>
+- **<details><summary>create-rule-group</summary><blockquote>**
 
   * --name
   * --scope
@@ -62,7 +58,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-web-acl</summary>
+- **<details><summary>create-web-acl</summary><blockquote>**
 
   * --name
   * --scope
@@ -77,7 +73,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-firewall-manager-rule-groups</summary>
+- **<details><summary>delete-firewall-manager-rule-groups</summary><blockquote>**
 
   * --web-acl-arn
   * --web-acl-lock-token
@@ -86,7 +82,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-ip-set</summary>
+- **<details><summary>delete-ip-set</summary><blockquote>**
 
   * --name
   * --scope
@@ -97,7 +93,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-logging-configuration</summary>
+- **<details><summary>delete-logging-configuration</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -105,7 +101,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-permission-policy</summary>
+- **<details><summary>delete-permission-policy</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -113,7 +109,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-regex-pattern-set</summary>
+- **<details><summary>delete-regex-pattern-set</summary><blockquote>**
 
   * --name
   * --scope
@@ -124,7 +120,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-rule-group</summary>
+- **<details><summary>delete-rule-group</summary><blockquote>**
 
   * --name
   * --scope
@@ -135,7 +131,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-web-acl</summary>
+- **<details><summary>delete-web-acl</summary><blockquote>**
 
   * --name
   * --scope
@@ -146,7 +142,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-managed-rule-group</summary>
+- **<details><summary>describe-managed-rule-group</summary><blockquote>**
 
   * --vendor-name
   * --name
@@ -156,7 +152,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-web-acl</summary>
+- **<details><summary>disassociate-web-acl</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -164,7 +160,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-ip-set</summary>
+- **<details><summary>get-ip-set</summary><blockquote>**
 
   * --name
   * --scope
@@ -174,7 +170,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-logging-configuration</summary>
+- **<details><summary>get-logging-configuration</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -182,7 +178,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-permission-policy</summary>
+- **<details><summary>get-permission-policy</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -190,7 +186,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-rate-based-statement-managed-keys</summary>
+- **<details><summary>get-rate-based-statement-managed-keys</summary><blockquote>**
 
   * --scope
   * --web-acl-name
@@ -201,7 +197,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-regex-pattern-set</summary>
+- **<details><summary>get-regex-pattern-set</summary><blockquote>**
 
   * --name
   * --scope
@@ -211,7 +207,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-rule-group</summary>
+- **<details><summary>get-rule-group</summary><blockquote>**
 
   * --name
   * --scope
@@ -222,7 +218,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-sampled-requests</summary>
+- **<details><summary>get-sampled-requests</summary><blockquote>**
 
   * --web-acl-arn
   * --rule-metric-name
@@ -234,7 +230,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-web-acl</summary>
+- **<details><summary>get-web-acl</summary><blockquote>**
 
   * --name
   * --scope
@@ -244,7 +240,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-web-acl-for-resource</summary>
+- **<details><summary>get-web-acl-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -252,12 +248,12 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-available-managed-rule-groups</summary>
+- **<details><summary>list-available-managed-rule-groups</summary><blockquote>**
 
   * --scope
   * --next-marker
@@ -267,7 +263,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-ip-sets</summary>
+- **<details><summary>list-ip-sets</summary><blockquote>**
 
   * --scope
   * --next-marker
@@ -277,7 +273,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-logging-configurations</summary>
+- **<details><summary>list-logging-configurations</summary><blockquote>**
 
   * --scope
   * --next-marker
@@ -287,7 +283,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-regex-pattern-sets</summary>
+- **<details><summary>list-regex-pattern-sets</summary><blockquote>**
 
   * --scope
   * --next-marker
@@ -297,7 +293,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-resources-for-web-acl</summary>
+- **<details><summary>list-resources-for-web-acl</summary><blockquote>**
 
   * --web-acl-arn
   * --resource-type
@@ -306,7 +302,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-rule-groups</summary>
+- **<details><summary>list-rule-groups</summary><blockquote>**
 
   * --scope
   * --next-marker
@@ -316,7 +312,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --next-marker
   * --limit
@@ -326,7 +322,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-web-acls</summary>
+- **<details><summary>list-web-acls</summary><blockquote>**
 
   * --scope
   * --next-marker
@@ -336,7 +332,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-logging-configuration</summary>
+- **<details><summary>put-logging-configuration</summary><blockquote>**
 
   * --logging-configuration
   * --cli-input-json
@@ -344,7 +340,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-permission-policy</summary>
+- **<details><summary>put-permission-policy</summary><blockquote>**
 
   * --resource-arn
   * --policy
@@ -353,7 +349,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -362,7 +358,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -371,7 +367,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-ip-set</summary>
+- **<details><summary>update-ip-set</summary><blockquote>**
 
   * --name
   * --scope
@@ -384,7 +380,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-regex-pattern-set</summary>
+- **<details><summary>update-regex-pattern-set</summary><blockquote>**
 
   * --name
   * --scope
@@ -397,7 +393,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-rule-group</summary>
+- **<details><summary>update-rule-group</summary><blockquote>**
 
   * --name
   * --scope
@@ -412,7 +408,7 @@ wafv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-web-acl</summary>
+- **<details><summary>update-web-acl</summary><blockquote>**
 
   * --name
   * --scope
@@ -428,5 +424,45 @@ wafv2
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

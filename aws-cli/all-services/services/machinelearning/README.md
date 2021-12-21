@@ -1,10 +1,6 @@
-<details>
+<details><summary>machinelearning</summary><blockquote>
 
-<summary>
-machinelearning
-</summary>
-
-- <details><summary>add-tags</summary>
+- **<details><summary>add-tags</summary><blockquote>**
 
   * --tags
   * --resource-id
@@ -14,7 +10,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>create-batch-prediction</summary>
+- **<details><summary>create-batch-prediction</summary><blockquote>**
 
   * --batch-prediction-id
   * --batch-prediction-name
@@ -26,7 +22,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>create-data-source-from-rds</summary>
+- **<details><summary>create-data-source-from-rds</summary><blockquote>**
 
   * --data-source-id
   * --data-source-name
@@ -39,7 +35,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>create-data-source-from-redshift</summary>
+- **<details><summary>create-data-source-from-redshift</summary><blockquote>**
 
   * --data-source-id
   * --data-source-name
@@ -52,7 +48,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>create-data-source-from-s3</summary>
+- **<details><summary>create-data-source-from-s3</summary><blockquote>**
 
   * --data-source-id
   * --data-source-name
@@ -64,7 +60,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>create-evaluation</summary>
+- **<details><summary>create-evaluation</summary><blockquote>**
 
   * --evaluation-id
   * --evaluation-name
@@ -75,7 +71,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>create-ml-model</summary>
+- **<details><summary>create-ml-model</summary><blockquote>**
 
   * --ml-model-id
   * --ml-model-name
@@ -89,7 +85,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>create-realtime-endpoint</summary>
+- **<details><summary>create-realtime-endpoint</summary><blockquote>**
 
   * --ml-model-id
   * --cli-input-json
@@ -97,7 +93,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-batch-prediction</summary>
+- **<details><summary>delete-batch-prediction</summary><blockquote>**
 
   * --batch-prediction-id
   * --cli-input-json
@@ -105,7 +101,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-data-source</summary>
+- **<details><summary>delete-data-source</summary><blockquote>**
 
   * --data-source-id
   * --cli-input-json
@@ -113,7 +109,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-evaluation</summary>
+- **<details><summary>delete-evaluation</summary><blockquote>**
 
   * --evaluation-id
   * --cli-input-json
@@ -121,7 +117,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-ml-model</summary>
+- **<details><summary>delete-ml-model</summary><blockquote>**
 
   * --ml-model-id
   * --cli-input-json
@@ -129,7 +125,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-realtime-endpoint</summary>
+- **<details><summary>delete-realtime-endpoint</summary><blockquote>**
 
   * --ml-model-id
   * --cli-input-json
@@ -137,7 +133,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-tags</summary>
+- **<details><summary>delete-tags</summary><blockquote>**
 
   * --tag-keys
   * --resource-id
@@ -147,7 +143,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-batch-predictions</summary>
+- **<details><summary>describe-batch-predictions</summary><blockquote>**
 
   * --filter-variable
   * --eq
@@ -166,7 +162,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-data-sources</summary>
+- **<details><summary>describe-data-sources</summary><blockquote>**
 
   * --filter-variable
   * --eq
@@ -185,7 +181,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-evaluations</summary>
+- **<details><summary>describe-evaluations</summary><blockquote>**
 
   * --filter-variable
   * --eq
@@ -204,7 +200,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-ml-models</summary>
+- **<details><summary>describe-ml-models</summary><blockquote>**
 
   * --filter-variable
   * --eq
@@ -223,7 +219,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-tags</summary>
+- **<details><summary>describe-tags</summary><blockquote>**
 
   * --resource-id
   * --resource-type
@@ -232,7 +228,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>get-batch-prediction</summary>
+- **<details><summary>get-batch-prediction</summary><blockquote>**
 
   * --batch-prediction-id
   * --cli-input-json
@@ -240,7 +236,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>get-data-source</summary>
+- **<details><summary>get-data-source</summary><blockquote>**
 
   * --data-source-id
   * --verbose
@@ -250,7 +246,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>get-evaluation</summary>
+- **<details><summary>get-evaluation</summary><blockquote>**
 
   * --evaluation-id
   * --cli-input-json
@@ -258,7 +254,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>get-ml-model</summary>
+- **<details><summary>get-ml-model</summary><blockquote>**
 
   * --ml-model-id
   * --verbose
@@ -268,12 +264,12 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>predict</summary>
+- **<details><summary>predict</summary><blockquote>**
 
   * --ml-model-id
   * --record
@@ -283,7 +279,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>update-batch-prediction</summary>
+- **<details><summary>update-batch-prediction</summary><blockquote>**
 
   * --batch-prediction-id
   * --batch-prediction-name
@@ -292,7 +288,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>update-data-source</summary>
+- **<details><summary>update-data-source</summary><blockquote>**
 
   * --data-source-id
   * --data-source-name
@@ -301,7 +297,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>update-evaluation</summary>
+- **<details><summary>update-evaluation</summary><blockquote>**
 
   * --evaluation-id
   * --evaluation-name
@@ -310,7 +306,7 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>update-ml-model</summary>
+- **<details><summary>update-ml-model</summary><blockquote>**
 
   * --ml-model-id
   * --ml-model-name
@@ -320,10 +316,39 @@ machinelearning
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

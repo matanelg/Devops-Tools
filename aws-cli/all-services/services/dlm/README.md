@@ -1,16 +1,12 @@
-<details>
+<details><summary>dlm</summary><blockquote>
 
-<summary>
-dlm
-</summary>
-
-- <details><summary>create-default-role</summary>
+- **<details><summary>create-default-role</summary><blockquote>**
 
   * --iam-endpoint
   * --resource-type
 
 
-- <details><summary>create-lifecycle-policy</summary>
+- **<details><summary>create-lifecycle-policy</summary><blockquote>**
 
   * --execution-role-arn
   * --description
@@ -22,7 +18,7 @@ dlm
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-lifecycle-policy</summary>
+- **<details><summary>delete-lifecycle-policy</summary><blockquote>**
 
   * --policy-id
   * --cli-input-json
@@ -30,7 +26,7 @@ dlm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-lifecycle-policies</summary>
+- **<details><summary>get-lifecycle-policies</summary><blockquote>**
 
   * --policy-ids
   * --state
@@ -42,7 +38,7 @@ dlm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-lifecycle-policy</summary>
+- **<details><summary>get-lifecycle-policy</summary><blockquote>**
 
   * --policy-id
   * --cli-input-json
@@ -50,12 +46,12 @@ dlm
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -63,7 +59,7 @@ dlm
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -72,7 +68,7 @@ dlm
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -81,7 +77,7 @@ dlm
   * --generate-cli-skeleton
 
 
-- <details><summary>update-lifecycle-policy</summary>
+- **<details><summary>update-lifecycle-policy</summary><blockquote>**
 
   * --policy-id
   * --execution-role-arn
@@ -93,5 +89,14 @@ dlm
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>iot-jobs-data</summary><blockquote>
 
-<summary>
-iot-jobs-data
-</summary>
-
-- <details><summary>describe-job-execution</summary>
+- **<details><summary>describe-job-execution</summary><blockquote>**
 
   * --job-id
   * --thing-name
@@ -16,7 +12,7 @@ iot-jobs-data
   * --generate-cli-skeleton
 
 
-- <details><summary>get-pending-job-executions</summary>
+- **<details><summary>get-pending-job-executions</summary><blockquote>**
 
   * --thing-name
   * --cli-input-json
@@ -24,12 +20,12 @@ iot-jobs-data
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>start-next-pending-job-execution</summary>
+- **<details><summary>start-next-pending-job-execution</summary><blockquote>**
 
   * --thing-name
   * --status-details
@@ -39,7 +35,7 @@ iot-jobs-data
   * --generate-cli-skeleton
 
 
-- <details><summary>update-job-execution</summary>
+- **<details><summary>update-job-execution</summary><blockquote>**
 
   * --job-id
   * --thing-name
@@ -57,5 +53,9 @@ iot-jobs-data
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

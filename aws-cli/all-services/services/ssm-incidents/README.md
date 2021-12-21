@@ -1,10 +1,6 @@
-<details>
+<details><summary>ssm-incidents</summary><blockquote>
 
-<summary>
-ssm-incidents
-</summary>
-
-- <details><summary>create-replication-set</summary>
+- **<details><summary>create-replication-set</summary><blockquote>**
 
   * --client-token
   * --regions
@@ -13,7 +9,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>create-response-plan</summary>
+- **<details><summary>create-response-plan</summary><blockquote>**
 
   * --actions
   * --chat-channel
@@ -28,7 +24,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>create-timeline-event</summary>
+- **<details><summary>create-timeline-event</summary><blockquote>**
 
   * --client-token
   * --event-data
@@ -40,7 +36,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-incident-record</summary>
+- **<details><summary>delete-incident-record</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -48,7 +44,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-replication-set</summary>
+- **<details><summary>delete-replication-set</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -56,7 +52,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-resource-policy</summary>
+- **<details><summary>delete-resource-policy</summary><blockquote>**
 
   * --policy-id
   * --resource-arn
@@ -65,7 +61,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-response-plan</summary>
+- **<details><summary>delete-response-plan</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -73,7 +69,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-timeline-event</summary>
+- **<details><summary>delete-timeline-event</summary><blockquote>**
 
   * --event-id
   * --incident-record-arn
@@ -82,7 +78,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>get-incident-record</summary>
+- **<details><summary>get-incident-record</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -90,7 +86,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>get-replication-set</summary>
+- **<details><summary>get-replication-set</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -98,7 +94,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resource-policies</summary>
+- **<details><summary>get-resource-policies</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -109,7 +105,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>get-response-plan</summary>
+- **<details><summary>get-response-plan</summary><blockquote>**
 
   * --arn
   * --cli-input-json
@@ -117,7 +113,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>get-timeline-event</summary>
+- **<details><summary>get-timeline-event</summary><blockquote>**
 
   * --event-id
   * --incident-record-arn
@@ -126,12 +122,12 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-incident-records</summary>
+- **<details><summary>list-incident-records</summary><blockquote>**
 
   * --filters
   * --cli-input-json
@@ -142,7 +138,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>list-related-items</summary>
+- **<details><summary>list-related-items</summary><blockquote>**
 
   * --incident-record-arn
   * --cli-input-json
@@ -153,7 +149,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>list-replication-sets</summary>
+- **<details><summary>list-replication-sets</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -163,7 +159,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>list-response-plans</summary>
+- **<details><summary>list-response-plans</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -173,7 +169,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -181,7 +177,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>list-timeline-events</summary>
+- **<details><summary>list-timeline-events</summary><blockquote>**
 
   * --filters
   * --incident-record-arn
@@ -195,7 +191,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>put-resource-policy</summary>
+- **<details><summary>put-resource-policy</summary><blockquote>**
 
   * --policy
   * --resource-arn
@@ -204,7 +200,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>start-incident</summary>
+- **<details><summary>start-incident</summary><blockquote>**
 
   * --client-token
   * --impact
@@ -217,7 +213,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -226,7 +222,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -235,7 +231,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>update-deletion-protection</summary>
+- **<details><summary>update-deletion-protection</summary><blockquote>**
 
   * --arn
   * --client-token
@@ -246,7 +242,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>update-incident-record</summary>
+- **<details><summary>update-incident-record</summary><blockquote>**
 
   * --arn
   * --chat-channel
@@ -261,7 +257,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>update-related-items</summary>
+- **<details><summary>update-related-items</summary><blockquote>**
 
   * --client-token
   * --incident-record-arn
@@ -271,7 +267,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>update-replication-set</summary>
+- **<details><summary>update-replication-set</summary><blockquote>**
 
   * --actions
   * --arn
@@ -281,7 +277,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>update-response-plan</summary>
+- **<details><summary>update-response-plan</summary><blockquote>**
 
   * --actions
   * --arn
@@ -299,7 +295,7 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>update-timeline-event</summary>
+- **<details><summary>update-timeline-event</summary><blockquote>**
 
   * --client-token
   * --event-data
@@ -312,10 +308,40 @@ ssm-incidents
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

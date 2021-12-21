@@ -1,27 +1,23 @@
-<details>
+<details><summary>iot-data</summary><blockquote>
 
-<summary>
-iot-data
-</summary>
-
-- <details><summary>delete-thing-shadow</summary>
+- **<details><summary>delete-thing-shadow</summary><blockquote>**
 
   * --thing-name
   * --shadow-name
 
 
-- <details><summary>get-thing-shadow</summary>
+- **<details><summary>get-thing-shadow</summary><blockquote>**
 
   * --thing-name
   * --shadow-name
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-named-shadows-for-thing</summary>
+- **<details><summary>list-named-shadows-for-thing</summary><blockquote>**
 
   * --thing-name
   * --next-token
@@ -31,7 +27,7 @@ iot-data
   * --generate-cli-skeleton
 
 
-- <details><summary>publish</summary>
+- **<details><summary>publish</summary><blockquote>**
 
   * --topic
   * --qos
@@ -41,12 +37,17 @@ iot-data
   * --generate-cli-skeleton
 
 
-- <details><summary>update-thing-shadow</summary>
+- **<details><summary>update-thing-shadow</summary><blockquote>**
 
   * --thing-name
   * --shadow-name
   * --payload
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>elasticache</summary><blockquote>
 
-<summary>
-elasticache
-</summary>
-
-- <details><summary>add-tags-to-resource</summary>
+- **<details><summary>add-tags-to-resource</summary><blockquote>**
 
   * --resource-name
   * --tags
@@ -13,7 +9,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>authorize-cache-security-group-ingress</summary>
+- **<details><summary>authorize-cache-security-group-ingress</summary><blockquote>**
 
   * --cache-security-group-name
   * --ec2-security-group-name
@@ -23,7 +19,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-apply-update-action</summary>
+- **<details><summary>batch-apply-update-action</summary><blockquote>**
 
   * --replication-group-ids
   * --cache-cluster-ids
@@ -33,7 +29,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-stop-update-action</summary>
+- **<details><summary>batch-stop-update-action</summary><blockquote>**
 
   * --replication-group-ids
   * --cache-cluster-ids
@@ -43,7 +39,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>complete-migration</summary>
+- **<details><summary>complete-migration</summary><blockquote>**
 
   * --replication-group-id
   * --force
@@ -53,7 +49,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-snapshot</summary>
+- **<details><summary>copy-snapshot</summary><blockquote>**
 
   * --source-snapshot-name
   * --target-snapshot-name
@@ -65,7 +61,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cache-cluster</summary>
+- **<details><summary>create-cache-cluster</summary><blockquote>**
 
   * --cache-cluster-id
   * --replication-group-id
@@ -100,7 +96,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cache-parameter-group</summary>
+- **<details><summary>create-cache-parameter-group</summary><blockquote>**
 
   * --cache-parameter-group-name
   * --cache-parameter-group-family
@@ -111,7 +107,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cache-security-group</summary>
+- **<details><summary>create-cache-security-group</summary><blockquote>**
 
   * --cache-security-group-name
   * --description
@@ -121,7 +117,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cache-subnet-group</summary>
+- **<details><summary>create-cache-subnet-group</summary><blockquote>**
 
   * --cache-subnet-group-name
   * --cache-subnet-group-description
@@ -132,7 +128,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>create-global-replication-group</summary>
+- **<details><summary>create-global-replication-group</summary><blockquote>**
 
   * --global-replication-group-id-suffix
   * --global-replication-group-description
@@ -142,7 +138,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>create-replication-group</summary>
+- **<details><summary>create-replication-group</summary><blockquote>**
 
   * --replication-group-id
   * --replication-group-description
@@ -187,7 +183,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>create-snapshot</summary>
+- **<details><summary>create-snapshot</summary><blockquote>**
 
   * --replication-group-id
   * --cache-cluster-id
@@ -199,7 +195,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>create-user</summary>
+- **<details><summary>create-user</summary><blockquote>**
 
   * --user-id
   * --user-name
@@ -214,7 +210,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>create-user-group</summary>
+- **<details><summary>create-user-group</summary><blockquote>**
 
   * --user-group-id
   * --engine
@@ -225,7 +221,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>decrease-node-groups-in-global-replication-group</summary>
+- **<details><summary>decrease-node-groups-in-global-replication-group</summary><blockquote>**
 
   * --global-replication-group-id
   * --node-group-count
@@ -238,7 +234,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>decrease-replica-count</summary>
+- **<details><summary>decrease-replica-count</summary><blockquote>**
 
   * --replication-group-id
   * --new-replica-count
@@ -251,7 +247,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-cache-cluster</summary>
+- **<details><summary>delete-cache-cluster</summary><blockquote>**
 
   * --cache-cluster-id
   * --final-snapshot-identifier
@@ -260,7 +256,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-cache-parameter-group</summary>
+- **<details><summary>delete-cache-parameter-group</summary><blockquote>**
 
   * --cache-parameter-group-name
   * --cli-input-json
@@ -268,7 +264,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-cache-security-group</summary>
+- **<details><summary>delete-cache-security-group</summary><blockquote>**
 
   * --cache-security-group-name
   * --cli-input-json
@@ -276,7 +272,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-cache-subnet-group</summary>
+- **<details><summary>delete-cache-subnet-group</summary><blockquote>**
 
   * --cache-subnet-group-name
   * --cli-input-json
@@ -284,7 +280,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-global-replication-group</summary>
+- **<details><summary>delete-global-replication-group</summary><blockquote>**
 
   * --global-replication-group-id
   * --retain-primary-replication-group
@@ -294,7 +290,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-replication-group</summary>
+- **<details><summary>delete-replication-group</summary><blockquote>**
 
   * --replication-group-id
   * --retain-primary-cluster
@@ -305,7 +301,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-snapshot</summary>
+- **<details><summary>delete-snapshot</summary><blockquote>**
 
   * --snapshot-name
   * --cli-input-json
@@ -313,7 +309,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user</summary>
+- **<details><summary>delete-user</summary><blockquote>**
 
   * --user-id
   * --cli-input-json
@@ -321,7 +317,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user-group</summary>
+- **<details><summary>delete-user-group</summary><blockquote>**
 
   * --user-group-id
   * --cli-input-json
@@ -329,7 +325,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cache-clusters</summary>
+- **<details><summary>describe-cache-clusters</summary><blockquote>**
 
   * --cache-cluster-id
   * --show-cache-node-info
@@ -344,7 +340,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cache-engine-versions</summary>
+- **<details><summary>describe-cache-engine-versions</summary><blockquote>**
 
   * --engine
   * --engine-version
@@ -359,7 +355,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cache-parameter-groups</summary>
+- **<details><summary>describe-cache-parameter-groups</summary><blockquote>**
 
   * --cache-parameter-group-name
   * --cli-input-json
@@ -370,7 +366,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cache-parameters</summary>
+- **<details><summary>describe-cache-parameters</summary><blockquote>**
 
   * --cache-parameter-group-name
   * --source
@@ -382,7 +378,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cache-security-groups</summary>
+- **<details><summary>describe-cache-security-groups</summary><blockquote>**
 
   * --cache-security-group-name
   * --cli-input-json
@@ -393,7 +389,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cache-subnet-groups</summary>
+- **<details><summary>describe-cache-subnet-groups</summary><blockquote>**
 
   * --cache-subnet-group-name
   * --cli-input-json
@@ -404,7 +400,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-engine-default-parameters</summary>
+- **<details><summary>describe-engine-default-parameters</summary><blockquote>**
 
   * --cache-parameter-group-family
   * --cli-input-json
@@ -415,7 +411,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-events</summary>
+- **<details><summary>describe-events</summary><blockquote>**
 
   * --source-identifier
   * --source-type
@@ -430,7 +426,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-global-replication-groups</summary>
+- **<details><summary>describe-global-replication-groups</summary><blockquote>**
 
   * --global-replication-group-id
   * --show-member-info
@@ -443,7 +439,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-replication-groups</summary>
+- **<details><summary>describe-replication-groups</summary><blockquote>**
 
   * --replication-group-id
   * --cli-input-json
@@ -454,7 +450,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-reserved-cache-nodes</summary>
+- **<details><summary>describe-reserved-cache-nodes</summary><blockquote>**
 
   * --reserved-cache-node-id
   * --reserved-cache-nodes-offering-id
@@ -470,7 +466,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-reserved-cache-nodes-offerings</summary>
+- **<details><summary>describe-reserved-cache-nodes-offerings</summary><blockquote>**
 
   * --reserved-cache-nodes-offering-id
   * --cache-node-type
@@ -485,7 +481,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-service-updates</summary>
+- **<details><summary>describe-service-updates</summary><blockquote>**
 
   * --service-update-name
   * --service-update-status
@@ -497,7 +493,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-snapshots</summary>
+- **<details><summary>describe-snapshots</summary><blockquote>**
 
   * --replication-group-id
   * --cache-cluster-id
@@ -513,7 +509,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-update-actions</summary>
+- **<details><summary>describe-update-actions</summary><blockquote>**
 
   * --service-update-name
   * --replication-group-ids
@@ -532,7 +528,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-user-groups</summary>
+- **<details><summary>describe-user-groups</summary><blockquote>**
 
   * --user-group-id
   * --cli-input-json
@@ -543,7 +539,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-users</summary>
+- **<details><summary>describe-users</summary><blockquote>**
 
   * --engine
   * --user-id
@@ -556,7 +552,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-global-replication-group</summary>
+- **<details><summary>disassociate-global-replication-group</summary><blockquote>**
 
   * --global-replication-group-id
   * --replication-group-id
@@ -566,7 +562,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>failover-global-replication-group</summary>
+- **<details><summary>failover-global-replication-group</summary><blockquote>**
 
   * --global-replication-group-id
   * --primary-region
@@ -576,12 +572,12 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>increase-node-groups-in-global-replication-group</summary>
+- **<details><summary>increase-node-groups-in-global-replication-group</summary><blockquote>**
 
   * --global-replication-group-id
   * --node-group-count
@@ -593,7 +589,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>increase-replica-count</summary>
+- **<details><summary>increase-replica-count</summary><blockquote>**
 
   * --replication-group-id
   * --new-replica-count
@@ -605,7 +601,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>list-allowed-node-type-modifications</summary>
+- **<details><summary>list-allowed-node-type-modifications</summary><blockquote>**
 
   * --cache-cluster-id
   * --replication-group-id
@@ -614,7 +610,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-name
   * --cli-input-json
@@ -622,7 +618,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-cache-cluster</summary>
+- **<details><summary>modify-cache-cluster</summary><blockquote>**
 
   * --cache-cluster-id
   * --num-cache-nodes
@@ -651,7 +647,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-cache-parameter-group</summary>
+- **<details><summary>modify-cache-parameter-group</summary><blockquote>**
 
   * --cache-parameter-group-name
   * --parameter-name-values
@@ -660,7 +656,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-cache-subnet-group</summary>
+- **<details><summary>modify-cache-subnet-group</summary><blockquote>**
 
   * --cache-subnet-group-name
   * --cache-subnet-group-description
@@ -670,7 +666,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-global-replication-group</summary>
+- **<details><summary>modify-global-replication-group</summary><blockquote>**
 
   * --global-replication-group-id
   * --apply-immediately
@@ -686,7 +682,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-replication-group</summary>
+- **<details><summary>modify-replication-group</summary><blockquote>**
 
   * --replication-group-id
   * --replication-group-description
@@ -723,7 +719,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-replication-group-shard-configuration</summary>
+- **<details><summary>modify-replication-group-shard-configuration</summary><blockquote>**
 
   * --replication-group-id
   * --node-group-count
@@ -737,7 +733,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-user</summary>
+- **<details><summary>modify-user</summary><blockquote>**
 
   * --user-id
   * --access-string
@@ -750,7 +746,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-user-group</summary>
+- **<details><summary>modify-user-group</summary><blockquote>**
 
   * --user-group-id
   * --user-ids-to-add
@@ -760,7 +756,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>purchase-reserved-cache-nodes-offering</summary>
+- **<details><summary>purchase-reserved-cache-nodes-offering</summary><blockquote>**
 
   * --reserved-cache-nodes-offering-id
   * --reserved-cache-node-id
@@ -771,7 +767,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>rebalance-slots-in-global-replication-group</summary>
+- **<details><summary>rebalance-slots-in-global-replication-group</summary><blockquote>**
 
   * --global-replication-group-id
   * --apply-immediately
@@ -781,7 +777,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>reboot-cache-cluster</summary>
+- **<details><summary>reboot-cache-cluster</summary><blockquote>**
 
   * --cache-cluster-id
   * --cache-node-ids-to-reboot
@@ -790,7 +786,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-tags-from-resource</summary>
+- **<details><summary>remove-tags-from-resource</summary><blockquote>**
 
   * --resource-name
   * --tag-keys
@@ -799,7 +795,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-cache-parameter-group</summary>
+- **<details><summary>reset-cache-parameter-group</summary><blockquote>**
 
   * --cache-parameter-group-name
   * --reset-all-parameters
@@ -810,7 +806,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>revoke-cache-security-group-ingress</summary>
+- **<details><summary>revoke-cache-security-group-ingress</summary><blockquote>**
 
   * --cache-security-group-name
   * --ec2-security-group-name
@@ -820,7 +816,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>start-migration</summary>
+- **<details><summary>start-migration</summary><blockquote>**
 
   * --replication-group-id
   * --customer-node-endpoint-list
@@ -829,7 +825,7 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>test-failover</summary>
+- **<details><summary>test-failover</summary><blockquote>**
 
   * --replication-group-id
   * --node-group-id
@@ -838,10 +834,76 @@ elasticache
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

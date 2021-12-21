@@ -1,10 +1,6 @@
-<details>
+<details><summary>importexport</summary><blockquote>
 
-<summary>
-importexport
-</summary>
-
-- <details><summary>cancel-job</summary>
+- **<details><summary>cancel-job</summary><blockquote>**
 
   * --job-id
   * --api-version
@@ -13,7 +9,7 @@ importexport
   * --generate-cli-skeleton
 
 
-- <details><summary>create-job</summary>
+- **<details><summary>create-job</summary><blockquote>**
 
   * --job-type
   * --manifest
@@ -26,7 +22,7 @@ importexport
   * --generate-cli-skeleton
 
 
-- <details><summary>get-shipping-label</summary>
+- **<details><summary>get-shipping-label</summary><blockquote>**
 
   * --job-ids
   * --name
@@ -45,7 +41,7 @@ importexport
   * --generate-cli-skeleton
 
 
-- <details><summary>get-status</summary>
+- **<details><summary>get-status</summary><blockquote>**
 
   * --job-id
   * --api-version
@@ -54,12 +50,12 @@ importexport
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-jobs</summary>
+- **<details><summary>list-jobs</summary><blockquote>**
 
   * --api-version
   * --cli-input-json
@@ -70,7 +66,7 @@ importexport
   * --generate-cli-skeleton
 
 
-- <details><summary>update-job</summary>
+- **<details><summary>update-job</summary><blockquote>**
 
   * --job-id
   * --manifest
@@ -83,5 +79,11 @@ importexport
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

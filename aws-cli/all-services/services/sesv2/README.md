@@ -1,10 +1,6 @@
-<details>
+<details><summary>sesv2</summary><blockquote>
 
-<summary>
-sesv2
-</summary>
-
-- <details><summary>create-configuration-set</summary>
+- **<details><summary>create-configuration-set</summary><blockquote>**
 
   * --configuration-set-name
   * --tracking-options
@@ -18,7 +14,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-configuration-set-event-destination</summary>
+- **<details><summary>create-configuration-set-event-destination</summary><blockquote>**
 
   * --configuration-set-name
   * --event-destination-name
@@ -28,7 +24,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-contact</summary>
+- **<details><summary>create-contact</summary><blockquote>**
 
   * --contact-list-name
   * --email-address
@@ -41,7 +37,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-contact-list</summary>
+- **<details><summary>create-contact-list</summary><blockquote>**
 
   * --contact-list-name
   * --topics
@@ -52,7 +48,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-custom-verification-email-template</summary>
+- **<details><summary>create-custom-verification-email-template</summary><blockquote>**
 
   * --template-name
   * --from-email-address
@@ -65,7 +61,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-dedicated-ip-pool</summary>
+- **<details><summary>create-dedicated-ip-pool</summary><blockquote>**
 
   * --pool-name
   * --tags
@@ -74,7 +70,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-deliverability-test-report</summary>
+- **<details><summary>create-deliverability-test-report</summary><blockquote>**
 
   * --report-name
   * --from-email-address
@@ -85,7 +81,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-email-identity</summary>
+- **<details><summary>create-email-identity</summary><blockquote>**
 
   * --email-identity
   * --tags
@@ -96,7 +92,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-email-identity-policy</summary>
+- **<details><summary>create-email-identity-policy</summary><blockquote>**
 
   * --email-identity
   * --policy-name
@@ -106,7 +102,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-email-template</summary>
+- **<details><summary>create-email-template</summary><blockquote>**
 
   * --template-name
   * --template-content
@@ -115,7 +111,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-import-job</summary>
+- **<details><summary>create-import-job</summary><blockquote>**
 
   * --import-destination
   * --import-data-source
@@ -124,7 +120,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-configuration-set</summary>
+- **<details><summary>delete-configuration-set</summary><blockquote>**
 
   * --configuration-set-name
   * --cli-input-json
@@ -132,7 +128,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-configuration-set-event-destination</summary>
+- **<details><summary>delete-configuration-set-event-destination</summary><blockquote>**
 
   * --configuration-set-name
   * --event-destination-name
@@ -141,7 +137,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-contact</summary>
+- **<details><summary>delete-contact</summary><blockquote>**
 
   * --contact-list-name
   * --email-address
@@ -150,7 +146,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-contact-list</summary>
+- **<details><summary>delete-contact-list</summary><blockquote>**
 
   * --contact-list-name
   * --cli-input-json
@@ -158,7 +154,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-custom-verification-email-template</summary>
+- **<details><summary>delete-custom-verification-email-template</summary><blockquote>**
 
   * --template-name
   * --cli-input-json
@@ -166,7 +162,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-dedicated-ip-pool</summary>
+- **<details><summary>delete-dedicated-ip-pool</summary><blockquote>**
 
   * --pool-name
   * --cli-input-json
@@ -174,7 +170,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-email-identity</summary>
+- **<details><summary>delete-email-identity</summary><blockquote>**
 
   * --email-identity
   * --cli-input-json
@@ -182,7 +178,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-email-identity-policy</summary>
+- **<details><summary>delete-email-identity-policy</summary><blockquote>**
 
   * --email-identity
   * --policy-name
@@ -191,7 +187,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-email-template</summary>
+- **<details><summary>delete-email-template</summary><blockquote>**
 
   * --template-name
   * --cli-input-json
@@ -199,7 +195,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-suppressed-destination</summary>
+- **<details><summary>delete-suppressed-destination</summary><blockquote>**
 
   * --email-address
   * --cli-input-json
@@ -207,14 +203,14 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-account</summary>
+- **<details><summary>get-account</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-blacklist-reports</summary>
+- **<details><summary>get-blacklist-reports</summary><blockquote>**
 
   * --blacklist-item-names
   * --cli-input-json
@@ -222,7 +218,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-configuration-set</summary>
+- **<details><summary>get-configuration-set</summary><blockquote>**
 
   * --configuration-set-name
   * --cli-input-json
@@ -230,7 +226,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-configuration-set-event-destinations</summary>
+- **<details><summary>get-configuration-set-event-destinations</summary><blockquote>**
 
   * --configuration-set-name
   * --cli-input-json
@@ -238,7 +234,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-contact</summary>
+- **<details><summary>get-contact</summary><blockquote>**
 
   * --contact-list-name
   * --email-address
@@ -247,7 +243,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-contact-list</summary>
+- **<details><summary>get-contact-list</summary><blockquote>**
 
   * --contact-list-name
   * --cli-input-json
@@ -255,7 +251,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-custom-verification-email-template</summary>
+- **<details><summary>get-custom-verification-email-template</summary><blockquote>**
 
   * --template-name
   * --cli-input-json
@@ -263,7 +259,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-dedicated-ip</summary>
+- **<details><summary>get-dedicated-ip</summary><blockquote>**
 
   * --ip
   * --cli-input-json
@@ -271,7 +267,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-dedicated-ips</summary>
+- **<details><summary>get-dedicated-ips</summary><blockquote>**
 
   * --pool-name
   * --next-token
@@ -281,14 +277,14 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-deliverability-dashboard-options</summary>
+- **<details><summary>get-deliverability-dashboard-options</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-deliverability-test-report</summary>
+- **<details><summary>get-deliverability-test-report</summary><blockquote>**
 
   * --report-id
   * --cli-input-json
@@ -296,7 +292,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-domain-deliverability-campaign</summary>
+- **<details><summary>get-domain-deliverability-campaign</summary><blockquote>**
 
   * --campaign-id
   * --cli-input-json
@@ -304,7 +300,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-domain-statistics-report</summary>
+- **<details><summary>get-domain-statistics-report</summary><blockquote>**
 
   * --domain
   * --start-date
@@ -314,7 +310,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-email-identity</summary>
+- **<details><summary>get-email-identity</summary><blockquote>**
 
   * --email-identity
   * --cli-input-json
@@ -322,7 +318,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-email-identity-policies</summary>
+- **<details><summary>get-email-identity-policies</summary><blockquote>**
 
   * --email-identity
   * --cli-input-json
@@ -330,7 +326,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-email-template</summary>
+- **<details><summary>get-email-template</summary><blockquote>**
 
   * --template-name
   * --cli-input-json
@@ -338,7 +334,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-import-job</summary>
+- **<details><summary>get-import-job</summary><blockquote>**
 
   * --job-id
   * --cli-input-json
@@ -346,7 +342,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-suppressed-destination</summary>
+- **<details><summary>get-suppressed-destination</summary><blockquote>**
 
   * --email-address
   * --cli-input-json
@@ -354,12 +350,12 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-configuration-sets</summary>
+- **<details><summary>list-configuration-sets</summary><blockquote>**
 
   * --next-token
   * --page-size
@@ -368,7 +364,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-contact-lists</summary>
+- **<details><summary>list-contact-lists</summary><blockquote>**
 
   * --page-size
   * --next-token
@@ -377,7 +373,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-contacts</summary>
+- **<details><summary>list-contacts</summary><blockquote>**
 
   * --contact-list-name
   * --filter
@@ -388,7 +384,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-custom-verification-email-templates</summary>
+- **<details><summary>list-custom-verification-email-templates</summary><blockquote>**
 
   * --next-token
   * --page-size
@@ -397,7 +393,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-dedicated-ip-pools</summary>
+- **<details><summary>list-dedicated-ip-pools</summary><blockquote>**
 
   * --next-token
   * --page-size
@@ -406,7 +402,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-deliverability-test-reports</summary>
+- **<details><summary>list-deliverability-test-reports</summary><blockquote>**
 
   * --next-token
   * --page-size
@@ -415,7 +411,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-domain-deliverability-campaigns</summary>
+- **<details><summary>list-domain-deliverability-campaigns</summary><blockquote>**
 
   * --start-date
   * --end-date
@@ -427,7 +423,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-email-identities</summary>
+- **<details><summary>list-email-identities</summary><blockquote>**
 
   * --next-token
   * --page-size
@@ -436,7 +432,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-email-templates</summary>
+- **<details><summary>list-email-templates</summary><blockquote>**
 
   * --next-token
   * --page-size
@@ -445,7 +441,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-import-jobs</summary>
+- **<details><summary>list-import-jobs</summary><blockquote>**
 
   * --import-destination-type
   * --next-token
@@ -455,7 +451,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-suppressed-destinations</summary>
+- **<details><summary>list-suppressed-destinations</summary><blockquote>**
 
   * --reasons
   * --start-date
@@ -467,7 +463,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -475,7 +471,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-account-dedicated-ip-warmup-attributes</summary>
+- **<details><summary>put-account-dedicated-ip-warmup-attributes</summary><blockquote>**
 
   * --auto-warmup-enabled
   * --no-auto-warmup-enabled
@@ -484,7 +480,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-account-details</summary>
+- **<details><summary>put-account-details</summary><blockquote>**
 
   * --mail-type
   * --website-url
@@ -498,7 +494,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-account-sending-attributes</summary>
+- **<details><summary>put-account-sending-attributes</summary><blockquote>**
 
   * --sending-enabled
   * --no-sending-enabled
@@ -507,7 +503,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-account-suppression-attributes</summary>
+- **<details><summary>put-account-suppression-attributes</summary><blockquote>**
 
   * --suppressed-reasons
   * --cli-input-json
@@ -515,7 +511,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-configuration-set-delivery-options</summary>
+- **<details><summary>put-configuration-set-delivery-options</summary><blockquote>**
 
   * --configuration-set-name
   * --tls-policy
@@ -525,7 +521,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-configuration-set-reputation-options</summary>
+- **<details><summary>put-configuration-set-reputation-options</summary><blockquote>**
 
   * --configuration-set-name
   * --reputation-metrics-enabled
@@ -535,7 +531,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-configuration-set-sending-options</summary>
+- **<details><summary>put-configuration-set-sending-options</summary><blockquote>**
 
   * --configuration-set-name
   * --sending-enabled
@@ -545,7 +541,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-configuration-set-suppression-options</summary>
+- **<details><summary>put-configuration-set-suppression-options</summary><blockquote>**
 
   * --configuration-set-name
   * --suppressed-reasons
@@ -554,7 +550,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-configuration-set-tracking-options</summary>
+- **<details><summary>put-configuration-set-tracking-options</summary><blockquote>**
 
   * --configuration-set-name
   * --custom-redirect-domain
@@ -563,7 +559,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-dedicated-ip-in-pool</summary>
+- **<details><summary>put-dedicated-ip-in-pool</summary><blockquote>**
 
   * --ip
   * --destination-pool-name
@@ -572,7 +568,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-dedicated-ip-warmup-attributes</summary>
+- **<details><summary>put-dedicated-ip-warmup-attributes</summary><blockquote>**
 
   * --ip
   * --warmup-percentage
@@ -581,7 +577,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-deliverability-dashboard-option</summary>
+- **<details><summary>put-deliverability-dashboard-option</summary><blockquote>**
 
   * --dashboard-enabled
   * --no-dashboard-enabled
@@ -591,7 +587,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-email-identity-configuration-set-attributes</summary>
+- **<details><summary>put-email-identity-configuration-set-attributes</summary><blockquote>**
 
   * --email-identity
   * --configuration-set-name
@@ -600,7 +596,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-email-identity-dkim-attributes</summary>
+- **<details><summary>put-email-identity-dkim-attributes</summary><blockquote>**
 
   * --email-identity
   * --signing-enabled
@@ -610,7 +606,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-email-identity-dkim-signing-attributes</summary>
+- **<details><summary>put-email-identity-dkim-signing-attributes</summary><blockquote>**
 
   * --email-identity
   * --signing-attributes-origin
@@ -620,7 +616,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-email-identity-feedback-attributes</summary>
+- **<details><summary>put-email-identity-feedback-attributes</summary><blockquote>**
 
   * --email-identity
   * --email-forwarding-enabled
@@ -630,7 +626,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-email-identity-mail-from-attributes</summary>
+- **<details><summary>put-email-identity-mail-from-attributes</summary><blockquote>**
 
   * --email-identity
   * --mail-from-domain
@@ -640,7 +636,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>put-suppressed-destination</summary>
+- **<details><summary>put-suppressed-destination</summary><blockquote>**
 
   * --email-address
   * --reason
@@ -649,7 +645,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>send-bulk-email</summary>
+- **<details><summary>send-bulk-email</summary><blockquote>**
 
   * --from-email-address
   * --from-email-address-identity-arn
@@ -665,7 +661,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>send-custom-verification-email</summary>
+- **<details><summary>send-custom-verification-email</summary><blockquote>**
 
   * --email-address
   * --template-name
@@ -675,7 +671,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>send-email</summary>
+- **<details><summary>send-email</summary><blockquote>**
 
   * --from-email-address
   * --from-email-address-identity-arn
@@ -692,7 +688,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -701,7 +697,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>test-render-email-template</summary>
+- **<details><summary>test-render-email-template</summary><blockquote>**
 
   * --template-name
   * --template-data
@@ -710,7 +706,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -719,7 +715,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-configuration-set-event-destination</summary>
+- **<details><summary>update-configuration-set-event-destination</summary><blockquote>**
 
   * --configuration-set-name
   * --event-destination-name
@@ -729,7 +725,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-contact</summary>
+- **<details><summary>update-contact</summary><blockquote>**
 
   * --contact-list-name
   * --email-address
@@ -742,7 +738,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-contact-list</summary>
+- **<details><summary>update-contact-list</summary><blockquote>**
 
   * --contact-list-name
   * --topics
@@ -752,7 +748,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-custom-verification-email-template</summary>
+- **<details><summary>update-custom-verification-email-template</summary><blockquote>**
 
   * --template-name
   * --from-email-address
@@ -765,7 +761,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-email-identity-policy</summary>
+- **<details><summary>update-email-identity-policy</summary><blockquote>**
 
   * --email-identity
   * --policy-name
@@ -775,7 +771,7 @@ sesv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-email-template</summary>
+- **<details><summary>update-email-template</summary><blockquote>**
 
   * --template-name
   * --template-content
@@ -784,5 +780,86 @@ sesv2
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

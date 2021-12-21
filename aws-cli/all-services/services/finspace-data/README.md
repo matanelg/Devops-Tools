@@ -1,10 +1,6 @@
-<details>
+<details><summary>finspace-data</summary><blockquote>
 
-<summary>
-finspace-data
-</summary>
-
-- <details><summary>create-changeset</summary>
+- **<details><summary>create-changeset</summary><blockquote>**
 
   * --dataset-id
   * --change-type
@@ -18,7 +14,7 @@ finspace-data
   * --generate-cli-skeleton
 
 
-- <details><summary>get-programmatic-access-credentials</summary>
+- **<details><summary>get-programmatic-access-credentials</summary><blockquote>**
 
   * --duration-in-minutes
   * --environment-id
@@ -27,7 +23,7 @@ finspace-data
   * --generate-cli-skeleton
 
 
-- <details><summary>get-working-location</summary>
+- **<details><summary>get-working-location</summary><blockquote>**
 
   * --location-type
   * --cli-input-json
@@ -35,10 +31,13 @@ finspace-data
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

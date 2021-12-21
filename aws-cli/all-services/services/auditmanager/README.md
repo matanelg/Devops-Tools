@@ -1,10 +1,6 @@
-<details>
+<details><summary>auditmanager</summary><blockquote>
 
-<summary>
-auditmanager
-</summary>
-
-- <details><summary>associate-assessment-report-evidence-folder</summary>
+- **<details><summary>associate-assessment-report-evidence-folder</summary><blockquote>**
 
   * --assessment-id
   * --evidence-folder-id
@@ -13,7 +9,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-associate-assessment-report-evidence</summary>
+- **<details><summary>batch-associate-assessment-report-evidence</summary><blockquote>**
 
   * --assessment-id
   * --evidence-folder-id
@@ -23,7 +19,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-create-delegation-by-assessment</summary>
+- **<details><summary>batch-create-delegation-by-assessment</summary><blockquote>**
 
   * --create-delegation-requests
   * --assessment-id
@@ -32,7 +28,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-delete-delegation-by-assessment</summary>
+- **<details><summary>batch-delete-delegation-by-assessment</summary><blockquote>**
 
   * --delegation-ids
   * --assessment-id
@@ -41,7 +37,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-disassociate-assessment-report-evidence</summary>
+- **<details><summary>batch-disassociate-assessment-report-evidence</summary><blockquote>**
 
   * --assessment-id
   * --evidence-folder-id
@@ -51,7 +47,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>batch-import-evidence-to-assessment-control</summary>
+- **<details><summary>batch-import-evidence-to-assessment-control</summary><blockquote>**
 
   * --assessment-id
   * --control-set-id
@@ -62,7 +58,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>create-assessment</summary>
+- **<details><summary>create-assessment</summary><blockquote>**
 
   * --name
   * --description
@@ -76,7 +72,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>create-assessment-framework</summary>
+- **<details><summary>create-assessment-framework</summary><blockquote>**
 
   * --name
   * --description
@@ -88,7 +84,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>create-assessment-report</summary>
+- **<details><summary>create-assessment-report</summary><blockquote>**
 
   * --name
   * --description
@@ -98,7 +94,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>create-control</summary>
+- **<details><summary>create-control</summary><blockquote>**
 
   * --name
   * --description
@@ -112,7 +108,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-assessment</summary>
+- **<details><summary>delete-assessment</summary><blockquote>**
 
   * --assessment-id
   * --cli-input-json
@@ -120,7 +116,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-assessment-framework</summary>
+- **<details><summary>delete-assessment-framework</summary><blockquote>**
 
   * --framework-id
   * --cli-input-json
@@ -128,7 +124,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-assessment-report</summary>
+- **<details><summary>delete-assessment-report</summary><blockquote>**
 
   * --assessment-id
   * --assessment-report-id
@@ -137,7 +133,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-control</summary>
+- **<details><summary>delete-control</summary><blockquote>**
 
   * --control-id
   * --cli-input-json
@@ -145,14 +141,14 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-account</summary>
+- **<details><summary>deregister-account</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-organization-admin-account</summary>
+- **<details><summary>deregister-organization-admin-account</summary><blockquote>**
 
   * --admin-account-id
   * --cli-input-json
@@ -160,7 +156,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-assessment-report-evidence-folder</summary>
+- **<details><summary>disassociate-assessment-report-evidence-folder</summary><blockquote>**
 
   * --assessment-id
   * --evidence-folder-id
@@ -169,14 +165,14 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-account-status</summary>
+- **<details><summary>get-account-status</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-assessment</summary>
+- **<details><summary>get-assessment</summary><blockquote>**
 
   * --assessment-id
   * --cli-input-json
@@ -184,7 +180,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-assessment-framework</summary>
+- **<details><summary>get-assessment-framework</summary><blockquote>**
 
   * --framework-id
   * --cli-input-json
@@ -192,7 +188,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-assessment-report-url</summary>
+- **<details><summary>get-assessment-report-url</summary><blockquote>**
 
   * --assessment-report-id
   * --assessment-id
@@ -201,7 +197,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-change-logs</summary>
+- **<details><summary>get-change-logs</summary><blockquote>**
 
   * --assessment-id
   * --control-set-id
@@ -213,7 +209,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-control</summary>
+- **<details><summary>get-control</summary><blockquote>**
 
   * --control-id
   * --cli-input-json
@@ -221,7 +217,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-delegations</summary>
+- **<details><summary>get-delegations</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -230,7 +226,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-evidence</summary>
+- **<details><summary>get-evidence</summary><blockquote>**
 
   * --assessment-id
   * --control-set-id
@@ -241,7 +237,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-evidence-by-evidence-folder</summary>
+- **<details><summary>get-evidence-by-evidence-folder</summary><blockquote>**
 
   * --assessment-id
   * --control-set-id
@@ -253,7 +249,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-evidence-folder</summary>
+- **<details><summary>get-evidence-folder</summary><blockquote>**
 
   * --assessment-id
   * --control-set-id
@@ -263,7 +259,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-evidence-folders-by-assessment</summary>
+- **<details><summary>get-evidence-folders-by-assessment</summary><blockquote>**
 
   * --assessment-id
   * --next-token
@@ -273,7 +269,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-evidence-folders-by-assessment-control</summary>
+- **<details><summary>get-evidence-folders-by-assessment-control</summary><blockquote>**
 
   * --assessment-id
   * --control-set-id
@@ -285,21 +281,21 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>get-organization-admin-account</summary>
+- **<details><summary>get-organization-admin-account</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-services-in-scope</summary>
+- **<details><summary>get-services-in-scope</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-settings</summary>
+- **<details><summary>get-settings</summary><blockquote>**
 
   * --attribute
   * --cli-input-json
@@ -307,12 +303,12 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-assessment-frameworks</summary>
+- **<details><summary>list-assessment-frameworks</summary><blockquote>**
 
   * --framework-type
   * --next-token
@@ -322,7 +318,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-assessment-reports</summary>
+- **<details><summary>list-assessment-reports</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -331,7 +327,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-assessments</summary>
+- **<details><summary>list-assessments</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -340,7 +336,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-controls</summary>
+- **<details><summary>list-controls</summary><blockquote>**
 
   * --control-type
   * --next-token
@@ -350,7 +346,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-keywords-for-data-source</summary>
+- **<details><summary>list-keywords-for-data-source</summary><blockquote>**
 
   * --source
   * --next-token
@@ -360,7 +356,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-notifications</summary>
+- **<details><summary>list-notifications</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -369,7 +365,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -377,7 +373,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>register-account</summary>
+- **<details><summary>register-account</summary><blockquote>**
 
   * --kms-key
   * --delegated-admin-account
@@ -386,7 +382,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>register-organization-admin-account</summary>
+- **<details><summary>register-organization-admin-account</summary><blockquote>**
 
   * --admin-account-id
   * --cli-input-json
@@ -394,7 +390,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -403,7 +399,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -412,7 +408,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>update-assessment</summary>
+- **<details><summary>update-assessment</summary><blockquote>**
 
   * --assessment-id
   * --assessment-name
@@ -425,7 +421,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>update-assessment-control</summary>
+- **<details><summary>update-assessment-control</summary><blockquote>**
 
   * --assessment-id
   * --control-set-id
@@ -437,7 +433,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>update-assessment-control-set-status</summary>
+- **<details><summary>update-assessment-control-set-status</summary><blockquote>**
 
   * --assessment-id
   * --control-set-id
@@ -448,7 +444,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>update-assessment-framework</summary>
+- **<details><summary>update-assessment-framework</summary><blockquote>**
 
   * --framework-id
   * --name
@@ -460,7 +456,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>update-assessment-status</summary>
+- **<details><summary>update-assessment-status</summary><blockquote>**
 
   * --assessment-id
   * --status
@@ -469,7 +465,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>update-control</summary>
+- **<details><summary>update-control</summary><blockquote>**
 
   * --control-id
   * --name
@@ -483,7 +479,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>update-settings</summary>
+- **<details><summary>update-settings</summary><blockquote>**
 
   * --sns-topic
   * --default-assessment-reports-destination
@@ -494,7 +490,7 @@ auditmanager
   * --generate-cli-skeleton
 
 
-- <details><summary>validate-assessment-report-integrity</summary>
+- **<details><summary>validate-assessment-report-integrity</summary><blockquote>**
 
   * --s3-relative-path
   * --cli-input-json
@@ -502,5 +498,56 @@ auditmanager
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

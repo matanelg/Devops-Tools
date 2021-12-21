@@ -1,10 +1,6 @@
-<details>
+<details><summary>workspaces</summary><blockquote>
 
-<summary>
-workspaces
-</summary>
-
-- <details><summary>associate-connection-alias</summary>
+- **<details><summary>associate-connection-alias</summary><blockquote>**
 
   * --alias-id
   * --resource-id
@@ -13,7 +9,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>associate-ip-groups</summary>
+- **<details><summary>associate-ip-groups</summary><blockquote>**
 
   * --directory-id
   * --group-ids
@@ -22,7 +18,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>authorize-ip-rules</summary>
+- **<details><summary>authorize-ip-rules</summary><blockquote>**
 
   * --group-id
   * --user-rules
@@ -31,7 +27,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>copy-workspace-image</summary>
+- **<details><summary>copy-workspace-image</summary><blockquote>**
 
   * --name
   * --description
@@ -43,7 +39,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>create-connection-alias</summary>
+- **<details><summary>create-connection-alias</summary><blockquote>**
 
   * --connection-string
   * --tags
@@ -52,7 +48,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>create-ip-group</summary>
+- **<details><summary>create-ip-group</summary><blockquote>**
 
   * --group-name
   * --group-desc
@@ -63,7 +59,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>create-tags</summary>
+- **<details><summary>create-tags</summary><blockquote>**
 
   * --resource-id
   * --tags
@@ -72,7 +68,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>create-workspace-bundle</summary>
+- **<details><summary>create-workspace-bundle</summary><blockquote>**
 
   * --bundle-name
   * --bundle-description
@@ -86,7 +82,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>create-workspaces</summary>
+- **<details><summary>create-workspaces</summary><blockquote>**
 
   * --workspaces
   * --cli-input-json
@@ -94,7 +90,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-connection-alias</summary>
+- **<details><summary>delete-connection-alias</summary><blockquote>**
 
   * --alias-id
   * --cli-input-json
@@ -102,7 +98,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-ip-group</summary>
+- **<details><summary>delete-ip-group</summary><blockquote>**
 
   * --group-id
   * --cli-input-json
@@ -110,7 +106,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-tags</summary>
+- **<details><summary>delete-tags</summary><blockquote>**
 
   * --resource-id
   * --tag-keys
@@ -119,7 +115,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-workspace-bundle</summary>
+- **<details><summary>delete-workspace-bundle</summary><blockquote>**
 
   * --bundle-id
   * --cli-input-json
@@ -127,7 +123,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-workspace-image</summary>
+- **<details><summary>delete-workspace-image</summary><blockquote>**
 
   * --image-id
   * --cli-input-json
@@ -135,7 +131,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-workspace-directory</summary>
+- **<details><summary>deregister-workspace-directory</summary><blockquote>**
 
   * --directory-id
   * --cli-input-json
@@ -143,14 +139,14 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-account</summary>
+- **<details><summary>describe-account</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-account-modifications</summary>
+- **<details><summary>describe-account-modifications</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -159,7 +155,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-client-properties</summary>
+- **<details><summary>describe-client-properties</summary><blockquote>**
 
   * --resource-ids
   * --cli-input-json
@@ -167,7 +163,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-connection-aliases</summary>
+- **<details><summary>describe-connection-aliases</summary><blockquote>**
 
   * --alias-ids
   * --resource-id
@@ -178,7 +174,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-connection-alias-permissions</summary>
+- **<details><summary>describe-connection-alias-permissions</summary><blockquote>**
 
   * --alias-id
   * --next-token
@@ -188,7 +184,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-ip-groups</summary>
+- **<details><summary>describe-ip-groups</summary><blockquote>**
 
   * --group-ids
   * --cli-input-json
@@ -199,7 +195,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-tags</summary>
+- **<details><summary>describe-tags</summary><blockquote>**
 
   * --resource-id
   * --cli-input-json
@@ -207,7 +203,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-workspace-bundles</summary>
+- **<details><summary>describe-workspace-bundles</summary><blockquote>**
 
   * --bundle-ids
   * --owner
@@ -218,7 +214,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-workspace-directories</summary>
+- **<details><summary>describe-workspace-directories</summary><blockquote>**
 
   * --directory-ids
   * --limit
@@ -229,7 +225,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-workspace-image-permissions</summary>
+- **<details><summary>describe-workspace-image-permissions</summary><blockquote>**
 
   * --image-id
   * --next-token
@@ -239,7 +235,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-workspace-images</summary>
+- **<details><summary>describe-workspace-images</summary><blockquote>**
 
   * --image-ids
   * --image-type
@@ -251,7 +247,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-workspaces</summary>
+- **<details><summary>describe-workspaces</summary><blockquote>**
 
   * --workspace-ids
   * --directory-id
@@ -265,7 +261,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-workspaces-connection-status</summary>
+- **<details><summary>describe-workspaces-connection-status</summary><blockquote>**
 
   * --workspace-ids
   * --cli-input-json
@@ -275,7 +271,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-workspace-snapshots</summary>
+- **<details><summary>describe-workspace-snapshots</summary><blockquote>**
 
   * --workspace-id
   * --cli-input-json
@@ -283,7 +279,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-connection-alias</summary>
+- **<details><summary>disassociate-connection-alias</summary><blockquote>**
 
   * --alias-id
   * --cli-input-json
@@ -291,7 +287,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>disassociate-ip-groups</summary>
+- **<details><summary>disassociate-ip-groups</summary><blockquote>**
 
   * --directory-id
   * --group-ids
@@ -300,12 +296,12 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>import-workspace-image</summary>
+- **<details><summary>import-workspace-image</summary><blockquote>**
 
   * --ec2-image-id
   * --ingestion-process
@@ -318,7 +314,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>list-available-management-cidr-ranges</summary>
+- **<details><summary>list-available-management-cidr-ranges</summary><blockquote>**
 
   * --management-cidr-range-constraint
   * --cli-input-json
@@ -329,7 +325,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>migrate-workspace</summary>
+- **<details><summary>migrate-workspace</summary><blockquote>**
 
   * --source-workspace-id
   * --bundle-id
@@ -338,7 +334,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-account</summary>
+- **<details><summary>modify-account</summary><blockquote>**
 
   * --dedicated-tenancy-support
   * --dedicated-tenancy-management-cidr-range
@@ -347,7 +343,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-client-properties</summary>
+- **<details><summary>modify-client-properties</summary><blockquote>**
 
   * --resource-id
   * --client-properties
@@ -356,7 +352,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-selfservice-permissions</summary>
+- **<details><summary>modify-selfservice-permissions</summary><blockquote>**
 
   * --resource-id
   * --selfservice-permissions
@@ -365,7 +361,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-workspace-access-properties</summary>
+- **<details><summary>modify-workspace-access-properties</summary><blockquote>**
 
   * --resource-id
   * --workspace-access-properties
@@ -374,7 +370,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-workspace-creation-properties</summary>
+- **<details><summary>modify-workspace-creation-properties</summary><blockquote>**
 
   * --resource-id
   * --workspace-creation-properties
@@ -383,7 +379,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-workspace-properties</summary>
+- **<details><summary>modify-workspace-properties</summary><blockquote>**
 
   * --workspace-id
   * --workspace-properties
@@ -392,7 +388,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-workspace-state</summary>
+- **<details><summary>modify-workspace-state</summary><blockquote>**
 
   * --workspace-id
   * --workspace-state
@@ -401,7 +397,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>reboot-workspaces</summary>
+- **<details><summary>reboot-workspaces</summary><blockquote>**
 
   * --reboot-workspace-requests
   * --cli-input-json
@@ -409,7 +405,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>rebuild-workspaces</summary>
+- **<details><summary>rebuild-workspaces</summary><blockquote>**
 
   * --rebuild-workspace-requests
   * --cli-input-json
@@ -417,7 +413,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>register-workspace-directory</summary>
+- **<details><summary>register-workspace-directory</summary><blockquote>**
 
   * --directory-id
   * --subnet-ids
@@ -432,7 +428,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-workspace</summary>
+- **<details><summary>restore-workspace</summary><blockquote>**
 
   * --workspace-id
   * --cli-input-json
@@ -440,7 +436,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>revoke-ip-rules</summary>
+- **<details><summary>revoke-ip-rules</summary><blockquote>**
 
   * --group-id
   * --user-rules
@@ -449,7 +445,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>start-workspaces</summary>
+- **<details><summary>start-workspaces</summary><blockquote>**
 
   * --start-workspace-requests
   * --cli-input-json
@@ -457,7 +453,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-workspaces</summary>
+- **<details><summary>stop-workspaces</summary><blockquote>**
 
   * --stop-workspace-requests
   * --cli-input-json
@@ -465,7 +461,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>terminate-workspaces</summary>
+- **<details><summary>terminate-workspaces</summary><blockquote>**
 
   * --terminate-workspace-requests
   * --cli-input-json
@@ -473,7 +469,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>update-connection-alias-permission</summary>
+- **<details><summary>update-connection-alias-permission</summary><blockquote>**
 
   * --alias-id
   * --connection-alias-permission
@@ -482,7 +478,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>update-rules-of-ip-group</summary>
+- **<details><summary>update-rules-of-ip-group</summary><blockquote>**
 
   * --group-id
   * --user-rules
@@ -491,7 +487,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>update-workspace-bundle</summary>
+- **<details><summary>update-workspace-bundle</summary><blockquote>**
 
   * --bundle-id
   * --image-id
@@ -500,7 +496,7 @@ workspaces
   * --generate-cli-skeleton
 
 
-- <details><summary>update-workspace-image-permission</summary>
+- **<details><summary>update-workspace-image-permission</summary><blockquote>**
 
   * --image-id
   * --allow-copy-image
@@ -511,5 +507,58 @@ workspaces
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>appintegrations</summary><blockquote>
 
-<summary>
-appintegrations
-</summary>
-
-- <details><summary>create-event-integration</summary>
+- **<details><summary>create-event-integration</summary><blockquote>**
 
   * --name
   * --description
@@ -17,7 +13,7 @@ appintegrations
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-event-integration</summary>
+- **<details><summary>delete-event-integration</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -25,7 +21,7 @@ appintegrations
   * --generate-cli-skeleton
 
 
-- <details><summary>get-event-integration</summary>
+- **<details><summary>get-event-integration</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -33,12 +29,12 @@ appintegrations
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-event-integration-associations</summary>
+- **<details><summary>list-event-integration-associations</summary><blockquote>**
 
   * --event-integration-name
   * --next-token
@@ -48,7 +44,7 @@ appintegrations
   * --generate-cli-skeleton
 
 
-- <details><summary>list-event-integrations</summary>
+- **<details><summary>list-event-integrations</summary><blockquote>**
 
   * --next-token
   * --max-results
@@ -57,7 +53,7 @@ appintegrations
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -65,7 +61,7 @@ appintegrations
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -74,7 +70,7 @@ appintegrations
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -83,7 +79,7 @@ appintegrations
   * --generate-cli-skeleton
 
 
-- <details><summary>update-event-integration</summary>
+- **<details><summary>update-event-integration</summary><blockquote>**
 
   * --name
   * --description
@@ -92,5 +88,14 @@ appintegrations
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

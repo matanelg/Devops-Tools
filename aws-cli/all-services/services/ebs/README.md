@@ -1,10 +1,6 @@
-<details>
+<details><summary>ebs</summary><blockquote>
 
-<summary>
-ebs
-</summary>
-
-- <details><summary>complete-snapshot</summary>
+- **<details><summary>complete-snapshot</summary><blockquote>**
 
   * --snapshot-id
   * --changed-blocks-count
@@ -16,19 +12,19 @@ ebs
   * --generate-cli-skeleton
 
 
-- <details><summary>get-snapshot-block</summary>
+- **<details><summary>get-snapshot-block</summary><blockquote>**
 
   * --snapshot-id
   * --block-index
   * --block-token
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-changed-blocks</summary>
+- **<details><summary>list-changed-blocks</summary><blockquote>**
 
   * --first-snapshot-id
   * --second-snapshot-id
@@ -40,7 +36,7 @@ ebs
   * --generate-cli-skeleton
 
 
-- <details><summary>list-snapshot-blocks</summary>
+- **<details><summary>list-snapshot-blocks</summary><blockquote>**
 
   * --snapshot-id
   * --next-token
@@ -51,7 +47,7 @@ ebs
   * --generate-cli-skeleton
 
 
-- <details><summary>put-snapshot-block</summary>
+- **<details><summary>put-snapshot-block</summary><blockquote>**
 
   * --snapshot-id
   * --block-index
@@ -65,7 +61,7 @@ ebs
   * --generate-cli-skeleton
 
 
-- <details><summary>start-snapshot</summary>
+- **<details><summary>start-snapshot</summary><blockquote>**
 
   * --volume-size
   * --parent-snapshot-id
@@ -81,5 +77,11 @@ ebs
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>emr</summary><blockquote>
 
-<summary>
-emr
-</summary>
-
-- <details><summary>add-instance-fleet</summary>
+- **<details><summary>add-instance-fleet</summary><blockquote>**
 
   * --cluster-id
   * --instance-fleet
@@ -13,19 +9,19 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>add-instance-groups</summary>
+- **<details><summary>add-instance-groups</summary><blockquote>**
 
   * --cluster-id
   * --instance-groups
 
 
-- <details><summary>add-steps</summary>
+- **<details><summary>add-steps</summary><blockquote>**
 
   * --cluster-id
   * --steps
 
 
-- <details><summary>add-tags</summary>
+- **<details><summary>add-tags</summary><blockquote>**
 
   * --resource-id
   * --tags
@@ -34,7 +30,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>cancel-steps</summary>
+- **<details><summary>cancel-steps</summary><blockquote>**
 
   * --cluster-id
   * --step-ids
@@ -44,7 +40,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>create-cluster</summary>
+- **<details><summary>create-cluster</summary><blockquote>**
 
   * --release-label
   * --ami-version
@@ -84,19 +80,19 @@ emr
   * --placement-group-configs
 
 
-- <details><summary>create-default-roles</summary>
+- **<details><summary>create-default-roles</summary><blockquote>**
 
   * --iam-endpoint
 
 
-- <details><summary>create-hbase-backup</summary>
+- **<details><summary>create-hbase-backup</summary><blockquote>**
 
   * --cluster-id
   * --dir
   * --consistent
 
 
-- <details><summary>create-security-configuration</summary>
+- **<details><summary>create-security-configuration</summary><blockquote>**
 
   * --name
   * --security-configuration
@@ -105,7 +101,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>create-studio</summary>
+- **<details><summary>create-studio</summary><blockquote>**
 
   * --name
   * --description
@@ -123,7 +119,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>create-studio-session-mapping</summary>
+- **<details><summary>create-studio-session-mapping</summary><blockquote>**
 
   * --studio-id
   * --identity-id
@@ -135,7 +131,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-security-configuration</summary>
+- **<details><summary>delete-security-configuration</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -143,7 +139,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-studio</summary>
+- **<details><summary>delete-studio</summary><blockquote>**
 
   * --studio-id
   * --cli-input-json
@@ -151,7 +147,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-studio-session-mapping</summary>
+- **<details><summary>delete-studio-session-mapping</summary><blockquote>**
 
   * --studio-id
   * --identity-id
@@ -162,12 +158,12 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-cluster</summary>
+- **<details><summary>describe-cluster</summary><blockquote>**
 
   * --cluster-id
 
 
-- <details><summary>describe-notebook-execution</summary>
+- **<details><summary>describe-notebook-execution</summary><blockquote>**
 
   * --notebook-execution-id
   * --cli-input-json
@@ -175,7 +171,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-security-configuration</summary>
+- **<details><summary>describe-security-configuration</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -183,7 +179,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-step</summary>
+- **<details><summary>describe-step</summary><blockquote>**
 
   * --cluster-id
   * --step-id
@@ -192,7 +188,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-studio</summary>
+- **<details><summary>describe-studio</summary><blockquote>**
 
   * --studio-id
   * --cli-input-json
@@ -200,14 +196,14 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-hbase-backups</summary>
+- **<details><summary>disable-hbase-backups</summary><blockquote>**
 
   * --cluster-id
   * --full
   * --incremental
 
 
-- <details><summary>get</summary>
+- **<details><summary>get</summary><blockquote>**
 
   * --cluster-id
   * --key-pair-file
@@ -215,14 +211,14 @@ emr
   * --dest
 
 
-- <details><summary>get-block-public-access-configuration</summary>
+- **<details><summary>get-block-public-access-configuration</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-managed-scaling-policy</summary>
+- **<details><summary>get-managed-scaling-policy</summary><blockquote>**
 
   * --cluster-id
   * --cli-input-json
@@ -230,7 +226,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>get-studio-session-mapping</summary>
+- **<details><summary>get-studio-session-mapping</summary><blockquote>**
 
   * --studio-id
   * --identity-id
@@ -241,18 +237,18 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>install-applications</summary>
+- **<details><summary>install-applications</summary><blockquote>**
 
   * --cluster-id
   * --applications
 
 
-- <details><summary>list-clusters</summary>
+- **<details><summary>list-clusters</summary><blockquote>**
 
   * --created-after
   * --created-before
@@ -267,7 +263,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>list-instance-fleets</summary>
+- **<details><summary>list-instance-fleets</summary><blockquote>**
 
   * --cluster-id
   * --cli-input-json
@@ -277,7 +273,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>list-instances</summary>
+- **<details><summary>list-instances</summary><blockquote>**
 
   * --cluster-id
   * --instance-group-id
@@ -292,7 +288,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>list-notebook-executions</summary>
+- **<details><summary>list-notebook-executions</summary><blockquote>**
 
   * --editor-id
   * --status
@@ -305,7 +301,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>list-security-configurations</summary>
+- **<details><summary>list-security-configurations</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -314,7 +310,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>list-steps</summary>
+- **<details><summary>list-steps</summary><blockquote>**
 
   * --cluster-id
   * --step-states
@@ -326,7 +322,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>list-studios</summary>
+- **<details><summary>list-studios</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -335,7 +331,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>list-studio-session-mappings</summary>
+- **<details><summary>list-studio-session-mappings</summary><blockquote>**
 
   * --studio-id
   * --identity-type
@@ -346,7 +342,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-cluster</summary>
+- **<details><summary>modify-cluster</summary><blockquote>**
 
   * --cluster-id
   * --step-concurrency-level
@@ -355,7 +351,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-cluster-attributes</summary>
+- **<details><summary>modify-cluster-attributes</summary><blockquote>**
 
   * --cluster-id
   * --visible-to-all-users
@@ -364,7 +360,7 @@ emr
   * --no-termination-protected
 
 
-- <details><summary>modify-instance-fleet</summary>
+- **<details><summary>modify-instance-fleet</summary><blockquote>**
 
   * --cluster-id
   * --instance-fleet
@@ -373,7 +369,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>modify-instance-groups</summary>
+- **<details><summary>modify-instance-groups</summary><blockquote>**
 
   * --cluster-id
   * --instance-groups
@@ -382,7 +378,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>put</summary>
+- **<details><summary>put</summary><blockquote>**
 
   * --cluster-id
   * --key-pair-file
@@ -390,7 +386,7 @@ emr
   * --dest
 
 
-- <details><summary>put-auto-scaling-policy</summary>
+- **<details><summary>put-auto-scaling-policy</summary><blockquote>**
 
   * --cluster-id
   * --instance-group-id
@@ -400,7 +396,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>put-block-public-access-configuration</summary>
+- **<details><summary>put-block-public-access-configuration</summary><blockquote>**
 
   * --block-public-access-configuration
   * --cli-input-json
@@ -408,7 +404,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>put-managed-scaling-policy</summary>
+- **<details><summary>put-managed-scaling-policy</summary><blockquote>**
 
   * --cluster-id
   * --managed-scaling-policy
@@ -417,7 +413,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-auto-scaling-policy</summary>
+- **<details><summary>remove-auto-scaling-policy</summary><blockquote>**
 
   * --cluster-id
   * --instance-group-id
@@ -426,7 +422,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-managed-scaling-policy</summary>
+- **<details><summary>remove-managed-scaling-policy</summary><blockquote>**
 
   * --cluster-id
   * --cli-input-json
@@ -434,7 +430,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-tags</summary>
+- **<details><summary>remove-tags</summary><blockquote>**
 
   * --resource-id
   * --tag-keys
@@ -443,14 +439,14 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>restore-from-hbase-backup</summary>
+- **<details><summary>restore-from-hbase-backup</summary><blockquote>**
 
   * --cluster-id
   * --dir
   * --backup-version
 
 
-- <details><summary>schedule-hbase-backup</summary>
+- **<details><summary>schedule-hbase-backup</summary><blockquote>**
 
   * --cluster-id
   * --type
@@ -461,20 +457,20 @@ emr
   * --consistent
 
 
-- <details><summary>socks</summary>
+- **<details><summary>socks</summary><blockquote>**
 
   * --cluster-id
   * --key-pair-file
 
 
-- <details><summary>ssh</summary>
+- **<details><summary>ssh</summary><blockquote>**
 
   * --cluster-id
   * --key-pair-file
   * --command
 
 
-- <details><summary>start-notebook-execution</summary>
+- **<details><summary>start-notebook-execution</summary><blockquote>**
 
   * --editor-id
   * --relative-path
@@ -489,7 +485,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-notebook-execution</summary>
+- **<details><summary>stop-notebook-execution</summary><blockquote>**
 
   * --notebook-execution-id
   * --cli-input-json
@@ -497,12 +493,12 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>terminate-clusters</summary>
+- **<details><summary>terminate-clusters</summary><blockquote>**
 
   * --cluster-ids
 
 
-- <details><summary>update-studio</summary>
+- **<details><summary>update-studio</summary><blockquote>**
 
   * --studio-id
   * --name
@@ -514,7 +510,7 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>update-studio-session-mapping</summary>
+- **<details><summary>update-studio-session-mapping</summary><blockquote>**
 
   * --studio-id
   * --identity-id
@@ -526,10 +522,64 @@ emr
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

@@ -1,10 +1,6 @@
-<details>
+<details><summary>timestream-query</summary><blockquote>
 
-<summary>
-timestream-query
-</summary>
-
-- <details><summary>cancel-query</summary>
+- **<details><summary>cancel-query</summary><blockquote>**
 
   * --query-id
   * --cli-input-json
@@ -12,19 +8,19 @@ timestream-query
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-endpoints</summary>
+- **<details><summary>describe-endpoints</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>query</summary>
+- **<details><summary>query</summary><blockquote>**
 
   * --query-string
   * --client-token
@@ -36,5 +32,8 @@ timestream-query
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

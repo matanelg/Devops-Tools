@@ -1,10 +1,6 @@
-<details>
+<details><summary>apigatewayv2</summary><blockquote>
 
-<summary>
-apigatewayv2
-</summary>
-
-- <details><summary>create-api</summary>
+- **<details><summary>create-api</summary><blockquote>**
 
   * --api-key-selection-expression
   * --cors-configuration
@@ -26,7 +22,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-api-mapping</summary>
+- **<details><summary>create-api-mapping</summary><blockquote>**
 
   * --api-id
   * --api-mapping-key
@@ -37,7 +33,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-authorizer</summary>
+- **<details><summary>create-authorizer</summary><blockquote>**
 
   * --api-id
   * --authorizer-credentials-arn
@@ -56,7 +52,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-deployment</summary>
+- **<details><summary>create-deployment</summary><blockquote>**
 
   * --api-id
   * --description
@@ -66,7 +62,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-domain-name</summary>
+- **<details><summary>create-domain-name</summary><blockquote>**
 
   * --domain-name
   * --domain-name-configurations
@@ -77,7 +73,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-integration</summary>
+- **<details><summary>create-integration</summary><blockquote>**
 
   * --api-id
   * --connection-id
@@ -102,7 +98,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-integration-response</summary>
+- **<details><summary>create-integration-response</summary><blockquote>**
 
   * --api-id
   * --content-handling-strategy
@@ -116,7 +112,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-model</summary>
+- **<details><summary>create-model</summary><blockquote>**
 
   * --api-id
   * --content-type
@@ -128,7 +124,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-route</summary>
+- **<details><summary>create-route</summary><blockquote>**
 
   * --api-id
   * --api-key-required
@@ -148,7 +144,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-route-response</summary>
+- **<details><summary>create-route-response</summary><blockquote>**
 
   * --api-id
   * --model-selection-expression
@@ -161,7 +157,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-stage</summary>
+- **<details><summary>create-stage</summary><blockquote>**
 
   * --access-log-settings
   * --api-id
@@ -180,7 +176,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>create-vpc-link</summary>
+- **<details><summary>create-vpc-link</summary><blockquote>**
 
   * --name
   * --security-group-ids
@@ -191,7 +187,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-access-log-settings</summary>
+- **<details><summary>delete-access-log-settings</summary><blockquote>**
 
   * --api-id
   * --stage-name
@@ -200,7 +196,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-api</summary>
+- **<details><summary>delete-api</summary><blockquote>**
 
   * --api-id
   * --cli-input-json
@@ -208,7 +204,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-api-mapping</summary>
+- **<details><summary>delete-api-mapping</summary><blockquote>**
 
   * --api-mapping-id
   * --domain-name
@@ -217,7 +213,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-authorizer</summary>
+- **<details><summary>delete-authorizer</summary><blockquote>**
 
   * --api-id
   * --authorizer-id
@@ -226,7 +222,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-cors-configuration</summary>
+- **<details><summary>delete-cors-configuration</summary><blockquote>**
 
   * --api-id
   * --cli-input-json
@@ -234,7 +230,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-deployment</summary>
+- **<details><summary>delete-deployment</summary><blockquote>**
 
   * --api-id
   * --deployment-id
@@ -243,7 +239,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-domain-name</summary>
+- **<details><summary>delete-domain-name</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -251,7 +247,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-integration</summary>
+- **<details><summary>delete-integration</summary><blockquote>**
 
   * --api-id
   * --integration-id
@@ -260,7 +256,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-integration-response</summary>
+- **<details><summary>delete-integration-response</summary><blockquote>**
 
   * --api-id
   * --integration-id
@@ -270,7 +266,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-model</summary>
+- **<details><summary>delete-model</summary><blockquote>**
 
   * --api-id
   * --model-id
@@ -279,7 +275,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-route</summary>
+- **<details><summary>delete-route</summary><blockquote>**
 
   * --api-id
   * --route-id
@@ -288,7 +284,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-route-request-parameter</summary>
+- **<details><summary>delete-route-request-parameter</summary><blockquote>**
 
   * --api-id
   * --request-parameter-key
@@ -298,7 +294,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-route-response</summary>
+- **<details><summary>delete-route-response</summary><blockquote>**
 
   * --api-id
   * --route-id
@@ -308,7 +304,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-route-settings</summary>
+- **<details><summary>delete-route-settings</summary><blockquote>**
 
   * --api-id
   * --route-key
@@ -318,7 +314,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-stage</summary>
+- **<details><summary>delete-stage</summary><blockquote>**
 
   * --api-id
   * --stage-name
@@ -327,7 +323,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-vpc-link</summary>
+- **<details><summary>delete-vpc-link</summary><blockquote>**
 
   * --vpc-link-id
   * --cli-input-json
@@ -335,7 +331,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>export-api</summary>
+- **<details><summary>export-api</summary><blockquote>**
 
   * --api-id
   * --export-version
@@ -346,7 +342,7 @@ apigatewayv2
   * --stage-name
 
 
-- <details><summary>get-api</summary>
+- **<details><summary>get-api</summary><blockquote>**
 
   * --api-id
   * --cli-input-json
@@ -354,7 +350,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-api-mapping</summary>
+- **<details><summary>get-api-mapping</summary><blockquote>**
 
   * --api-mapping-id
   * --domain-name
@@ -363,7 +359,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-api-mappings</summary>
+- **<details><summary>get-api-mappings</summary><blockquote>**
 
   * --domain-name
   * --max-results
@@ -373,7 +369,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-apis</summary>
+- **<details><summary>get-apis</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -383,7 +379,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-authorizer</summary>
+- **<details><summary>get-authorizer</summary><blockquote>**
 
   * --api-id
   * --authorizer-id
@@ -392,7 +388,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-authorizers</summary>
+- **<details><summary>get-authorizers</summary><blockquote>**
 
   * --api-id
   * --cli-input-json
@@ -403,7 +399,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-deployment</summary>
+- **<details><summary>get-deployment</summary><blockquote>**
 
   * --api-id
   * --deployment-id
@@ -412,7 +408,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-deployments</summary>
+- **<details><summary>get-deployments</summary><blockquote>**
 
   * --api-id
   * --cli-input-json
@@ -423,7 +419,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-domain-name</summary>
+- **<details><summary>get-domain-name</summary><blockquote>**
 
   * --domain-name
   * --cli-input-json
@@ -431,7 +427,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-domain-names</summary>
+- **<details><summary>get-domain-names</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -441,7 +437,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-integration</summary>
+- **<details><summary>get-integration</summary><blockquote>**
 
   * --api-id
   * --integration-id
@@ -450,7 +446,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-integration-response</summary>
+- **<details><summary>get-integration-response</summary><blockquote>**
 
   * --api-id
   * --integration-id
@@ -460,7 +456,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-integration-responses</summary>
+- **<details><summary>get-integration-responses</summary><blockquote>**
 
   * --api-id
   * --integration-id
@@ -472,7 +468,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-integrations</summary>
+- **<details><summary>get-integrations</summary><blockquote>**
 
   * --api-id
   * --cli-input-json
@@ -483,7 +479,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-model</summary>
+- **<details><summary>get-model</summary><blockquote>**
 
   * --api-id
   * --model-id
@@ -492,7 +488,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-models</summary>
+- **<details><summary>get-models</summary><blockquote>**
 
   * --api-id
   * --cli-input-json
@@ -503,7 +499,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-model-template</summary>
+- **<details><summary>get-model-template</summary><blockquote>**
 
   * --api-id
   * --model-id
@@ -512,7 +508,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-route</summary>
+- **<details><summary>get-route</summary><blockquote>**
 
   * --api-id
   * --route-id
@@ -521,7 +517,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-route-response</summary>
+- **<details><summary>get-route-response</summary><blockquote>**
 
   * --api-id
   * --route-id
@@ -531,7 +527,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-route-responses</summary>
+- **<details><summary>get-route-responses</summary><blockquote>**
 
   * --api-id
   * --route-id
@@ -543,7 +539,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-routes</summary>
+- **<details><summary>get-routes</summary><blockquote>**
 
   * --api-id
   * --cli-input-json
@@ -554,7 +550,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-stage</summary>
+- **<details><summary>get-stage</summary><blockquote>**
 
   * --api-id
   * --stage-name
@@ -563,7 +559,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-stages</summary>
+- **<details><summary>get-stages</summary><blockquote>**
 
   * --api-id
   * --cli-input-json
@@ -574,7 +570,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-tags</summary>
+- **<details><summary>get-tags</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -582,7 +578,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-vpc-link</summary>
+- **<details><summary>get-vpc-link</summary><blockquote>**
 
   * --vpc-link-id
   * --cli-input-json
@@ -590,7 +586,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>get-vpc-links</summary>
+- **<details><summary>get-vpc-links</summary><blockquote>**
 
   * --max-results
   * --next-token
@@ -599,12 +595,12 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>import-api</summary>
+- **<details><summary>import-api</summary><blockquote>**
 
   * --basepath
   * --body
@@ -615,7 +611,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>reimport-api</summary>
+- **<details><summary>reimport-api</summary><blockquote>**
 
   * --api-id
   * --basepath
@@ -627,7 +623,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>reset-authorizers-cache</summary>
+- **<details><summary>reset-authorizers-cache</summary><blockquote>**
 
   * --api-id
   * --stage-name
@@ -636,7 +632,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -645,7 +641,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -654,7 +650,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-api</summary>
+- **<details><summary>update-api</summary><blockquote>**
 
   * --api-id
   * --api-key-selection-expression
@@ -675,7 +671,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-api-mapping</summary>
+- **<details><summary>update-api-mapping</summary><blockquote>**
 
   * --api-id
   * --api-mapping-id
@@ -687,7 +683,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-authorizer</summary>
+- **<details><summary>update-authorizer</summary><blockquote>**
 
   * --api-id
   * --authorizer-credentials-arn
@@ -707,7 +703,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-deployment</summary>
+- **<details><summary>update-deployment</summary><blockquote>**
 
   * --api-id
   * --deployment-id
@@ -717,7 +713,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-domain-name</summary>
+- **<details><summary>update-domain-name</summary><blockquote>**
 
   * --domain-name
   * --domain-name-configurations
@@ -727,7 +723,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-integration</summary>
+- **<details><summary>update-integration</summary><blockquote>**
 
   * --api-id
   * --connection-id
@@ -753,7 +749,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-integration-response</summary>
+- **<details><summary>update-integration-response</summary><blockquote>**
 
   * --api-id
   * --content-handling-strategy
@@ -768,7 +764,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-model</summary>
+- **<details><summary>update-model</summary><blockquote>**
 
   * --api-id
   * --content-type
@@ -781,7 +777,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-route</summary>
+- **<details><summary>update-route</summary><blockquote>**
 
   * --api-id
   * --api-key-required
@@ -802,7 +798,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-route-response</summary>
+- **<details><summary>update-route-response</summary><blockquote>**
 
   * --api-id
   * --model-selection-expression
@@ -816,7 +812,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-stage</summary>
+- **<details><summary>update-stage</summary><blockquote>**
 
   * --access-log-settings
   * --api-id
@@ -834,7 +830,7 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-- <details><summary>update-vpc-link</summary>
+- **<details><summary>update-vpc-link</summary><blockquote>**
 
   * --name
   * --vpc-link-id
@@ -843,5 +839,77 @@ apigatewayv2
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

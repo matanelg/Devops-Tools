@@ -1,10 +1,6 @@
-<details>
+<details><summary>workdocs</summary><blockquote>
 
-<summary>
-workdocs
-</summary>
-
-- <details><summary>abort-document-version-upload</summary>
+- **<details><summary>abort-document-version-upload</summary><blockquote>**
 
   * --authentication-token
   * --document-id
@@ -14,7 +10,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>activate-user</summary>
+- **<details><summary>activate-user</summary><blockquote>**
 
   * --user-id
   * --authentication-token
@@ -23,7 +19,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>add-resource-permissions</summary>
+- **<details><summary>add-resource-permissions</summary><blockquote>**
 
   * --authentication-token
   * --resource-id
@@ -34,7 +30,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>create-comment</summary>
+- **<details><summary>create-comment</summary><blockquote>**
 
   * --authentication-token
   * --document-id
@@ -50,7 +46,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>create-custom-metadata</summary>
+- **<details><summary>create-custom-metadata</summary><blockquote>**
 
   * --authentication-token
   * --resource-id
@@ -61,7 +57,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>create-folder</summary>
+- **<details><summary>create-folder</summary><blockquote>**
 
   * --authentication-token
   * --name
@@ -71,7 +67,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>create-labels</summary>
+- **<details><summary>create-labels</summary><blockquote>**
 
   * --resource-id
   * --labels
@@ -81,7 +77,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>create-notification-subscription</summary>
+- **<details><summary>create-notification-subscription</summary><blockquote>**
 
   * --organization-id
   * --protocol
@@ -92,7 +88,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>create-user</summary>
+- **<details><summary>create-user</summary><blockquote>**
 
   * --organization-id
   * --username
@@ -108,7 +104,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>deactivate-user</summary>
+- **<details><summary>deactivate-user</summary><blockquote>**
 
   * --user-id
   * --authentication-token
@@ -117,7 +113,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-comment</summary>
+- **<details><summary>delete-comment</summary><blockquote>**
 
   * --authentication-token
   * --document-id
@@ -128,7 +124,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-custom-metadata</summary>
+- **<details><summary>delete-custom-metadata</summary><blockquote>**
 
   * --authentication-token
   * --resource-id
@@ -141,7 +137,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-document</summary>
+- **<details><summary>delete-document</summary><blockquote>**
 
   * --authentication-token
   * --document-id
@@ -150,7 +146,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-folder</summary>
+- **<details><summary>delete-folder</summary><blockquote>**
 
   * --authentication-token
   * --folder-id
@@ -159,7 +155,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-folder-contents</summary>
+- **<details><summary>delete-folder-contents</summary><blockquote>**
 
   * --authentication-token
   * --folder-id
@@ -168,7 +164,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-labels</summary>
+- **<details><summary>delete-labels</summary><blockquote>**
 
   * --resource-id
   * --authentication-token
@@ -180,7 +176,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-notification-subscription</summary>
+- **<details><summary>delete-notification-subscription</summary><blockquote>**
 
   * --subscription-id
   * --organization-id
@@ -189,7 +185,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-user</summary>
+- **<details><summary>delete-user</summary><blockquote>**
 
   * --authentication-token
   * --user-id
@@ -198,7 +194,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-activities</summary>
+- **<details><summary>describe-activities</summary><blockquote>**
 
   * --authentication-token
   * --start-time
@@ -217,7 +213,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-comments</summary>
+- **<details><summary>describe-comments</summary><blockquote>**
 
   * --authentication-token
   * --document-id
@@ -230,7 +226,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-document-versions</summary>
+- **<details><summary>describe-document-versions</summary><blockquote>**
 
   * --authentication-token
   * --document-id
@@ -244,7 +240,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-folder-contents</summary>
+- **<details><summary>describe-folder-contents</summary><blockquote>**
 
   * --authentication-token
   * --folder-id
@@ -260,7 +256,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-groups</summary>
+- **<details><summary>describe-groups</summary><blockquote>**
 
   * --authentication-token
   * --search-query
@@ -273,7 +269,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-notification-subscriptions</summary>
+- **<details><summary>describe-notification-subscriptions</summary><blockquote>**
 
   * --organization-id
   * --cli-input-json
@@ -284,7 +280,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-resource-permissions</summary>
+- **<details><summary>describe-resource-permissions</summary><blockquote>**
 
   * --authentication-token
   * --resource-id
@@ -297,7 +293,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-root-folders</summary>
+- **<details><summary>describe-root-folders</summary><blockquote>**
 
   * --authentication-token
   * --cli-input-json
@@ -308,7 +304,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-users</summary>
+- **<details><summary>describe-users</summary><blockquote>**
 
   * --authentication-token
   * --organization-id
@@ -326,7 +322,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>get-current-user</summary>
+- **<details><summary>get-current-user</summary><blockquote>**
 
   * --authentication-token
   * --cli-input-json
@@ -334,7 +330,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>get-document</summary>
+- **<details><summary>get-document</summary><blockquote>**
 
   * --authentication-token
   * --document-id
@@ -345,7 +341,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>get-document-path</summary>
+- **<details><summary>get-document-path</summary><blockquote>**
 
   * --authentication-token
   * --document-id
@@ -357,7 +353,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>get-document-version</summary>
+- **<details><summary>get-document-version</summary><blockquote>**
 
   * --authentication-token
   * --document-id
@@ -370,7 +366,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>get-folder</summary>
+- **<details><summary>get-folder</summary><blockquote>**
 
   * --authentication-token
   * --folder-id
@@ -381,7 +377,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>get-folder-path</summary>
+- **<details><summary>get-folder-path</summary><blockquote>**
 
   * --authentication-token
   * --folder-id
@@ -393,7 +389,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>get-resources</summary>
+- **<details><summary>get-resources</summary><blockquote>**
 
   * --authentication-token
   * --user-id
@@ -405,12 +401,12 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>initiate-document-version-upload</summary>
+- **<details><summary>initiate-document-version-upload</summary><blockquote>**
 
   * --authentication-token
   * --id
@@ -425,7 +421,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-all-resource-permissions</summary>
+- **<details><summary>remove-all-resource-permissions</summary><blockquote>**
 
   * --authentication-token
   * --resource-id
@@ -434,7 +430,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-resource-permission</summary>
+- **<details><summary>remove-resource-permission</summary><blockquote>**
 
   * --authentication-token
   * --resource-id
@@ -445,7 +441,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>update-document</summary>
+- **<details><summary>update-document</summary><blockquote>**
 
   * --authentication-token
   * --document-id
@@ -457,7 +453,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>update-document-version</summary>
+- **<details><summary>update-document-version</summary><blockquote>**
 
   * --authentication-token
   * --document-id
@@ -468,7 +464,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>update-folder</summary>
+- **<details><summary>update-folder</summary><blockquote>**
 
   * --authentication-token
   * --folder-id
@@ -480,7 +476,7 @@ workdocs
   * --generate-cli-skeleton
 
 
-- <details><summary>update-user</summary>
+- **<details><summary>update-user</summary><blockquote>**
 
   * --authentication-token
   * --user-id
@@ -496,5 +492,46 @@ workdocs
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

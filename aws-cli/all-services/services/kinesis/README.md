@@ -1,10 +1,6 @@
-<details>
+<details><summary>kinesis</summary><blockquote>
 
-<summary>
-kinesis
-</summary>
-
-- <details><summary>add-tags-to-stream</summary>
+- **<details><summary>add-tags-to-stream</summary><blockquote>**
 
   * --stream-name
   * --tags
@@ -13,7 +9,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>create-stream</summary>
+- **<details><summary>create-stream</summary><blockquote>**
 
   * --stream-name
   * --shard-count
@@ -22,7 +18,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>decrease-stream-retention-period</summary>
+- **<details><summary>decrease-stream-retention-period</summary><blockquote>**
 
   * --stream-name
   * --retention-period-hours
@@ -31,7 +27,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-stream</summary>
+- **<details><summary>delete-stream</summary><blockquote>**
 
   * --stream-name
   * --enforce-consumer-deletion
@@ -41,7 +37,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>deregister-stream-consumer</summary>
+- **<details><summary>deregister-stream-consumer</summary><blockquote>**
 
   * --stream-arn
   * --consumer-name
@@ -51,14 +47,14 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-limits</summary>
+- **<details><summary>describe-limits</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stream</summary>
+- **<details><summary>describe-stream</summary><blockquote>**
 
   * --stream-name
   * --cli-input-json
@@ -69,7 +65,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stream-consumer</summary>
+- **<details><summary>describe-stream-consumer</summary><blockquote>**
 
   * --stream-arn
   * --consumer-name
@@ -79,7 +75,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stream-summary</summary>
+- **<details><summary>describe-stream-summary</summary><blockquote>**
 
   * --stream-name
   * --cli-input-json
@@ -87,16 +83,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>disable-enhanced-monitoring</summary>
-
-  * --stream-name
-  * --shard-level-metrics
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>enable-enhanced-monitoring</summary>
+- **<details><summary>disable-enhanced-monitoring</summary><blockquote>**
 
   * --stream-name
   * --shard-level-metrics
@@ -105,7 +92,16 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>get-records</summary>
+- **<details><summary>enable-enhanced-monitoring</summary><blockquote>**
+
+  * --stream-name
+  * --shard-level-metrics
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>get-records</summary><blockquote>**
 
   * --shard-iterator
   * --limit
@@ -114,7 +110,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>get-shard-iterator</summary>
+- **<details><summary>get-shard-iterator</summary><blockquote>**
 
   * --stream-name
   * --shard-id
@@ -126,12 +122,12 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>increase-stream-retention-period</summary>
+- **<details><summary>increase-stream-retention-period</summary><blockquote>**
 
   * --stream-name
   * --retention-period-hours
@@ -140,7 +136,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>list-shards</summary>
+- **<details><summary>list-shards</summary><blockquote>**
 
   * --stream-name
   * --exclusive-start-shard-id
@@ -154,7 +150,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>list-stream-consumers</summary>
+- **<details><summary>list-stream-consumers</summary><blockquote>**
 
   * --stream-arn
   * --stream-creation-timestamp
@@ -166,7 +162,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>list-streams</summary>
+- **<details><summary>list-streams</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -176,7 +172,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-stream</summary>
+- **<details><summary>list-tags-for-stream</summary><blockquote>**
 
   * --stream-name
   * --exclusive-start-tag-key
@@ -186,7 +182,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>merge-shards</summary>
+- **<details><summary>merge-shards</summary><blockquote>**
 
   * --stream-name
   * --shard-to-merge
@@ -196,7 +192,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>put-record</summary>
+- **<details><summary>put-record</summary><blockquote>**
 
   * --stream-name
   * --data
@@ -208,7 +204,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>put-records</summary>
+- **<details><summary>put-records</summary><blockquote>**
 
   * --records
   * --stream-name
@@ -217,7 +213,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>register-stream-consumer</summary>
+- **<details><summary>register-stream-consumer</summary><blockquote>**
 
   * --stream-arn
   * --consumer-name
@@ -226,7 +222,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-tags-from-stream</summary>
+- **<details><summary>remove-tags-from-stream</summary><blockquote>**
 
   * --stream-name
   * --tag-keys
@@ -235,7 +231,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>split-shard</summary>
+- **<details><summary>split-shard</summary><blockquote>**
 
   * --stream-name
   * --shard-to-split
@@ -245,7 +241,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>start-stream-encryption</summary>
+- **<details><summary>start-stream-encryption</summary><blockquote>**
 
   * --stream-name
   * --encryption-type
@@ -255,7 +251,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-stream-encryption</summary>
+- **<details><summary>stop-stream-encryption</summary><blockquote>**
 
   * --stream-name
   * --encryption-type
@@ -265,7 +261,7 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>update-shard-count</summary>
+- **<details><summary>update-shard-count</summary><blockquote>**
 
   * --stream-name
   * --target-shard-count
@@ -275,10 +271,38 @@ kinesis
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

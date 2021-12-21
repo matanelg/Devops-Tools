@@ -1,10 +1,6 @@
-<details>
+<details><summary>rekognition</summary><blockquote>
 
-<summary>
-rekognition
-</summary>
-
-- <details><summary>compare-faces</summary>
+- **<details><summary>compare-faces</summary><blockquote>**
 
   * --source-image
   * --target-image
@@ -17,7 +13,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>create-collection</summary>
+- **<details><summary>create-collection</summary><blockquote>**
 
   * --collection-id
   * --tags
@@ -26,7 +22,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>create-project</summary>
+- **<details><summary>create-project</summary><blockquote>**
 
   * --project-name
   * --cli-input-json
@@ -34,7 +30,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>create-project-version</summary>
+- **<details><summary>create-project-version</summary><blockquote>**
 
   * --project-arn
   * --version-name
@@ -48,7 +44,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>create-stream-processor</summary>
+- **<details><summary>create-stream-processor</summary><blockquote>**
 
   * --input
   * --name
@@ -61,7 +57,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-collection</summary>
+- **<details><summary>delete-collection</summary><blockquote>**
 
   * --collection-id
   * --cli-input-json
@@ -69,7 +65,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-faces</summary>
+- **<details><summary>delete-faces</summary><blockquote>**
 
   * --collection-id
   * --face-ids
@@ -78,7 +74,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-project</summary>
+- **<details><summary>delete-project</summary><blockquote>**
 
   * --project-arn
   * --cli-input-json
@@ -86,7 +82,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-project-version</summary>
+- **<details><summary>delete-project-version</summary><blockquote>**
 
   * --project-version-arn
   * --cli-input-json
@@ -94,7 +90,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-stream-processor</summary>
+- **<details><summary>delete-stream-processor</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -102,7 +98,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-collection</summary>
+- **<details><summary>describe-collection</summary><blockquote>**
 
   * --collection-id
   * --cli-input-json
@@ -110,7 +106,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-projects</summary>
+- **<details><summary>describe-projects</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -120,7 +116,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-project-versions</summary>
+- **<details><summary>describe-project-versions</summary><blockquote>**
 
   * --project-arn
   * --version-names
@@ -132,7 +128,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-stream-processor</summary>
+- **<details><summary>describe-stream-processor</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -140,7 +136,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-custom-labels</summary>
+- **<details><summary>detect-custom-labels</summary><blockquote>**
 
   * --project-version-arn
   * --image
@@ -152,7 +148,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-faces</summary>
+- **<details><summary>detect-faces</summary><blockquote>**
 
   * --image
   * --attributes
@@ -162,7 +158,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-labels</summary>
+- **<details><summary>detect-labels</summary><blockquote>**
 
   * --image
   * --max-labels
@@ -173,7 +169,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-moderation-labels</summary>
+- **<details><summary>detect-moderation-labels</summary><blockquote>**
 
   * --image
   * --min-confidence
@@ -184,7 +180,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-protective-equipment</summary>
+- **<details><summary>detect-protective-equipment</summary><blockquote>**
 
   * --image
   * --summarization-attributes
@@ -194,7 +190,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>detect-text</summary>
+- **<details><summary>detect-text</summary><blockquote>**
 
   * --image
   * --filters
@@ -204,7 +200,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>get-celebrity-info</summary>
+- **<details><summary>get-celebrity-info</summary><blockquote>**
 
   * --id
   * --cli-input-json
@@ -212,7 +208,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>get-celebrity-recognition</summary>
+- **<details><summary>get-celebrity-recognition</summary><blockquote>**
 
   * --job-id
   * --max-results
@@ -223,7 +219,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>get-content-moderation</summary>
+- **<details><summary>get-content-moderation</summary><blockquote>**
 
   * --job-id
   * --max-results
@@ -234,7 +230,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>get-face-detection</summary>
+- **<details><summary>get-face-detection</summary><blockquote>**
 
   * --job-id
   * --max-results
@@ -244,18 +240,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>get-face-search</summary>
-
-  * --job-id
-  * --max-results
-  * --next-token
-  * --sort-by
-  * --cli-input-json
-  * --cli-input-yaml
-  * --generate-cli-skeleton
-
-
-- <details><summary>get-label-detection</summary>
+- **<details><summary>get-face-search</summary><blockquote>**
 
   * --job-id
   * --max-results
@@ -266,7 +251,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>get-person-tracking</summary>
+- **<details><summary>get-label-detection</summary><blockquote>**
 
   * --job-id
   * --max-results
@@ -277,7 +262,18 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>get-segment-detection</summary>
+- **<details><summary>get-person-tracking</summary><blockquote>**
+
+  * --job-id
+  * --max-results
+  * --next-token
+  * --sort-by
+  * --cli-input-json
+  * --cli-input-yaml
+  * --generate-cli-skeleton
+
+
+- **<details><summary>get-segment-detection</summary><blockquote>**
 
   * --job-id
   * --max-results
@@ -287,7 +283,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>get-text-detection</summary>
+- **<details><summary>get-text-detection</summary><blockquote>**
 
   * --job-id
   * --max-results
@@ -297,12 +293,12 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>index-faces</summary>
+- **<details><summary>index-faces</summary><blockquote>**
 
   * --collection-id
   * --image
@@ -316,7 +312,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>list-collections</summary>
+- **<details><summary>list-collections</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -326,7 +322,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>list-faces</summary>
+- **<details><summary>list-faces</summary><blockquote>**
 
   * --collection-id
   * --cli-input-json
@@ -337,7 +333,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>list-stream-processors</summary>
+- **<details><summary>list-stream-processors</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -347,7 +343,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -355,7 +351,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>recognize-celebrities</summary>
+- **<details><summary>recognize-celebrities</summary><blockquote>**
 
   * --image
   * --image-bytes
@@ -364,7 +360,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>search-faces</summary>
+- **<details><summary>search-faces</summary><blockquote>**
 
   * --collection-id
   * --face-id
@@ -375,7 +371,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>search-faces-by-image</summary>
+- **<details><summary>search-faces-by-image</summary><blockquote>**
 
   * --collection-id
   * --image
@@ -388,7 +384,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>start-celebrity-recognition</summary>
+- **<details><summary>start-celebrity-recognition</summary><blockquote>**
 
   * --video
   * --client-request-token
@@ -399,7 +395,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>start-content-moderation</summary>
+- **<details><summary>start-content-moderation</summary><blockquote>**
 
   * --video
   * --min-confidence
@@ -411,7 +407,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>start-face-detection</summary>
+- **<details><summary>start-face-detection</summary><blockquote>**
 
   * --video
   * --client-request-token
@@ -423,7 +419,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>start-face-search</summary>
+- **<details><summary>start-face-search</summary><blockquote>**
 
   * --video
   * --client-request-token
@@ -436,7 +432,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>start-label-detection</summary>
+- **<details><summary>start-label-detection</summary><blockquote>**
 
   * --video
   * --client-request-token
@@ -448,7 +444,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>start-person-tracking</summary>
+- **<details><summary>start-person-tracking</summary><blockquote>**
 
   * --video
   * --client-request-token
@@ -459,7 +455,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>start-project-version</summary>
+- **<details><summary>start-project-version</summary><blockquote>**
 
   * --project-version-arn
   * --min-inference-units
@@ -468,7 +464,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>start-segment-detection</summary>
+- **<details><summary>start-segment-detection</summary><blockquote>**
 
   * --video
   * --client-request-token
@@ -481,7 +477,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>start-stream-processor</summary>
+- **<details><summary>start-stream-processor</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -489,7 +485,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>start-text-detection</summary>
+- **<details><summary>start-text-detection</summary><blockquote>**
 
   * --video
   * --client-request-token
@@ -501,7 +497,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-project-version</summary>
+- **<details><summary>stop-project-version</summary><blockquote>**
 
   * --project-version-arn
   * --cli-input-json
@@ -509,7 +505,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-stream-processor</summary>
+- **<details><summary>stop-stream-processor</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -517,7 +513,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -526,7 +522,7 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -535,10 +531,62 @@ rekognition
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

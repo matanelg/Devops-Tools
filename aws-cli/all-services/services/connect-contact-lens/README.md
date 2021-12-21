@@ -1,15 +1,11 @@
-<details>
+<details><summary>connect-contact-lens</summary><blockquote>
 
-<summary>
-connect-contact-lens
-</summary>
-
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-realtime-contact-analysis-segments</summary>
+- **<details><summary>list-realtime-contact-analysis-segments</summary><blockquote>**
 
   * --instance-id
   * --contact-id
@@ -20,5 +16,6 @@ connect-contact-lens
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

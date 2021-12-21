@@ -1,10 +1,6 @@
-<details>
+<details><summary>lex-models</summary><blockquote>
 
-<summary>
-lex-models
-</summary>
-
-- <details><summary>create-bot-version</summary>
+- **<details><summary>create-bot-version</summary><blockquote>**
 
   * --name
   * --checksum
@@ -13,7 +9,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>create-intent-version</summary>
+- **<details><summary>create-intent-version</summary><blockquote>**
 
   * --name
   * --checksum
@@ -22,7 +18,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>create-slot-type-version</summary>
+- **<details><summary>create-slot-type-version</summary><blockquote>**
 
   * --name
   * --checksum
@@ -31,7 +27,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bot</summary>
+- **<details><summary>delete-bot</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -39,7 +35,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bot-alias</summary>
+- **<details><summary>delete-bot-alias</summary><blockquote>**
 
   * --name
   * --bot-name
@@ -48,7 +44,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bot-channel-association</summary>
+- **<details><summary>delete-bot-channel-association</summary><blockquote>**
 
   * --name
   * --bot-name
@@ -58,7 +54,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-bot-version</summary>
+- **<details><summary>delete-bot-version</summary><blockquote>**
 
   * --name
   * --bot-version
@@ -67,7 +63,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-intent</summary>
+- **<details><summary>delete-intent</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -75,7 +71,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-intent-version</summary>
+- **<details><summary>delete-intent-version</summary><blockquote>**
 
   * --name
   * --intent-version
@@ -84,7 +80,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-slot-type</summary>
+- **<details><summary>delete-slot-type</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -92,7 +88,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-slot-type-version</summary>
+- **<details><summary>delete-slot-type-version</summary><blockquote>**
 
   * --name
   * --slot-type-version
@@ -101,7 +97,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-utterances</summary>
+- **<details><summary>delete-utterances</summary><blockquote>**
 
   * --bot-name
   * --user-id
@@ -110,7 +106,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bot</summary>
+- **<details><summary>get-bot</summary><blockquote>**
 
   * --name
   * --version-or-alias
@@ -119,7 +115,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bot-alias</summary>
+- **<details><summary>get-bot-alias</summary><blockquote>**
 
   * --name
   * --bot-name
@@ -128,7 +124,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bot-aliases</summary>
+- **<details><summary>get-bot-aliases</summary><blockquote>**
 
   * --bot-name
   * --name-contains
@@ -140,7 +136,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bot-channel-association</summary>
+- **<details><summary>get-bot-channel-association</summary><blockquote>**
 
   * --name
   * --bot-name
@@ -150,7 +146,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bot-channel-associations</summary>
+- **<details><summary>get-bot-channel-associations</summary><blockquote>**
 
   * --bot-name
   * --bot-alias
@@ -163,7 +159,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bots</summary>
+- **<details><summary>get-bots</summary><blockquote>**
 
   * --name-contains
   * --cli-input-json
@@ -174,7 +170,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-bot-versions</summary>
+- **<details><summary>get-bot-versions</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -185,7 +181,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-builtin-intent</summary>
+- **<details><summary>get-builtin-intent</summary><blockquote>**
 
   * --signature
   * --cli-input-json
@@ -193,7 +189,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-builtin-intents</summary>
+- **<details><summary>get-builtin-intents</summary><blockquote>**
 
   * --locale
   * --signature-contains
@@ -205,7 +201,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-builtin-slot-types</summary>
+- **<details><summary>get-builtin-slot-types</summary><blockquote>**
 
   * --locale
   * --signature-contains
@@ -217,7 +213,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-export</summary>
+- **<details><summary>get-export</summary><blockquote>**
 
   * --name
   * --resource-type
@@ -228,7 +224,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-import</summary>
+- **<details><summary>get-import</summary><blockquote>**
 
   * --import-id
   * --cli-input-json
@@ -236,7 +232,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-intent</summary>
+- **<details><summary>get-intent</summary><blockquote>**
 
   * --name
   * --intent-version
@@ -245,7 +241,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-intents</summary>
+- **<details><summary>get-intents</summary><blockquote>**
 
   * --name-contains
   * --cli-input-json
@@ -256,7 +252,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-intent-versions</summary>
+- **<details><summary>get-intent-versions</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -267,7 +263,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-migration</summary>
+- **<details><summary>get-migration</summary><blockquote>**
 
   * --migration-id
   * --cli-input-json
@@ -275,7 +271,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-migrations</summary>
+- **<details><summary>get-migrations</summary><blockquote>**
 
   * --sort-by-attribute
   * --sort-by-order
@@ -288,7 +284,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-slot-type</summary>
+- **<details><summary>get-slot-type</summary><blockquote>**
 
   * --name
   * --slot-type-version
@@ -297,7 +293,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-slot-types</summary>
+- **<details><summary>get-slot-types</summary><blockquote>**
 
   * --name-contains
   * --cli-input-json
@@ -308,7 +304,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-slot-type-versions</summary>
+- **<details><summary>get-slot-type-versions</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -319,7 +315,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>get-utterances-view</summary>
+- **<details><summary>get-utterances-view</summary><blockquote>**
 
   * --bot-name
   * --bot-versions
@@ -329,12 +325,12 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -342,7 +338,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bot</summary>
+- **<details><summary>put-bot</summary><blockquote>**
 
   * --name
   * --description
@@ -369,7 +365,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>put-bot-alias</summary>
+- **<details><summary>put-bot-alias</summary><blockquote>**
 
   * --name
   * --description
@@ -383,7 +379,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>put-intent</summary>
+- **<details><summary>put-intent</summary><blockquote>**
 
   * --name
   * --description
@@ -407,7 +403,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>put-slot-type</summary>
+- **<details><summary>put-slot-type</summary><blockquote>**
 
   * --name
   * --description
@@ -423,7 +419,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>start-import</summary>
+- **<details><summary>start-import</summary><blockquote>**
 
   * --payload
   * --resource-type
@@ -434,7 +430,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>start-migration</summary>
+- **<details><summary>start-migration</summary><blockquote>**
 
   * --v1-bot-name
   * --v1-bot-version
@@ -446,7 +442,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -455,7 +451,7 @@ lex-models
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -464,5 +460,47 @@ lex-models
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

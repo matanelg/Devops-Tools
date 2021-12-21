@@ -1,10 +1,6 @@
-<details>
+<details><summary>connectparticipant</summary><blockquote>
 
-<summary>
-connectparticipant
-</summary>
-
-- <details><summary>complete-attachment-upload</summary>
+- **<details><summary>complete-attachment-upload</summary><blockquote>**
 
   * --attachment-ids
   * --client-token
@@ -14,7 +10,7 @@ connectparticipant
   * --generate-cli-skeleton
 
 
-- <details><summary>create-participant-connection</summary>
+- **<details><summary>create-participant-connection</summary><blockquote>**
 
   * --type
   * --participant-token
@@ -23,7 +19,7 @@ connectparticipant
   * --generate-cli-skeleton
 
 
-- <details><summary>disconnect-participant</summary>
+- **<details><summary>disconnect-participant</summary><blockquote>**
 
   * --client-token
   * --connection-token
@@ -32,7 +28,7 @@ connectparticipant
   * --generate-cli-skeleton
 
 
-- <details><summary>get-attachment</summary>
+- **<details><summary>get-attachment</summary><blockquote>**
 
   * --attachment-id
   * --connection-token
@@ -41,7 +37,7 @@ connectparticipant
   * --generate-cli-skeleton
 
 
-- <details><summary>get-transcript</summary>
+- **<details><summary>get-transcript</summary><blockquote>**
 
   * --contact-id
   * --max-results
@@ -55,12 +51,12 @@ connectparticipant
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>send-event</summary>
+- **<details><summary>send-event</summary><blockquote>**
 
   * --content-type
   * --content
@@ -71,7 +67,7 @@ connectparticipant
   * --generate-cli-skeleton
 
 
-- <details><summary>send-message</summary>
+- **<details><summary>send-message</summary><blockquote>**
 
   * --content-type
   * --content
@@ -82,7 +78,7 @@ connectparticipant
   * --generate-cli-skeleton
 
 
-- <details><summary>start-attachment-upload</summary>
+- **<details><summary>start-attachment-upload</summary><blockquote>**
 
   * --content-type
   * --attachment-size-in-bytes
@@ -94,5 +90,13 @@ connectparticipant
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

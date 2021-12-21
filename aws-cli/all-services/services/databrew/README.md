@@ -1,10 +1,6 @@
-<details>
+<details><summary>databrew</summary><blockquote>
 
-<summary>
-databrew
-</summary>
-
-- <details><summary>batch-delete-recipe-version</summary>
+- **<details><summary>batch-delete-recipe-version</summary><blockquote>**
 
   * --name
   * --recipe-versions
@@ -13,7 +9,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>create-dataset</summary>
+- **<details><summary>create-dataset</summary><blockquote>**
 
   * --name
   * --format
@@ -26,7 +22,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>create-profile-job</summary>
+- **<details><summary>create-profile-job</summary><blockquote>**
 
   * --dataset-name
   * --encryption-key-arn
@@ -45,7 +41,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>create-project</summary>
+- **<details><summary>create-project</summary><blockquote>**
 
   * --dataset-name
   * --name
@@ -58,7 +54,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>create-recipe</summary>
+- **<details><summary>create-recipe</summary><blockquote>**
 
   * --description
   * --name
@@ -69,7 +65,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>create-recipe-job</summary>
+- **<details><summary>create-recipe-job</summary><blockquote>**
 
   * --dataset-name
   * --encryption-key-arn
@@ -90,7 +86,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>create-schedule</summary>
+- **<details><summary>create-schedule</summary><blockquote>**
 
   * --job-names
   * --cron-expression
@@ -101,7 +97,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-dataset</summary>
+- **<details><summary>delete-dataset</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -109,7 +105,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-job</summary>
+- **<details><summary>delete-job</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -117,7 +113,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-project</summary>
+- **<details><summary>delete-project</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -125,7 +121,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-recipe-version</summary>
+- **<details><summary>delete-recipe-version</summary><blockquote>**
 
   * --name
   * --recipe-version
@@ -134,7 +130,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-schedule</summary>
+- **<details><summary>delete-schedule</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -142,7 +138,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-dataset</summary>
+- **<details><summary>describe-dataset</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -150,7 +146,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-job</summary>
+- **<details><summary>describe-job</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -158,7 +154,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-job-run</summary>
+- **<details><summary>describe-job-run</summary><blockquote>**
 
   * --name
   * --run-id
@@ -167,7 +163,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-project</summary>
+- **<details><summary>describe-project</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -175,7 +171,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-recipe</summary>
+- **<details><summary>describe-recipe</summary><blockquote>**
 
   * --name
   * --recipe-version
@@ -184,7 +180,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-schedule</summary>
+- **<details><summary>describe-schedule</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -192,12 +188,12 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-datasets</summary>
+- **<details><summary>list-datasets</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -207,7 +203,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>list-job-runs</summary>
+- **<details><summary>list-job-runs</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -218,7 +214,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>list-jobs</summary>
+- **<details><summary>list-jobs</summary><blockquote>**
 
   * --dataset-name
   * --project-name
@@ -230,7 +226,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>list-projects</summary>
+- **<details><summary>list-projects</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -240,7 +236,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>list-recipes</summary>
+- **<details><summary>list-recipes</summary><blockquote>**
 
   * --recipe-version
   * --cli-input-json
@@ -251,7 +247,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>list-recipe-versions</summary>
+- **<details><summary>list-recipe-versions</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -262,7 +258,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>list-schedules</summary>
+- **<details><summary>list-schedules</summary><blockquote>**
 
   * --job-name
   * --cli-input-json
@@ -273,7 +269,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -281,7 +277,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>publish-recipe</summary>
+- **<details><summary>publish-recipe</summary><blockquote>**
 
   * --description
   * --name
@@ -290,7 +286,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>send-project-session-action</summary>
+- **<details><summary>send-project-session-action</summary><blockquote>**
 
   * --preview
   * --no-preview
@@ -304,7 +300,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>start-job-run</summary>
+- **<details><summary>start-job-run</summary><blockquote>**
 
   * --name
   * --cli-input-json
@@ -312,7 +308,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>start-project-session</summary>
+- **<details><summary>start-project-session</summary><blockquote>**
 
   * --name
   * --assume-control
@@ -322,7 +318,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-job-run</summary>
+- **<details><summary>stop-job-run</summary><blockquote>**
 
   * --name
   * --run-id
@@ -331,7 +327,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -340,7 +336,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -349,7 +345,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>update-dataset</summary>
+- **<details><summary>update-dataset</summary><blockquote>**
 
   * --name
   * --format
@@ -361,7 +357,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>update-profile-job</summary>
+- **<details><summary>update-profile-job</summary><blockquote>**
 
   * --encryption-key-arn
   * --encryption-mode
@@ -378,7 +374,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>update-project</summary>
+- **<details><summary>update-project</summary><blockquote>**
 
   * --sample
   * --role-arn
@@ -388,7 +384,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>update-recipe</summary>
+- **<details><summary>update-recipe</summary><blockquote>**
 
   * --description
   * --name
@@ -398,7 +394,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>update-recipe-job</summary>
+- **<details><summary>update-recipe-job</summary><blockquote>**
 
   * --encryption-key-arn
   * --encryption-mode
@@ -415,7 +411,7 @@ databrew
   * --generate-cli-skeleton
 
 
-- <details><summary>update-schedule</summary>
+- **<details><summary>update-schedule</summary><blockquote>**
 
   * --job-names
   * --cron-expression
@@ -425,5 +421,44 @@ databrew
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

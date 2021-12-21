@@ -1,10 +1,6 @@
-<details>
+<details><summary>sqs</summary><blockquote>
 
-<summary>
-sqs
-</summary>
-
-- <details><summary>add-permission</summary>
+- **<details><summary>add-permission</summary><blockquote>**
 
   * --queue-url
   * --label
@@ -15,7 +11,7 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>change-message-visibility</summary>
+- **<details><summary>change-message-visibility</summary><blockquote>**
 
   * --queue-url
   * --receipt-handle
@@ -25,7 +21,7 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>change-message-visibility-batch</summary>
+- **<details><summary>change-message-visibility-batch</summary><blockquote>**
 
   * --queue-url
   * --entries
@@ -34,7 +30,7 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>create-queue</summary>
+- **<details><summary>create-queue</summary><blockquote>**
 
   * --queue-name
   * --attributes
@@ -44,7 +40,7 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-message</summary>
+- **<details><summary>delete-message</summary><blockquote>**
 
   * --queue-url
   * --receipt-handle
@@ -53,7 +49,7 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-message-batch</summary>
+- **<details><summary>delete-message-batch</summary><blockquote>**
 
   * --queue-url
   * --entries
@@ -62,7 +58,7 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-queue</summary>
+- **<details><summary>delete-queue</summary><blockquote>**
 
   * --queue-url
   * --cli-input-json
@@ -70,7 +66,7 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>get-queue-attributes</summary>
+- **<details><summary>get-queue-attributes</summary><blockquote>**
 
   * --queue-url
   * --attribute-names
@@ -79,7 +75,7 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>get-queue-url</summary>
+- **<details><summary>get-queue-url</summary><blockquote>**
 
   * --queue-name
   * --queue-owner-aws-account-id
@@ -88,12 +84,12 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-dead-letter-source-queues</summary>
+- **<details><summary>list-dead-letter-source-queues</summary><blockquote>**
 
   * --queue-url
   * --cli-input-json
@@ -104,7 +100,7 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>list-queues</summary>
+- **<details><summary>list-queues</summary><blockquote>**
 
   * --queue-name-prefix
   * --cli-input-json
@@ -115,7 +111,7 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>list-queue-tags</summary>
+- **<details><summary>list-queue-tags</summary><blockquote>**
 
   * --queue-url
   * --cli-input-json
@@ -123,7 +119,7 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>purge-queue</summary>
+- **<details><summary>purge-queue</summary><blockquote>**
 
   * --queue-url
   * --cli-input-json
@@ -131,7 +127,7 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>receive-message</summary>
+- **<details><summary>receive-message</summary><blockquote>**
 
   * --queue-url
   * --attribute-names
@@ -145,7 +141,7 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-permission</summary>
+- **<details><summary>remove-permission</summary><blockquote>**
 
   * --queue-url
   * --label
@@ -154,7 +150,7 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>send-message</summary>
+- **<details><summary>send-message</summary><blockquote>**
 
   * --queue-url
   * --message-body
@@ -168,7 +164,7 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>send-message-batch</summary>
+- **<details><summary>send-message-batch</summary><blockquote>**
 
   * --queue-url
   * --entries
@@ -177,7 +173,7 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>set-queue-attributes</summary>
+- **<details><summary>set-queue-attributes</summary><blockquote>**
 
   * --queue-url
   * --attributes
@@ -186,7 +182,7 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-queue</summary>
+- **<details><summary>tag-queue</summary><blockquote>**
 
   * --queue-url
   * --tags
@@ -195,7 +191,7 @@ sqs
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-queue</summary>
+- **<details><summary>untag-queue</summary><blockquote>**
 
   * --queue-url
   * --tag-keys
@@ -204,5 +200,25 @@ sqs
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

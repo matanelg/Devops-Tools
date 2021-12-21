@@ -1,10 +1,6 @@
-<details>
+<details><summary>amplify</summary><blockquote>
 
-<summary>
-amplify
-</summary>
-
-- <details><summary>create-app</summary>
+- **<details><summary>create-app</summary><blockquote>**
 
   * --name
   * --description
@@ -34,7 +30,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>create-backend-environment</summary>
+- **<details><summary>create-backend-environment</summary><blockquote>**
 
   * --app-id
   * --environment-name
@@ -45,7 +41,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>create-branch</summary>
+- **<details><summary>create-branch</summary><blockquote>**
 
   * --app-id
   * --branch-name
@@ -75,7 +71,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>create-deployment</summary>
+- **<details><summary>create-deployment</summary><blockquote>**
 
   * --app-id
   * --branch-name
@@ -85,7 +81,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>create-domain-association</summary>
+- **<details><summary>create-domain-association</summary><blockquote>**
 
   * --app-id
   * --domain-name
@@ -99,7 +95,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>create-webhook</summary>
+- **<details><summary>create-webhook</summary><blockquote>**
 
   * --app-id
   * --branch-name
@@ -109,7 +105,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-app</summary>
+- **<details><summary>delete-app</summary><blockquote>**
 
   * --app-id
   * --cli-input-json
@@ -117,7 +113,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-backend-environment</summary>
+- **<details><summary>delete-backend-environment</summary><blockquote>**
 
   * --app-id
   * --environment-name
@@ -126,7 +122,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-branch</summary>
+- **<details><summary>delete-branch</summary><blockquote>**
 
   * --app-id
   * --branch-name
@@ -135,7 +131,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-domain-association</summary>
+- **<details><summary>delete-domain-association</summary><blockquote>**
 
   * --app-id
   * --domain-name
@@ -144,7 +140,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-job</summary>
+- **<details><summary>delete-job</summary><blockquote>**
 
   * --app-id
   * --branch-name
@@ -154,7 +150,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-webhook</summary>
+- **<details><summary>delete-webhook</summary><blockquote>**
 
   * --webhook-id
   * --cli-input-json
@@ -162,7 +158,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>generate-access-logs</summary>
+- **<details><summary>generate-access-logs</summary><blockquote>**
 
   * --start-time
   * --end-time
@@ -173,7 +169,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>get-app</summary>
+- **<details><summary>get-app</summary><blockquote>**
 
   * --app-id
   * --cli-input-json
@@ -181,7 +177,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>get-artifact-url</summary>
+- **<details><summary>get-artifact-url</summary><blockquote>**
 
   * --artifact-id
   * --cli-input-json
@@ -189,7 +185,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>get-backend-environment</summary>
+- **<details><summary>get-backend-environment</summary><blockquote>**
 
   * --app-id
   * --environment-name
@@ -198,7 +194,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>get-branch</summary>
+- **<details><summary>get-branch</summary><blockquote>**
 
   * --app-id
   * --branch-name
@@ -207,7 +203,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>get-domain-association</summary>
+- **<details><summary>get-domain-association</summary><blockquote>**
 
   * --app-id
   * --domain-name
@@ -216,7 +212,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>get-job</summary>
+- **<details><summary>get-job</summary><blockquote>**
 
   * --app-id
   * --branch-name
@@ -226,7 +222,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>get-webhook</summary>
+- **<details><summary>get-webhook</summary><blockquote>**
 
   * --webhook-id
   * --cli-input-json
@@ -234,12 +230,12 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>list-apps</summary>
+- **<details><summary>list-apps</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
@@ -249,7 +245,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>list-artifacts</summary>
+- **<details><summary>list-artifacts</summary><blockquote>**
 
   * --app-id
   * --branch-name
@@ -261,7 +257,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>list-backend-environments</summary>
+- **<details><summary>list-backend-environments</summary><blockquote>**
 
   * --app-id
   * --environment-name
@@ -272,7 +268,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>list-branches</summary>
+- **<details><summary>list-branches</summary><blockquote>**
 
   * --app-id
   * --cli-input-json
@@ -283,7 +279,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>list-domain-associations</summary>
+- **<details><summary>list-domain-associations</summary><blockquote>**
 
   * --app-id
   * --cli-input-json
@@ -294,7 +290,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>list-jobs</summary>
+- **<details><summary>list-jobs</summary><blockquote>**
 
   * --app-id
   * --branch-name
@@ -306,7 +302,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-resource</summary>
+- **<details><summary>list-tags-for-resource</summary><blockquote>**
 
   * --resource-arn
   * --cli-input-json
@@ -314,7 +310,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>list-webhooks</summary>
+- **<details><summary>list-webhooks</summary><blockquote>**
 
   * --app-id
   * --next-token
@@ -324,7 +320,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>start-deployment</summary>
+- **<details><summary>start-deployment</summary><blockquote>**
 
   * --app-id
   * --branch-name
@@ -335,7 +331,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>start-job</summary>
+- **<details><summary>start-job</summary><blockquote>**
 
   * --app-id
   * --branch-name
@@ -350,7 +346,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>stop-job</summary>
+- **<details><summary>stop-job</summary><blockquote>**
 
   * --app-id
   * --branch-name
@@ -360,7 +356,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>tag-resource</summary>
+- **<details><summary>tag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tags
@@ -369,7 +365,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>untag-resource</summary>
+- **<details><summary>untag-resource</summary><blockquote>**
 
   * --resource-arn
   * --tag-keys
@@ -378,7 +374,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>update-app</summary>
+- **<details><summary>update-app</summary><blockquote>**
 
   * --app-id
   * --name
@@ -408,7 +404,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>update-branch</summary>
+- **<details><summary>update-branch</summary><blockquote>**
 
   * --app-id
   * --branch-name
@@ -437,7 +433,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>update-domain-association</summary>
+- **<details><summary>update-domain-association</summary><blockquote>**
 
   * --app-id
   * --domain-name
@@ -451,7 +447,7 @@ amplify
   * --generate-cli-skeleton
 
 
-- <details><summary>update-webhook</summary>
+- **<details><summary>update-webhook</summary><blockquote>**
 
   * --webhook-id
   * --branch-name
@@ -461,5 +457,42 @@ amplify
   * --generate-cli-skeleton
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>

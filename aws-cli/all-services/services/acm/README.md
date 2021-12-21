@@ -1,10 +1,6 @@
-<details>
+<details><summary>acm</summary><blockquote>
 
-<summary>
-acm
-</summary>
-
-- <details><summary>add-tags-to-certificate</summary>
+- **<details><summary>add-tags-to-certificate</summary><blockquote>**
 
   * --certificate-arn
   * --tags
@@ -13,7 +9,7 @@ acm
   * --generate-cli-skeleton
 
 
-- <details><summary>delete-certificate</summary>
+- **<details><summary>delete-certificate</summary><blockquote>**
 
   * --certificate-arn
   * --cli-input-json
@@ -21,7 +17,7 @@ acm
   * --generate-cli-skeleton
 
 
-- <details><summary>describe-certificate</summary>
+- **<details><summary>describe-certificate</summary><blockquote>**
 
   * --certificate-arn
   * --cli-input-json
@@ -29,7 +25,7 @@ acm
   * --generate-cli-skeleton
 
 
-- <details><summary>export-certificate</summary>
+- **<details><summary>export-certificate</summary><blockquote>**
 
   * --certificate-arn
   * --passphrase
@@ -38,14 +34,14 @@ acm
   * --generate-cli-skeleton
 
 
-- <details><summary>get-account-configuration</summary>
+- **<details><summary>get-account-configuration</summary><blockquote>**
 
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
 
 
-- <details><summary>get-certificate</summary>
+- **<details><summary>get-certificate</summary><blockquote>**
 
   * --certificate-arn
   * --cli-input-json
@@ -53,12 +49,12 @@ acm
   * --generate-cli-skeleton
 
 
-- <details><summary>help</summary>
+- **<details><summary>help</summary><blockquote>**
 
   * 
 
 
-- <details><summary>import-certificate</summary>
+- **<details><summary>import-certificate</summary><blockquote>**
 
   * --certificate-arn
   * --certificate
@@ -70,7 +66,7 @@ acm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-certificates</summary>
+- **<details><summary>list-certificates</summary><blockquote>**
 
   * --certificate-statuses
   * --includes
@@ -82,7 +78,7 @@ acm
   * --generate-cli-skeleton
 
 
-- <details><summary>list-tags-for-certificate</summary>
+- **<details><summary>list-tags-for-certificate</summary><blockquote>**
 
   * --certificate-arn
   * --cli-input-json
@@ -90,7 +86,7 @@ acm
   * --generate-cli-skeleton
 
 
-- <details><summary>put-account-configuration</summary>
+- **<details><summary>put-account-configuration</summary><blockquote>**
 
   * --expiry-events
   * --idempotency-token
@@ -99,7 +95,7 @@ acm
   * --generate-cli-skeleton
 
 
-- <details><summary>remove-tags-from-certificate</summary>
+- **<details><summary>remove-tags-from-certificate</summary><blockquote>**
 
   * --certificate-arn
   * --tags
@@ -108,7 +104,7 @@ acm
   * --generate-cli-skeleton
 
 
-- <details><summary>renew-certificate</summary>
+- **<details><summary>renew-certificate</summary><blockquote>**
 
   * --certificate-arn
   * --cli-input-json
@@ -116,7 +112,7 @@ acm
   * --generate-cli-skeleton
 
 
-- <details><summary>request-certificate</summary>
+- **<details><summary>request-certificate</summary><blockquote>**
 
   * --domain-name
   * --validation-method
@@ -131,7 +127,7 @@ acm
   * --generate-cli-skeleton
 
 
-- <details><summary>resend-validation-email</summary>
+- **<details><summary>resend-validation-email</summary><blockquote>**
 
   * --certificate-arn
   * --domain
@@ -141,7 +137,7 @@ acm
   * --generate-cli-skeleton
 
 
-- <details><summary>update-certificate-options</summary>
+- **<details><summary>update-certificate-options</summary><blockquote>**
 
   * --certificate-arn
   * --options
@@ -150,10 +146,26 @@ acm
   * --generate-cli-skeleton
 
 
-- <details><summary>wait</summary>
+- **<details><summary>wait</summary><blockquote>**
 
   * 
 
 
-</details>
-
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
