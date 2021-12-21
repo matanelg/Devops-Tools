@@ -21,7 +21,6 @@
     }
   }
   ```
-</blockquote></details>
 
 - <details><summary>add-role-to-instance-profile</summary><blockquote>
 
@@ -30,6 +29,9 @@
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
+
+</blockquote></details>
+
 </blockquote></details>
 
 </blockquote></details>
