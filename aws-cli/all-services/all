@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#==================================================================================================================================#
+# This file will get all resources/services, commands/subcommands and options from aws help into files folder #
+#==================================================================================================================================#
+
 mkdir -p files
 mkdir -p files/services_commands
 mkdir -p files/options
