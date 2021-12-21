@@ -1,7 +1,6 @@
 <details><summary>iam</summary><blockquote>
 
-- <details><summary>**add-client-id-to-open-id-connect-provider**</summary><blockquote>
-
+- <span style="color:orange;"><details><summary>add-client-id-to-open-id-connect-provider</summary><blockquote>p</span> 
   * --open-id-connect-provider-arn
   * --client-id
   * --cli-input-json
@@ -21,7 +20,7 @@
     }
   }
   ```
-- **<details><summary>add-role-to-instance-profile</summary><blockquote>**
+- **<details><summary><span style="color:orange;">add-role-to-instance-profile</span></summary><blockquote>**
 
   * --instance-profile-name
   * --role-name
