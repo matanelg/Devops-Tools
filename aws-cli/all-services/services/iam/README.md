@@ -674,13 +674,12 @@ iam
   * --generate-cli-skeleton
 
 
-- <details><summary>get-user</summary>
+- <details><summary>get-user</summary><blockquote>
 
   * --user-name
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
-
 ```bash
 aws iam get-user  
 ```
@@ -696,6 +695,7 @@ aws iam get-user
 }
  
 ```
+</blockquote></details>
 
 - <details><summary>get-user-policy</summary>
 
