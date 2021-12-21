@@ -678,7 +678,7 @@
   * --cli-input-json
   * --cli-input-yaml
   * --generate-cli-skeleton
-  </br>
+  <<br/>
   ```bash
   aws iam get-user
   ```
