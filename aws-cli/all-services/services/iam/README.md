@@ -1,8 +1,4 @@
-<details>
-
-<summary>
-iam
-</summary>
+<details><summary>iam</summary><blockquote>
 
 - <details><summary>add-client-id-to-open-id-connect-provider</summary><blockquote>
 
@@ -38,5 +34,5 @@ iam
 
 </blockquote></details>
 
-</details>
+</blockquote></details>
 
