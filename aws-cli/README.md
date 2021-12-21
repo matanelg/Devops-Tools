@@ -36,10 +36,6 @@ aws <resource> <subcommand> help	# get all next subcommands for this resource co
 aws <resource> <subcommand> <option>	# Using Resources
 ```
 
-- resource
-  - subcommand
-    - option
-
 - accessanalyzer
 - acm
 - acm-pca
