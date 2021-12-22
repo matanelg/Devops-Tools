@@ -14,17 +14,30 @@ $ - end of line.
 
 ```
 
-- Examples
+## Examples
 
 ```bash
-echo "hello world" | sed "s/^/&[/; s/$/&]/;" # [hello world]
-echo "Bash language" | sed  's/\(Bash\)/Learn \1 programming/' # Learn Bash programming language
-echo "Bash language" | sed  's/\(^\)/Learn\1 programming /' # Learn programming Bash language
+echo "hello world" | sed "s/^/&[/; s/$/&]/;"
+# output: [hello world]
+
+echo "Bash language" | sed  's/\(Bash\)/Learn \1 programming/'
+# output: Learn Bash programming language
+
+echo "Bash language" | sed  's/\(^\)/Learn\1 programming /'
+# output: Learn programming Bash language
+
 # return the rest of the line after match
-echo "Bash stalled: language" | sed 's/^.*\(stalled: \)/\1/p' # stalled: language
-echo "hello" | sed "s/\(^.*\)\($\)/[&]/" # [hello]
-echo "hello world" | sed "s/\(^.*\)\($\)/[&]\1 \2/" # [hello world]hello world
-echo "hello world" | sed "s/\(^.*\)/& \1/; s/^/&[/; s/$/&]/" # [hello world hello world]
+echo "Bash stalled: language" | sed 's/^.*\(stalled: \)/\1/p'
+# output: stalled: language
+
+echo "hello" | sed "s/\(^.*\)\($\)/[&]/"
+# output: [hello]
+
+echo "hello world" | sed "s/\(^.*\)\($\)/[&]\1 \2/"
+# output: [hello world]hello world
+
+echo "hello world" | sed "s/\(^.*\)/& \1/; s/^/&[/; s/$/&]/"
+# output: [hello world hello world]
 
 # duplicate string in each line (^.* - put the crosser in end of a string/line. & - add it all)
 echo -e "ERIC-1898\nHELENE-5456\nTHOMAS-54565\nIRON-06516" | sed 's/\(^.*\)/& \1/'
