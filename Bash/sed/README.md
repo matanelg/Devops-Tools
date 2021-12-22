@@ -26,44 +26,31 @@ echo "hello" | sed "s/\(^.*\)\($\)/[&]/" # [hello]
 echo "hello world" | sed "s/\(^.*\)\($\)/[&]\1 \2/" # [hello world]hello world
 echo "hello world" | sed "s/\(^.*\)/& \1/; s/^/&[/; s/$/&]/" # [hello world hello world]
 
-```
-
-```bash
 # duplicate string in each line (^.* - put the crosser in end of a string/line. & - add it all)
 echo -e "ERIC-1898\nHELENE-5456\nTHOMAS-54565\nIRON-06516" | sed 's/\(^.*\)/& \1/'
-```
-```
-ERIC-1898 ERIC-1898
-HELENE-5456 HELENE-5456
-THOMAS-54565 THOMAS-54565
-IRON-06516 IRON-06516
-```
+# output:
+  # ERIC-1898 ERIC-1898
+  # HELENE-5456 HELENE-5456
+  # THOMAS-54565 THOMAS-54565
+  # IRON-06516 IRON-06516
 
-```bash
-.*> - put the crosser where he find char >. \(.*\)<.* - mark all untill char < found. /\1/ - inssert nothing before and after.
+# .*> - put the crosser where he find char >. \(.*\)<.* - mark all untill char < found. /\1/ - inssert nothing before and after.
 echo -e "Martin went shopping at >Wallmart< and lost his wallet\nFrench food >tastes< great" | sed 's/.*>\(.*\)<.*/\1/'
-```
-```
-Wallmart
-tastes
-```
+# output:
+  # Wallmart
+  # tastes
 
-```bash
 echo -e "ERIC-1898\nHELENE-5456\nTHOMAS-54565\nIRON-06516" | sed 's/\(.*-\)\(.*\)/& \1SYSTEM-\2/'
-```
-```
-ERIC-1898 ERIC-SYSTEM-1898
-HELENE-5456 HELENE-SYSTEM-5456
-THOMAS-54565 THOMAS-SYSTEM-54565
-IRON-06516 IRON-SYSTEM-06516
+# output:
+  # ERIC-1898 ERIC-SYSTEM-1898
+  # HELENE-5456 HELENE-SYSTEM-5456
+  # THOMAS-54565 THOMAS-SYSTEM-54565
+  # IRON-06516 IRON-SYSTEM-06516
+
+echo "hello" | sed "s/\(^.*\)\($\)/[&](https:\/\/github.com\/matanelg\/Devops-Tools\/tree\/main\/aws-cli\/all-services\/services\/\1)/"
+# output: [hello](https://github.com/matanelg/Devops-Tools/tree/main/aws-cli/all-services/services/hello)
 ```
 
-```bash
-echo "hello" | sed "s/\(^.*\)\($\)/[&](https:\/\/github.com\/matanelg\/Devops-Tools\/tree\/main\/aws-cli\/all-services\/services\/\1)/"
-```
-```
-[hello](https://github.com/matanelg/Devops-Tools/tree/main/aws-cli/all-services/services/hello)
-```
 
 
 <details>
