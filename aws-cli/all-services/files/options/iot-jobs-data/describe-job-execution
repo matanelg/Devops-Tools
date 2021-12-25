@@ -1,8 +1,0 @@
---job-id
---thing-name
---include-job-document
---no-include-job-document
---execution-number
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

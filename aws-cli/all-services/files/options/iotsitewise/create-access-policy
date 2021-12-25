@@ -1,8 +1,0 @@
---access-policy-identity
---access-policy-resource
---access-policy-permission
---client-token
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

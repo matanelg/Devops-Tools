@@ -1,5 +1,0 @@
---transact-items
---return-consumed-capacity
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

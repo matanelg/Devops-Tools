@@ -1,9 +1,0 @@
---cluster-identifier
---tag-keys
---tag-values
---cli-input-json
---cli-input-yaml
---starting-token
---page-size
---max-items
---generate-cli-skeleton

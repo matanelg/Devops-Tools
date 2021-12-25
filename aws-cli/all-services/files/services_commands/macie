@@ -1,8 +1,0 @@
-associate-member-account
-associate-s3-resources
-disassociate-member-account
-disassociate-s3-resources
-help
-list-member-accounts
-list-s3-resources
-update-s3-resources

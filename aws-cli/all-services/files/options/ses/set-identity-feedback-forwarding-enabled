@@ -1,6 +1,0 @@
---identity
---forwarding-enabled
---no-forwarding-enabled
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,9 +1,0 @@
---name
---description
---kms-key-id
---tags
---federation-mode
---federation-parameters
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

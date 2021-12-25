@@ -1,9 +1,0 @@
---global-table-name
---global-table-billing-mode
---global-table-provisioned-write-capacity-units
---global-table-provisioned-write-capacity-auto-scaling-settings-update
---global-table-global-secondary-index-settings-update
---replica-settings-update
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

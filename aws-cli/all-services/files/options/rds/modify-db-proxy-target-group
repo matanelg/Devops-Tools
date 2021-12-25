@@ -1,7 +1,0 @@
---target-group-name
---db-proxy-name
---connection-pool-config
---new-name
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

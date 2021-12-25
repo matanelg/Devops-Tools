@@ -1,6 +1,0 @@
---delivery-stream-name
---limit
---exclusive-start-destination-id
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

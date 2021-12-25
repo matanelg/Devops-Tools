@@ -1,7 +1,0 @@
---name
---metric-name
---change-token
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

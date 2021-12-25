@@ -1,7 +1,0 @@
---organization-config-rule-name
---organization-managed-rule-metadata
---organization-custom-rule-metadata
---excluded-accounts
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

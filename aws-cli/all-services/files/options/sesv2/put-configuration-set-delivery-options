@@ -1,6 +1,0 @@
---configuration-set-name
---tls-policy
---sending-pool-name
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

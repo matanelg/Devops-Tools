@@ -1,7 +1,0 @@
---anomaly-detector-arn
---kms-key-arn
---anomaly-detector-description
---anomaly-detector-config
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

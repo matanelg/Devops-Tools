@@ -1,8 +1,0 @@
---development-schema-arn
---published-schema-arn
---minor-version
---dry-run
---no-dry-run
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

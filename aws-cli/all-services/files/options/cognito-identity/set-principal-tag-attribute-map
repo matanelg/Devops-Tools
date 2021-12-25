@@ -1,8 +1,0 @@
---identity-pool-id
---identity-provider-name
---use-defaults
---no-use-defaults
---principal-tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

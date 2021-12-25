@@ -1,9 +1,0 @@
---flow-name
---description
---trigger-config
---source-flow-config
---destination-flow-config-list
---tasks
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

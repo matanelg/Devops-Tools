@@ -1,9 +1,0 @@
---broker-id
---console-access
---no-console-access
---groups
---password
---username
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

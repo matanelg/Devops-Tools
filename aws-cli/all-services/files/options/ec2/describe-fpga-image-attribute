@@ -1,7 +1,0 @@
---dry-run
---no-dry-run
---fpga-image-id
---attribute
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

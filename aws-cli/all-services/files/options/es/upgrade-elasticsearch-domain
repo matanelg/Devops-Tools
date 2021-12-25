@@ -1,7 +1,0 @@
---domain-name
---target-version
---perform-check-only
---no-perform-check-only
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

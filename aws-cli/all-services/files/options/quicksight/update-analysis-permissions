@@ -1,7 +1,0 @@
---aws-account-id
---analysis-id
---grant-permissions
---revoke-permissions
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

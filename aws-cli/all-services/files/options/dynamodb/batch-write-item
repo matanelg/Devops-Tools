@@ -1,6 +1,0 @@
---request-items
---return-consumed-capacity
---return-item-collection-metrics
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

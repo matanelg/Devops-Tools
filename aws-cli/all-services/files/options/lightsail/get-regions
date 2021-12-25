@@ -1,7 +1,0 @@
---include-availability-zones
---no-include-availability-zones
---include-relational-database-availability-zones
---no-include-relational-database-availability-zones
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

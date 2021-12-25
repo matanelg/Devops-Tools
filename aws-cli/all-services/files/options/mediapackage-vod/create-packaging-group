@@ -1,7 +1,0 @@
---authorization
---egress-access-logs
---id
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

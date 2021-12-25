@@ -1,9 +1,0 @@
---authentication-token
---resource-id
---version-id
---keys
---delete-all
---no-delete-all
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

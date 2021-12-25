@@ -1,6 +1,0 @@
---cluster-name
---identity-provider-config
---client-request-token
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

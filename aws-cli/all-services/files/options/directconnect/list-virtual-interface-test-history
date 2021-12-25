@@ -1,9 +1,0 @@
---test-id
---virtual-interface-id
---bgp-peers
---status
---max-results
---next-token
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

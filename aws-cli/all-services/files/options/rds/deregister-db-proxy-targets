@@ -1,7 +1,0 @@
---db-proxy-name
---target-group-name
---db-instance-identifiers
---db-cluster-identifiers
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

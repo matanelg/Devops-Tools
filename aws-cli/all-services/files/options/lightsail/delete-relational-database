@@ -1,7 +1,0 @@
---relational-database-name
---skip-final-snapshot
---no-skip-final-snapshot
---final-relational-database-snapshot-name
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

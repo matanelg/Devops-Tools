@@ -1,6 +1,0 @@
---gateway-arn
---average-upload-rate-limit-in-bits-per-sec
---average-download-rate-limit-in-bits-per-sec
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

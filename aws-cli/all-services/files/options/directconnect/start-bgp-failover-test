@@ -1,6 +1,0 @@
---virtual-interface-id
---bgp-peers
---test-duration-in-minutes
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,8 +1,0 @@
---description
---export-to-s3-task
---instance-id
---target-environment
---tag-specifications
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

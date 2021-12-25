@@ -1,8 +1,0 @@
---worker-id
---bonus-amount
---assignment-id
---reason
---unique-request-token
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,8 +1,0 @@
---template-file
---s3-bucket
---s3-prefix
---kms-key-id
---output-template-file
---use-json
---force-upload
---metadata

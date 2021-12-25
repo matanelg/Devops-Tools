@@ -1,7 +1,0 @@
---direct-connect-gateway-id
---gateway-id
---add-allowed-prefixes-to-direct-connect-gateway
---virtual-gateway-id
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

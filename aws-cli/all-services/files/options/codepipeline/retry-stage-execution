@@ -1,7 +1,0 @@
---pipeline-name
---stage-name
---pipeline-execution-id
---retry-mode
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

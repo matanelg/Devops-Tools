@@ -1,7 +1,0 @@
---email-identity
---tags
---dkim-signing-attributes
---configuration-set-name
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

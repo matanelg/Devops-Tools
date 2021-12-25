@@ -1,9 +1,0 @@
---principal
---cognito-identity-pool-id
---auth-infos
---client-id
---policy-names-to-add
---policy-names-to-skip
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

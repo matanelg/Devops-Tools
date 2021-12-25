@@ -1,9 +1,0 @@
---connection-id
---owner-account
---bandwidth
---connection-name
---vlan
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

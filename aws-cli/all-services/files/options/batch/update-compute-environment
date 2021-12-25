@@ -1,7 +1,0 @@
---compute-environment
---state
---compute-resources
---service-role
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,7 +1,0 @@
---snapshot-identifier-list
---manual-snapshot-retention-period
---force
---no-force
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

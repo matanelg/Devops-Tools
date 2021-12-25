@@ -1,6 +1,0 @@
---certificate-authority-arn
---certificate
---certificate-chain
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

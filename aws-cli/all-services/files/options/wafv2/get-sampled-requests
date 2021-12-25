@@ -1,8 +1,0 @@
---web-acl-arn
---rule-metric-name
---scope
---time-window
---max-items
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

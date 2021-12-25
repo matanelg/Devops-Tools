@@ -1,6 +1,0 @@
---fleet-arn
---identity-provider-type
---identity-provider-saml-metadata
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

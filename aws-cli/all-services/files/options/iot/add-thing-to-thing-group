@@ -1,9 +1,0 @@
---thing-group-name
---thing-group-arn
---thing-name
---thing-arn
---override-dynamic-groups
---no-override-dynamic-groups
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

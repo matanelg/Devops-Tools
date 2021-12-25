@@ -1,7 +1,0 @@
---source-option-group-identifier
---target-option-group-identifier
---target-option-group-description
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

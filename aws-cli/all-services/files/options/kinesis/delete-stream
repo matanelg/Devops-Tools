@@ -1,6 +1,0 @@
---stream-name
---enforce-consumer-deletion
---no-enforce-consumer-deletion
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

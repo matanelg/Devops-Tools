@@ -1,7 +1,0 @@
---replication-group-id
---retain-primary-cluster
---no-retain-primary-cluster
---final-snapshot-identifier
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

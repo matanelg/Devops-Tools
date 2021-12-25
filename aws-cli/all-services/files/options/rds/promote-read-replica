@@ -1,6 +1,0 @@
---db-instance-identifier
---backup-retention-period
---preferred-backup-window
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

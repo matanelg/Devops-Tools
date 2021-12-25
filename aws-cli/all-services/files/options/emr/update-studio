@@ -1,8 +1,0 @@
---studio-id
---name
---description
---subnet-ids
---default-s3-location
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

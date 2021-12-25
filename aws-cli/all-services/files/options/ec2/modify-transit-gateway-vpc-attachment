@@ -1,9 +1,0 @@
---transit-gateway-attachment-id
---add-subnet-ids
---remove-subnet-ids
---options
---dry-run
---no-dry-run
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

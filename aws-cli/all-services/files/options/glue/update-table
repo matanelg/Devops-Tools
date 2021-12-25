@@ -1,8 +1,0 @@
---catalog-id
---database-name
---table-input
---skip-archive
---no-skip-archive
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

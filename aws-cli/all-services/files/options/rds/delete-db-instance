@@ -1,9 +1,0 @@
---db-instance-identifier
---skip-final-snapshot
---no-skip-final-snapshot
---final-db-snapshot-identifier
---delete-automated-backups
---no-delete-automated-backups
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

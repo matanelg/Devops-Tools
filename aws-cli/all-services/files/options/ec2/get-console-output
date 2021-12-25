@@ -1,8 +1,0 @@
---instance-id
---dry-run
---no-dry-run
---latest
---no-latest
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

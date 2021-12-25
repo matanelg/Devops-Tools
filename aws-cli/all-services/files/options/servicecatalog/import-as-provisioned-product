@@ -1,9 +1,0 @@
---accept-language
---product-id
---provisioning-artifact-id
---provisioned-product-name
---physical-id
---idempotency-token
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

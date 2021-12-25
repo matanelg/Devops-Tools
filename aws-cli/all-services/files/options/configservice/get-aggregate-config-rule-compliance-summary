@@ -1,8 +1,0 @@
---configuration-aggregator-name
---filters
---group-by-key
---limit
---next-token
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

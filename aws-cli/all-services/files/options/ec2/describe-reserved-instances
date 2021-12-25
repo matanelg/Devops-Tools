@@ -1,9 +1,0 @@
---filters
---offering-class
---reserved-instances-ids
---dry-run
---no-dry-run
---offering-type
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

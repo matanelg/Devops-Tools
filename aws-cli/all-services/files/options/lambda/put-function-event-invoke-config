@@ -1,8 +1,0 @@
---function-name
---qualifier
---maximum-retry-attempts
---maximum-event-age-in-seconds
---destination-config
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

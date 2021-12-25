@@ -1,8 +1,0 @@
---resource-share-arn
---name
---allow-external-principals
---no-allow-external-principals
---client-token
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,7 +1,0 @@
---cluster-identifier
---schedule-identifier
---disassociate-schedule
---no-disassociate-schedule
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

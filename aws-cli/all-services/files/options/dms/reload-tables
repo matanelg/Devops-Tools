@@ -1,6 +1,0 @@
---replication-task-arn
---tables-to-reload
---reload-option
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

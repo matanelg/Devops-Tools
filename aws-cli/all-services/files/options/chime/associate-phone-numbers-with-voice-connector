@@ -1,7 +1,0 @@
---voice-connector-id
---e164-phone-numbers
---force-associate
---no-force-associate
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

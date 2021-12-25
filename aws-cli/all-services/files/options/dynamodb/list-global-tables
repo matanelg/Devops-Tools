@@ -1,6 +1,0 @@
---exclusive-start-global-table-name
---limit
---region-name
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

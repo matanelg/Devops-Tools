@@ -1,9 +1,0 @@
---recovery-point-arn
---source-backup-vault-name
---destination-backup-vault-arn
---iam-role-arn
---idempotency-token
---lifecycle
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

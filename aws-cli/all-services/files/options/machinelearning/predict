@@ -1,6 +1,0 @@
---ml-model-id
---record
---predict-endpoint
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

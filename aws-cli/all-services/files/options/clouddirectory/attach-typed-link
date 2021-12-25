@@ -1,8 +1,0 @@
---directory-arn
---source-object-reference
---target-object-reference
---typed-link-facet
---attributes
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

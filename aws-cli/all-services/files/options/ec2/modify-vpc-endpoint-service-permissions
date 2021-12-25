@@ -1,8 +1,0 @@
---dry-run
---no-dry-run
---service-id
---add-allowed-principals
---remove-allowed-principals
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

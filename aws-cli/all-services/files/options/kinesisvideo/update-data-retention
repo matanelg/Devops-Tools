@@ -1,8 +1,0 @@
---stream-name
---stream-arn
---current-version
---operation
---data-retention-change-in-hours
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

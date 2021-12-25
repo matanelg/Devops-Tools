@@ -1,7 +1,0 @@
---bucket-name
---page-token
---include-connected-resources
---no-include-connected-resources
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

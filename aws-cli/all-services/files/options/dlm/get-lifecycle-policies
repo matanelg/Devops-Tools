@@ -1,8 +1,0 @@
---policy-ids
---state
---resource-types
---target-tags
---tags-to-add
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

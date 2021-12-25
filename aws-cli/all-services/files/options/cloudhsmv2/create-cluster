@@ -1,8 +1,0 @@
---backup-retention-policy
---hsm-type
---source-backup-id
---subnet-ids
---tag-list
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

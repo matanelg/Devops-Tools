@@ -1,6 +1,0 @@
---sql-injection-match-set-id
---change-token
---updates
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

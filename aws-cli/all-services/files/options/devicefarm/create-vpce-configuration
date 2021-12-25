@@ -1,7 +1,0 @@
---vpce-configuration-name
---vpce-service-name
---service-dns-name
---vpce-configuration-description
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

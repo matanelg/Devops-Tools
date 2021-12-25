@@ -1,8 +1,0 @@
---aws-account-id
---analysis-id
---recovery-window-in-days
---force-delete-without-recovery
---no-force-delete-without-recovery
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

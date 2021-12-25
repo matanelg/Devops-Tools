@@ -1,8 +1,0 @@
---name
---provider-type
---provider-endpoint
---vpc-configuration
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

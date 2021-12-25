@@ -1,7 +1,0 @@
---source-db-parameter-group-identifier
---target-db-parameter-group-identifier
---target-db-parameter-group-description
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

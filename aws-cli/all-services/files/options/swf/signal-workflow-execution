@@ -1,8 +1,0 @@
---domain
---workflow-id
---run-id
---signal-name
---input
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,7 +1,0 @@
---datastore-name
---retention-period
---datastore-storage
---file-format-configuration
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

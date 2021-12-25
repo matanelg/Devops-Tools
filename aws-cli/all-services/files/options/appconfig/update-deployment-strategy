@@ -1,9 +1,0 @@
---deployment-strategy-id
---description
---deployment-duration-in-minutes
---final-bake-time-in-minutes
---growth-factor
---growth-type
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

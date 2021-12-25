@@ -1,8 +1,0 @@
---accelerator-arn
---flow-logs-enabled
---no-flow-logs-enabled
---flow-logs-s3-bucket
---flow-logs-s3-prefix
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

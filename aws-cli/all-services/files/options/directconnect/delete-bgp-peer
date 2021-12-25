@@ -1,7 +1,0 @@
---virtual-interface-id
---asn
---customer-address
---bgp-peer-id
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

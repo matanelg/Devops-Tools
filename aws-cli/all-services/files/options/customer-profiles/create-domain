@@ -1,9 +1,0 @@
---domain-name
---default-expiration-days
---default-encryption-key
---dead-letter-queue-url
---matching
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

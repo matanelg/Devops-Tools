@@ -1,6 +1,0 @@
---names
---with-decryption
---no-with-decryption
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

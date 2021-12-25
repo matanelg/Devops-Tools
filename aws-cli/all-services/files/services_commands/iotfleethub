@@ -1,9 +1,0 @@
-create-application
-delete-application
-describe-application
-help
-list-applications
-list-tags-for-resource
-tag-resource
-untag-resource
-update-application

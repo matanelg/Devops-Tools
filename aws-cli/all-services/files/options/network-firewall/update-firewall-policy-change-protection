@@ -1,8 +1,0 @@
---update-token
---firewall-arn
---firewall-name
---firewall-policy-change-protection
---no-firewall-policy-change-protection
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

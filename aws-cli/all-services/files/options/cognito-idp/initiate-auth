@@ -1,9 +1,0 @@
---auth-flow
---auth-parameters
---client-metadata
---client-id
---analytics-metadata
---user-context-data
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

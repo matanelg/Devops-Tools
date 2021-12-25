@@ -1,9 +1,0 @@
---project-name
---description
---client-token
---output-config
---kms-key-id
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

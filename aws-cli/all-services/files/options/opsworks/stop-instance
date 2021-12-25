@@ -1,6 +1,0 @@
---instance-id
---force
---no-force
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

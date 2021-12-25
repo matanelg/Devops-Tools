@@ -1,8 +1,0 @@
---transit-gateway-multicast-domain-id
---group-ip-address
---network-interface-ids
---dry-run
---no-dry-run
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

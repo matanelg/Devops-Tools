@@ -1,7 +1,0 @@
---name
---aws-region
---require-encryption
---no-require-encryption
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

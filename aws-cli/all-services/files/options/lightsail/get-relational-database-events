@@ -1,7 +1,0 @@
---relational-database-name
---duration-in-minutes
---cli-input-json
---cli-input-yaml
---starting-token
---max-items
---generate-cli-skeleton

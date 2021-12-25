@@ -1,9 +1,0 @@
---pipeline-id
---object-ids
---evaluate-expressions
---no-evaluate-expressions
---cli-input-json
---cli-input-yaml
---starting-token
---max-items
---generate-cli-skeleton

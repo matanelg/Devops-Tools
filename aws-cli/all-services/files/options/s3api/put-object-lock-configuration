@@ -1,9 +1,0 @@
---bucket
---object-lock-configuration
---request-payer
---token
---content-md5
---expected-bucket-owner
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

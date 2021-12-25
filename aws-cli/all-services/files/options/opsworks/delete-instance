@@ -1,8 +1,0 @@
---instance-id
---delete-elastic-ip
---no-delete-elastic-ip
---delete-volumes
---no-delete-volumes
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

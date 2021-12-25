@@ -1,7 +1,0 @@
---name
---tags
---client-request-token
---lorawan
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

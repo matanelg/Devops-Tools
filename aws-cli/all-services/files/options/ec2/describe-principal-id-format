@@ -1,9 +1,0 @@
---dry-run
---no-dry-run
---resources
---cli-input-json
---cli-input-yaml
---starting-token
---page-size
---max-items
---generate-cli-skeleton

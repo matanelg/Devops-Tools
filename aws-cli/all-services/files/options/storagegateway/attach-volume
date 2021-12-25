@@ -1,8 +1,0 @@
---gateway-arn
---target-name
---volume-arn
---network-interface-id
---disk-id
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

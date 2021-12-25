@@ -1,7 +1,0 @@
---web-acl-id
---s3-bucket-name
---ignore-unsupported-type
---no-ignore-unsupported-type
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

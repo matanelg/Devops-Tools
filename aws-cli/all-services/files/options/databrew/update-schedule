@@ -1,6 +1,0 @@
---job-names
---cron-expression
---name
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

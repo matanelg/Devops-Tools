@@ -1,8 +1,0 @@
---service-update-name
---service-update-status
---cli-input-json
---cli-input-yaml
---starting-token
---page-size
---max-items
---generate-cli-skeleton

@@ -1,6 +1,0 @@
---policy-id
---delete-all-policy-resources
---no-delete-all-policy-resources
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

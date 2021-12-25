@@ -1,9 +1,0 @@
---description
---default-instance-name
---iam-role
---registration-limit
---expiration-date
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

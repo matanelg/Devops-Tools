@@ -1,9 +1,0 @@
---role-arn
---principal-arn
---saml-assertion
---policy-arns
---policy
---duration-seconds
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

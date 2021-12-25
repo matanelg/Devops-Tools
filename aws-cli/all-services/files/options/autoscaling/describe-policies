@@ -1,9 +1,0 @@
---auto-scaling-group-name
---policy-names
---policy-types
---cli-input-json
---cli-input-yaml
---starting-token
---page-size
---max-items
---generate-cli-skeleton

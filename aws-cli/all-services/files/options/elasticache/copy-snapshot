@@ -1,8 +1,0 @@
---source-snapshot-name
---target-snapshot-name
---target-bucket
---kms-key-id
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

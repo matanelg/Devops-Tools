@@ -1,9 +1,0 @@
---endpoint-group-arn
---endpoint-id
---destination-addresses
---destination-ports
---deny-all-traffic-to-endpoint
---no-deny-all-traffic-to-endpoint
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

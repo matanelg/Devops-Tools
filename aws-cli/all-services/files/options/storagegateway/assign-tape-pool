@@ -1,7 +1,0 @@
---tape-arn
---pool-id
---bypass-governance-retention
---no-bypass-governance-retention
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

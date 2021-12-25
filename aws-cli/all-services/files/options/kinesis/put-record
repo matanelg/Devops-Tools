@@ -1,8 +1,0 @@
---stream-name
---data
---partition-key
---explicit-hash-key
---sequence-number-for-ordering
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

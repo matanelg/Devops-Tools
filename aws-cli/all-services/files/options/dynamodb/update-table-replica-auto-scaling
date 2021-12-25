@@ -1,7 +1,0 @@
---global-secondary-index-updates
---table-name
---provisioned-write-capacity-auto-scaling-update
---replica-updates
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

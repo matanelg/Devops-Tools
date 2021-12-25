@@ -1,9 +1,0 @@
---environment-id
---environment-name
---terminate-resources
---no-terminate-resources
---force-terminate
---no-force-terminate
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

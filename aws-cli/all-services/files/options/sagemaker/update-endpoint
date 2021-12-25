@@ -1,9 +1,0 @@
---endpoint-name
---endpoint-config-name
---retain-all-variant-properties
---no-retain-all-variant-properties
---exclude-retained-variant-properties
---deployment-config
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

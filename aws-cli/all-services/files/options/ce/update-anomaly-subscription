@@ -1,9 +1,0 @@
---subscription-arn
---threshold
---frequency
---monitor-arn-list
---subscribers
---subscription-name
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

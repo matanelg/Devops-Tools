@@ -1,6 +1,0 @@
---cluster-identifier
---bucket-name
---s3-key-prefix
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

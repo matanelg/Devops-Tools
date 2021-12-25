@@ -1,8 +1,0 @@
---dataset-name
---dataset-schema
---server-side-kms-key-id
---client-token
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,8 +1,0 @@
---certificate-arn
---certificate
---private-key
---certificate-chain
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

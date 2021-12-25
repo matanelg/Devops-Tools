@@ -1,9 +1,0 @@
---source-image
---target-image
---similarity-threshold
---quality-filter
---source-image-bytes
---target-image-bytes
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

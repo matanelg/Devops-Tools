@@ -1,6 +1,0 @@
---work-group
---recursive-delete-option
---no-recursive-delete-option
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,9 +1,0 @@
---auto-scaling-group-name
---policy-name
---honor-cooldown
---no-honor-cooldown
---metric-value
---breach-threshold
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

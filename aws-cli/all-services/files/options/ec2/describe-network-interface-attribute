@@ -1,7 +1,0 @@
---attribute
---dry-run
---no-dry-run
---network-interface-id
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

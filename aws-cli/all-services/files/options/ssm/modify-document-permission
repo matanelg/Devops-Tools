@@ -1,8 +1,0 @@
---name
---permission-type
---account-ids-to-add
---account-ids-to-remove
---shared-document-version
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

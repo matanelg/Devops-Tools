@@ -1,7 +1,0 @@
---secret-id
---resource-policy
---block-public-policy
---no-block-public-policy
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

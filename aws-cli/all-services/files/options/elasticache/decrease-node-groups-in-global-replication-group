@@ -1,9 +1,0 @@
---global-replication-group-id
---node-group-count
---global-node-groups-to-remove
---global-node-groups-to-retain
---apply-immediately
---no-apply-immediately
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

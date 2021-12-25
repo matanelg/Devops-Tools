@@ -1,9 +1,0 @@
---voice-connector-id
---default-session-expiry-minutes
---phone-number-pool-countries
---fall-back-phone-number
---disabled
---no-disabled
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

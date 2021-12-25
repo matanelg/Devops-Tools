@@ -1,6 +1,0 @@
---job-name
---user-pool-id
---cloud-watch-logs-role-arn
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

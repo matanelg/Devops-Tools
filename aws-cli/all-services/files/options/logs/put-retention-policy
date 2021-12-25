@@ -1,5 +1,0 @@
---log-group-name
---retention-in-days
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

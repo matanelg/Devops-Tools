@@ -1,6 +1,0 @@
---stream-name
---exclusive-start-tag-key
---limit
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

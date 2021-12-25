@@ -1,9 +1,0 @@
---aws-account-id
---assignment-name
---namespace
---assignment-status
---policy-arn
---identities
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,6 +1,0 @@
---queue-url
---receipt-handle
---visibility-timeout
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

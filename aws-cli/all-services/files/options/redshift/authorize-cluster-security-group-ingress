@@ -1,7 +1,0 @@
---cluster-security-group-name
---cidrip
---ec2-security-group-name
---ec2-security-group-owner-id
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

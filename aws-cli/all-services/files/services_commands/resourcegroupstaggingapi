@@ -1,9 +1,0 @@
-describe-report-creation
-get-compliance-summary
-get-resources
-get-tag-keys
-get-tag-values
-help
-start-report-creation
-tag-resources
-untag-resources

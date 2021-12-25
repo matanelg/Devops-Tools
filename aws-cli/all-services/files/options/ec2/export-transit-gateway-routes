@@ -1,8 +1,0 @@
---transit-gateway-route-table-id
---filters
---s3-bucket
---dry-run
---no-dry-run
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

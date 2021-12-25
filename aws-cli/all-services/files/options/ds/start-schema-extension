@@ -1,8 +1,0 @@
---directory-id
---create-snapshot-before-schema-extension
---no-create-snapshot-before-schema-extension
---ldif-content
---description
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

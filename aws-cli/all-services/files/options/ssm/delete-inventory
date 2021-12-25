@@ -1,8 +1,0 @@
---type-name
---schema-delete-option
---dry-run
---no-dry-run
---client-token
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

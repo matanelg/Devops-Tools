@@ -1,7 +1,0 @@
---policy-name
---service-namespace
---resource-id
---scalable-dimension
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

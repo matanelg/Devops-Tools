@@ -1,5 +1,0 @@
---stream-name
---retention-period-hours
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

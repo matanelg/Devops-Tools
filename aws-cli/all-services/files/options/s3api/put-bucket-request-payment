@@ -1,7 +1,0 @@
---bucket
---content-md5
---request-payment-configuration
---expected-bucket-owner
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

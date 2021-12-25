@@ -1,9 +1,0 @@
---replay-name
---description
---event-source-arn
---event-start-time
---event-end-time
---destination
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,9 +1,0 @@
---certificate-id
---new-status
---new-auto-registration-status
---registration-config
---remove-auto-registration
---no-remove-auto-registration
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

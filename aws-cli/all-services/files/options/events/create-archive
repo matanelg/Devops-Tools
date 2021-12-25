@@ -1,8 +1,0 @@
---archive-name
---event-source-arn
---description
---event-pattern
---retention-days
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

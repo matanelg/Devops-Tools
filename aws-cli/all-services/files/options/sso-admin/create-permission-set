@@ -1,9 +1,0 @@
---name
---description
---instance-arn
---session-duration
---relay-state
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

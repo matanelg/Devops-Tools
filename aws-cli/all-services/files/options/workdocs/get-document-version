@@ -1,9 +1,0 @@
---authentication-token
---document-id
---version-id
---fields
---include-custom-metadata
---no-include-custom-metadata
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

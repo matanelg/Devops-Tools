@@ -1,6 +1,0 @@
---fleet-id
---inbound-permission-authorizations
---inbound-permission-revocations
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

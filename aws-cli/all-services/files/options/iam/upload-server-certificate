@@ -1,9 +1,0 @@
---path
---server-certificate-name
---certificate-body
---private-key
---certificate-chain
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

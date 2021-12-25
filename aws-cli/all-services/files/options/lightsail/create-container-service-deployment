@@ -1,6 +1,0 @@
---service-name
---containers
---public-endpoint
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

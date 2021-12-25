@@ -1,8 +1,0 @@
---frequency
---day-of-month
---day-of-week
---target-check-names
---scheduled-audit-name
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

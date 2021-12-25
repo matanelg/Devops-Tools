@@ -1,7 +1,0 @@
---pipeline-name
---stage-name
---action-name
---action-revision
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

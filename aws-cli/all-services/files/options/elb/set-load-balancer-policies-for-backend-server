@@ -1,6 +1,0 @@
---load-balancer-name
---instance-port
---policy-names
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

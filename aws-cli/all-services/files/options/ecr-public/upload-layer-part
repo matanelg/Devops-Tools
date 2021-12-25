@@ -1,9 +1,0 @@
---registry-id
---repository-name
---upload-id
---part-first-byte
---part-last-byte
---layer-part-blob
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

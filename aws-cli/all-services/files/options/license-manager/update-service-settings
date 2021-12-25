@@ -1,8 +1,0 @@
---s3-bucket-arn
---sns-topic-arn
---organization-configuration
---enable-cross-accounts-discovery
---no-enable-cross-accounts-discovery
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

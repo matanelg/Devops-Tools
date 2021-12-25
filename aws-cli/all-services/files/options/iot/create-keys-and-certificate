@@ -1,8 +1,0 @@
---set-as-active
---no-set-as-active
---certificate-pem-outfile
---public-key-outfile
---private-key-outfile
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

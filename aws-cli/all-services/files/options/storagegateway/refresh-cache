@@ -1,7 +1,0 @@
---file-share-arn
---folder-list
---recursive
---no-recursive
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

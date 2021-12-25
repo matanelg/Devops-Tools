@@ -1,7 +1,0 @@
---stream-arn
---shard-id
---shard-iterator-type
---sequence-number
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

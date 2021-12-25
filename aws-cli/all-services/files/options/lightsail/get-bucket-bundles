@@ -1,5 +1,0 @@
---include-inactive
---no-include-inactive
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

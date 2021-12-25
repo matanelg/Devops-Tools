@@ -1,7 +1,0 @@
---policy-name
---policy-document
---set-as-default
---no-set-as-default
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,9 +1,0 @@
---id
---name
---index-id
---description
---role-arn
---source-s3-path
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

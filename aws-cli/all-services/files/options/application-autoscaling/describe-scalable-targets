@@ -1,9 +1,0 @@
---service-namespace
---resource-ids
---scalable-dimension
---cli-input-json
---cli-input-yaml
---starting-token
---page-size
---max-items
---generate-cli-skeleton

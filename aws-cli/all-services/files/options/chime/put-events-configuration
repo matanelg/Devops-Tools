@@ -1,7 +1,0 @@
---account-id
---bot-id
---outbound-events-https-endpoint
---lambda-function-arn
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

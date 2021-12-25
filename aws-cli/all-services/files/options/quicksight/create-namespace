@@ -1,7 +1,0 @@
---aws-account-id
---namespace
---identity-store
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,9 +1,0 @@
---db-proxy-name
---db-proxy-endpoint-name
---vpc-subnet-ids
---vpc-security-group-ids
---target-role
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

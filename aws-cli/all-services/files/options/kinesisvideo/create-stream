@@ -1,9 +1,0 @@
---device-name
---stream-name
---media-type
---kms-key-id
---data-retention-in-hours
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

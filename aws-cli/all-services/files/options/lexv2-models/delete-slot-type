@@ -1,9 +1,0 @@
---slot-type-id
---bot-id
---bot-version
---locale-id
---skip-resource-in-use-check
---no-skip-resource-in-use-check
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

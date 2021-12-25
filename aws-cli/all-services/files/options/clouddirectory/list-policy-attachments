@@ -1,9 +1,0 @@
---directory-arn
---policy-reference
---consistency-level
---cli-input-json
---cli-input-yaml
---starting-token
---page-size
---max-items
---generate-cli-skeleton

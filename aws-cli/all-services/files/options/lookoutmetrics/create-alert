@@ -1,9 +1,0 @@
---alert-name
---alert-sensitivity-threshold
---alert-description
---anomaly-detector-arn
---action
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,9 +1,0 @@
---hosted-zone-id
---record-name
---record-type
---resolver-ip
---edns0-client-subnet-ip
---edns0-client-subnet-mask
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

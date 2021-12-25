@@ -1,9 +1,0 @@
---application-id
---configuration-profile-id
---name
---description
---retrieval-role-arn
---validators
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

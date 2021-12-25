@@ -1,7 +1,0 @@
---billing-group-name
---billing-group-arn
---thing-name
---thing-arn
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

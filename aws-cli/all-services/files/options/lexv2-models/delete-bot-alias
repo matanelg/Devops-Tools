@@ -1,7 +1,0 @@
---bot-alias-id
---bot-id
---skip-resource-in-use-check
---no-skip-resource-in-use-check
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,7 +1,0 @@
---cluster-identifier
---retention-period
---manual
---no-manual
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

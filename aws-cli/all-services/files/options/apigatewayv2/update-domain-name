@@ -1,6 +1,0 @@
---domain-name
---domain-name-configurations
---mutual-tls-authentication
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

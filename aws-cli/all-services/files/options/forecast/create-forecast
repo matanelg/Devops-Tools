@@ -1,7 +1,0 @@
---forecast-name
---predictor-arn
---forecast-types
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

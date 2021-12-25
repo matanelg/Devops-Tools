@@ -1,6 +1,0 @@
---rule-group-name
---rule-group-arn
---type
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

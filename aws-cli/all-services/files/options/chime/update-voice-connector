@@ -1,7 +1,0 @@
---voice-connector-id
---name
---require-encryption
---no-require-encryption
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

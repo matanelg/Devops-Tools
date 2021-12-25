@@ -1,7 +1,0 @@
---stack-name
---role-arn
---resources-to-skip
---client-request-token
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

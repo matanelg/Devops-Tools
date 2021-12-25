@@ -1,5 +1,0 @@
---load-balancer-name
---health-check
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

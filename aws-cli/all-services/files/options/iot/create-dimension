@@ -1,8 +1,0 @@
---name
---type
---string-values
---tags
---client-request-token
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

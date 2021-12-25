@@ -1,9 +1,0 @@
---bucket
---key
---multipart-upload
---upload-id
---request-payer
---expected-bucket-owner
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

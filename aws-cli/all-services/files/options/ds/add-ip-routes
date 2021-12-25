@@ -1,7 +1,0 @@
---directory-id
---ip-routes
---update-security-group-for-directory-controllers
---no-update-security-group-for-directory-controllers
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,8 +1,0 @@
---namespace
---metric-name
---dimensions
---stat
---configuration
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

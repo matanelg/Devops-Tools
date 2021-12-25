@@ -1,8 +1,0 @@
---account-id
---bucket
---confirm-remove-self-bucket-access
---no-confirm-remove-self-bucket-access
---policy
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,6 +1,0 @@
---rds-db-instance-arn
---db-user
---db-password
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

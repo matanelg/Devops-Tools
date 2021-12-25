@@ -1,9 +1,0 @@
---alias
---display-name
---type
---plan
---tags
---idempotency-token
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

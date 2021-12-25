@@ -1,6 +1,0 @@
---status
---include-member-accounts
---no-include-member-accounts
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

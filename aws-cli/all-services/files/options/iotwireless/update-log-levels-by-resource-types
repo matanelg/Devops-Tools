@@ -1,6 +1,0 @@
---default-log-level
---wireless-device-log-options
---wireless-gateway-log-options
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

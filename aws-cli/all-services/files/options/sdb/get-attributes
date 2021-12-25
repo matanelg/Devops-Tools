@@ -1,8 +1,0 @@
---domain-name
---item-name
---attribute-names
---consistent-read
---no-consistent-read
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

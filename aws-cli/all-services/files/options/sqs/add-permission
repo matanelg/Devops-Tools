@@ -1,7 +1,0 @@
---queue-url
---label
---aws-account-ids
---actions
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

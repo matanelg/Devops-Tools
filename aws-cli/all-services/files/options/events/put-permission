@@ -1,9 +1,0 @@
---event-bus-name
---action
---principal
---statement-id
---condition
---policy
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,7 +1,0 @@
---cluster-name
---new-replication-factor
---availability-zones
---node-ids-to-remove
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

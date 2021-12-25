@@ -1,9 +1,0 @@
---name
---scope
---id
---description
---regular-expression-list
---lock-token
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

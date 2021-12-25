@@ -1,9 +1,0 @@
---thing-name
---thing-type-name
---attribute-payload
---expected-version
---remove-thing-type
---no-remove-thing-type
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

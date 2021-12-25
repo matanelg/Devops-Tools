@@ -1,8 +1,0 @@
---domain
---start-time-filter
---type-filter
---tag-filter
---execution-filter
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,9 +1,0 @@
---domain
---workflow-id
---run-id
---reason
---details
---child-policy
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

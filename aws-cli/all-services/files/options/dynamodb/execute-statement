@@ -1,8 +1,0 @@
---statement
---parameters
---consistent-read
---no-consistent-read
---next-token
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

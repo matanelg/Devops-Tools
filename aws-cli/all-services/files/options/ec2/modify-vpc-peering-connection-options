@@ -1,8 +1,0 @@
---accepter-peering-connection-options
---dry-run
---no-dry-run
---requester-peering-connection-options
---vpc-peering-connection-id
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

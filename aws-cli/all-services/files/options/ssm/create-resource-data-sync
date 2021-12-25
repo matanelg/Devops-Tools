@@ -1,7 +1,0 @@
---sync-name
---s3-destination
---sync-type
---sync-source
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

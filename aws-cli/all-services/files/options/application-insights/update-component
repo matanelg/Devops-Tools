@@ -1,7 +1,0 @@
---resource-group-name
---component-name
---new-component-name
---resource-list
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

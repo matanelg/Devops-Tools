@@ -1,9 +1,0 @@
---global-replication-group-id
---show-member-info
---no-show-member-info
---cli-input-json
---cli-input-yaml
---starting-token
---page-size
---max-items
---generate-cli-skeleton

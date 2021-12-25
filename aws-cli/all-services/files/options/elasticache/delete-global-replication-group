@@ -1,6 +1,0 @@
---global-replication-group-id
---retain-primary-replication-group
---no-retain-primary-replication-group
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

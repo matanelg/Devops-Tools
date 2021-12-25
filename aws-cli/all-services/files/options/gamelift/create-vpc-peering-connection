@@ -1,6 +1,0 @@
---fleet-id
---peer-vpc-aws-account-id
---peer-vpc-id
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

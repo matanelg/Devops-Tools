@@ -1,8 +1,0 @@
---time-period
---metric
---granularity
---filter
---prediction-interval-level
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

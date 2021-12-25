@@ -1,6 +1,0 @@
---global-replication-group-id
---apply-immediately
---no-apply-immediately
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

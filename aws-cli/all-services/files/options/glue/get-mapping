@@ -1,6 +1,0 @@
---source
---sinks
---location
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

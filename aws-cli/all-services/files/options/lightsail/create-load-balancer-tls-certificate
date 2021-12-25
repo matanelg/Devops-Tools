@@ -1,8 +1,0 @@
---load-balancer-name
---certificate-name
---certificate-domain-name
---certificate-alternative-names
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

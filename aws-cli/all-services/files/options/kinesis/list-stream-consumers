@@ -1,8 +1,0 @@
---stream-arn
---stream-creation-timestamp
---cli-input-json
---cli-input-yaml
---starting-token
---page-size
---max-items
---generate-cli-skeleton

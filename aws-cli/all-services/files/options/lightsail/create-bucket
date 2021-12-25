@@ -1,8 +1,0 @@
---bucket-name
---bundle-id
---tags
---enable-object-versioning
---no-enable-object-versioning
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

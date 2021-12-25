@@ -1,7 +1,0 @@
---global-cluster-identifier
---new-global-cluster-identifier
---deletion-protection
---no-deletion-protection
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

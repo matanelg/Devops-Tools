@@ -1,7 +1,0 @@
---detector-id
---auto-enable
---no-auto-enable
---data-sources
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

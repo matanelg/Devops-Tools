@@ -1,9 +1,0 @@
---subdirectory
---s3-bucket-arn
---s3-storage-class
---s3-config
---agent-arns
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

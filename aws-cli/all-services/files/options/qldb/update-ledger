@@ -1,6 +1,0 @@
---name
---deletion-protection
---no-deletion-protection
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

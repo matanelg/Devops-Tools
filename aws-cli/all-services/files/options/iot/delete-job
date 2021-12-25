@@ -1,7 +1,0 @@
---job-id
---force
---no-force
---namespace-id
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

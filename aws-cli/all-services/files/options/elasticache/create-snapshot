@@ -1,8 +1,0 @@
---replication-group-id
---cache-cluster-id
---snapshot-name
---kms-key-id
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

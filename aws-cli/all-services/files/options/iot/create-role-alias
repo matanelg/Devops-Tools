@@ -1,7 +1,0 @@
---role-alias
---role-arn
---credential-duration-seconds
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

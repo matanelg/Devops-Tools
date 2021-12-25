@@ -1,9 +1,0 @@
---dry-run
---no-dry-run
---name
---instance-event-window-id
---time-ranges
---cron-expression
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,9 +1,0 @@
---registry-id
---repository-name
---image-manifest
---image-manifest-media-type
---image-tag
---image-digest
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

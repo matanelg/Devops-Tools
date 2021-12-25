@@ -1,7 +1,0 @@
---resource-arn
---use-service-linked-role
---no-use-service-linked-role
---role-arn
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

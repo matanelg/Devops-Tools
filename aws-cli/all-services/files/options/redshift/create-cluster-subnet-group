@@ -1,7 +1,0 @@
---cluster-subnet-group-name
---description
---subnet-ids
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

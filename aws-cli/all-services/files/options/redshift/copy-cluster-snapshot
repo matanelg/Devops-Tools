@@ -1,7 +1,0 @@
---source-snapshot-identifier
---source-snapshot-cluster-identifier
---target-snapshot-identifier
---manual-snapshot-retention-period
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

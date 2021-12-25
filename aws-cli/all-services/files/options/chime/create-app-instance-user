@@ -1,9 +1,0 @@
---app-instance-arn
---app-instance-user-id
---name
---metadata
---client-request-token
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

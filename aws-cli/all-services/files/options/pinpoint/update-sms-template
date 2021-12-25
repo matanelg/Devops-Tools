@@ -1,8 +1,0 @@
---create-new-version
---no-create-new-version
---sms-template-request
---template-name
---template-version
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

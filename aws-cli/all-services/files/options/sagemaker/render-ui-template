@@ -1,7 +1,0 @@
---ui-template
---task
---role-arn
---human-task-ui-arn
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

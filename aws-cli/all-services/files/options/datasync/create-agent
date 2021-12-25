@@ -1,9 +1,0 @@
---activation-key
---agent-name
---tags
---vpc-endpoint-id
---subnet-arns
---security-group-arns
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

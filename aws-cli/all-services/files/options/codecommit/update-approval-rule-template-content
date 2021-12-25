@@ -1,6 +1,0 @@
---approval-rule-template-name
---new-rule-content
---existing-rule-content-sha256
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,6 +1,0 @@
---cluster
---container-instances
---status
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,6 +1,0 @@
---arn
---name
---default-job-timeout-minutes
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

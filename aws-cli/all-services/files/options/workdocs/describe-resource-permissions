@@ -1,9 +1,0 @@
---authentication-token
---resource-id
---principal-id
---cli-input-json
---cli-input-yaml
---starting-token
---page-size
---max-items
---generate-cli-skeleton

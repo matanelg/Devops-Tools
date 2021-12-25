@@ -1,9 +1,0 @@
---authorizer-name
---token
---token-signature
---http-context
---mqtt-context
---tls-context
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

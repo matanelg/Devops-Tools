@@ -1,8 +1,0 @@
---cluster-identifier
---destination-region
---retention-period
---snapshot-copy-grant-name
---manual-snapshot-retention-period
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

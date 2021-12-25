@@ -1,8 +1,0 @@
---name-prefix
---state
---event-source-arn
---next-token
---limit
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

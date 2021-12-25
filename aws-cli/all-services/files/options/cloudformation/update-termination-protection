@@ -1,6 +1,0 @@
---enable-termination-protection
---no-enable-termination-protection
---stack-name
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

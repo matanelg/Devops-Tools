@@ -1,9 +1,0 @@
---cluster
---container
---command
---interactive
---non-interactive
---task
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

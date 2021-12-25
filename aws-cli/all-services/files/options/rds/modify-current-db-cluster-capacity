@@ -1,7 +1,0 @@
---db-cluster-identifier
---capacity
---seconds-before-timeout
---timeout-action
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

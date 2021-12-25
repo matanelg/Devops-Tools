@@ -1,6 +1,0 @@
---global-replication-group-id
---primary-region
---primary-replication-group-id
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

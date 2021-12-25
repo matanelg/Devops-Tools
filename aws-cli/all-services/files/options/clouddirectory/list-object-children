@@ -1,8 +1,0 @@
---directory-arn
---object-reference
---next-token
---max-results
---consistency-level
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

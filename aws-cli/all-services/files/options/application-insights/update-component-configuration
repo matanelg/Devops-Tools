@@ -1,9 +1,0 @@
---resource-group-name
---component-name
---monitor
---no-monitor
---tier
---component-configuration
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,9 +1,0 @@
---device-index
---dry-run
---no-dry-run
---instance-id
---network-interface-id
---network-card-index
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

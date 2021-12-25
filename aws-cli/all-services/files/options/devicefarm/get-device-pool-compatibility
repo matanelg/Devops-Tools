@@ -1,8 +1,0 @@
---device-pool-arn
---app-arn
---test-type
---test
---configuration
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

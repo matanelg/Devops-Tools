@@ -1,6 +1,0 @@
---cluster-name
---new-replication-factor
---availability-zones
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

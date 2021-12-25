@@ -1,7 +1,0 @@
---predictor-backtest-export-job-name
---predictor-arn
---destination
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

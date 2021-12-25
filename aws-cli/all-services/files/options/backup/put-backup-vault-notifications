@@ -1,6 +1,0 @@
---backup-vault-name
---sns-topic-arn
---backup-vault-events
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

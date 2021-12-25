@@ -1,7 +1,0 @@
---application-name
---version-label
---delete-source-bundle
---no-delete-source-bundle
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,7 +1,0 @@
---scope
---web-acl-name
---web-acl-id
---rule-name
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

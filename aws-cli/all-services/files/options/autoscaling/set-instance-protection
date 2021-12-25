@@ -1,7 +1,0 @@
---instance-ids
---auto-scaling-group-name
---protected-from-scale-in
---no-protected-from-scale-in
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

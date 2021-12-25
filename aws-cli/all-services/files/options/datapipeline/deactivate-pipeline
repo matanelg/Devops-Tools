@@ -1,6 +1,0 @@
---pipeline-id
---cancel-active
---no-cancel-active
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

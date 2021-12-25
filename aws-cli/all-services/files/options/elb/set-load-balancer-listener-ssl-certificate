@@ -1,6 +1,0 @@
---load-balancer-name
---load-balancer-port
---ssl-certificate-id
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

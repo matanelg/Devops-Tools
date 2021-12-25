@@ -1,8 +1,0 @@
---app-id
---force-stop-app-replication
---no-force-stop-app-replication
---force-terminate-app
---no-force-terminate-app
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

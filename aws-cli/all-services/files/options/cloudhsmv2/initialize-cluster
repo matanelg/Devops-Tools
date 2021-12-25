@@ -1,6 +1,0 @@
---cluster-id
---signed-cert
---trust-anchor
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

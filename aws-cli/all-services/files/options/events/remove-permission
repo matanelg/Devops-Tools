@@ -1,7 +1,0 @@
---statement-id
---remove-all-permissions
---no-remove-all-permissions
---event-bus-name
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

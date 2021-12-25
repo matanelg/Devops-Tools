@@ -1,9 +1,0 @@
---app-id
---backend-environment-name
---identity-pool-id
---native-client-id
---user-pool-id
---web-client-id
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,9 +1,0 @@
---cluster-name
---tags
---settings
---configuration
---capacity-providers
---default-capacity-provider-strategy
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

@@ -1,9 +1,0 @@
---disable-automated-backup
---no-disable-automated-backup
---backup-retention-count
---server-name
---preferred-maintenance-window
---preferred-backup-window
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

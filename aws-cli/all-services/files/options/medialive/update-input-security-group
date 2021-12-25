@@ -1,6 +1,0 @@
---input-security-group-id
---tags
---whitelist-rules
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

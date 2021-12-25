@@ -1,9 +1,0 @@
---name
---description
---event-filter
---event-bridge-bus
---client-token
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

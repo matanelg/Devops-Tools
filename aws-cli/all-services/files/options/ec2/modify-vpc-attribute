@@ -1,8 +1,0 @@
---enable-dns-hostnames
---no-enable-dns-hostnames
---enable-dns-support
---no-enable-dns-support
---vpc-id
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

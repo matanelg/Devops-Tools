@@ -1,8 +1,0 @@
---fleet-name
---display-name
---optimize-for-end-user-location
---no-optimize-for-end-user-location
---tags
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

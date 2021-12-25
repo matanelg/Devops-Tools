@@ -1,9 +1,0 @@
---input
---name
---settings
---role-arn
---tags
---stream-processor-output
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

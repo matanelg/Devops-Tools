@@ -1,7 +1,0 @@
---auto-scaling-group-name
---max-group-prepared-capacity
---min-size
---pool-state
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton

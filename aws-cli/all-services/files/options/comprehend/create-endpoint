@@ -1,9 +1,0 @@
---endpoint-name
---model-arn
---desired-inference-units
---client-request-token
---tags
---data-access-role-arn
---cli-input-json
---cli-input-yaml
---generate-cli-skeleton
