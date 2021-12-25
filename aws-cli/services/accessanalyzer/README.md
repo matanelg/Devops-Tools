@@ -8,13 +8,19 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+  
   </br>
+  
   **<p style="color:red;">Description</p>**
+  
   </br>
+  
   ## **Examples**
+  
   ```bash
 
   ```
+  
   ```json
 
   ```
