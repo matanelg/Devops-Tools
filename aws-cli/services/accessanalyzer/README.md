@@ -10,7 +10,8 @@
   * **<p style="color:none;">--generate-cli-skeleton</p>**
   
   </br>
-  <span style="color:red;">*Description*</span>
+  <span style="color:blue">some *This is Blue italic.* text</span>
+
   <p style="color:red;">**Description**</p>
   
   </br>
