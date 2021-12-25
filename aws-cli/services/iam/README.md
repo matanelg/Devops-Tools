@@ -1,11 +1,9 @@
-**<details ><summary style="color:none;">glue</summary><blockquote>**
+**<details ><summary style="color:none;">iam</summary><blockquote>**
 
-- **<details><summary style="color:none;"><b><u>batch-create-partition</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>add-client-id-to-open-id-connect-provider</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--partition-input-list</p>**
+  * **<p style="color:none;">--open-id-connect-provider-arn</p>**
+  * **<p style="color:none;">--client-id</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -27,10 +25,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>batch-delete-connection</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>add-role-to-instance-profile</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--connection-name-list</p>**
+  * **<p style="color:none;">--instance-profile-name</p>**
+  * **<p style="color:none;">--role-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -52,12 +50,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>batch-delete-partition</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>add-user-to-group</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--partitions-to-delete</p>**
+  * **<p style="color:none;">--group-name</p>**
+  * **<p style="color:none;">--user-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -79,11 +75,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>batch-delete-table</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>attach-group-policy</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--tables-to-delete</p>**
+  * **<p style="color:none;">--group-name</p>**
+  * **<p style="color:none;">--policy-arn</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -105,12 +100,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>batch-delete-table-version</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>attach-role-policy</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--version-ids</p>**
+  * **<p style="color:none;">--role-name</p>**
+  * **<p style="color:none;">--policy-arn</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -132,9 +125,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>batch-get-crawlers</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>attach-user-policy</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--crawler-names</p>**
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--policy-arn</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -156,9 +150,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>batch-get-dev-endpoints</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>change-password</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--dev-endpoint-names</p>**
+  * **<p style="color:none;">--old-password</p>**
+  * **<p style="color:none;">--new-password</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -180,9 +175,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>batch-get-jobs</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>create-access-key</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--job-names</p>**
+  * **<p style="color:none;">--user-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -204,12 +199,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>batch-get-partition</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>create-account-alias</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--partitions-to-get</p>**
+  * **<p style="color:none;">--account-alias</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -231,225 +223,43 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>batch-get-triggers</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>create-group</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--trigger-names</p>**
+  * **<p style="color:none;">--path</p>**
+  * **<p style="color:none;">--group-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
 
   </br>
 
-  <p style="color:red;">**Description**</p>
+  <p style="color:red;">**Create Group**</p>
 
   </br>
 
   ## **Examples**
 
   ```bash
-
+  aws iam create-group --group-name test-group
   ```
   ```json
-
+  {
+  "Group": {
+    "Path": "/",
+    "GroupName": "test-group",
+    "GroupId": "LTZUTBCYBWONLOXLYCGZQE",
+    "Arn": "arn:aws:iam::5899537723324:<path>/<name>",
+    "CreateDate": "2021-11-11T08:00:02+00:00"
+    }
+  }
   ```
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>batch-get-workflows</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>create-instance-profile</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--names</p>**
-  * **<p style="color:none;">--include-graph</p>**
-  * **<p style="color:none;">--no-include-graph</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>batch-stop-job-run</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--job-name</p>**
-  * **<p style="color:none;">--job-run-ids</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>batch-update-partition</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--entries</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>cancel-ml-task-run</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--transform-id</p>**
-  * **<p style="color:none;">--task-run-id</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>check-schema-version-validity</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--data-format</p>**
-  * **<p style="color:none;">--schema-definition</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>create-classifier</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--grok-classifier</p>**
-  * **<p style="color:none;">--xml-classifier</p>**
-  * **<p style="color:none;">--json-classifier</p>**
-  * **<p style="color:none;">--csv-classifier</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>create-connection</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--connection-input</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>create-crawler</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--role</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--description</p>**
-  * **<p style="color:none;">--targets</p>**
-  * **<p style="color:none;">--schedule</p>**
-  * **<p style="color:none;">--classifiers</p>**
-  * **<p style="color:none;">--table-prefix</p>**
-  * **<p style="color:none;">--schema-change-policy</p>**
-  * **<p style="color:none;">--recrawl-policy</p>**
-  * **<p style="color:none;">--lineage-configuration</p>**
-  * **<p style="color:none;">--configuration</p>**
-  * **<p style="color:none;">--crawler-security-configuration</p>**
+  * **<p style="color:none;">--instance-profile-name</p>**
+  * **<p style="color:none;">--path</p>**
   * **<p style="color:none;">--tags</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
@@ -472,10 +282,12 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>create-database</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>create-login-profile</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-input</p>**
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--password</p>**
+  * **<p style="color:none;">--password-reset-required</p>**
+  * **<p style="color:none;">--no-password-reset-required</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -497,23 +309,12 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>create-dev-endpoint</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>create-open-id-connect-provider</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--endpoint-name</p>**
-  * **<p style="color:none;">--role-arn</p>**
-  * **<p style="color:none;">--security-group-ids</p>**
-  * **<p style="color:none;">--subnet-id</p>**
-  * **<p style="color:none;">--public-key</p>**
-  * **<p style="color:none;">--public-keys</p>**
-  * **<p style="color:none;">--number-of-nodes</p>**
-  * **<p style="color:none;">--worker-type</p>**
-  * **<p style="color:none;">--glue-version</p>**
-  * **<p style="color:none;">--number-of-workers</p>**
-  * **<p style="color:none;">--extra-python-libs-s3-path</p>**
-  * **<p style="color:none;">--extra-jars-s3-path</p>**
-  * **<p style="color:none;">--security-configuration</p>**
+  * **<p style="color:none;">--url</p>**
+  * **<p style="color:none;">--client-id-list</p>**
+  * **<p style="color:none;">--thumbprint-list</p>**
   * **<p style="color:none;">--tags</p>**
-  * **<p style="color:none;">--arguments</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -535,141 +336,11 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>create-job</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>create-policy</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--description</p>**
-  * **<p style="color:none;">--log-uri</p>**
-  * **<p style="color:none;">--role</p>**
-  * **<p style="color:none;">--execution-property</p>**
-  * **<p style="color:none;">--command</p>**
-  * **<p style="color:none;">--default-arguments</p>**
-  * **<p style="color:none;">--non-overridable-arguments</p>**
-  * **<p style="color:none;">--connections</p>**
-  * **<p style="color:none;">--max-retries</p>**
-  * **<p style="color:none;">--allocated-capacity</p>**
-  * **<p style="color:none;">--timeout</p>**
-  * **<p style="color:none;">--max-capacity</p>**
-  * **<p style="color:none;">--security-configuration</p>**
-  * **<p style="color:none;">--tags</p>**
-  * **<p style="color:none;">--notification-property</p>**
-  * **<p style="color:none;">--glue-version</p>**
-  * **<p style="color:none;">--number-of-workers</p>**
-  * **<p style="color:none;">--worker-type</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>create-ml-transform</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--description</p>**
-  * **<p style="color:none;">--input-record-tables</p>**
-  * **<p style="color:none;">--parameters</p>**
-  * **<p style="color:none;">--role</p>**
-  * **<p style="color:none;">--glue-version</p>**
-  * **<p style="color:none;">--max-capacity</p>**
-  * **<p style="color:none;">--worker-type</p>**
-  * **<p style="color:none;">--number-of-workers</p>**
-  * **<p style="color:none;">--timeout</p>**
-  * **<p style="color:none;">--max-retries</p>**
-  * **<p style="color:none;">--tags</p>**
-  * **<p style="color:none;">--transform-encryption</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>create-partition</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--partition-input</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>create-partition-index</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--partition-index</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>create-registry</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--registry-name</p>**
+  * **<p style="color:none;">--policy-name</p>**
+  * **<p style="color:none;">--path</p>**
+  * **<p style="color:none;">--policy-document</p>**
   * **<p style="color:none;">--description</p>**
   * **<p style="color:none;">--tags</p>**
   * **<p style="color:none;">--cli-input-json</p>**
@@ -693,15 +364,42 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>create-schema</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>create-policy-version</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--registry-id</p>**
-  * **<p style="color:none;">--schema-name</p>**
-  * **<p style="color:none;">--data-format</p>**
-  * **<p style="color:none;">--compatibility</p>**
+  * **<p style="color:none;">--policy-arn</p>**
+  * **<p style="color:none;">--policy-document</p>**
+  * **<p style="color:none;">--set-as-default</p>**
+  * **<p style="color:none;">--no-set-as-default</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>create-role</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--path</p>**
+  * **<p style="color:none;">--role-name</p>**
+  * **<p style="color:none;">--assume-role-policy-document</p>**
   * **<p style="color:none;">--description</p>**
+  * **<p style="color:none;">--max-session-duration</p>**
+  * **<p style="color:none;">--permissions-boundary</p>**
   * **<p style="color:none;">--tags</p>**
-  * **<p style="color:none;">--schema-definition</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -723,36 +421,11 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>create-script</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>create-saml-provider</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--dag-nodes</p>**
-  * **<p style="color:none;">--dag-edges</p>**
-  * **<p style="color:none;">--language</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>create-security-configuration</b></u></summary><blockquote>**
-
+  * **<p style="color:none;">--saml-metadata-document</p>**
   * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--encryption-configuration</p>**
+  * **<p style="color:none;">--tags</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -774,46 +447,63 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>create-table</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>create-service-linked-role</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-input</p>**
-  * **<p style="color:none;">--partition-indexes</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>create-trigger</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--workflow-name</p>**
-  * **<p style="color:none;">--type</p>**
-  * **<p style="color:none;">--schedule</p>**
-  * **<p style="color:none;">--predicate</p>**
-  * **<p style="color:none;">--actions</p>**
+  * **<p style="color:none;">--aws-service-name</p>**
   * **<p style="color:none;">--description</p>**
-  * **<p style="color:none;">--start-on-creation</p>**
-  * **<p style="color:none;">--no-start-on-creation</p>**
+  * **<p style="color:none;">--custom-suffix</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>create-service-specific-credential</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--service-name</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>create-user</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--path</p>**
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--permissions-boundary</p>**
   * **<p style="color:none;">--tags</p>**
-  * **<p style="color:none;">--event-batching-condition</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -835,39 +525,35 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>create-user-defined-function</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>create-virtual-mfa-device</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--function-input</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>create-workflow</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--description</p>**
-  * **<p style="color:none;">--default-run-properties</p>**
+  * **<p style="color:none;">--path</p>**
+  * **<p style="color:none;">--virtual-mfa-device-name</p>**
   * **<p style="color:none;">--tags</p>**
-  * **<p style="color:none;">--max-concurrent-runs</p>**
+  * **<p style="color:none;">--outfile</p>**
+  * **<p style="color:none;">--bootstrap-method</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>deactivate-mfa-device</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--serial-number</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -889,9 +575,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>delete-classifier</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-access-key</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--access-key-id</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -913,13 +600,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>delete-column-statistics-for-partition</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-account-alias</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--partition-values</p>**
-  * **<p style="color:none;">--column-name</p>**
+  * **<p style="color:none;">--account-alias</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -941,12 +624,8 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>delete-column-statistics-for-table</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-account-password-policy</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--column-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -968,10 +647,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>delete-connection</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-group</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--connection-name</p>**
+  * **<p style="color:none;">--group-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -993,9 +671,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>delete-crawler</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-group-policy</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
+  * **<p style="color:none;">--group-name</p>**
+  * **<p style="color:none;">--policy-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -1017,10 +696,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>delete-database</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-instance-profile</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--name</p>**
+  * **<p style="color:none;">--instance-profile-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -1042,9 +720,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>delete-dev-endpoint</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-login-profile</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--endpoint-name</p>**
+  * **<p style="color:none;">--user-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -1066,9 +744,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>delete-job</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-open-id-connect-provider</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--job-name</p>**
+  * **<p style="color:none;">--open-id-connect-provider-arn</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -1090,9 +768,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>delete-ml-transform</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-policy</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--transform-id</p>**
+  * **<p style="color:none;">--policy-arn</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -1114,213 +792,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>delete-partition</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-policy-version</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--partition-values</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>delete-partition-index</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--index-name</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>delete-registry</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--registry-id</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>delete-resource-policy</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--policy-hash-condition</p>**
-  * **<p style="color:none;">--resource-arn</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>delete-schema</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--schema-id</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>delete-schema-versions</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--schema-id</p>**
-  * **<p style="color:none;">--versions</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>delete-security-configuration</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>delete-table</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>delete-table-version</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
+  * **<p style="color:none;">--policy-arn</p>**
   * **<p style="color:none;">--version-id</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
@@ -1343,9 +817,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>delete-trigger</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-role</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
+  * **<p style="color:none;">--role-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -1367,11 +841,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>delete-user-defined-function</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-role-permissions-boundary</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--function-name</p>**
+  * **<p style="color:none;">--role-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -1393,9 +865,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>delete-workflow</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-role-policy</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
+  * **<p style="color:none;">--role-name</p>**
+  * **<p style="color:none;">--policy-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -1417,9 +890,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>get-catalog-import-status</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-saml-provider</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
+  * **<p style="color:none;">--saml-provider-arn</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -1441,9 +914,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>get-classifier</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-server-certificate</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
+  * **<p style="color:none;">--server-certificate-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -1465,39 +938,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>get-classifiers</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-service-linked-role</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--starting-token</p>**
-  * **<p style="color:none;">--page-size</p>**
-  * **<p style="color:none;">--max-items</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-column-statistics-for-partition</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--partition-values</p>**
-  * **<p style="color:none;">--column-names</p>**
+  * **<p style="color:none;">--role-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -1519,12 +962,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>get-column-statistics-for-table</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-service-specific-credential</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--column-names</p>**
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--service-specific-credential-id</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -1546,12 +987,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>get-connection</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-signing-certificate</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--hide-password</p>**
-  * **<p style="color:none;">--no-hide-password</p>**
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--certificate-id</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -1573,17 +1012,335 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>get-connections</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>delete-ssh-public-key</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--ssh-public-key-id</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>delete-user</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>delete-user-permissions-boundary</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>delete-user-policy</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--policy-name</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>delete-virtual-mfa-device</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--serial-number</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>detach-group-policy</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--group-name</p>**
+  * **<p style="color:none;">--policy-arn</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>detach-role-policy</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--role-name</p>**
+  * **<p style="color:none;">--policy-arn</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>detach-user-policy</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--policy-arn</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>enable-mfa-device</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--serial-number</p>**
+  * **<p style="color:none;">--authentication-code1</p>**
+  * **<p style="color:none;">--authentication-code2</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>generate-credential-report</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>generate-organizations-access-report</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--entity-path</p>**
+  * **<p style="color:none;">--organizations-policy-id</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>generate-service-last-accessed-details</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--arn</p>**
+  * **<p style="color:none;">--granularity</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>get-access-key-last-used</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--access-key-id</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>get-account-authorization-details</b></u></summary><blockquote>**
+
   * **<p style="color:none;">--filter</p>**
-  * **<p style="color:none;">--hide-password</p>**
-  * **<p style="color:none;">--no-hide-password</p>**
+  * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--starting-token</p>**
   * **<p style="color:none;">--page-size</p>**
-  * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
 
   </br>
@@ -1603,9 +1360,8 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>get-crawler</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>get-account-password-policy</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -1627,63 +1383,231 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>get-crawler-metrics</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>get-account-summary</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--crawler-name-list</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>get-context-keys-for-custom-policy</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--policy-input-list</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>get-context-keys-for-principal-policy</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--policy-source-arn</p>**
+  * **<p style="color:none;">--policy-input-list</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>get-credential-report</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>get-group</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--group-name</p>**
+  * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--starting-token</p>**
   * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>get-group-policy</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--group-name</p>**
+  * **<p style="color:none;">--policy-name</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>get-instance-profile</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--instance-profile-name</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>get-login-profile</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>get-open-id-connect-provider</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--open-id-connect-provider-arn</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>get-organizations-access-report</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--job-id</p>**
   * **<p style="color:none;">--max-items</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-crawlers</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--starting-token</p>**
-  * **<p style="color:none;">--page-size</p>**
-  * **<p style="color:none;">--max-items</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-database</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--name</p>**
+  * **<p style="color:none;">--marker</p>**
+  * **<p style="color:none;">--sort-key</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -1705,37 +1629,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>get-databases</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>get-policy</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--resource-share-type</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--starting-token</p>**
-  * **<p style="color:none;">--page-size</p>**
-  * **<p style="color:none;">--max-items</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-data-catalog-encryption-settings</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
+  * **<p style="color:none;">--policy-arn</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -1757,742 +1653,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>get-dataflow-graph</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>get-policy-version</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--python-script</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-dev-endpoint</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--endpoint-name</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-dev-endpoints</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--starting-token</p>**
-  * **<p style="color:none;">--page-size</p>**
-  * **<p style="color:none;">--max-items</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-job</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--job-name</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-job-bookmark</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--job-name</p>**
-  * **<p style="color:none;">--run-id</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-job-run</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--job-name</p>**
-  * **<p style="color:none;">--run-id</p>**
-  * **<p style="color:none;">--predecessors-included</p>**
-  * **<p style="color:none;">--no-predecessors-included</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-job-runs</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--job-name</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--starting-token</p>**
-  * **<p style="color:none;">--page-size</p>**
-  * **<p style="color:none;">--max-items</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-jobs</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--starting-token</p>**
-  * **<p style="color:none;">--page-size</p>**
-  * **<p style="color:none;">--max-items</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-mapping</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--source</p>**
-  * **<p style="color:none;">--sinks</p>**
-  * **<p style="color:none;">--location</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-ml-task-run</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--transform-id</p>**
-  * **<p style="color:none;">--task-run-id</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-ml-task-runs</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--transform-id</p>**
-  * **<p style="color:none;">--next-token</p>**
-  * **<p style="color:none;">--max-results</p>**
-  * **<p style="color:none;">--filter</p>**
-  * **<p style="color:none;">--sort</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-ml-transform</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--transform-id</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-ml-transforms</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--next-token</p>**
-  * **<p style="color:none;">--max-results</p>**
-  * **<p style="color:none;">--filter</p>**
-  * **<p style="color:none;">--sort</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-partition</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--partition-values</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-partition-indexes</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--starting-token</p>**
-  * **<p style="color:none;">--max-items</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-partitions</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--expression</p>**
-  * **<p style="color:none;">--segment</p>**
-  * **<p style="color:none;">--exclude-column-schema</p>**
-  * **<p style="color:none;">--no-exclude-column-schema</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--starting-token</p>**
-  * **<p style="color:none;">--page-size</p>**
-  * **<p style="color:none;">--max-items</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-plan</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--mapping</p>**
-  * **<p style="color:none;">--source</p>**
-  * **<p style="color:none;">--sinks</p>**
-  * **<p style="color:none;">--location</p>**
-  * **<p style="color:none;">--language</p>**
-  * **<p style="color:none;">--additional-plan-options-map</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-registry</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--registry-id</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-resource-policies</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--starting-token</p>**
-  * **<p style="color:none;">--page-size</p>**
-  * **<p style="color:none;">--max-items</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-resource-policy</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--resource-arn</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-schema</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--schema-id</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-schema-by-definition</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--schema-id</p>**
-  * **<p style="color:none;">--schema-definition</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-schema-version</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--schema-id</p>**
-  * **<p style="color:none;">--schema-version-id</p>**
-  * **<p style="color:none;">--schema-version-number</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-schema-versions-diff</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--schema-id</p>**
-  * **<p style="color:none;">--first-schema-version-number</p>**
-  * **<p style="color:none;">--second-schema-version-number</p>**
-  * **<p style="color:none;">--schema-diff-type</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-security-configuration</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-security-configurations</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--starting-token</p>**
-  * **<p style="color:none;">--page-size</p>**
-  * **<p style="color:none;">--max-items</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-table</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-tables</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--expression</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--starting-token</p>**
-  * **<p style="color:none;">--page-size</p>**
-  * **<p style="color:none;">--max-items</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-table-version</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
+  * **<p style="color:none;">--policy-arn</p>**
   * **<p style="color:none;">--version-id</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
@@ -2515,38 +1678,108 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>get-table-versions</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>get-role</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
+  * **<p style="color:none;">--role-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--starting-token</p>**
-  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>get-role-policy</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--role-name</p>**
+  * **<p style="color:none;">--policy-name</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>get-saml-provider</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--saml-provider-arn</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>get-server-certificate</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--server-certificate-name</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>get-service-last-accessed-details</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--job-id</p>**
   * **<p style="color:none;">--max-items</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-tags</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--resource-arn</p>**
+  * **<p style="color:none;">--marker</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -2568,62 +1801,12 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>get-trigger</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>get-service-last-accessed-details-with-entities</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-triggers</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--dependent-job-name</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--starting-token</p>**
-  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--job-id</p>**
+  * **<p style="color:none;">--service-namespace</p>**
   * **<p style="color:none;">--max-items</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-user-defined-function</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--function-name</p>**
+  * **<p style="color:none;">--marker</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -2645,40 +1828,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>get-user-defined-functions</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>get-service-linked-role-deletion-status</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--pattern</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--starting-token</p>**
-  * **<p style="color:none;">--page-size</p>**
-  * **<p style="color:none;">--max-items</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>get-workflow</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--include-graph</p>**
-  * **<p style="color:none;">--no-include-graph</p>**
+  * **<p style="color:none;">--deletion-task-id</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -2700,12 +1852,11 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>get-workflow-run</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>get-ssh-public-key</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--run-id</p>**
-  * **<p style="color:none;">--include-graph</p>**
-  * **<p style="color:none;">--no-include-graph</p>**
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--ssh-public-key-id</p>**
+  * **<p style="color:none;">--encoding</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -2727,10 +1878,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>get-workflow-run-properties</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>get-user</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--run-id</p>**
+  * **<p style="color:none;">--user-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -2744,21 +1894,26 @@
   ## **Examples**
 
   ```bash
-
+  aws iam get-user
   ```
   ```json
-
+  {
+    "User": {
+      "Path": "/",
+      "UserName": "yossi",
+      "UserId": "H3QEKM7OYVSR7WK]8JMSLC",
+      "Arn": "arn:aws:iam::3006870281094:user/yossi",
+      "CreateDate": "2021-12-12T08:37:02+00:00"
+    }
+  }
   ```
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>get-workflow-runs</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>get-user-policy</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--include-graph</p>**
-  * **<p style="color:none;">--no-include-graph</p>**
-  * **<p style="color:none;">--next-token</p>**
-  * **<p style="color:none;">--max-results</p>**
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--policy-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -2801,143 +1956,14 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>import-catalog-to-glue</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>list-access-keys</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>list-crawlers</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--max-results</p>**
-  * **<p style="color:none;">--next-token</p>**
-  * **<p style="color:none;">--tags</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>list-dev-endpoints</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--next-token</p>**
-  * **<p style="color:none;">--max-results</p>**
-  * **<p style="color:none;">--tags</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>list-jobs</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--next-token</p>**
-  * **<p style="color:none;">--max-results</p>**
-  * **<p style="color:none;">--tags</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>list-ml-transforms</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--next-token</p>**
-  * **<p style="color:none;">--max-results</p>**
-  * **<p style="color:none;">--filter</p>**
-  * **<p style="color:none;">--sort</p>**
-  * **<p style="color:none;">--tags</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>list-registries</b></u></summary><blockquote>**
-
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--starting-token</p>**
   * **<p style="color:none;">--page-size</p>**
-  * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
 
   </br>
@@ -2957,14 +1983,13 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>list-schemas</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>list-account-aliases</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--registry-id</p>**
+  * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--starting-token</p>**
   * **<p style="color:none;">--page-size</p>**
-  * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
 
   </br>
@@ -2984,14 +2009,15 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>list-schema-versions</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>list-attached-group-policies</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--schema-id</p>**
+  * **<p style="color:none;">--group-name</p>**
+  * **<p style="color:none;">--path-prefix</p>**
+  * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--starting-token</p>**
   * **<p style="color:none;">--page-size</p>**
-  * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
 
   </br>
@@ -3011,11 +2037,1212 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>list-triggers</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>list-attached-role-policies</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--next-token</p>**
-  * **<p style="color:none;">--dependent-job-name</p>**
-  * **<p style="color:none;">--max-results</p>**
+  * **<p style="color:none;">--role-name</p>**
+  * **<p style="color:none;">--path-prefix</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-attached-user-policies</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--path-prefix</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-entities-for-policy</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--policy-arn</p>**
+  * **<p style="color:none;">--entity-filter</p>**
+  * **<p style="color:none;">--path-prefix</p>**
+  * **<p style="color:none;">--policy-usage-filter</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-group-policies</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--group-name</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-groups</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--path-prefix</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-groups-for-user</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-instance-profiles</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--path-prefix</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-instance-profiles-for-role</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--role-name</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-instance-profile-tags</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--instance-profile-name</p>**
+  * **<p style="color:none;">--marker</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-mfa-devices</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-mfa-device-tags</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--serial-number</p>**
+  * **<p style="color:none;">--marker</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-open-id-connect-providers</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-open-id-connect-provider-tags</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--open-id-connect-provider-arn</p>**
+  * **<p style="color:none;">--marker</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-policies</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--scope</p>**
+  * **<p style="color:none;">--only-attached</p>**
+  * **<p style="color:none;">--no-only-attached</p>**
+  * **<p style="color:none;">--path-prefix</p>**
+  * **<p style="color:none;">--policy-usage-filter</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-policies-granting-service-access</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--marker</p>**
+  * **<p style="color:none;">--arn</p>**
+  * **<p style="color:none;">--service-namespaces</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-policy-tags</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--policy-arn</p>**
+  * **<p style="color:none;">--marker</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-policy-versions</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--policy-arn</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-role-policies</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--role-name</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-roles</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--path-prefix</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-role-tags</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--role-name</p>**
+  * **<p style="color:none;">--marker</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-saml-providers</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-saml-provider-tags</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--saml-provider-arn</p>**
+  * **<p style="color:none;">--marker</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-server-certificates</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--path-prefix</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-server-certificate-tags</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--server-certificate-name</p>**
+  * **<p style="color:none;">--marker</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-service-specific-credentials</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--service-name</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-signing-certificates</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-ssh-public-keys</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-user-policies</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-users</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--path-prefix</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-user-tags</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>list-virtual-mfa-devices</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--assignment-status</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>put-group-policy</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--group-name</p>**
+  * **<p style="color:none;">--policy-name</p>**
+  * **<p style="color:none;">--policy-document</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>put-role-permissions-boundary</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--role-name</p>**
+  * **<p style="color:none;">--permissions-boundary</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>put-role-policy</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--role-name</p>**
+  * **<p style="color:none;">--policy-name</p>**
+  * **<p style="color:none;">--policy-document</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>put-user-permissions-boundary</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--permissions-boundary</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>put-user-policy</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--policy-name</p>**
+  * **<p style="color:none;">--policy-document</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>remove-client-id-from-open-id-connect-provider</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--open-id-connect-provider-arn</p>**
+  * **<p style="color:none;">--client-id</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>remove-role-from-instance-profile</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--instance-profile-name</p>**
+  * **<p style="color:none;">--role-name</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>remove-user-from-group</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--group-name</p>**
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>reset-service-specific-credential</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--service-specific-credential-id</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>resync-mfa-device</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--serial-number</p>**
+  * **<p style="color:none;">--authentication-code1</p>**
+  * **<p style="color:none;">--authentication-code2</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>set-default-policy-version</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--policy-arn</p>**
+  * **<p style="color:none;">--version-id</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>set-security-token-service-preferences</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--global-endpoint-token-version</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>simulate-custom-policy</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--policy-input-list</p>**
+  * **<p style="color:none;">--permissions-boundary-policy-input-list</p>**
+  * **<p style="color:none;">--action-names</p>**
+  * **<p style="color:none;">--resource-arns</p>**
+  * **<p style="color:none;">--resource-policy</p>**
+  * **<p style="color:none;">--resource-owner</p>**
+  * **<p style="color:none;">--caller-arn</p>**
+  * **<p style="color:none;">--context-entries</p>**
+  * **<p style="color:none;">--resource-handling-option</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>simulate-principal-policy</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--policy-source-arn</p>**
+  * **<p style="color:none;">--policy-input-list</p>**
+  * **<p style="color:none;">--permissions-boundary-policy-input-list</p>**
+  * **<p style="color:none;">--action-names</p>**
+  * **<p style="color:none;">--resource-arns</p>**
+  * **<p style="color:none;">--resource-policy</p>**
+  * **<p style="color:none;">--resource-owner</p>**
+  * **<p style="color:none;">--caller-arn</p>**
+  * **<p style="color:none;">--context-entries</p>**
+  * **<p style="color:none;">--resource-handling-option</p>**
+  * **<p style="color:none;">--max-items</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--starting-token</p>**
+  * **<p style="color:none;">--page-size</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>tag-instance-profile</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--instance-profile-name</p>**
   * **<p style="color:none;">--tags</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
@@ -3038,10 +3265,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>list-workflows</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>tag-mfa-device</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--next-token</p>**
-  * **<p style="color:none;">--max-results</p>**
+  * **<p style="color:none;">--serial-number</p>**
+  * **<p style="color:none;">--tags</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3063,10 +3290,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>put-data-catalog-encryption-settings</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>tag-open-id-connect-provider</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--data-catalog-encryption-settings</p>**
+  * **<p style="color:none;">--open-id-connect-provider-arn</p>**
+  * **<p style="color:none;">--tags</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3088,13 +3315,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>put-resource-policy</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>tag-policy</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--policy-in-json</p>**
-  * **<p style="color:none;">--resource-arn</p>**
-  * **<p style="color:none;">--policy-hash-condition</p>**
-  * **<p style="color:none;">--policy-exists-condition</p>**
-  * **<p style="color:none;">--enable-hybrid</p>**
+  * **<p style="color:none;">--policy-arn</p>**
+  * **<p style="color:none;">--tags</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3116,12 +3340,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>put-schema-version-metadata</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>tag-role</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--schema-id</p>**
-  * **<p style="color:none;">--schema-version-number</p>**
-  * **<p style="color:none;">--schema-version-id</p>**
-  * **<p style="color:none;">--metadata-key-value</p>**
+  * **<p style="color:none;">--role-name</p>**
+  * **<p style="color:none;">--tags</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3143,11 +3365,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>put-workflow-run-properties</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>tag-saml-provider</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--run-id</p>**
-  * **<p style="color:none;">--run-properties</p>**
+  * **<p style="color:none;">--saml-provider-arn</p>**
+  * **<p style="color:none;">--tags</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3169,14 +3390,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>query-schema-version-metadata</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>tag-server-certificate</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--schema-id</p>**
-  * **<p style="color:none;">--schema-version-number</p>**
-  * **<p style="color:none;">--schema-version-id</p>**
-  * **<p style="color:none;">--metadata-list</p>**
-  * **<p style="color:none;">--max-results</p>**
-  * **<p style="color:none;">--next-token</p>**
+  * **<p style="color:none;">--server-certificate-name</p>**
+  * **<p style="color:none;">--tags</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3198,10 +3415,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>register-schema-version</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>tag-user</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--schema-id</p>**
-  * **<p style="color:none;">--schema-definition</p>**
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--tags</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3223,12 +3440,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>remove-schema-version-metadata</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>untag-instance-profile</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--schema-id</p>**
-  * **<p style="color:none;">--schema-version-number</p>**
-  * **<p style="color:none;">--schema-version-id</p>**
-  * **<p style="color:none;">--metadata-key-value</p>**
+  * **<p style="color:none;">--instance-profile-name</p>**
+  * **<p style="color:none;">--tag-keys</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3250,10 +3465,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>reset-job-bookmark</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>untag-mfa-device</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--job-name</p>**
-  * **<p style="color:none;">--run-id</p>**
+  * **<p style="color:none;">--serial-number</p>**
+  * **<p style="color:none;">--tag-keys</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3275,11 +3490,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>resume-workflow-run</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>untag-open-id-connect-provider</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--run-id</p>**
-  * **<p style="color:none;">--node-ids</p>**
+  * **<p style="color:none;">--open-id-connect-provider-arn</p>**
+  * **<p style="color:none;">--tag-keys</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3301,15 +3515,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>search-tables</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>untag-policy</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--next-token</p>**
-  * **<p style="color:none;">--filters</p>**
-  * **<p style="color:none;">--search-text</p>**
-  * **<p style="color:none;">--sort-criteria</p>**
-  * **<p style="color:none;">--max-results</p>**
-  * **<p style="color:none;">--resource-share-type</p>**
+  * **<p style="color:none;">--policy-arn</p>**
+  * **<p style="color:none;">--tag-keys</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3331,9 +3540,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>start-crawler</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>untag-role</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
+  * **<p style="color:none;">--role-name</p>**
+  * **<p style="color:none;">--tag-keys</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3355,9 +3565,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>start-crawler-schedule</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>untag-saml-provider</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--crawler-name</p>**
+  * **<p style="color:none;">--saml-provider-arn</p>**
+  * **<p style="color:none;">--tag-keys</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3379,10 +3590,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>start-export-labels-task-run</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>untag-server-certificate</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--transform-id</p>**
-  * **<p style="color:none;">--output-s3-path</p>**
+  * **<p style="color:none;">--server-certificate-name</p>**
+  * **<p style="color:none;">--tag-keys</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3404,12 +3615,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>start-import-labels-task-run</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>untag-user</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--transform-id</p>**
-  * **<p style="color:none;">--input-s3-path</p>**
-  * **<p style="color:none;">--replace-all-labels</p>**
-  * **<p style="color:none;">--no-replace-all-labels</p>**
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--tag-keys</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3431,18 +3640,11 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>start-job-run</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>update-access-key</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--job-name</p>**
-  * **<p style="color:none;">--job-run-id</p>**
-  * **<p style="color:none;">--arguments</p>**
-  * **<p style="color:none;">--allocated-capacity</p>**
-  * **<p style="color:none;">--timeout</p>**
-  * **<p style="color:none;">--max-capacity</p>**
-  * **<p style="color:none;">--security-configuration</p>**
-  * **<p style="color:none;">--notification-property</p>**
-  * **<p style="color:none;">--worker-type</p>**
-  * **<p style="color:none;">--number-of-workers</p>**
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--access-key-id</p>**
+  * **<p style="color:none;">--status</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3464,9 +3666,23 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>start-ml-evaluation-task-run</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>update-account-password-policy</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--transform-id</p>**
+  * **<p style="color:none;">--minimum-password-length</p>**
+  * **<p style="color:none;">--require-symbols</p>**
+  * **<p style="color:none;">--no-require-symbols</p>**
+  * **<p style="color:none;">--require-numbers</p>**
+  * **<p style="color:none;">--no-require-numbers</p>**
+  * **<p style="color:none;">--require-uppercase-characters</p>**
+  * **<p style="color:none;">--no-require-uppercase-characters</p>**
+  * **<p style="color:none;">--require-lowercase-characters</p>**
+  * **<p style="color:none;">--no-require-lowercase-characters</p>**
+  * **<p style="color:none;">--allow-users-to-change-password</p>**
+  * **<p style="color:none;">--no-allow-users-to-change-password</p>**
+  * **<p style="color:none;">--max-password-age</p>**
+  * **<p style="color:none;">--password-reuse-prevention</p>**
+  * **<p style="color:none;">--hard-expiry</p>**
+  * **<p style="color:none;">--no-hard-expiry</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3488,10 +3704,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>start-ml-labeling-set-generation-task-run</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>update-assume-role-policy</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--transform-id</p>**
-  * **<p style="color:none;">--output-s3-path</p>**
+  * **<p style="color:none;">--role-name</p>**
+  * **<p style="color:none;">--policy-document</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3513,9 +3729,11 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>start-trigger</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>update-group</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
+  * **<p style="color:none;">--group-name</p>**
+  * **<p style="color:none;">--new-path</p>**
+  * **<p style="color:none;">--new-group-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3537,9 +3755,12 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>start-workflow-run</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>update-login-profile</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--password</p>**
+  * **<p style="color:none;">--password-reset-required</p>**
+  * **<p style="color:none;">--no-password-reset-required</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3561,9 +3782,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>stop-crawler</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>update-open-id-connect-provider-thumbprint</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
+  * **<p style="color:none;">--open-id-connect-provider-arn</p>**
+  * **<p style="color:none;">--thumbprint-list</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3585,252 +3807,11 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>stop-crawler-schedule</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>update-role</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--crawler-name</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>stop-trigger</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>stop-workflow-run</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--run-id</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>tag-resource</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--resource-arn</p>**
-  * **<p style="color:none;">--tags-to-add</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>untag-resource</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--resource-arn</p>**
-  * **<p style="color:none;">--tags-to-remove</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>update-classifier</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--grok-classifier</p>**
-  * **<p style="color:none;">--xml-classifier</p>**
-  * **<p style="color:none;">--json-classifier</p>**
-  * **<p style="color:none;">--csv-classifier</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>update-column-statistics-for-partition</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--partition-values</p>**
-  * **<p style="color:none;">--column-statistics-list</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>update-column-statistics-for-table</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--column-statistics-list</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>update-connection</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--connection-input</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>update-crawler</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--role</p>**
-  * **<p style="color:none;">--database-name</p>**
+  * **<p style="color:none;">--role-name</p>**
   * **<p style="color:none;">--description</p>**
-  * **<p style="color:none;">--targets</p>**
-  * **<p style="color:none;">--schedule</p>**
-  * **<p style="color:none;">--classifiers</p>**
-  * **<p style="color:none;">--table-prefix</p>**
-  * **<p style="color:none;">--schema-change-policy</p>**
-  * **<p style="color:none;">--recrawl-policy</p>**
-  * **<p style="color:none;">--lineage-configuration</p>**
-  * **<p style="color:none;">--configuration</p>**
-  * **<p style="color:none;">--crawler-security-configuration</p>**
+  * **<p style="color:none;">--max-session-duration</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -3852,179 +3833,9 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>update-crawler-schedule</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>update-role-description</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--crawler-name</p>**
-  * **<p style="color:none;">--schedule</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>update-database</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--database-input</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>update-dev-endpoint</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--endpoint-name</p>**
-  * **<p style="color:none;">--public-key</p>**
-  * **<p style="color:none;">--add-public-keys</p>**
-  * **<p style="color:none;">--delete-public-keys</p>**
-  * **<p style="color:none;">--custom-libraries</p>**
-  * **<p style="color:none;">--update-etl-libraries</p>**
-  * **<p style="color:none;">--no-update-etl-libraries</p>**
-  * **<p style="color:none;">--delete-arguments</p>**
-  * **<p style="color:none;">--add-arguments</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>update-job</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--job-name</p>**
-  * **<p style="color:none;">--job-update</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>update-ml-transform</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--transform-id</p>**
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--description</p>**
-  * **<p style="color:none;">--parameters</p>**
-  * **<p style="color:none;">--role</p>**
-  * **<p style="color:none;">--glue-version</p>**
-  * **<p style="color:none;">--max-capacity</p>**
-  * **<p style="color:none;">--worker-type</p>**
-  * **<p style="color:none;">--number-of-workers</p>**
-  * **<p style="color:none;">--timeout</p>**
-  * **<p style="color:none;">--max-retries</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>update-partition</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-name</p>**
-  * **<p style="color:none;">--partition-value-list</p>**
-  * **<p style="color:none;">--partition-input</p>**
-  * **<p style="color:none;">--cli-input-json</p>**
-  * **<p style="color:none;">--cli-input-yaml</p>**
-  * **<p style="color:none;">--generate-cli-skeleton</p>**
-
-  </br>
-
-  <p style="color:red;">**Description**</p>
-
-  </br>
-
-  ## **Examples**
-
-  ```bash
-
-  ```
-  ```json
-
-  ```
-
-  </br>
-
-- **<details><summary style="color:none;"><b><u>update-registry</b></u></summary><blockquote>**
-
-  * **<p style="color:none;">--registry-id</p>**
+  * **<p style="color:none;">--role-name</p>**
   * **<p style="color:none;">--description</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
@@ -4047,12 +3858,10 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>update-schema</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>update-saml-provider</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--schema-id</p>**
-  * **<p style="color:none;">--schema-version-number</p>**
-  * **<p style="color:none;">--compatibility</p>**
-  * **<p style="color:none;">--description</p>**
+  * **<p style="color:none;">--saml-metadata-document</p>**
+  * **<p style="color:none;">--saml-provider-arn</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -4074,13 +3883,11 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>update-table</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>update-server-certificate</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--table-input</p>**
-  * **<p style="color:none;">--skip-archive</p>**
-  * **<p style="color:none;">--no-skip-archive</p>**
+  * **<p style="color:none;">--server-certificate-name</p>**
+  * **<p style="color:none;">--new-path</p>**
+  * **<p style="color:none;">--new-server-certificate-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -4102,10 +3909,11 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>update-trigger</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>update-service-specific-credential</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--trigger-update</p>**
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--service-specific-credential-id</p>**
+  * **<p style="color:none;">--status</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -4127,12 +3935,11 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>update-user-defined-function</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>update-signing-certificate</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--catalog-id</p>**
-  * **<p style="color:none;">--database-name</p>**
-  * **<p style="color:none;">--function-name</p>**
-  * **<p style="color:none;">--function-input</p>**
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--certificate-id</p>**
+  * **<p style="color:none;">--status</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -4154,12 +3961,11 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>update-workflow</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>update-ssh-public-key</b></u></summary><blockquote>**
 
-  * **<p style="color:none;">--name</p>**
-  * **<p style="color:none;">--description</p>**
-  * **<p style="color:none;">--default-run-properties</p>**
-  * **<p style="color:none;">--max-concurrent-runs</p>**
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--ssh-public-key-id</p>**
+  * **<p style="color:none;">--status</p>**
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
@@ -4181,6 +3987,156 @@
 
   </br>
 
+- **<details><summary style="color:none;"><b><u>update-user</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--new-path</p>**
+  * **<p style="color:none;">--new-user-name</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>upload-server-certificate</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--path</p>**
+  * **<p style="color:none;">--server-certificate-name</p>**
+  * **<p style="color:none;">--certificate-body</p>**
+  * **<p style="color:none;">--private-key</p>**
+  * **<p style="color:none;">--certificate-chain</p>**
+  * **<p style="color:none;">--tags</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>upload-signing-certificate</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--certificate-body</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>upload-ssh-public-key</b></u></summary><blockquote>**
+
+  * **<p style="color:none;">--user-name</p>**
+  * **<p style="color:none;">--ssh-public-key-body</p>**
+  * **<p style="color:none;">--cli-input-json</p>**
+  * **<p style="color:none;">--cli-input-yaml</p>**
+  * **<p style="color:none;">--generate-cli-skeleton</p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>wait</b></u></summary><blockquote>**
+
+  * **<p style="color:none;"></p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+- **<details><summary style="color:none;"><b><u>wizard</b></u></summary><blockquote>**
+
+  * **<p style="color:none;"></p>**
+
+  </br>
+
+  <p style="color:red;">**Description**</p>
+
+  </br>
+
+  ## **Examples**
+
+  ```bash
+
+  ```
+  ```json
+
+  ```
+
+  </br>
+
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
 </blockquote></details>
 </blockquote></details>
 </blockquote></details>

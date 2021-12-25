@@ -7,10 +7,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -18,6 +23,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-compute-environment</b></u></summary><blockquote>**
 
@@ -30,10 +36,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -41,6 +52,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-job-queue</b></u></summary><blockquote>**
 
@@ -52,10 +64,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -63,6 +80,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-compute-environment</b></u></summary><blockquote>**
 
@@ -70,10 +88,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -81,6 +104,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-job-queue</b></u></summary><blockquote>**
 
@@ -88,10 +112,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -99,6 +128,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>deregister-job-definition</b></u></summary><blockquote>**
 
@@ -106,10 +136,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -117,6 +152,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-compute-environments</b></u></summary><blockquote>**
 
@@ -127,10 +163,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -138,6 +179,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-job-definitions</b></u></summary><blockquote>**
 
@@ -150,10 +192,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -161,6 +208,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-job-queues</b></u></summary><blockquote>**
 
@@ -171,10 +219,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -182,6 +235,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-jobs</b></u></summary><blockquote>**
 
@@ -189,10 +243,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -200,14 +259,20 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>help</b></u></summary><blockquote>**
 
   * **<p style="color:none;"></p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -215,6 +280,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>list-jobs</b></u></summary><blockquote>**
 
@@ -228,10 +294,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -239,6 +310,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>list-tags-for-resource</b></u></summary><blockquote>**
 
@@ -246,10 +318,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -257,6 +334,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>register-job-definition</b></u></summary><blockquote>**
 
@@ -274,10 +352,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -285,6 +368,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>submit-job</b></u></summary><blockquote>**
 
@@ -304,10 +388,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -315,6 +404,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>tag-resource</b></u></summary><blockquote>**
 
@@ -323,10 +413,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -334,6 +429,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>terminate-job</b></u></summary><blockquote>**
 
@@ -342,10 +438,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -353,6 +454,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>untag-resource</b></u></summary><blockquote>**
 
@@ -361,10 +463,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -372,6 +479,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>update-compute-environment</b></u></summary><blockquote>**
 
@@ -382,10 +490,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -393,6 +506,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>update-job-queue</b></u></summary><blockquote>**
 
@@ -403,10 +517,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -414,6 +533,7 @@
 
   ```
 
+  </br>
 
 </blockquote></details>
 </blockquote></details>

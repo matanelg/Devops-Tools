@@ -9,10 +9,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -20,6 +25,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>add-role-to-db-cluster</b></u></summary><blockquote>**
 
@@ -29,10 +35,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -40,6 +51,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>add-role-to-db-instance</b></u></summary><blockquote>**
 
@@ -49,10 +61,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -60,6 +77,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>add-source-identifier-to-subscription</b></u></summary><blockquote>**
 
@@ -68,10 +86,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -79,6 +102,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>add-tags-to-resource</b></u></summary><blockquote>**
 
@@ -87,10 +111,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -98,6 +127,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>apply-pending-maintenance-action</b></u></summary><blockquote>**
 
@@ -107,10 +137,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -118,6 +153,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>authorize-db-security-group-ingress</b></u></summary><blockquote>**
 
@@ -129,10 +165,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -140,6 +181,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>backtrack-db-cluster</b></u></summary><blockquote>**
 
@@ -152,10 +194,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -163,6 +210,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>cancel-export-task</b></u></summary><blockquote>**
 
@@ -170,10 +218,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -181,6 +234,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>copy-db-cluster-parameter-group</b></u></summary><blockquote>**
 
@@ -191,10 +245,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -202,6 +261,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>copy-db-cluster-snapshot</b></u></summary><blockquote>**
 
@@ -216,10 +276,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -227,6 +292,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>copy-db-parameter-group</b></u></summary><blockquote>**
 
@@ -237,10 +303,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -248,6 +319,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>copy-db-snapshot</b></u></summary><blockquote>**
 
@@ -264,10 +336,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -275,6 +352,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>copy-option-group</b></u></summary><blockquote>**
 
@@ -285,10 +363,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -296,6 +379,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-custom-availability-zone</b></u></summary><blockquote>**
 
@@ -306,10 +390,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -317,6 +406,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-db-cluster</b></u></summary><blockquote>**
 
@@ -363,10 +453,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -374,6 +469,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-db-cluster-endpoint</b></u></summary><blockquote>**
 
@@ -386,10 +482,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -397,6 +498,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-db-cluster-parameter-group</b></u></summary><blockquote>**
 
@@ -407,10 +509,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -418,6 +525,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-db-cluster-snapshot</b></u></summary><blockquote>**
 
@@ -427,10 +535,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -438,6 +551,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-db-instance</b></u></summary><blockquote>**
 
@@ -501,10 +615,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -512,6 +631,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-db-instance-read-replica</b></u></summary><blockquote>**
 
@@ -559,10 +679,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -570,6 +695,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-db-parameter-group</b></u></summary><blockquote>**
 
@@ -580,10 +706,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -591,6 +722,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-db-proxy</b></u></summary><blockquote>**
 
@@ -609,10 +741,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -620,6 +757,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-db-proxy-endpoint</b></u></summary><blockquote>**
 
@@ -632,10 +770,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -643,6 +786,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-db-security-group</b></u></summary><blockquote>**
 
@@ -652,10 +796,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -663,6 +812,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-db-snapshot</b></u></summary><blockquote>**
 
@@ -672,10 +822,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -683,6 +838,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-db-subnet-group</b></u></summary><blockquote>**
 
@@ -693,10 +849,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -704,6 +865,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-event-subscription</b></u></summary><blockquote>**
 
@@ -718,10 +880,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -729,6 +896,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-global-cluster</b></u></summary><blockquote>**
 
@@ -744,10 +912,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -755,6 +928,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-option-group</b></u></summary><blockquote>**
 
@@ -766,10 +940,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -777,6 +956,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-custom-availability-zone</b></u></summary><blockquote>**
 
@@ -784,10 +964,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -795,6 +980,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-db-cluster</b></u></summary><blockquote>**
 
@@ -805,10 +991,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -816,6 +1007,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-db-cluster-endpoint</b></u></summary><blockquote>**
 
@@ -823,10 +1015,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -834,6 +1031,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-db-cluster-parameter-group</b></u></summary><blockquote>**
 
@@ -841,10 +1039,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -852,6 +1055,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-db-cluster-snapshot</b></u></summary><blockquote>**
 
@@ -859,10 +1063,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -870,6 +1079,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-db-instance</b></u></summary><blockquote>**
 
@@ -882,10 +1092,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -893,6 +1108,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-db-instance-automated-backup</b></u></summary><blockquote>**
 
@@ -901,10 +1117,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -912,6 +1133,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-db-parameter-group</b></u></summary><blockquote>**
 
@@ -919,10 +1141,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -930,6 +1157,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-db-proxy</b></u></summary><blockquote>**
 
@@ -937,10 +1165,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -948,6 +1181,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-db-proxy-endpoint</b></u></summary><blockquote>**
 
@@ -955,10 +1189,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -966,6 +1205,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-db-security-group</b></u></summary><blockquote>**
 
@@ -973,10 +1213,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -984,6 +1229,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-db-snapshot</b></u></summary><blockquote>**
 
@@ -991,10 +1237,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1002,6 +1253,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-db-subnet-group</b></u></summary><blockquote>**
 
@@ -1009,10 +1261,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1020,6 +1277,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-event-subscription</b></u></summary><blockquote>**
 
@@ -1027,10 +1285,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1038,6 +1301,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-global-cluster</b></u></summary><blockquote>**
 
@@ -1045,10 +1309,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1056,6 +1325,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-installation-media</b></u></summary><blockquote>**
 
@@ -1063,10 +1333,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1074,6 +1349,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-option-group</b></u></summary><blockquote>**
 
@@ -1081,10 +1357,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1092,6 +1373,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>deregister-db-proxy-targets</b></u></summary><blockquote>**
 
@@ -1102,10 +1384,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1113,16 +1400,22 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-account-attributes</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1130,6 +1423,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-certificates</b></u></summary><blockquote>**
 
@@ -1141,10 +1435,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1152,6 +1451,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-custom-availability-zones</b></u></summary><blockquote>**
 
@@ -1163,10 +1463,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1174,6 +1479,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-cluster-backtracks</b></u></summary><blockquote>**
 
@@ -1186,10 +1492,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1197,6 +1508,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-cluster-endpoints</b></u></summary><blockquote>**
 
@@ -1209,10 +1521,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1220,6 +1537,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-cluster-parameter-groups</b></u></summary><blockquote>**
 
@@ -1231,10 +1549,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1242,6 +1565,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-cluster-parameters</b></u></summary><blockquote>**
 
@@ -1254,10 +1578,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1265,6 +1594,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-clusters</b></u></summary><blockquote>**
 
@@ -1278,10 +1608,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1289,6 +1624,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-cluster-snapshot-attributes</b></u></summary><blockquote>**
 
@@ -1296,10 +1632,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1307,6 +1648,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-cluster-snapshots</b></u></summary><blockquote>**
 
@@ -1324,10 +1666,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1335,6 +1682,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-engine-versions</b></u></summary><blockquote>**
 
@@ -1356,10 +1704,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1367,6 +1720,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-instance-automated-backups</b></u></summary><blockquote>**
 
@@ -1380,10 +1734,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1391,6 +1750,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-instances</b></u></summary><blockquote>**
 
@@ -1402,10 +1762,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1413,6 +1778,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-log-files</b></u></summary><blockquote>**
 
@@ -1427,10 +1793,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1438,6 +1809,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-parameter-groups</b></u></summary><blockquote>**
 
@@ -1449,10 +1821,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1460,6 +1837,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-parameters</b></u></summary><blockquote>**
 
@@ -1472,10 +1850,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1483,6 +1866,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-proxies</b></u></summary><blockquote>**
 
@@ -1494,10 +1878,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1505,6 +1894,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-proxy-endpoints</b></u></summary><blockquote>**
 
@@ -1517,10 +1907,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1528,6 +1923,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-proxy-target-groups</b></u></summary><blockquote>**
 
@@ -1540,10 +1936,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1551,6 +1952,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-proxy-targets</b></u></summary><blockquote>**
 
@@ -1563,10 +1965,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1574,6 +1981,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-security-groups</b></u></summary><blockquote>**
 
@@ -1585,10 +1993,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1596,6 +2009,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-snapshot-attributes</b></u></summary><blockquote>**
 
@@ -1603,10 +2017,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1614,6 +2033,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-snapshots</b></u></summary><blockquote>**
 
@@ -1632,10 +2052,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1643,6 +2068,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-db-subnet-groups</b></u></summary><blockquote>**
 
@@ -1654,10 +2080,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1665,6 +2096,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-engine-default-cluster-parameters</b></u></summary><blockquote>**
 
@@ -1676,10 +2108,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1687,6 +2124,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-engine-default-parameters</b></u></summary><blockquote>**
 
@@ -1698,10 +2136,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1709,6 +2152,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-event-categories</b></u></summary><blockquote>**
 
@@ -1717,10 +2161,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1728,6 +2177,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-events</b></u></summary><blockquote>**
 
@@ -1744,10 +2194,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1755,6 +2210,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-event-subscriptions</b></u></summary><blockquote>**
 
@@ -1766,10 +2222,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1777,6 +2238,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-export-tasks</b></u></summary><blockquote>**
 
@@ -1789,10 +2251,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1800,6 +2267,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-global-clusters</b></u></summary><blockquote>**
 
@@ -1811,10 +2279,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1822,6 +2295,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-installation-media</b></u></summary><blockquote>**
 
@@ -1833,10 +2307,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1844,6 +2323,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-option-group-options</b></u></summary><blockquote>**
 
@@ -1856,10 +2336,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1867,6 +2352,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-option-groups</b></u></summary><blockquote>**
 
@@ -1880,10 +2366,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1891,6 +2382,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-orderable-db-instance-options</b></u></summary><blockquote>**
 
@@ -1908,10 +2400,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1919,6 +2416,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-pending-maintenance-actions</b></u></summary><blockquote>**
 
@@ -1930,10 +2428,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1941,6 +2444,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-reserved-db-instances</b></u></summary><blockquote>**
 
@@ -1960,10 +2464,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1971,6 +2480,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-reserved-db-instances-offerings</b></u></summary><blockquote>**
 
@@ -1988,10 +2498,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -1999,6 +2514,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-source-regions</b></u></summary><blockquote>**
 
@@ -2010,10 +2526,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2021,6 +2542,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-valid-db-instance-modifications</b></u></summary><blockquote>**
 
@@ -2028,10 +2550,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2039,6 +2566,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>download-db-log-file-portion</b></u></summary><blockquote>**
 
@@ -2050,10 +2578,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2061,6 +2594,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>failover-db-cluster</b></u></summary><blockquote>**
 
@@ -2069,10 +2603,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2080,6 +2619,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>failover-global-cluster</b></u></summary><blockquote>**
 
@@ -2088,10 +2628,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2099,16 +2644,22 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>generate-db-auth-token</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--hostname</p>**
   * **<p style="color:none;">--port</p>**
   * **<p style="color:none;">--username</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2116,14 +2667,20 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>help</b></u></summary><blockquote>**
 
   * **<p style="color:none;"></p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2131,6 +2688,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>import-installation-media</b></u></summary><blockquote>**
 
@@ -2142,10 +2700,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2153,6 +2716,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>list-tags-for-resource</b></u></summary><blockquote>**
 
@@ -2161,10 +2725,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2172,6 +2741,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>modify-certificates</b></u></summary><blockquote>**
 
@@ -2181,10 +2751,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2192,6 +2767,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>modify-current-db-cluster-capacity</b></u></summary><blockquote>**
 
@@ -2202,10 +2778,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2213,6 +2794,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>modify-db-cluster</b></u></summary><blockquote>**
 
@@ -2250,10 +2832,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2261,6 +2848,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>modify-db-cluster-endpoint</b></u></summary><blockquote>**
 
@@ -2271,10 +2859,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2282,6 +2875,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>modify-db-cluster-parameter-group</b></u></summary><blockquote>**
 
@@ -2290,10 +2884,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2301,6 +2900,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>modify-db-cluster-snapshot-attribute</b></u></summary><blockquote>**
 
@@ -2311,10 +2911,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2322,6 +2927,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>modify-db-instance</b></u></summary><blockquote>**
 
@@ -2385,10 +2991,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2396,6 +3007,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>modify-db-parameter-group</b></u></summary><blockquote>**
 
@@ -2404,10 +3016,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2415,6 +3032,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>modify-db-proxy</b></u></summary><blockquote>**
 
@@ -2431,10 +3049,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2442,6 +3065,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>modify-db-proxy-endpoint</b></u></summary><blockquote>**
 
@@ -2451,10 +3075,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2462,6 +3091,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>modify-db-proxy-target-group</b></u></summary><blockquote>**
 
@@ -2472,10 +3102,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2483,6 +3118,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>modify-db-snapshot</b></u></summary><blockquote>**
 
@@ -2492,10 +3128,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2503,6 +3144,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>modify-db-snapshot-attribute</b></u></summary><blockquote>**
 
@@ -2513,10 +3155,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2524,6 +3171,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>modify-db-subnet-group</b></u></summary><blockquote>**
 
@@ -2533,10 +3181,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2544,6 +3197,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>modify-event-subscription</b></u></summary><blockquote>**
 
@@ -2556,10 +3210,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2567,6 +3226,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>modify-global-cluster</b></u></summary><blockquote>**
 
@@ -2580,10 +3240,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2591,6 +3256,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>promote-read-replica</b></u></summary><blockquote>**
 
@@ -2600,10 +3266,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2611,6 +3282,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>promote-read-replica-db-cluster</b></u></summary><blockquote>**
 
@@ -2618,10 +3290,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2629,6 +3306,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>purchase-reserved-db-instances-offering</b></u></summary><blockquote>**
 
@@ -2639,10 +3317,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2650,6 +3333,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>reboot-db-instance</b></u></summary><blockquote>**
 
@@ -2659,10 +3343,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2670,6 +3359,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>register-db-proxy-targets</b></u></summary><blockquote>**
 
@@ -2680,10 +3370,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2691,6 +3386,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>remove-from-global-cluster</b></u></summary><blockquote>**
 
@@ -2699,10 +3395,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2710,6 +3411,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>remove-option-from-option-group</b></u></summary><blockquote>**
 
@@ -2720,10 +3422,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2731,6 +3438,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>remove-role-from-db-cluster</b></u></summary><blockquote>**
 
@@ -2740,10 +3448,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2751,6 +3464,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>remove-role-from-db-instance</b></u></summary><blockquote>**
 
@@ -2760,10 +3474,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2771,6 +3490,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>remove-source-identifier-from-subscription</b></u></summary><blockquote>**
 
@@ -2779,10 +3499,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2790,6 +3515,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>remove-tags-from-resource</b></u></summary><blockquote>**
 
@@ -2798,10 +3524,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2809,6 +3540,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>reset-db-cluster-parameter-group</b></u></summary><blockquote>**
 
@@ -2819,10 +3551,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2830,6 +3567,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>reset-db-parameter-group</b></u></summary><blockquote>**
 
@@ -2840,10 +3578,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2851,6 +3594,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>restore-db-cluster-from-s3</b></u></summary><blockquote>**
 
@@ -2892,10 +3636,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2903,6 +3652,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>restore-db-cluster-from-snapshot</b></u></summary><blockquote>**
 
@@ -2934,10 +3684,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2945,6 +3700,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>restore-db-cluster-to-point-in-time</b></u></summary><blockquote>**
 
@@ -2976,10 +3732,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -2987,6 +3748,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>restore-db-instance-from-db-snapshot</b></u></summary><blockquote>**
 
@@ -3030,10 +3792,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -3041,6 +3808,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>restore-db-instance-from-s3</b></u></summary><blockquote>**
 
@@ -3100,10 +3868,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -3111,6 +3884,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>restore-db-instance-to-point-in-time</b></u></summary><blockquote>**
 
@@ -3160,10 +3934,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -3171,6 +3950,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>revoke-db-security-group-ingress</b></u></summary><blockquote>**
 
@@ -3182,10 +3962,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -3193,6 +3978,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>start-activity-stream</b></u></summary><blockquote>**
 
@@ -3206,10 +3992,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -3217,6 +4008,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>start-db-cluster</b></u></summary><blockquote>**
 
@@ -3224,10 +4016,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -3235,6 +4032,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>start-db-instance</b></u></summary><blockquote>**
 
@@ -3242,10 +4040,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -3253,6 +4056,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>start-db-instance-automated-backups-replication</b></u></summary><blockquote>**
 
@@ -3264,10 +4068,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -3275,6 +4084,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>start-export-task</b></u></summary><blockquote>**
 
@@ -3288,10 +4098,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -3299,6 +4114,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>stop-activity-stream</b></u></summary><blockquote>**
 
@@ -3308,10 +4124,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -3319,6 +4140,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>stop-db-cluster</b></u></summary><blockquote>**
 
@@ -3326,10 +4148,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -3337,6 +4164,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>stop-db-instance</b></u></summary><blockquote>**
 
@@ -3345,10 +4173,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -3356,6 +4189,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>stop-db-instance-automated-backups-replication</b></u></summary><blockquote>**
 
@@ -3363,10 +4197,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -3374,14 +4213,20 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>wait</b></u></summary><blockquote>**
 
   * **<p style="color:none;"></p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -3389,6 +4234,7 @@
 
   ```
 
+  </br>
 
 </blockquote></details>
 </blockquote></details>

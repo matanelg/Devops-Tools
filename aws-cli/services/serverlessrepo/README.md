@@ -20,10 +20,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -31,6 +36,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-application-version</b></u></summary><blockquote>**
 
@@ -43,10 +49,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -54,6 +65,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-cloud-formation-change-set</b></u></summary><blockquote>**
 
@@ -73,10 +85,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -84,6 +101,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-cloud-formation-template</b></u></summary><blockquote>**
 
@@ -92,10 +110,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -103,6 +126,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-application</b></u></summary><blockquote>**
 
@@ -110,10 +134,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -121,6 +150,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>get-application</b></u></summary><blockquote>**
 
@@ -129,10 +159,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -140,6 +175,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>get-application-policy</b></u></summary><blockquote>**
 
@@ -147,10 +183,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -158,6 +199,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>get-cloud-formation-template</b></u></summary><blockquote>**
 
@@ -166,10 +208,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -177,14 +224,20 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>help</b></u></summary><blockquote>**
 
   * **<p style="color:none;"></p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -192,6 +245,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>list-application-dependencies</b></u></summary><blockquote>**
 
@@ -203,10 +257,15 @@
   * **<p style="color:none;">--starting-token</p>**
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -214,6 +273,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>list-applications</b></u></summary><blockquote>**
 
@@ -223,10 +283,15 @@
   * **<p style="color:none;">--starting-token</p>**
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -234,6 +299,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>list-application-versions</b></u></summary><blockquote>**
 
@@ -244,10 +310,15 @@
   * **<p style="color:none;">--starting-token</p>**
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -255,6 +326,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>put-application-policy</b></u></summary><blockquote>**
 
@@ -263,10 +335,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -274,6 +351,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>unshare-application</b></u></summary><blockquote>**
 
@@ -282,10 +360,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -293,6 +376,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>update-application</b></u></summary><blockquote>**
 
@@ -306,10 +390,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -317,6 +406,7 @@
 
   ```
 
+  </br>
 
 </blockquote></details>
 </blockquote></details>

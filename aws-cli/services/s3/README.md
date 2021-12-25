@@ -37,10 +37,15 @@
   * **<p style="color:none;">--metadata-directive</p>**
   * **<p style="color:none;">--expected-size</p>**
   * **<p style="color:none;">--recursive</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -48,6 +53,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>ls</b></u></summary><blockquote>**
 
@@ -56,10 +62,15 @@
   * **<p style="color:none;">--human-readable</p>**
   * **<p style="color:none;">--summarize</p>**
   * **<p style="color:none;">--request-payer</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -67,14 +78,20 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>mb</b></u></summary><blockquote>**
 
   * **<p style="color:none;"></p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -82,6 +99,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>mv</b></u></summary><blockquote>**
 
@@ -119,10 +137,15 @@
   * **<p style="color:none;">--copy-props</p>**
   * **<p style="color:none;">--metadata-directive</p>**
   * **<p style="color:none;">--recursive</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -130,14 +153,20 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>presign</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--expires-in</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -145,14 +174,20 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>rb</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--force</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -160,6 +195,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>rm</b></u></summary><blockquote>**
 
@@ -171,10 +207,15 @@
   * **<p style="color:none;">--exclude</p>**
   * **<p style="color:none;">--only-show-errors</p>**
   * **<p style="color:none;">--page-size</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -182,6 +223,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>sync</b></u></summary><blockquote>**
 
@@ -221,10 +263,15 @@
   * **<p style="color:none;">--size-only</p>**
   * **<p style="color:none;">--exact-timestamps</p>**
   * **<p style="color:none;">--delete</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -232,15 +279,21 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>website</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--index-document</p>**
   * **<p style="color:none;">--error-document</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -248,6 +301,7 @@
 
   ```
 
+  </br>
 
 </blockquote></details>
 </blockquote></details>

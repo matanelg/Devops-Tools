@@ -9,10 +9,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -20,6 +25,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>add-tags</b></u></summary><blockquote>**
 
@@ -28,10 +34,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -39,14 +50,20 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-default-roles</b></u></summary><blockquote>**
 
   * **<p style="color:none;"></p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -54,6 +71,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>create-pipeline</b></u></summary><blockquote>**
 
@@ -64,10 +82,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -75,6 +98,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>deactivate-pipeline</b></u></summary><blockquote>**
 
@@ -84,10 +108,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -95,6 +124,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>delete-pipeline</b></u></summary><blockquote>**
 
@@ -102,10 +132,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -113,6 +148,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-objects</b></u></summary><blockquote>**
 
@@ -125,10 +161,15 @@
   * **<p style="color:none;">--starting-token</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -136,6 +177,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>describe-pipelines</b></u></summary><blockquote>**
 
@@ -143,10 +185,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -154,6 +201,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>evaluate-expression</b></u></summary><blockquote>**
 
@@ -163,10 +211,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -174,6 +227,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>get-pipeline-definition</b></u></summary><blockquote>**
 
@@ -182,10 +236,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -193,14 +252,20 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>help</b></u></summary><blockquote>**
 
   * **<p style="color:none;"></p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -208,6 +273,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>list-pipelines</b></u></summary><blockquote>**
 
@@ -216,10 +282,15 @@
   * **<p style="color:none;">--starting-token</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -227,6 +298,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>list-runs</b></u></summary><blockquote>**
 
@@ -234,10 +306,15 @@
   * **<p style="color:none;">--status</p>**
   * **<p style="color:none;">--start-interval</p>**
   * **<p style="color:none;">--schedule-interval</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -245,6 +322,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>poll-for-task</b></u></summary><blockquote>**
 
@@ -254,10 +332,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -265,6 +348,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>put-pipeline-definition</b></u></summary><blockquote>**
 
@@ -276,10 +360,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -287,6 +376,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>query-objects</b></u></summary><blockquote>**
 
@@ -299,10 +389,15 @@
   * **<p style="color:none;">--page-size</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -310,6 +405,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>remove-tags</b></u></summary><blockquote>**
 
@@ -318,10 +414,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -329,6 +430,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>report-task-progress</b></u></summary><blockquote>**
 
@@ -337,10 +439,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -348,6 +455,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>report-task-runner-heartbeat</b></u></summary><blockquote>**
 
@@ -357,10 +465,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -368,6 +481,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>set-status</b></u></summary><blockquote>**
 
@@ -377,10 +491,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -388,6 +507,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>set-task-status</b></u></summary><blockquote>**
 
@@ -399,10 +519,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -410,6 +535,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>validate-pipeline-definition</b></u></summary><blockquote>**
 
@@ -420,10 +546,15 @@
   * **<p style="color:none;">--cli-input-json</p>**
   * **<p style="color:none;">--cli-input-yaml</p>**
   * **<p style="color:none;">--generate-cli-skeleton</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -431,6 +562,7 @@
 
   ```
 
+  </br>
 
 </blockquote></details>
 </blockquote></details>

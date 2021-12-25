@@ -3,10 +3,15 @@
 - **<details><summary style="color:none;"><b><u>put</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--condition</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -14,6 +19,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>select</b></u></summary><blockquote>**
 
@@ -29,10 +35,15 @@
   * **<p style="color:none;">--starting-token</p>**
   * **<p style="color:none;">--max-items</p>**
   * **<p style="color:none;">--page-size</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -40,6 +51,7 @@
 
   ```
 
+  </br>
 
 </blockquote></details>
 </blockquote></details>

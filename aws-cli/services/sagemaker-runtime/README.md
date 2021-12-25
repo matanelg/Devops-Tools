@@ -3,10 +3,15 @@
 - **<details><summary style="color:none;"><b><u>help</b></u></summary><blockquote>**
 
   * **<p style="color:none;"></p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -14,6 +19,7 @@
 
   ```
 
+  </br>
 
 - **<details><summary style="color:none;"><b><u>invoke-endpoint</b></u></summary><blockquote>**
 
@@ -26,10 +32,15 @@
   * **<p style="color:none;">--target-variant</p>**
   * **<p style="color:none;">--target-container-hostname</p>**
   * **<p style="color:none;">--inference-id</p>**
+
   </br>
-  **<p style="color:red;">Description</p>**
+
+  <p style="color:red;">**Description**</p>
+
   </br>
+
   ## **Examples**
+
   ```bash
 
   ```
@@ -37,6 +48,7 @@
 
   ```
 
+  </br>
 
 </blockquote></details>
 </blockquote></details>
