@@ -10,8 +10,8 @@
   * **<p style="color:none;">--generate-cli-skeleton</p>**
   
   </br>
-  
-  **<p style="color:red;">Description</p>**
+  <span style="color:red;">Description</span>
+  <p style="color:red;">**Description**</p>
   
   </br>
   
@@ -25,6 +25,8 @@
 
   ```
 
+  </br>
+  
 
 - **<details><summary style="color:none;"><b><u>cancel-policy-generation</b></u></summary><blockquote>**
 
