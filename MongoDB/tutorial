@@ -1,0 +1,194 @@
+
+# src - https://www.youtube.com/watch?v=Www6cTUymCY
+# src - https://github.com/amigoscode/mongodb-course/blob/main/docker-compose.yaml
+
+
+# run
+docker-compose up --build
+
+# connect to server
+docker exec -it 25679e0917d1 bash
+mongo mongodb://localhost:27017 -u rootuser -p rootpass
+
+
+# basic database
+db ---> collections(table) ---> documents(rows)(json)
+
+
+# commands
+
+show dbs 		# show all dbs
+db.help()		# get all commands
+use <db-name>		# create orswitch to db if exists
+db.getName()		# show in which db we are
+db.createCollection("hello")		# create collection in the db.
+show collections	# show all collections
+db.dropDatabase()	# delete the database we are on.
+
+db.createCollection("person")
+db.person.stats()		# get all information on person collection
+
+db.person.drop()	# delete person collection
+
+# create collection with parameters
+db.createCollection("person", {capped: true, size: 6142800, max: 3000 })
+
+
+
+# Add document to collection.
+## 01. copy object to terminal and than
+db.student.insert(student) # create collection student and insert hin the object student (ehat we copy before)
+
+# Check documents on collection
+db.student.find()	# get document on student collection
+db.student.find().pretty()	# print pretty doc
+	
+## 01. copy object to terminal and than
+db.student.insertMany(students)	# insert many documents (json array) to collection
+db.student.find().pretty()		# print pretty doc
+db.student.find().pretty().count()	# get sum of all docs
+
+# query
+
+db.<collection-name>.find()
+
+db.student.find({firstName: 'Cally'}).pretty()	# get all docs with key-value pair firstName: 'Cally'
+
+# get some key-value pairs if match firstName: 'Cally' on doc
+db.student.find({firstName: 'Cally'}, {firstName: 1, lastName: 1}).pretty()
+
+# get every field but those if match happend 
+db.student.find({firstName: 'Cally'}, {firstName: 0, lastName: 0}).pretty()
+
+
+db.student.find({}, {firstName: 1, lastName: 1, gender: 1}).pretty()
+
+
+# update (set)
+db.student.find({}, {firstName: 1, lastName: 1, gender: 1}).pretty()
+db.student.update({_id : ObjectId("61c92931831fc7d05e851889")}, {$set: {firstName: 'Maria'}})
+db.student.find({}, {firstName: 1, lastName: 1, gender: 1}).pretty()
+
+
+# update (delete pair) (unset)
+db.student.find({}, {firstName: 1, lastName: 1, gender: 1}).pretty()
+db.student.update({_id : ObjectId("61c92931831fc7d05e851889")}, {$unset: {lastName: 1}})
+db.student.find({}, {firstName: 1, lastName: 1, gender: 1}).pretty()
+
+
+# update (increment)
+db.student.find({}, {totalSpentInBooks: 1}).pretty()
+db.student.update({_id : ObjectId("61c92931831fc7d05e851889")}, {$inc: {totalSpentInBooks:999} })
+db.student.find({}, {totalSpentInBooks: 1}).pretty()
+
+
+
+# delete document
+
+db.student.find({}, {_id: 1}).pretty()
+db.student.find({}, {_id: 1}).pretty().count()
+db.student.deleteOne({_id : ObjectId("61c924a1831fc7d05e85187f")})
+db.student.find({}, {_id: 1}).pretty()
+db.student.find({}, {_id: 1}).pretty().count()
+
+
+
+
+
+
+
+
+
+
+#==========  ==========#
+
+# javascript on mongo shell
+
+# 01. print all collection sizes
+# src - https://stackoverflow.com/questions/40800734/what-are-the-sizes-returned-by-show-collections
+
+var collectionNames = db.getCollectionNames();
+stats = [];
+collectionNames.forEach(function(n){stats.push(db[n].stats())});
+
+// print(stats[1]["ns"]); // test.student
+//db[student].stats()
+
+for (var c in stats) {
+  if (!stats[c]["ns"]) continue; // skip views
+  print(stats[c]["ns"] + ": " + stats[c]["size"] + " (" + (stats[c]["storageSize"] / 1073741824).toFixed(3) + "GB)");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DB methods:
+	db.adminCommand(nameOrDocument) - switches to 'admin' db, and runs command [just calls db.runCommand(...)]
+	db.aggregate([pipeline], {options}) - performs a collectionless aggregation on this database; returns a cursor
+	db.auth(username, password)
+	db.commandHelp(name) returns the help for the command
+	db.createUser(userDocument)
+	db.createView(name, viewOn, [{$operator: {...}}, ...], {viewOptions})
+	db.currentOp() displays currently executing operations in the db
+	db.dropDatabase(writeConcern)
+	db.dropUser(username)
+	db.eval() - deprecated
+	db.fsyncLock() flush data to disk and lock server for backups
+	db.fsyncUnlock() unlocks server following a db.fsyncLock()
+	db.getCollection(cname) same as db['cname'] or db.cname
+	db.getCollectionInfos([filter]) - returns a list that contains the names and options of the db's collections
+	db.getCollectionNames()
+	db.getLastError() - just returns the err msg string
+	db.getLastErrorObj() - return full status object
+	db.getLogComponents()
+	db.getMongo() get the server connection object
+	db.getMongo().setSecondaryOk() allow queries on a replication secondary server
+	db.getName()
+	db.getProfilingLevel() - deprecated
+	db.getProfilingStatus() - returns if profiling is on and slow threshold
+	db.getReplicationInfo()
+	db.getSiblingDB(name) get the db at the same server as this one
+	db.getWriteConcern() - returns the write concern used for any operations on this db, inherited from server object if set
+	db.hostInfo() get details about the server's host
+	db.isMaster() check replica primary status
+	db.hello() check replica primary status
+	db.killOp(opid) kills the current operation in the db
+	db.listCommands() lists all the db commands
+	db.loadServerScripts() loads all the scripts in db.system.js
+	db.logout()
+	db.printCollectionStats()
+	db.printReplicationInfo()
+	db.printShardingStatus()
+	db.printSecondaryReplicationInfo()
+	db.rotateCertificates(message) - rotates certificates, CRLs, and CA files and logs an optional message
+	db.runCommand(cmdObj) run a database command.  if cmdObj is a string, turns it into {cmdObj: 1}
+	db.serverStatus()
+	db.setLogLevel(level,<component>)
+	db.setProfilingLevel(level,slowms) 0=off 1=slow 2=all
+	db.setVerboseShell(flag) display extra information in shell output
+	db.setWriteConcern(<write concern doc>) - sets the write concern for writes to the db
+	db.shutdownServer()
+	db.stats()
+	db.unsetWriteConcern(<write concern doc>) - unsets the write concern for writes to the db
+	db.version() current version of the server
+	db.watch() - opens a change stream cursor for a database to report on all  changes to its non-system collections.
