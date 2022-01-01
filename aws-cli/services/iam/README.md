@@ -25,7 +25,7 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>add-role-to-instance-profile</b></u></summary><blockquote>**
+- ``json **<details><summary style="color:none;"><b><u>add-role-to-instance-profile</b></u></summary><blockquote>** ```
 
   * **<p style="color:none;">--instance-profile-name</p>**
   * **<p style="color:none;">--role-name</p>**
@@ -50,7 +50,7 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>`add-user-to-group`</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>```json add-user-to-group ```</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--group-name</p>**
   * **<p style="color:none;">--user-name</p>**
