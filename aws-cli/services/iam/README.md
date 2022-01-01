@@ -1888,10 +1888,8 @@
 
   </br>
 
-  <p style="color:red">```diff - Get User```</p>
-```diff
-+ test
-```
+  <p style="color:red">Get User</p>
+
   </br>
 
   ## **Examples**
@@ -2172,10 +2170,27 @@
   ## **Examples**
 
   ```bash
-
+  aws iam list-groups
   ```
   ```json
-
+	{
+	  "Groups": [
+	    {
+	      "Path": "/",
+	      "GroupName": "Admin",
+	      "GroupId": "GBYNJGHVBMTIEVVWZQDYGE",
+	      "Arn": "arn:aws:iam::2601728149544:<path>/<name>",
+	      "CreateDate": "2021-11-11T08:00:02+00:00"
+	    },
+	    {
+	      "Path": "/",
+	      "GroupName": "test-group",
+	      "GroupId": "GBYNJGHVBMTIEVVWZQDYGE",
+	      "Arn": "arn:aws:iam::2601728149544:<path>/<name>",
+	      "CreateDate": "2021-11-11T08:00:02+00:00"
+	    }
+	  ]
+	}  
   ```
 
   </br>
