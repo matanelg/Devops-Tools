@@ -1,3 +1,5 @@
+Hi here is some text <span style="color: red">this is red</span>.
+
 **<details ><summary style="color:none;">iam</summary><blockquote>**
 
 - **<details><summary style="color:none;"><b><u>add-client-id-to-open-id-connect-provider</b></u></summary><blockquote>**
