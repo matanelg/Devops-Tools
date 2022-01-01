@@ -1888,7 +1888,8 @@
 
   </br>
 
-  <p style="color:red;">Get User</p>
+  <p style="color:red">Get User</p>
+  <span style="color:blue">some *blue* text</span>.
 
   </br>
 
