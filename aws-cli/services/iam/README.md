@@ -1889,7 +1889,15 @@
   </br>
 
   <p style="color:red">Get User</p>
-  <span style="color:blue">some *blue* text</span>.
+  <p style='color:red'>This is some red text.</p>
+  <font color="red">This is some text!</font>
+  These are <b style='color:red'>red words</b>.
+  
+<p style="color:red">Get User</p>
+<p style='color:red'>This is some red text.</p>
+<font color="red">This is some text!</font>
+These are <b style='color:red'>red words</b>.
+
 
   </br>
 
