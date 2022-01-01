@@ -1,4 +1,4 @@
-Hi here is some text <span style="color: red">this is red</span>.
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 
 **<details ><summary style="color:none;">iam</summary><blockquote>**
 
