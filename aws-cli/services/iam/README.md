@@ -1889,9 +1889,9 @@
   </br>
 
   <p style="color:red">```diff - Get User```</p>
-  ```diff
-  + test
-  ```
+```diff
++ test
+```
   </br>
 
   ## **Examples**
