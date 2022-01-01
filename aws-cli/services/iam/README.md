@@ -1879,7 +1879,7 @@
 
   </br>
 
-- **<details><summary style="color:green"><b><u>*get-user*</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>get-user</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--user-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
@@ -1888,8 +1888,10 @@
 
   </br>
 
-  <p style="color:red">Get User</p>
-
+  <p style="color:red">```diff - Get User```</p>
+  ```diff
+  + test
+  ```
   </br>
 
   ## **Examples**
