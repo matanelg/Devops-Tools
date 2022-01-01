@@ -50,7 +50,7 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>add-user-to-group</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>`add-user-to-group`</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--group-name</p>**
   * **<p style="color:none;">--user-name</p>**
@@ -67,12 +67,15 @@
   ## **Examples**
 
   ```bash
-
+  aws iam add-user-to-group --user-name Bob --group-name test-group
   ```
   ```json
-
+	output: none
   ```
-
+  <p align="center">
+    <img src="https://github.com/matanelg/Devops-Tools/blob/main/aws-cli/Images/add_user_to_group.png" width="100%" height="50%" />
+  </p>
+  
   </br>
 
 - **<details><summary style="color:none;"><b><u>attach-group-policy</b></u></summary><blockquote>**
@@ -518,10 +521,18 @@
   ## **Examples**
 
   ```bash
-
+  aws iam create-user --user-name Bob
   ```
   ```json
-
+	{
+	  "User": {
+	    "Path": "/",
+	    "UserName": "Bob",
+	    "UserId": "ENXY75MUWBI51I1EEYGQ90",
+	    "Arn": "arn:aws:iam::7940221258255:<path>/<name>",
+	    "CreateDate": "2021-11-11T08:00:02+00:00"
+	  }
+	}
   ```
 
   </br>
@@ -2802,7 +2813,7 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>list-users</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>`list-users`</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--path-prefix</p>**
   * **<p style="color:none;">--max-items</p>**
@@ -2821,10 +2832,27 @@
   ## **Examples**
 
   ```bash
-
+  aws iam list-users
   ```
   ```json
-
+	{
+	  "Users": [
+	    {
+	      "Path": "/",
+	      "UserName": "yossi",
+	      "UserId": "TT6WSLFYTVHMRMICESVI5Y",
+	      "Arn": "arn:aws:iam::2370310710248:<path>/<name>",
+	      "CreateDate": "2021-11-11T08:00:02+00:00"
+	    },
+	    {
+	      "Path": "/",
+	      "UserName": "yossi",
+	      "UserId": "TT6WSLFYTVHMRMICESVI5Y",
+	      "Arn": "arn:aws:iam::2370310710248:<path>/<name>",
+	      "CreateDate": "2021-11-11T08:00:02+00:00"
+	    }
+	  ]
+	}
   ```
 
   </br>
