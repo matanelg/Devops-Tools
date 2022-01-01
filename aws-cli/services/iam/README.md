@@ -2151,7 +2151,7 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u> -[x] list-groups</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>[list-groups]</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--path-prefix</p>**
   * **<p style="color:none;">--max-items</p>**
