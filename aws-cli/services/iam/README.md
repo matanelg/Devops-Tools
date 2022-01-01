@@ -1,5 +1,3 @@
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
-
 **<details ><summary style="color:none;">iam</summary><blockquote>**
 
 - **<details><summary style="color:none;"><b><u>add-client-id-to-open-id-connect-provider</b></u></summary><blockquote>**
@@ -27,7 +25,7 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `add-role-to-instance-profile` </b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>add-role-to-instance-profile</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--instance-profile-name</p>**
   * **<p style="color:none;">--role-name</p>**
@@ -225,7 +223,7 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>create-group</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>`create-group`</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--path</p>**
   * **<p style="color:none;">--group-name</p>**
@@ -1881,7 +1879,7 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>get-user</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>`get-user`</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--user-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
@@ -2153,7 +2151,7 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>[list-groups]</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>`list-groups`</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--path-prefix</p>**
   * **<p style="color:none;">--max-items</p>**
