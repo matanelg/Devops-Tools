@@ -1,4 +1,4 @@
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 
 **<details ><summary style="color:none;">iam</summary><blockquote>**
 
@@ -27,7 +27,7 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>add-role-to-instance-profile</b></u></summary><blockquote>**
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) **<details><summary style="color:none;"><b><u>add-role-to-instance-profile</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--instance-profile-name</p>**
   * **<p style="color:none;">--role-name</p>**
