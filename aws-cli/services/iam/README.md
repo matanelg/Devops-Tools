@@ -1,3 +1,7 @@
+# IAM
+
+## All Commands
+
 **<details ><summary style="color:none;">iam</summary><blockquote>**
 
 - **<details><summary style="color:none;"><b><u>add-client-id-to-open-id-connect-provider</b></u></summary><blockquote>**
@@ -178,7 +182,7 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>create-access-key</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>`create-access-key`</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--user-name</p>**
   * **<p style="color:none;">--cli-input-json</p>**
@@ -187,17 +191,25 @@
 
   </br>
 
-  <p style="color:red;">Description</p>
+  <p style="color:red;">Create access key for the user can access from cli.</p>
 
   </br>
 
   ## **Examples**
 
   ```bash
-
+  aws iam create-access-key --user-name Bob
   ```
   ```json
-
+	{
+	  "AccessKey": {
+	    "UserName": "Bob",
+	    "AccessKeyId": "GQD1WBY0SGF1LQA0E4OVFB",
+	    "Status": "Active",
+	    "SecretAccessKey": "GQD1WBY0SGF1LQA0E4OVFB",
+	    "CreateDate": "2021-11-11T08:00:02+00:00"
+	  }
+	}
   ```
 
   </br>
@@ -395,7 +407,7 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>create-role</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>`create-role`</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--path</p>**
   * **<p style="color:none;">--role-name</p>**
@@ -422,7 +434,9 @@
   ```json
 
   ```
-
+  
+  [Resources](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements.html)
+  
   </br>
 
 - **<details><summary style="color:none;"><b><u>create-saml-provider</b></u></summary><blockquote>**
@@ -3013,7 +3027,7 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>put-user-policy</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>`put-user-policy`</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--user-name</p>**
   * **<p style="color:none;">--policy-name</p>**
@@ -3024,17 +3038,44 @@
 
   </br>
 
-  <p style="color:red;">Description</p>
+  <p style="color:red;">Add policy to user</p>
 
   </br>
 
   ## **Examples**
 
   ```bash
-
+	cat << EOF > instance_policy.json
+	{
+	   "Version": "2012-10-17",
+	   "Statement": [
+	      {
+	      "Effect": "Allow",
+	      "Action": [
+		 "ec2:DescribeInstances"
+	      ],
+	      "Resource": "*"
+	      }
+	   ]
+	}
+	EOF
+	aws iam create-policy --policy-name my-policy --policy-document file://instance_policy.json --description "user allow describe instances on account"
   ```
   ```json
-
+	{
+	  "Policy": {
+	    "PolicyName": "PolicyName",
+	    "PolicyId": "AWO11JDDDOZNA0BXGHXH53",
+	    "Arn": "arn:aws:iam::9806623110221:<path>/<name>",
+	    "Path": "/",
+	    "DefaultVersionId": "v1",
+	    "AttachmentCount": 0,
+	    "PermissionsBoundaryUsageCount": 0,
+	    "IsAttachable": true,
+	    "CreateDate": "2021-11-11T08:00:02+00:00",
+	    "UpdateDate": "2021-11-11T08:00:02+00:00"
+	  }
+	}
   ```
 
   </br>
@@ -4342,3 +4383,6 @@
 </blockquote></details>
 </blockquote></details>
 </blockquote></details>
+
+## Examples
+
