@@ -352,7 +352,7 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>create-policy</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>`create-policy`</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--policy-name</p>**
   * **<p style="color:none;">--path</p>**
@@ -372,10 +372,37 @@
   ## **Examples**
 
   ```bash
-
+       cat << EOF > instance_policy.json
+	{
+	   "Version": "2012-10-17",
+	   "Statement": [
+	      {
+	      "Effect": "Allow",
+	      "Action": [
+		 "ec2:DescribeInstances"
+	      ],
+	      "Resource": "*"
+	      }
+	   ]
+	}
+	EOF
+	aws iam create-policy --policy-name my-policy --policy-document file://instance_policy.json --description "user allow describe instances on account"
   ```
   ```json
-
+	{
+	  "Policy": {
+	    "PolicyName": "PolicyName",
+	    "PolicyId": "AWO11JDDDOZNA0BXGHXH53",
+	    "Arn": "arn:aws:iam::9806623110221:<path>/<name>",
+	    "Path": "/",
+	    "DefaultVersionId": "v1",
+	    "AttachmentCount": 0,
+	    "PermissionsBoundaryUsageCount": 0,
+	    "IsAttachable": true,
+	    "CreateDate": "2021-11-11T08:00:02+00:00",
+	    "UpdateDate": "2021-11-11T08:00:02+00:00"
+	  }
+	}
   ```
 
   </br>
@@ -1504,7 +1531,7 @@
 
   </br>
 
-- **<details><summary style="color:none;"><b><u>get-group</b></u></summary><blockquote>**
+- **<details><summary style="color:none;"><b><u>`get-group`</b></u></summary><blockquote>**
 
   * **<p style="color:none;">--group-name</p>**
   * **<p style="color:none;">--max-items</p>**
@@ -1516,17 +1543,34 @@
 
   </br>
 
-  <p style="color:red;">Description</p>
+  <p style="color:red;">Returns a list of IAM users that are in the specified IAM group.</p>
 
   </br>
 
   ## **Examples**
 
   ```bash
-
+	aws iam get-group --group-name test-group
   ```
   ```json
-
+	{
+	  "Users": [
+	    {
+	      "Path": "/",
+	      "UserName": "Bob",
+	      "UserId": "DHMJYII15CM3YVCOM6YJB1",
+	      "Arn": "arn:aws:iam::6238303296145:<path>/<name>",
+	      "CreateDate": "2021-11-11T08:00:02+00:00"
+	    }
+	  ],
+	  "Group": {
+	    "Path": "/",
+	    "GroupName": "test-group",
+	    "GroupId": "ZDJNRRRGIQMXBCIWYOGIWY",
+	    "Arn": "arn:aws:iam::6238303296145:<path>/<name>",
+	    "CreateDate": "2021-11-11T08:00:02+00:00"
+	  }
+	}
   ```
 
   </br>
@@ -3045,7 +3089,8 @@
   ## **Examples**
 
   ```bash
-	cat << EOF > instance_policy.json
+       aws ec2 describe-instances --profile Bob
+       cat << EOF > instance_policy.json
 	{
 	   "Version": "2012-10-17",
 	   "Statement": [
@@ -3059,23 +3104,10 @@
 	   ]
 	}
 	EOF
-	aws iam create-policy --policy-name my-policy --policy-document file://instance_policy.json --description "user allow describe instances on account"
+	aws iam put-user-policy --user-name Bob --policy-name bob_describe --policy-document file://instance_policy.json
+	aws ec2 describe-instances --profile Bob
   ```
   ```json
-	{
-	  "Policy": {
-	    "PolicyName": "PolicyName",
-	    "PolicyId": "AWO11JDDDOZNA0BXGHXH53",
-	    "Arn": "arn:aws:iam::9806623110221:<path>/<name>",
-	    "Path": "/",
-	    "DefaultVersionId": "v1",
-	    "AttachmentCount": 0,
-	    "PermissionsBoundaryUsageCount": 0,
-	    "IsAttachable": true,
-	    "CreateDate": "2021-11-11T08:00:02+00:00",
-	    "UpdateDate": "2021-11-11T08:00:02+00:00"
-	  }
-	}
   ```
 
   </br>
@@ -4385,4 +4417,13 @@
 </blockquote></details>
 
 ## Examples
+
+
+
+
+
+
+
+
+
 
